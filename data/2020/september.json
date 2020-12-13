@@ -1,0 +1,1848 @@
+{
+  "Protection": [
+    {
+      "NameOfProject": "Improving the lifes of vulnerable returnee- and host community households in Sinuni and Wana sub- districts through the provision of protection services and agricultural support (multi-cluster project)",
+      "Objective": "The overall objective of the protection component is to expand general protection services (including legal assistance/counselling, PSS & HLP) to underserved areas with high needs in order to ensure safe and dignified returns and sustainable lives of people living in Arab villages and Neighboring villages in Sinuni Sub district, Sinjar districts.",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Host Community",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Sinjar",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Duhok",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Domiz camp 1",
+      "Male": 277,
+      "Female": 114,
+      "Total": 391,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Domiz camp 2",
+      "Male": 99,
+      "Female": 90,
+      "Total": 189,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Akre settlement",
+      "Male": 34,
+      "Female": 48,
+      "Total": 82,
+      "District": "Akre",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Gawilan camp",
+      "Male": 160,
+      "Female": 108,
+      "Total": 268,
+      "District": "Bardarash",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Bardarash camp",
+      "Male": 87,
+      "Female": 83,
+      "Total": 170,
+      "District": "Bardarash",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 209,
+      "Female": 181,
+      "Total": 390,
+      "District": "Amedi",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 48,
+      "Female": 20,
+      "Total": 68,
+      "District": "Duhok",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 61,
+      "Female": 48,
+      "Total": 109,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 62,
+      "Female": 58,
+      "Total": 120,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 5,
+      "Female": 1,
+      "Total": 6,
+      "District": "Akre",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 3,
+      "Female": 9,
+      "Total": 12,
+      "District": "Shekhan",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 0,
+      "Female": 2,
+      "Total": 2,
+      "District": "Bardarash",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 31,
+      "Female": 6,
+      "Total": 37,
+      "District": "Amedi",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 67,
+      "Female": 9,
+      "Total": 76,
+      "District": "Shekhan",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 111,
+      "Female": 15,
+      "Total": 126,
+      "District": "Akre",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 55,
+      "Female": 14,
+      "Total": 69,
+      "District": "Duhok",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 157,
+      "Female": 25,
+      "Total": 182,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 18,
+      "Female": 1,
+      "Total": 19,
+      "District": "Tel Kaif",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 108,
+      "Female": 13,
+      "Total": 121,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Bajid Kandala",
+      "Male": 14,
+      "Female": 2,
+      "Total": 16,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Bersive 1",
+      "Male": 5,
+      "Female": 2,
+      "Total": 7,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Bersive 2",
+      "Male": 3,
+      "Female": null,
+      "Total": 3,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Chamishko",
+      "Male": 14,
+      "Female": 3,
+      "Total": 17,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Darkar",
+      "Male": 15,
+      "Female": null,
+      "Total": 15,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Dawodiya",
+      "Male": 5,
+      "Female": 5,
+      "Total": 10,
+      "District": "Amedi",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Essiyan",
+      "Male": 9,
+      "Female": 6,
+      "Total": 15,
+      "District": "Shekhan",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Kabarto 1",
+      "Male": 4,
+      "Female": 4,
+      "Total": 8,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Kabarto 2",
+      "Male": 4,
+      "Female": 1,
+      "Total": 5,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Khanke",
+      "Male": 10,
+      "Female": 1,
+      "Total": 11,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Mamilian",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Akre",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Mamrashan",
+      "Male": 9,
+      "Female": 1,
+      "Total": 10,
+      "District": "Shekhan",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Rwanga Community",
+      "Male": 14,
+      "Female": null,
+      "Total": 14,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Shariya",
+      "Male": 12,
+      "Female": 1,
+      "Total": 13,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "# of key informants reached through remote protection monitoring",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Shekhan",
+      "Male": 12,
+      "Female": 3,
+      "Total": 15,
+      "District": "Shekhan",
+      "Province": "Duhok"
+    }
+  ],
+  "ProtectionActivities": [
+    {
+      "Activity": "Legal Cases Closed (IDPs)",
+      "Male": 74,
+      "Female": 44,
+      "Total": 118
+    },
+    {
+      "Activity": "Legal Advices  (IDPs)",
+      "Male": 72,
+      "Female": 49,
+      "Total": 121
+    },
+    {
+      "Activity": "Legal Awarenesses  (IDPs)",
+      "Male": 78,
+      "Female": 23,
+      "Total": 101
+    },
+    {
+      "Activity": "IDPs Reached By CBP Team",
+      "Male": 10,
+      "Female": 13,
+      "Total": 23
+    },
+    {
+      "Activity": "Protection Monitoring In Non Camps",
+      "Male": 0,
+      "Female": 0,
+      "Total": 0
+    },
+    {
+      "Activity": "Protection Monitoring In Camps",
+      "Male": 0,
+      "Female": 0,
+      "Total": 0
+    },
+    {
+      "Activity": "Protection Monitoring In Non Camps For Refugees Syrian And Non-Syrian",
+      "Male": 136,
+      "Female": 115,
+      "Total": 251
+    },
+    {
+      "Activity": "Protection Cases Recieved In Camps For Refugees",
+      "Male": 367,
+      "Female": 314,
+      "Total": 681
+    },
+    {
+      "Activity": "# Of Key Informants Reached Through Remote Protection Monitoring In Non-Camp Areas",
+      "Male": 547,
+      "Female": 83,
+      "Total": 630
+    },
+    {
+      "Activity": "# Of Key Informants Reached Through Remote Protection Monitoring In IDP Camps",
+      "Male": 130,
+      "Female": 29,
+      "Total": 159
+    }
+  ],
+  "ProtectionHighlights": [
+    {
+      "GeneralHighlights": "IDP - CBP team continued distributing baby diapers to vulnerable individuals. These items were provided by UNHCR, this week 13 individuals received 25 packs of baby diapers (per PSN) in Duhok and Zakho."
+    }
+  ],
+  "SGBV": [
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Sharia",
+      "Male": null,
+      "Female": 92,
+      "Total": 92,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Kabarto 2",
+      "Male": null,
+      "Female": 200,
+      "Total": 200,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Khanke",
+      "Male": 8,
+      "Female": 123,
+      "Total": 131,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Bajid kandal",
+      "Male": 16,
+      "Female": 275,
+      "Total": 291,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Chamishko",
+      "Male": null,
+      "Female": 318,
+      "Total": 318,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Bersive 2",
+      "Male": null,
+      "Female": 117,
+      "Total": 117,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Mamrashan",
+      "Male": 216,
+      "Female": 782,
+      "Total": 998,
+      "District": "Shekhan",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Non-Camp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Sinjar",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": "Sinune",
+      "Male": 13,
+      "Female": 72,
+      "Total": 85,
+      "District": "Sinjar",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Domiz 1",
+      "Male": null,
+      "Female": 514,
+      "Total": 514,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Domiz 2",
+      "Male": null,
+      "Female": 105,
+      "Total": 105,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Gawilan",
+      "Male": null,
+      "Female": 92,
+      "Total": 92,
+      "District": "Al-Hamdaniya",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Bardarsh",
+      "Male": null,
+      "Female": 411,
+      "Total": 411,
+      "District": "Bardarash",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Enhanced capacity of national government and civil society organizations to design and implement programmes on reproductive health, social cohesion and civic engagement for vulnerable young people, with special focus on marginalized adolescent girls in humanitarian settings (Youth Programme)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Domiz 1",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Enhanced capacity of national government and civil society organizations to design and implement programmes on reproductive health, social cohesion and civic engagement for vulnerable young people, with special focus on marginalized adolescent girls in humanitarian settings (Youth Programme)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Al-Hamdaniya",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Amedi",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Duhok",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Domiz1",
+      "Male": 524,
+      "Female": 800,
+      "Total": 1324,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Akre camp",
+      "Male": 71,
+      "Female": 287,
+      "Total": 358,
+      "District": "Akre",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Shekhan",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Bardarash camp",
+      "Male": 332,
+      "Female": 408,
+      "Total": 740,
+      "District": "Bardarash",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Gawilan camp",
+      "Male": 182,
+      "Female": 349,
+      "Total": 531,
+      "District": "Al-Hamdaniya",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Amedi",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 83,
+      "Female": 41,
+      "Total": 124,
+      "District": "Duhok",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 165,
+      "Female": 115,
+      "Total": 280,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 17,
+      "Female": 35,
+      "Total": 52,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Akre",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 82,
+      "Female": 19,
+      "Total": 101,
+      "District": "Shekhan",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Bardarash",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Providing PSS, case managment and vocational training services for women and girls",
+      "Objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Bardarash",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Providing PSS, case managment and vocational training services for women and girls",
+      "Objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Al-Mosul",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Providing PSS, case managment and vocational training services for women and girls",
+      "Objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Tel Afer",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Domiz1 camp",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Gawilan camp",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Al-Hamdaniya",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved (CAC)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Domiz1 camp",
+      "Male": 169,
+      "Female": 144,
+      "Total": 313,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "Objective": "Risk of SGBV is reduced and quality of response improved (CAC)",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Gawilan camp",
+      "Male": 257,
+      "Female": 168,
+      "Total": 425,
+      "District": "Al-Hamdaniya",
+      "Province": "Nineveh"
+    }
+  ],
+  "SGBVActivities": [
+    {
+      "Activity": "Awareness session",
+      "Male": 1433,
+      "Female": 1684,
+      "Total": 3117
+    },
+    {
+      "Activity": "Case management",
+      "Male": 0,
+      "Female": 27,
+      "Total": 27
+    },
+    {
+      "Activity": "Non- structured psycho-social support (PSS) activities for children and adolescents",
+      "Male": null,
+      "Female": null,
+      "Total": 0
+    },
+    {
+      "Activity": "Awareness raising sessions on COVID-19",
+      "Male": 303,
+      "Female": 1801,
+      "Total": 86
+    },
+    {
+      "Activity": "protection needs identified and referred to specialized services",
+      "Male": 5,
+      "Female": 3,
+      "Total": 8
+    },
+    {
+      "Activity": "Non- formal education classes",
+      "Male": 70,
+      "Female": 59,
+      "Total": 129
+    },
+    {
+      "Activity": "Parents meeting",
+      "Male": 42,
+      "Female": 27,
+      "Total": 69
+    },
+    {
+      "Activity": "Awareness sessions on CP issues",
+      "Male": 89,
+      "Female": 67,
+      "Total": 156
+    },
+    {
+      "Activity": "PSS sessions for children to cope their stress and fears during COVID-19",
+      "Male": 50,
+      "Female": 36,
+      "Total": 86
+    },
+    {
+      "Activity": "Recreational activities",
+      "Male": 132,
+      "Female": 447,
+      "Total": 579
+    },
+    {
+      "Activity": "Distribution of dignity kits",
+      "Male": null,
+      "Female": 842,
+      "Total": 842
+    },
+    {
+      "Activity": "GBV Awarness raising massages  on (PSEA)",
+      "Male": null,
+      "Female": null,
+      "Total": 0
+    },
+    {
+      "Activity": "saefty audit",
+      "Male": null,
+      "Female": null,
+      "Total": 3
+    },
+    {
+      "Activity": "referral Pathway",
+      "Male": null,
+      "Female": null,
+      "Total": 0
+    },
+    {
+      "Activity": "Adolescent girls toolkit",
+      "Male": 0,
+      "Female": 405,
+      "Total": 405
+    },
+    {
+      "Activity": "Service providers  trained on GBV prevention and referral",
+      "Male": 10,
+      "Female": 9,
+      "Total": 19
+    },
+    {
+      "Activity": "POCs trained on GBV prevention and referral",
+      "Male": 0,
+      "Female": 60,
+      "Total": 60
+    },
+    {
+      "Activity": "Service providers trained on PSEA",
+      "Male": 13,
+      "Female": 2,
+      "Total": 15
+    },
+    {
+      "Activity": "community members trained on PSEA",
+      "Male": null,
+      "Female": null,
+      "Total": 0
+    },
+    {
+      "Activity": "Recrational activities for youth center",
+      "Male": null,
+      "Female": null,
+      "Total": 0
+    },
+    {
+      "Activity": "awareness raising for youth center",
+      "Male": null,
+      "Female": null,
+      "Total": 0
+    },
+    {
+      "Activity": "AGT sessions for mothers/caregivers",
+      "Male": null,
+      "Female": null,
+      "Total": 0
+    },
+    {
+      "Activity": "structured pss for women",
+      "Male": null,
+      "Female": null,
+      "Total": 0
+    },
+    {
+      "Activity": "vocational training",
+      "Male": null,
+      "Female": null,
+      "Total": 0
+    }
+  ],
+  "SGBVHighlights": [
+    {
+      "GeneralHighlights": "SGBV unit conducted Domestic Violence campaign for Syrian and Non-Syrian refugees in camps and non- camps in During Sep 2020. The purpose behind it; to reduce this kind of violence and explain the way of referral and reporting for PoCs."
+    },
+    {
+      "GeneralHighlights": "SGBV unit conduct safety audit assessmnet in refugee's camps (Domiz1, Akre and Bardarash) to be aware of the refugee's main concerns and difficulities of accessing the resources and find solutions."
+    },
+    {
+      "GeneralHighlights": "CLC- Domiz Manager has attended monthly CCM meeting that was online, during the meeting update and more plans for the camp have been discussed for September 2020."
+    },
+    {
+      "GeneralHighlights": "CLC- Domiz Manager and APM for GBV have attended GBVIMS meeting via Skype."
+    },
+    {
+      "GeneralHighlights": "APM for GBV has attended Duhok PSEA task force meetinf via Skype."
+    },
+    {
+      "GeneralHighlights": "CLC-Gawilan manager has attended Gawilan monthly protection meeting which was conducted by camp management in registration office during the meeting all updates from other agencies shared with activities, plans for September and challenges inside the camp"
+    },
+    {
+      "GeneralHighlights": "CLC/Bardarash center manager has attended UNHCR online Bardarash protection meeting."
+    },
+    {
+      "GeneralHighlights": "CLC/ Bardarash center manager has attended camp coordination meeting with camp management."
+    },
+    {
+      "GeneralHighlights": "CAC staff have attended in different child protection trainings such as ( Communication with Children and their Families and Case Management SOP & Principles and CPIMS+ forms Training ) which is given by Triangle NGO through online platform."
+    },
+    {
+      "GeneralHighlights": "CAC staff have paricipated in structured PSS training which is given by WCUK for one week."
+    },
+    {
+      "GeneralHighlights": "CPO has attended MRM training for two days."
+    },
+    {
+      "GeneralHighlights": "CPO has attended CPWG meeting."
+    }
+  ],
+  "Health": [
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Domiz 1",
+      "Male": null,
+      "Female": 2633,
+      "Total": 2633,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Domiz 2",
+      "Male": null,
+      "Female": 976,
+      "Total": 976,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Bardarash camp",
+      "Male": null,
+      "Female": 1089,
+      "Total": 1089,
+      "District": "Bardarash",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Gawilan Camp",
+      "Male": null,
+      "Female": 794,
+      "Total": 794,
+      "District": "Al-Hamdaniya",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "National Consortiom",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Sharya",
+      "Male": null,
+      "Female": 649,
+      "Total": 649,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "National Consortiom",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "chameshko",
+      "Male": null,
+      "Female": 1437,
+      "Total": 1437,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "National Consortiom",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Bajed kandala",
+      "Male": null,
+      "Female": 154,
+      "Total": 154,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "National Consortiom",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Bersive 2",
+      "Male": null,
+      "Female": 356,
+      "Total": 356,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "National Consortiom",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Darkar",
+      "Male": null,
+      "Female": 62,
+      "Total": 62,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "National Consortiom",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Khankia",
+      "Male": null,
+      "Female": 228,
+      "Total": 228,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "National Consortiom",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Kabarto2",
+      "Male": null,
+      "Female": 317,
+      "Total": 317,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "National Consortiom",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Shekhan",
+      "Male": null,
+      "Female": 25,
+      "Total": 25,
+      "District": "Shekhan",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "National Consortiom",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Mamryshan",
+      "Male": null,
+      "Female": 0,
+      "Total": 0,
+      "District": "Shekhan",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "National Consortiom",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Qadiya",
+      "Male": null,
+      "Female": 289,
+      "Total": 289,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "National Consortiom",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Dawediya",
+      "Male": null,
+      "Female": 28,
+      "Total": 28,
+      "District": "Amedi",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "National Consortiom",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": 1291,
+      "Total": 1291,
+      "District": "Duhok",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "National Consortiom",
+      "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
+      "Cluster": "Health",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": 588,
+      "Total": 588,
+      "District": "Zakho",
+      "Province": "Duhok"
+    }
+  ],
+  "HealthActivities": [
+    {
+      "Activity": "New beneficiaries with RH services",
+      "Male": null,
+      "Female": 527,
+      "Total": 527
+    },
+    {
+      "Activity": "Awareness raising",
+      "Male": null,
+      "Female": 2278,
+      "Total": 2278
+    },
+    {
+      "Activity": "Gynecological consultation",
+      "Male": null,
+      "Female": 5683,
+      "Total": 5683
+    },
+    {
+      "Activity": "family palnning",
+      "Male": null,
+      "Female": 528,
+      "Total": 528
+    },
+    {
+      "Activity": "ante-natal care consultations",
+      "Male": null,
+      "Female": 1093,
+      "Total": 1093
+    },
+    {
+      "Activity": "post-natal care consultations",
+      "Male": null,
+      "Female": 365,
+      "Total": 365
+    },
+    {
+      "Activity": "Number of births attended by skilled health personnel",
+      "Male": null,
+      "Female": 1926,
+      "Total": 1926
+    },
+    {
+      "Activity": "Number of C-sections",
+      "Male": null,
+      "Female": 515,
+      "Total": 515
+    },
+    {
+      "Activity": "Number of normal and assisted vaginal deliveries",
+      "Male": null,
+      "Female": 1411,
+      "Total": 1411
+    },
+    {
+      "Activity": "Number of birth attended by skilled health personnel",
+      "Male": null,
+      "Female": 1879,
+      "Total": 1879
+    },
+    {
+      "Activity": "Number of normal and assisted vaginal deliveries",
+      "Male": null,
+      "Female": 1364,
+      "Total": 1364
+    },
+    {
+      "Activity": "Number of C.Section'",
+      "Male": null,
+      "Female": 515,
+      "Total": 515
+    },
+    {
+      "Activity": "Awarenees raising /IDP'",
+      "Male": null,
+      "Female": 1531,
+      "Total": 1531
+    },
+    {
+      "Activity": "Gynecological consultation/IDP",
+      "Male": null,
+      "Female": 2451,
+      "Total": 2451
+    },
+    {
+      "Activity": "Family palnning/IDP",
+      "Male": null,
+      "Female": 359,
+      "Total": 359
+    },
+    {
+      "Activity": "Ante-natal care consultations/IDP",
+      "Male": null,
+      "Female": 554,
+      "Total": 554
+    },
+    {
+      "Activity": "Post-natal care consultations/IDP",
+      "Male": null,
+      "Female": 181,
+      "Total": 181
+    }
+  ],
+  "HealthHighlights": [
+    {
+      "GeneralHighlights": "Harikar coordinated with UNFPA and DOH Duhok for handing over the RH services in IDPs camps and Maternity hospitals to UNFPA,"
+    },
+    {
+      "GeneralHighlights": "Harikar staff attended online training with Dary on different topics (Financial Monitoring and Reporting training, Administration and Human Resources, Accountability training)"
+    }
+  ],
+  "Livelihood": [
+    {
+      "NameOfProject": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
+      "Objective": "Improved opportunities for culturally and gender sensitive livelihoods for vulnerable families returning home",
+      "Cluster": "Livelihood",
+      "TypeOfBeneficiaries": "Returnees",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Sinjar",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
+      "Objective": "Improved opportunities for culturally and gender sensitive livelihoods for vulnerable families returning home",
+      "Cluster": "Livelihood",
+      "TypeOfBeneficiaries": "Returnees",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Tel Afer",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Strengthening the resilience of conflict-affected areas through improving food security, livelihoods and solidarity",
+      "Objective": "Food Security",
+      "Cluster": "Livelihood",
+      "TypeOfBeneficiaries": "Returnees",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": "Zummar Area",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Tel Afer",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Strengthening the resilience of conflict-affected areas through improving food security, livelihoods and solidarity",
+      "Objective": "Food Security",
+      "Cluster": "Livelihood",
+      "TypeOfBeneficiaries": "Returnees",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Tel Afer",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Strengthening the resilience of conflict-affected areas through improving food security, livelihoods and solidarity",
+      "Objective": "Income Generation",
+      "Cluster": "Livelihood",
+      "TypeOfBeneficiaries": "Returnees",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Tel Afer",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Strengthening the resilience of conflict-affected areas through improving food security, livelihoods and solidarity",
+      "Objective": "Social Cohesion",
+      "Cluster": "Livelihood",
+      "TypeOfBeneficiaries": "Returnees",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Tel Afer",
+      "Province": "Nineveh"
+    }
+  ],
+  "LivelihoodActivities": [
+    {
+      "Activity": "Cash for Work",
+      "Male": null,
+      "Female": null,
+      "Total": 0
+    },
+    {
+      "Activity": "Constracting shops",
+      "Male": null,
+      "Female": null,
+      "Total": 0
+    }
+  ],
+  "LivelihoodHighlights": [],
+  "WASH": [
+    {
+      "NameOfProject": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
+      "Objective": "Improved access to water for vulnerable host families and returnees with equal access for men, women, girls, and boys",
+      "Cluster": "WASH",
+      "TypeOfBeneficiaries": "Returnees",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Tel Afer",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
+      "Objective": "Improved awareness on safe hygiene and sanitation practices",
+      "Cluster": "WASH",
+      "TypeOfBeneficiaries": "Returnees",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Sinjar",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
+      "Objective": "Improved awareness on safe hygiene and sanitation practices",
+      "Cluster": "WASH",
+      "TypeOfBeneficiaries": "Returnees",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Tel Afer",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
+      "Objective": "Water infrastructure repaired, maintained, or rehabilitated in IDP camps and Sinjar",
+      "Cluster": "WASH",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Chamishku",
+      "Male": 12310,
+      "Female": 12840,
+      "Total": 25150,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
+      "Objective": "Water infrastructure repaired, maintained, or rehabilitated in IDP camps and Sinjar",
+      "Cluster": "WASH",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Essian",
+      "Male": 7120,
+      "Female": 7323,
+      "Total": 14443,
+      "District": "Shekhan",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
+      "Objective": "Sanitation infrastructure in IDP camps and Sinjar maintained and/or repaired",
+      "Cluster": "WASH",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Chamishku",
+      "Male": 93,
+      "Female": 104,
+      "Total": 197,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
+      "Objective": "Sanitation infrastructure in IDP camps and Sinjar maintained and/or repaired",
+      "Cluster": "WASH",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Essian",
+      "Male": 842,
+      "Female": 873,
+      "Total": 1715,
+      "District": "Shekhan",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
+      "Objective": "Hygiene promotion undertaken in IDP camps and Sinjar",
+      "Cluster": "WASH",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Chamishku",
+      "Male": 0,
+      "Female": 0,
+      "Total": 0,
+      "District": "Zakho",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
+      "Objective": "Hygiene promotion undertaken in IDP camps and Sinjar",
+      "Cluster": "WASH",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Essian",
+      "Male": 0,
+      "Female": 0,
+      "Total": 0,
+      "District": "Shekhan",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
+      "Objective": "Garbage collection and desludging undertaken in IDP camps and authorities supported for ownership",
+      "Cluster": "WASH",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Essian",
+      "Male": 7120,
+      "Female": 7323,
+      "Total": 14443,
+      "District": "Shekhan",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
+      "Objective": "Gender-sensitive hygiene items distributed to returnees in Sinjar",
+      "Cluster": "WASH",
+      "TypeOfBeneficiaries": "Returnees",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "District": "Sinjar",
+      "Province": "Nineveh"
+    }
+  ],
+  "WASHActivities": [
+    {
+      "Activity": "Provision of water through boreholes operations in Chamishku camp",
+      "Male": 12310,
+      "Female": 12840,
+      "Total": 25150
+    },
+    {
+      "Activity": "Provision of water through boreholes operations in Essian camp",
+      "Male": 7120,
+      "Female": 7323,
+      "Total": 14443
+    },
+    {
+      "Activity": "Care and Maintenance of water network in Chamishku camp",
+      "Male": 1038,
+      "Female": 1015,
+      "Total": 2053
+    },
+    {
+      "Activity": "care and Maintenance of water network in Essian camp",
+      "Male": 31,
+      "Female": 22,
+      "Total": 53
+    },
+    {
+      "Activity": "Care and Maintenance of sanitation facilities in Chamishku camp",
+      "Male": 93,
+      "Female": 104,
+      "Total": 197
+    },
+    {
+      "Activity": "Care and Maintenance of sanitation facilities in Essian camp",
+      "Male": 842,
+      "Female": 873,
+      "Total": 1715
+    },
+    {
+      "Activity": "Garbage collection in Essian camp",
+      "Male": 7120,
+      "Female": 7323,
+      "Total": 14443
+    },
+    {
+      "Activity": "Desludging in Essian camp",
+      "Male": 2160,
+      "Female": 2340,
+      "Total": 4500
+    }
+  ],
+  "WASHHighlights": [
+    {
+      "GeneralHighlights": "Construction of 2km of open channels in Chamishku camp has started."
+    },
+    {
+      "GeneralHighlights": "3 garbage collection trucks in Sinjar-Sinone were repaired."
+    },
+    {
+      "GeneralHighlights": "BoQ of seperation of latrines and showers in Essian camp is finalized and the tendering process started."
+    },
+    {
+      "GeneralHighlights": "17 community volunteers in Sinjar were recruited."
+    },
+    {
+      "GeneralHighlights": "25 personnel (12 male & 13 female) were trained on PHAST approach for 5 days in Chamishku camp, Essian camp, and Sinjar."
+    }
+  ]
+}
