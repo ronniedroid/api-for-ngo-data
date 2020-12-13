@@ -1,11 +1,14 @@
 const express = require("express");
 const cors = require("cors");
+const helmet = require("helmet");
 const fs = require("fs");
 const app = express();
 const port = process.env.PORT || 8000;
 
 //allow requests from apps on other ports
 app.use(cors());
+app.use(helmet());
+app.use(express.json())
 
 // GET: localhost:3000/
 app.get("/", (req, res) => {

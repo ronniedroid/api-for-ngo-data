@@ -1,17 +1,19 @@
 {
-  "name": "report-backend",
+  "name": "harikar-reports-api",
   "version": "1.0.0",
-  "description": "backend for Hariakr report website ",
+  "description": "An Express API for Harikar Report Inputs",
   "main": "index.js",
   "scripts": {
-    "run": "nodemon index.js"
+    "run": "nodemon index.js",
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "Ronnie Nissan",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "fs": "0.0.1-security",
+    "helmet": "^4.2.0",
     "nodemon": "^2.0.6",
     "typescript-language-server": "^0.4.0"
   }
