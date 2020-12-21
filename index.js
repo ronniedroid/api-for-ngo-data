@@ -8,16 +8,21 @@ const port = process.env.PORT || 8000;
 //allow requests from apps on other ports
 app.use(cors());
 app.use(helmet());
-app.use(express.json())
+app.use(express.json());
 
 // GET: localhost:3000/
 app.get("/", (req, res) => {
-  res.send("Hello!");
+  res.send("Harikar report data API");
+});
+
+app.get("/data/projects", (req, res) => {
+  const fileBuffer = fs.readFileSync(`./data/projects.json`);
+  const data = JSON.parse(fileBuffer);
+  res.status(200).json(data);
 });
 
 // GET: localhost:300/data
 app.get("/data/:year/:month", (req, res) => {
-  console.log("Current PARAMS: ", req.params);
   let { year, month } = req.params;
   const fileBuffer = fs.readFileSync(`./data/${year}/${month}.json`);
   const data = JSON.parse(fileBuffer);

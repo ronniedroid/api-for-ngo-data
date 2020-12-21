@@ -1,0 +1,218 @@
+{
+  "BMZ/CARE": {
+    "name": "Improving the lifes of vulnerable returnee- and host community households in Sinuni and Wana sub- districts through the provision of protection services and agricultural support (multi-cluster project)",
+    "partner": "BMZ/CARE",
+    "reveal": false,
+    "dialog": false,
+    "start": "Feb 2019",
+    "end": "July 2021",
+    "budget": 1574783,
+    "clusters": [
+      {
+        "cluster": "Protection",
+        "color": "pro"
+      },
+      {
+        "cluster": "Livelihood",
+        "color": "livelihood"
+      },
+      {
+        "cluster": "WASH",
+        "color": "wash"
+      }
+    ],
+    "obj": [
+      "The overall objective of the protection component is to expand general protection services (including legal assistance/counselling, PSS & HLP) to underserved areas with high needs in order to ensure safe and dignified returns and sustainable lives of people living in Arab villages and Neighboring villages in Sinuni Sub district, Sinjar districts.",
+      "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
+      "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq"
+    ]
+  },
+  "UNOCHA/WVI": {
+    "name": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
+    "partner": "UNOCHA/WVI",
+    "reveal": false,
+    "dialog": false,
+    "start": "Aug 2020",
+    "end": "Jun 2021",
+    "budget": "$220,000",
+    "clusters": [
+      {
+        "cluster": "Livelihood",
+        "color": "livelihood"
+      }
+    ]
+  },
+  "BMZ/ASB": {
+    "name": "Strengthening the resilience of conflict-affected residents and returnees in newly accessible areas through improving food security, livelihoods and solidarity",
+    "partner": "BMZ/ASB",
+    "reveal": false,
+    "dialog": false,
+    "start": "Aug 2017",
+    "end": "August 2020",
+    "budget": "$1,350,000",
+    "clusters": [
+      {
+        "cluster": "Livelihood",
+        "color": "livelihood"
+      }
+    ],
+    "obj": ["Food Security", "Food Security", "Social Cohesion"]
+  },
+  "UNOCHA/Dorcas": {
+    "name": "Creating an enabling environment for sustainable livelihoods of vulnerable households in Sinjar and Telkaif District through the provision of protection and agricultural services.",
+    "partner": "UNOCHA/Dorcase",
+    "reveal": false,
+    "dialog": false,
+    "start": "Jan 2020",
+    "end": "Dec 2020",
+    "budget": "$185,647",
+    "clusters": [
+      {
+        "cluster": "Livelihood",
+        "color": "livelihood"
+      },
+      {
+        "cluster": "Protection",
+        "color": "pro"
+      }
+    ]
+  },
+  "UNOCHA": {
+    "name": "Strengthening Protection, HLP Response, and Prevention services during COVI9-19 Pandemic in Duhok, Ninewa governorates in Iraq.",
+    "partner": "UNOCHA",
+    "reveal": false,
+    "dialog": false,
+    "start": "Aug 2020",
+    "end": "Feb 2021",
+    "budget": "$174,067",
+    "clusters": [
+      {
+        "cluster": "Protection",
+        "color": "pro"
+      }
+    ]
+  },
+  "UNICEF": {
+    "name": "Providing PSS, case managment and vocational training services for women and girls",
+    "partner": "UNICEF",
+    "reveal": false,
+    "dialog": false,
+    "start": "Jan 2020",
+    "end": "July 2020",
+    "budget": "$305,453",
+    "clusters": [
+      {
+        "cluster": "SGBV",
+        "color": "gbv"
+      }
+    ],
+    "obj": [
+      "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection."
+    ]
+  },
+  "UNICEF2": {
+    "partner": "UNICEF",
+    "reveal": false,
+    "dialog": false,
+    "start": "Oct 2020",
+    "end": "Oct 2021",
+    "clusters": [
+      {
+        "cluster": "SGBV",
+        "color": "gbv"
+      }
+    ]
+  },
+  "UNHCR": {
+    "name": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+    "partner": "UNHCR",
+    "reveal": false,
+    "dialog": false,
+    "start": "Jan 2020",
+    "end": "Dec 2020",
+    "budget": "IQD 3,651,131,577.60",
+    "clusters": [
+      {
+        "cluster": "Protection",
+        "color": "pro"
+      },
+      {
+        "cluster": "SGBV",
+        "color": "gbv"
+      }
+    ],
+    "obj": [
+      "Number of POC reached through protection monitoring",
+      "Access to legal assistance and legal remedies improved",
+      "Risk of SGBV is reduced and quality of response improved"
+    ]
+  },
+  "GAC/CARE": {
+    "name": "WASH, Protection and SRHR   support to IDPs and Returnees in Iraq 2020-2021",
+    "partner": "GAC/CARE",
+    "reveal": false,
+    "dialog": false,
+    "start": "Feb 2020",
+    "end": "Dec 2021",
+    "budget": "$1,741,104",
+    "clusters": [
+      {
+        "cluster": "WASH",
+        "color": "wash"
+      },
+      {
+        "cluster": "Protection",
+        "color": "pro"
+      }
+    ],
+    "obj": [
+      "Water infrastructure repaired, maintained, or rehabilitated in IDP camps and Sinjar",
+      "Sanitation infrastructure in IDP camps and Sinjar maintained and/or repaired",
+      "Hygiene promotion undertaken in IDP camps and Sinjar",
+      "Garbage collection and desludging undertaken in IDP camps and authorities supported for ownership",
+      "Gender-sensitive hygiene items distributed to returnees in Sinjar"
+    ]
+  },
+  "UNFPA": {
+    "name": "UNFPA Country Programe for Iraq 2020-2024",
+    "partner": "UNFPA",
+    "reveal": false,
+    "dialog": false,
+    "start": "Jan 2020",
+    "end": "Dec 2020",
+    "budget": "$2,185,158",
+    "clusters": [
+      {
+        "cluster": "SGBV",
+        "color": "gbv"
+      },
+      {
+        "cluster": "Health",
+        "color": "health"
+      }
+    ],
+    "obj": [
+      "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
+      "Enhanced capacity of national government and civil society organizations to design and implement programmes on reproductive health, social cohesion and civic engagement for vulnerable young people, with special focus on marginalized adolescent girls in humanitarian settings (Youth Programme)",
+      "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)"
+    ]
+  },
+  "IHF-UNOCHA": {
+    "name": "National Consortium",
+    "partner": "IHF-UNOCHA",
+    "reveal": false,
+    "dialog": false,
+    "start": "Jan 2020",
+    "end": "September 2020",
+    "budget": "$3,025.18",
+    "clusters": [
+      {
+        "cluster": "Health",
+        "color": "health"
+      }
+    ],
+    "obj": [
+      "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)"
+    ]
+  }
+}
