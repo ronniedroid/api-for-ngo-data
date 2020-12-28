@@ -10,7 +10,8 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "District": "Sinjar"
+      "District": "Sinjar",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -22,7 +23,8 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "District": "Duhok"
+      "District": "Duhok",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -34,7 +36,8 @@
       "Male": 723,
       "Female": 137,
       "Total": 860,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -46,7 +49,8 @@
       "Male": 196,
       "Female": 45,
       "Total": 241,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -58,7 +62,8 @@
       "Male": 133,
       "Female": 22,
       "Total": 155,
-      "District": "Akre"
+      "District": "Akre",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -70,7 +75,8 @@
       "Male": 408,
       "Female": 122,
       "Total": 530,
-      "District": "Bardarash"
+      "District": "Bardarash",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -82,7 +88,8 @@
       "Male": 295,
       "Female": 96,
       "Total": 391,
-      "District": "Bardarash"
+      "District": "Bardarash",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -94,7 +101,8 @@
       "Male": 23,
       "Female": 3,
       "Total": 26,
-      "District": "Amedi"
+      "District": "Amedi",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -106,7 +114,8 @@
       "Male": 86,
       "Female": 27,
       "Total": 113,
-      "District": "Duhok"
+      "District": "Duhok",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -118,7 +127,8 @@
       "Male": 256,
       "Female": 33,
       "Total": 289,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -130,7 +140,8 @@
       "Male": 102,
       "Female": 10,
       "Total": 112,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -142,7 +153,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Akre"
+      "District": "Akre",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -154,7 +166,8 @@
       "Male": 21,
       "Female": 6,
       "Total": 27,
-      "District": "Shekhan"
+      "District": "Shekhan",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -166,7 +179,8 @@
       "Male": 2,
       "Female": 1,
       "Total": 3,
-      "District": "Bardarash"
+      "District": "Bardarash",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -178,7 +192,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Amedi"
+      "District": "Amedi",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -190,7 +205,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Shekhan"
+      "District": "Shekhan",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -202,7 +218,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Akre"
+      "District": "Akre",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -214,7 +231,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Duhok"
+      "District": "Duhok",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -226,7 +244,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -238,7 +257,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Tel Kaif"
+      "District": "Tel Kaif",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -250,7 +270,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -262,7 +283,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -274,7 +296,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -286,7 +309,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -298,7 +322,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -310,7 +335,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -322,7 +348,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Amedi"
+      "District": "Amedi",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -334,7 +361,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Shekhan"
+      "District": "Shekhan",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -346,7 +374,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -358,7 +387,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -370,7 +400,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -382,7 +413,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Akre"
+      "District": "Akre",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -394,7 +426,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Shekhan"
+      "District": "Shekhan",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -406,7 +439,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -418,7 +452,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -430,7 +465,8 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": "Shekhan"
+      "District": "Shekhan",
+      "Province": "Duhok"
     }
   ],
   "ProtectionActivities": [
@@ -507,7 +543,8 @@
       " ": null,
       "Female": 226,
       "Total": 226,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -519,7 +556,8 @@
       " ": null,
       "Female": 374,
       "Total": 374,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -531,7 +569,8 @@
       " ": 20,
       "Female": 2619,
       "Total": 2639,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -543,7 +582,8 @@
       " ": null,
       "Female": 103,
       "Total": 103,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -555,7 +595,8 @@
       " ": 3,
       "Female": 357,
       "Total": 360,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -567,7 +608,8 @@
       " ": 10,
       "Female": 198,
       "Total": 208,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -579,7 +621,8 @@
       " ": null,
       "Female": 689,
       "Total": 689,
-      "District": "Shekhan"
+      "District": "Shekhan",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -591,7 +634,8 @@
       " ": null,
       "Female": null,
       "Total": 0,
-      "District": "Sinjar"
+      "District": "Sinjar",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -603,7 +647,8 @@
       " ": null,
       "Female": 164,
       "Total": 164,
-      "District": "Sinjar"
+      "District": "Sinjar",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -615,7 +660,8 @@
       " ": 4,
       "Female": 182,
       "Total": 186,
-      "District": "Sinjar"
+      "District": "Sinjar",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -627,7 +673,8 @@
       " ": null,
       "Female": 216,
       "Total": 216,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -639,7 +686,8 @@
       " ": 4,
       "Female": 246,
       "Total": 250,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -651,7 +699,8 @@
       " ": null,
       "Female": 199,
       "Total": 199,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -663,7 +712,8 @@
       " ": 12,
       "Female": 136,
       "Total": 148,
-      "District": "Al-Hamdaniya"
+      "District": "Al-Hamdaniya",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -675,7 +725,8 @@
       " ": null,
       "Female": 993,
       "Total": 993,
-      "District": "Bardarash"
+      "District": "Bardarash",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -687,7 +738,8 @@
       " ": null,
       "Female": null,
       "Total": 0,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -699,7 +751,8 @@
       " ": null,
       "Female": null,
       "Total": 0,
-      "District": "Al-Hamdaniya"
+      "District": "Al-Hamdaniya",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -711,7 +764,8 @@
       " ": null,
       "Female": null,
       "Total": 0,
-      "District": "Amedi"
+      "District": "Amedi",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -723,7 +777,8 @@
       " ": null,
       "Female": null,
       "Total": 0,
-      "District": "Duhok"
+      "District": "Duhok",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -735,7 +790,8 @@
       " ": 108,
       "Female": 114,
       "Total": 222,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -747,7 +803,8 @@
       " ": null,
       "Female": null,
       "Total": 0,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -759,7 +816,8 @@
       " ": 25,
       "Female": 131,
       "Total": 156,
-      "District": "Akre"
+      "District": "Akre",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -771,7 +829,8 @@
       " ": null,
       "Female": null,
       "Total": 0,
-      "District": "Shekhan"
+      "District": "Shekhan",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -783,7 +842,8 @@
       " ": 26,
       "Female": 126,
       "Total": 152,
-      "District": "Bardarash"
+      "District": "Bardarash",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -795,7 +855,8 @@
       " ": null,
       "Female": null,
       "Total": 0,
-      "District": "Al-Hamdaniya"
+      "District": "Al-Hamdaniya",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -807,7 +868,8 @@
       " ": 0,
       "Female": 7,
       "Total": 7,
-      "District": "Amedi"
+      "District": "Amedi",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -819,7 +881,8 @@
       " ": 50,
       "Female": 170,
       "Total": 220,
-      "District": "Duhok"
+      "District": "Duhok",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -831,7 +894,8 @@
       " ": 16,
       "Female": 83,
       "Total": 99,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -843,7 +907,8 @@
       " ": 0,
       "Female": 25,
       "Total": 25,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -855,7 +920,8 @@
       " ": null,
       "Female": null,
       "Total": 0,
-      "District": "Akre"
+      "District": "Akre",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -867,7 +933,8 @@
       " ": null,
       "Female": null,
       "Total": 0,
-      "District": "Shekhan"
+      "District": "Shekhan",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -879,7 +946,8 @@
       " ": null,
       "Female": null,
       "Total": 0,
-      "District": "Bardarash"
+      "District": "Bardarash",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Providing PSS, case managment and vocational training services for women and girls",
@@ -891,7 +959,8 @@
       " ": 150,
       "Female": 356,
       "Total": 506,
-      "District": "Bardarash"
+      "District": "Bardarash",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Providing PSS, case managment and vocational training services for women and girls",
@@ -903,7 +972,8 @@
       " ": 168,
       "Female": 447,
       "Total": 615,
-      "District": "Al-Mosul"
+      "District": "Al-Mosul",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "Providing PSS, case managment and vocational training services for women and girls",
@@ -915,7 +985,8 @@
       " ": 186,
       "Female": 354,
       "Total": 540,
-      "District": "Tel Afer"
+      "District": "Tel Afer",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": null,
@@ -927,7 +998,8 @@
       " ": 169,
       "Female": 471,
       "Total": 640,
-      "District": "Al-Mosul"
+      "District": "Al-Mosul",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -939,7 +1011,8 @@
       " ": null,
       "Female": null,
       "Total": 0,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -951,7 +1024,8 @@
       " ": null,
       "Female": null,
       "Total": 0,
-      "District": "Al-Hamdaniya"
+      "District": "Al-Hamdaniya",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -963,7 +1037,8 @@
       " ": 197,
       "Female": 227,
       "Total": 424,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
@@ -975,7 +1050,8 @@
       " ": 162,
       "Female": 305,
       "Total": 467,
-      "District": "Al-Hamdaniya"
+      "District": "Al-Hamdaniya",
+      "Province": "Nineveh"
     }
   ],
   "SGBVActivities": [
@@ -1161,7 +1237,8 @@
       "Male": null,
       "Female": 5920,
       "Total": 5920,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1173,7 +1250,8 @@
       "Male": null,
       "Female": 4197,
       "Total": 4197,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1185,7 +1263,8 @@
       "Male": null,
       "Female": 4279,
       "Total": 4279,
-      "District": "Bardarash"
+      "District": "Bardarash",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1197,7 +1276,8 @@
       "Male": null,
       "Female": 4457,
       "Total": 4457,
-      "District": "Al-Hamdaniya"
+      "District": "Al-Hamdaniya",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1209,7 +1289,8 @@
       "Male": null,
       "Female": 1592,
       "Total": 1592,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1221,7 +1302,8 @@
       "Male": null,
       "Female": 1429,
       "Total": 1429,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1233,7 +1315,8 @@
       "Male": null,
       "Female": 2258,
       "Total": 2258,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1245,7 +1328,8 @@
       "Male": null,
       "Female": 1174,
       "Total": 1174,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1257,7 +1341,8 @@
       "Male": null,
       "Female": 1495,
       "Total": 1495,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1269,7 +1354,8 @@
       "Male": null,
       "Female": 2271,
       "Total": 2271,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1281,7 +1367,8 @@
       "Male": null,
       "Female": 1221,
       "Total": 1221,
-      "District": "Sumel"
+      "District": "Sumel",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1293,7 +1380,8 @@
       "Male": null,
       "Female": 1091,
       "Total": 1091,
-      "District": "Shekhan"
+      "District": "Shekhan",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1305,7 +1393,8 @@
       "Male": null,
       "Female": 2005,
       "Total": 2005,
-      "District": "Shekhan"
+      "District": "Shekhan",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1317,7 +1406,8 @@
       "Male": null,
       "Female": 1240,
       "Total": 1240,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1329,7 +1419,8 @@
       "Male": null,
       "Female": 1102,
       "Total": 1102,
-      "District": "Amedi"
+      "District": "Amedi",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1341,7 +1432,8 @@
       "Male": null,
       "Female": 1855,
       "Total": 1855,
-      "District": "Duhok"
+      "District": "Duhok",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1353,10 +1445,11 @@
       "Male": null,
       "Female": 1999,
       "Total": 1999,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
-      "NameOfProject": "(IRQ02EBL /UNFPA),\n (Programme Activities in Kurdistan)",
+      "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
       "Cluster": "Health",
       "TypeOfBeneficiaries": "IDPs",
@@ -1365,7 +1458,8 @@
       "Male": null,
       "Female": 933,
       "Total": 933,
-      "District": "Duhok"
+      "District": "Duhok",
+      "Province": "Duhok"
     }
   ],
   "HealthHighlights": [
@@ -1488,7 +1582,8 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "District": "Sinjar"
+      "District": "Sinjar",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
@@ -1500,7 +1595,8 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "District": "Tel Afer"
+      "District": "Tel Afer",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "Strengthening the resilience of conflict-affected areas through improving food security, livelihoods and solidarity",
@@ -1512,7 +1608,8 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "District": "Tel Afer"
+      "District": "Tel Afer",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "Strengthening the resilience of conflict-affected areas through improving food security, livelihoods and solidarity",
@@ -1524,7 +1621,8 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "District": "Tel Afer"
+      "District": "Tel Afer",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "Strengthening the resilience of conflict-affected areas through improving food security, livelihoods and solidarity",
@@ -1536,7 +1634,8 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "District": "Tel Afer"
+      "District": "Tel Afer",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "Strengthening the resilience of conflict-affected areas through improving food security, livelihoods and solidarity",
@@ -1548,7 +1647,8 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "District": "Tel Afer"
+      "District": "Tel Afer",
+      "Province": "Nineveh"
     }
   ],
   "LivelihoodActivities": [
@@ -1577,7 +1677,8 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "District": "Tel Afer"
+      "District": "Tel Afer",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
@@ -1589,7 +1690,8 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "District": "Sinjar"
+      "District": "Sinjar",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
@@ -1601,7 +1703,8 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "District": "Tel Afer"
+      "District": "Tel Afer",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -1613,7 +1716,8 @@
       "Male": 11934,
       "Female": 14586,
       "Total": 26520,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -1625,7 +1729,8 @@
       "Male": 6642,
       "Female": 8117,
       "Total": 14759,
-      "District": "Shekhan"
+      "District": "Shekhan",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -1637,7 +1742,8 @@
       "Male": 4833,
       "Female": 7249,
       "Total": 12082,
-      "District": "Sinjar"
+      "District": "Sinjar",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -1649,7 +1755,8 @@
       "Male": 863,
       "Female": 889,
       "Total": 1752,
-      "District": "Shekhan"
+      "District": "Shekhan",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -1661,7 +1768,8 @@
       "Male": 1283,
       "Female": 1255,
       "Total": 1752,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -1673,7 +1781,8 @@
       "Male": 472,
       "Female": 842,
       "Total": 1314,
-      "District": "Zakho"
+      "District": "Zakho",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -1685,7 +1794,8 @@
       "Male": 361,
       "Female": 653,
       "Total": 1014,
-      "District": "Shekhan"
+      "District": "Shekhan",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -1697,7 +1807,8 @@
       "Male": 488,
       "Female": 511,
       "Total": 999,
-      "District": "Sinjar"
+      "District": "Sinjar",
+      "Province": "Nineveh"
     },
     {
       "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -1709,7 +1820,8 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "District": "Shekhan"
+      "District": "Shekhan",
+      "Province": "Duhok"
     },
     {
       "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -1721,7 +1833,8 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "District": "Sinjar"
+      "District": "Sinjar",
+      "Province": "Nineveh"
     }
   ],
   "WASHActivities": [
