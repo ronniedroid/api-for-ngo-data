@@ -629,7 +629,7 @@
       "Objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
       "Cluster": "SGBV",
       "TypeOfBeneficiaries": "IDPs",
-      "CampNonCamp": "Non-Camp",
+      "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
       "Male": null,
       "Female": null,
@@ -989,10 +989,10 @@
       "Province": "Nineveh"
     },
     {
-      "NameOfProject": null,
-      "Objective": null,
-      "Cluster": null,
-      "TypeOfBeneficiaries": null,
+      "NameOfProject": "Providing PSS, case managment and vocational training services for women and girls",
+      "Objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
+      "Cluster": "SGBV",
+      "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": "West Mosul",
       "Male": 169,
