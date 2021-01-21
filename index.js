@@ -82,7 +82,7 @@ app.get("/data/:year", (req, res) => {
     }
   });
 
-  res.send(monthsData);
+  res.send(JSON.stringify(monthsData));
 });
 
 app.listen(port, () => {
