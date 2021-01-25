@@ -1601,10 +1601,10 @@
       "TypeOfBeneficiaries": "Returnees",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "District": "Tel Afer",
+      "Male": 47,
+      "Female": 67,
+      "Total": 114,
+      "District": "Sinjar",
       "Province": "Nineveh"
     },
     {
@@ -1624,9 +1624,15 @@
   "LivelihoodActivities": [
     {
       "Activity": "Cash for Work",
-      "Male": null,
-      "Female": null,
+      "Male": 0,
+      "Female": 0,
       "Total": 0
+    },
+    {
+      "Activity": "reciving Agricultural inputs",
+      "Male": 47,
+      "Female": 67,
+      "Total": null
     },
     {
       "Activity": "Constracting shops",

@@ -950,7 +950,7 @@
       "Province": "Duhok"
     },
     {
-      "NameOfProject": "Providing PSS, case managment and vocational training services for women and girls",
+      "NameOfProject": "\"Provision of Gender-Based Violence prevention and\nresponse services for women and girls in Ninawa and West Mosul.\"",
       "Objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
       "Cluster": "SGBV",
       "TypeOfBeneficiaries": "IDPs",
@@ -963,7 +963,7 @@
       "Province": "Duhok"
     },
     {
-      "NameOfProject": "Providing PSS, case managment and vocational training services for women and girls",
+      "NameOfProject": "\"Provision of Gender-Based Violence prevention and\nresponse services for women and girls in Ninawa and West Mosul.\"",
       "Objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
       "Cluster": "SGBV",
       "TypeOfBeneficiaries": "IDPs",
@@ -976,7 +976,7 @@
       "Province": "Nineveh"
     },
     {
-      "NameOfProject": "Providing PSS, case managment and vocational training services for women and girls",
+      "NameOfProject": "\"Provision of Gender-Based Violence prevention and\nresponse services for women and girls in Ninawa and West Mosul.\"",
       "Objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
       "Cluster": "SGBV",
       "TypeOfBeneficiaries": "IDPs",
@@ -989,7 +989,7 @@
       "Province": "Nineveh"
     },
     {
-      "NameOfProject": "Providing PSS, case managment and vocational training services for women and girls",
+      "NameOfProject": "\"Provision of Gender-Based Violence prevention and\nresponse services for women and girls in Ninawa and West Mosul.\"",
       "Objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
       "Cluster": "SGBV",
       "TypeOfBeneficiaries": "IDPs",
@@ -1235,8 +1235,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Domiz 1",
       "Male": null,
-      "Female": 5920,
-      "Total": 5920,
+      "Female": 2207,
+      "Total": 2207,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -1248,8 +1248,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Domiz 2",
       "Male": null,
-      "Female": 4197,
-      "Total": 4197,
+      "Female": 735,
+      "Total": 735,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -1261,8 +1261,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Bardarash camp",
       "Male": null,
-      "Female": 4279,
-      "Total": 4279,
+      "Female": 897,
+      "Total": 897,
       "District": "Bardarash",
       "Province": "Duhok"
     },
@@ -1274,8 +1274,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Gawilan Camp",
       "Male": null,
-      "Female": 4457,
-      "Total": 4457,
+      "Female": 818,
+      "Total": 818,
       "District": "Al-Hamdaniya",
       "Province": "Nineveh"
     },
@@ -1426,12 +1426,12 @@
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
       "Cluster": "Health",
-      "TypeOfBeneficiaries": "IDPs",
+      "TypeOfBeneficiaries": "Host Community",
       "CampNonCamp": "NonCamp",
-      "NameOfCamp": "Duhok maternity \nhospital",
+      "NameOfCamp": null,
       "Male": null,
-      "Female": 1855,
-      "Total": 1855,
+      "Female": 12171,
+      "Total": 12171,
       "District": "Duhok",
       "Province": "Duhok"
     },
@@ -1439,12 +1439,12 @@
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
       "Cluster": "Health",
-      "TypeOfBeneficiaries": "IDPs",
+      "TypeOfBeneficiaries": "Host Community",
       "CampNonCamp": "NonCamp",
-      "NameOfCamp": "Zakho maternity\nhospital",
+      "NameOfCamp": null,
       "Male": null,
-      "Female": 1999,
-      "Total": 1999,
+      "Female": 3154,
+      "Total": 3154,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -1452,13 +1452,13 @@
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "Objective": "Increased capacity of Ministry of Health, and civil society organizations to deliver integrated quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)",
       "Cluster": "Health",
-      "TypeOfBeneficiaries": "IDPs",
+      "TypeOfBeneficiaries": "Host Community",
       "CampNonCamp": "NonCamp",
-      "NameOfCamp": "Amedia maternity \nhospital",
+      "NameOfCamp": null,
       "Male": null,
-      "Female": 933,
-      "Total": 933,
-      "District": "Duhok",
+      "Female": 883,
+      "Total": 883,
+      "District": "Amedi",
       "Province": "Duhok"
     }
   ],
@@ -1592,9 +1592,9 @@
       "TypeOfBeneficiaries": "Returnees",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": null,
-      "Female": null,
-      "Total": 0,
+      "Male": 207,
+      "Female": 225,
+      "Total": 432,
       "District": "Tel Afer",
       "Province": "Nineveh"
     },
@@ -1621,6 +1621,19 @@
       "Male": null,
       "Female": null,
       "Total": 0,
+      "District": "Tel Afer",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Strengthening the resilience of conflict-affected areas through improving food security, livelihoods and solidarity",
+      "Objective": "Income Generation",
+      "Cluster": "Livelihood",
+      "TypeOfBeneficiaries": "Returnees",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": null,
+      "Female": null,
+      "Total": null,
       "District": "Tel Afer",
       "Province": "Nineveh"
     },
@@ -1654,9 +1667,15 @@
   "LivelihoodActivities": [
     {
       "Activity": "Cash for Work",
-      "Male": null,
-      "Female": null,
+      "Male": 0,
+      "Female": 0,
       "Total": 0
+    },
+    {
+      "Activity": "VT in Zummar",
+      "Male": 207,
+      "Female": 225,
+      "Total": 432
     },
     {
       "Activity": "Constracting shops",
@@ -1682,6 +1701,19 @@
     },
     {
       "NameOfProject": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
+      "Objective": "Improved access to water for vulnerable host families and returnees with equal access for men, women, girls, and boys",
+      "Cluster": "WASH",
+      "TypeOfBeneficiaries": "Returnees",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 1238,
+      "Female": 1512,
+      "Total": 2750,
+      "District": "Sinjar",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
       "Objective": "Improved awareness on safe hygiene and sanitation practices",
       "Cluster": "WASH",
       "TypeOfBeneficiaries": "Returnees",
@@ -1689,7 +1721,7 @@
       "NameOfCamp": null,
       "Male": null,
       "Female": null,
-      "Total": 0,
+      "Total": null,
       "District": "Sinjar",
       "Province": "Nineveh"
     },
@@ -1903,6 +1935,12 @@
       "Male": 488,
       "Female": 511,
       "Total": 999
+    },
+    {
+      "Activity": "Poviding water to host community in Sinjar",
+      "Male": 1238,
+      "Female": 1512,
+      "Total": 2750
     }
   ],
   "WASHHighlights": []

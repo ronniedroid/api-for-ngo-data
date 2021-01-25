@@ -14,19 +14,6 @@
       "Province": "Nineveh"
     },
     {
-      "NameOfProject": "Improving the lifes of vulnerable returnee- and host community households in Sinuni and Wana sub- districts through the provision of protection services and agricultural support (multi-cluster project)",
-      "Objective": "The overall objective of the protection component is to expand general protection services (including legal assistance/counselling, PSS & HLP) to underserved areas with high needs in order to ensure safe and dignified returns and sustainable lives of people living in Arab villages and Neighboring villages in Sinuni Sub district, Sinjar districts.",
-      "Cluster": "Protection",
-      "TypeOfBeneficiaries": "Host Community",
-      "CampNonCamp": "NonCamp",
-      "NameOfCamp": null,
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "District": "Tel Afer",
-      "Province": "Nineveh"
-    },
-    {
       "NameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "Objective": "Access to legal assistance and legal remedies improved",
       "Cluster": "Protection",
@@ -1766,9 +1753,9 @@
       "TypeOfBeneficiaries": "Returnees",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": null,
-      "Female": null,
-      "Total": 0,
+      "Male": 266,
+      "Female": 255,
+      "Total": 521,
       "District": "Sinjar",
       "Province": "Nineveh"
     },
@@ -1779,49 +1766,62 @@
       "TypeOfBeneficiaries": "Returnees",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": null,
-      "Female": null,
-      "Total": 0,
+      "Male": 283,
+      "Female": 293,
+      "Total": 576,
       "District": "Tel Afer",
       "Province": "Nineveh"
     },
     {
-      "NameOfProject": "Strengthening the resilience of conflict-affected areas through improving food security, livelihoods and solidarity",
+      "NameOfProject": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
       "Objective": "Food Security",
       "Cluster": "Livelihood",
       "TypeOfBeneficiaries": "Returnees",
       "CampNonCamp": "NonCamp",
-      "NameOfCamp": "Zummar Area",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
+      "NameOfCamp": null,
+      "Male": 1889,
+      "Female": 1972,
+      "Total": 3861,
       "District": "Tel Afer",
       "Province": "Nineveh"
     },
     {
+      "NameOfProject": "Creating an enabling environment for sustainable livelihoods of vulnerable households in Sinjar and Telkaif District through the provision of protection and agricultural services.\r\nTurn on screen reader support",
+      "Objective": "Food SecurityProvide specialized protection assistance, and community-based support, to vulnerable conflict-affected individuals, thereby enabling them to secure their rights, access humanitarian assistance and public services, and overcome barriers to achievement of durable solutions.",
+      "Cluster": "Livelihood",
+      "TypeOfBeneficiaries": "Returnees",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 814,
+      "Female": 834,
+      "Total": 1648,
+      "District": "Al-Mosul",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
+      "Objective": "improving the status of food security through support with agricultural\r\nlivelihoods for increased access and availability of food at household level as well as generate agricultural income of food insecure IDPs,\r\nReturnees and Host Communities.",
+      "Cluster": "Livelihood",
+      "TypeOfBeneficiaries": "Returnees",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 52,
+      "Female": 40,
+      "Total": 92,
+      "District": "Al-Mosul",
+      "Province": "Nineveh"
+    },
+    {
       "NameOfProject": "Strengthening the resilience of conflict-affected areas through improving food security, livelihoods and solidarity",
-      "Objective": "Food Security",
+      "Objective": "Income Generation",
       "Cluster": "Livelihood",
       "TypeOfBeneficiaries": "Returnees",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
       "Male": null,
       "Female": null,
-      "Total": 0,
-      "District": "Tel Afer",
-      "Province": "Nineveh"
-    },
-    {
-      "NameOfProject": "Strengthening the resilience of conflict-affected areas through improving food security, livelihoods and solidarity",
-      "Objective": "Food Security",
-      "Cluster": "Livelihood",
-      "TypeOfBeneficiaries": "Returnees",
-      "CampNonCamp": "NonCamp",
-      "NameOfCamp": null,
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "District": "Tel Afer",
+      "Total": null,
+      "District": "Sinjar",
       "Province": "Nineveh"
     },
     {
@@ -1841,9 +1841,27 @@
   "LivelihoodActivities": [
     {
       "Activity": "Cash for Work",
-      "Male": null,
-      "Female": null,
+      "Male": 0,
+      "Female": 0,
       "Total": 0
+    },
+    {
+      "Activity": "VT in Zummar",
+      "Male": 283,
+      "Female": 293,
+      "Total": 576
+    },
+    {
+      "Activity": "VT in Sinjar",
+      "Male": 266,
+      "Female": 255,
+      "Total": 521
+    },
+    {
+      "Activity": "Distrbution Food-Basket in Zummar",
+      "Male": 1889,
+      "Female": 1972,
+      "Total": 3861
     },
     {
       "Activity": "Constracting shops",
