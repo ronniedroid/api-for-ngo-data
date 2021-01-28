@@ -147,10 +147,6 @@
       {
         "cluster": "SGBV",
         "color": "gbv"
-      },
-      {
-        "cluster": "Protection",
-        "color": "pro"
       }
     ],
     "obj": [
