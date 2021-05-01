@@ -7,9 +7,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 10,
+      "Male": 15,
       "Female": 2,
-      "Total": 12,
+      "Total": 17,
       "District": "Amedi",
       "Province": "Duhok"
     },
@@ -20,9 +20,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 7,
-      "Female": 24,
-      "Total": 31,
+      "Male": 15,
+      "Female": 13,
+      "Total": 28,
       "District": "Duhok",
       "Province": "Duhok"
     },
@@ -33,9 +33,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 37,
-      "Female": 22,
-      "Total": 59,
+      "Male": 19,
+      "Female": 29,
+      "Total": 48,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -46,9 +46,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 18,
-      "Female": 29,
-      "Total": 47,
+      "Male": 4,
+      "Female": 14,
+      "Total": 18,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -60,125 +60,125 @@
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
       "Male": 0,
-      "Female": 0,
-      "Total": 0,
-      "District": "Akre",
-      "Province": "Duhok"
-    },
-    {
-      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "Objective": "Access to legal assistance and legal remedies improved",
-      "Cluster": "Protection",
-      "TypeOfBeneficiaries": "Refugee",
-      "CampNonCamp": "NonCamp",
-      "NameOfCamp": null,
-      "Male": 21,
-      "Female": 0,
-      "Total": 21,
-      "District": "Shekhan",
-      "Province": "Duhok"
-    },
-    {
-      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "Objective": "Access to legal assistance and legal remedies improved",
-      "Cluster": "Protection",
-      "TypeOfBeneficiaries": "Refugee",
-      "CampNonCamp": "NonCamp",
-      "NameOfCamp": null,
-      "Male": 4,
-      "Female": 0,
-      "Total": 4,
-      "District": "Bardarash",
-      "Province": "Duhok"
-    },
-    {
-      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "Objective": "Access to legal assistance and legal remedies improved",
-      "Cluster": "Protection",
-      "TypeOfBeneficiaries": "Refugee",
-      "CampNonCamp": "Camp",
-      "NameOfCamp": "Domiz 1",
-      "Male": 39,
-      "Female": 53,
-      "Total": 92,
-      "District": "Sumel",
-      "Province": "Duhok"
-    },
-    {
-      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "Objective": "Access to legal assistance and legal remedies improved",
-      "Cluster": "Protection",
-      "TypeOfBeneficiaries": "Refugee",
-      "CampNonCamp": "Camp",
-      "NameOfCamp": "Domiz 2",
-      "Male": 37,
-      "Female": 10,
-      "Total": 47,
-      "District": "Sumel",
-      "Province": "Duhok"
-    },
-    {
-      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "Objective": "Access to legal assistance and legal remedies improved",
-      "Cluster": "Protection",
-      "TypeOfBeneficiaries": "Refugee",
-      "CampNonCamp": "Camp",
-      "NameOfCamp": "Bardarash",
-      "Male": 33,
-      "Female": 10,
-      "Total": 43,
-      "District": "Bardarash",
-      "Province": "Duhok"
-    },
-    {
-      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "Objective": "Access to legal assistance and legal remedies improved",
-      "Cluster": "Protection",
-      "TypeOfBeneficiaries": "Refugee",
-      "CampNonCamp": "Camp",
-      "NameOfCamp": "Gewilan",
-      "Male": 32,
-      "Female": 29,
-      "Total": 61,
-      "District": "Al-Hamdaniya",
-      "Province": "Nineveh"
-    },
-    {
-      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "Objective": "Access to legal assistance and legal remedies improved",
-      "Cluster": "Protection",
-      "TypeOfBeneficiaries": "Refugee",
-      "CampNonCamp": "Camp",
-      "NameOfCamp": "Akre Settlement",
-      "Male": 2,
-      "Female": 11,
-      "Total": 13,
-      "District": "Akre",
-      "Province": "Duhok"
-    },
-    {
-      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "Objective": "Quality of registration and profiling to be improved or maintained",
-      "Cluster": "Protection",
-      "TypeOfBeneficiaries": "Refugee",
-      "CampNonCamp": "NonCamp",
-      "NameOfCamp": null,
-      "Male": 18,
-      "Female": 2,
-      "Total": 20,
-      "District": "Amedi",
-      "Province": "Duhok"
-    },
-    {
-      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "Objective": "Quality of registration and profiling to be improved or maintained",
-      "Cluster": "Protection",
-      "TypeOfBeneficiaries": "Refugee",
-      "CampNonCamp": "NonCamp",
-      "NameOfCamp": null,
-      "Male": 26,
       "Female": 1,
-      "Total": 27,
+      "Total": 1,
+      "District": "Akre",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 11,
+      "Female": 1,
+      "Total": 12,
+      "District": "Shekhan",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 22,
+      "Female": 0,
+      "Total": 22,
+      "District": "Bardarash",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Domiz 1",
+      "Male": 23,
+      "Female": 50,
+      "Total": 73,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Domiz 2",
+      "Male": 80,
+      "Female": 17,
+      "Total": 97,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Bardarash",
+      "Male": 21,
+      "Female": 26,
+      "Total": 47,
+      "District": "Bardarash",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Gewilan",
+      "Male": 31,
+      "Female": 43,
+      "Total": 74,
+      "District": "Al-Hamdaniya",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "Objective": "Access to legal assistance and legal remedies improved",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "Camp",
+      "NameOfCamp": "Akre Settlement",
+      "Male": 12,
+      "Female": 3,
+      "Total": 15,
+      "District": "Akre",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "Objective": "Quality of registration and profiling to be improved or maintained",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 4,
+      "Female": 4,
+      "Total": 8,
+      "District": "Amedi",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "Objective": "Quality of registration and profiling to be improved or maintained",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "Refugee",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 2,
+      "Female": 6,
+      "Total": 8,
       "District": "Duhok",
       "Province": "Duhok"
     },
@@ -189,9 +189,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 18,
-      "Female": 9,
-      "Total": 27,
+      "Male": 16,
+      "Female": 15,
+      "Total": 31,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -202,9 +202,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 5,
-      "Female": 2,
-      "Total": 7,
+      "Male": 3,
+      "Female": 3,
+      "Total": 6,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -254,9 +254,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Domiz 1",
-      "Male": 144,
-      "Female": 104,
-      "Total": 248,
+      "Male": 83,
+      "Female": 88,
+      "Total": 171,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -267,9 +267,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Domiz 2",
-      "Male": 13,
-      "Female": 17,
-      "Total": 30,
+      "Male": 18,
+      "Female": 57,
+      "Total": 75,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -280,9 +280,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Bardarash",
-      "Male": 59,
-      "Female": 72,
-      "Total": 131,
+      "Male": 47,
+      "Female": 105,
+      "Total": 152,
       "District": "Bardarash",
       "Province": "Duhok"
     },
@@ -293,9 +293,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Gewilan",
-      "Male": 58,
-      "Female": 60,
-      "Total": 118,
+      "Male": 49,
+      "Female": 113,
+      "Total": 162,
       "District": "Al-Hamdaniya",
       "Province": "Nineveh"
     },
@@ -306,9 +306,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Akre Settlement",
-      "Male": 7,
-      "Female": 19,
-      "Total": 26,
+      "Male": 12,
+      "Female": 66,
+      "Total": 78,
       "District": "Akre",
       "Province": "Duhok"
     },
@@ -319,9 +319,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 0,
-      "Female": 0,
-      "Total": 0,
+      "Male": null,
+      "Female": 1,
+      "Total": 1,
       "District": "Amedi",
       "Province": "Duhok"
     },
@@ -332,8 +332,8 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 0,
-      "Female": 0,
+      "Male": null,
+      "Female": null,
       "Total": 0,
       "District": "Duhok",
       "Province": "Duhok"
@@ -345,9 +345,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 4,
-      "Female": 2,
-      "Total": 6,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -358,9 +358,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 2,
-      "Female": 3,
-      "Total": 5,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -371,8 +371,8 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 0,
-      "Female": 0,
+      "Male": null,
+      "Female": null,
       "Total": 0,
       "District": "Akre",
       "Province": "Duhok"
@@ -384,9 +384,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 0,
-      "Female": 0,
-      "Total": 0,
+      "Male": 1,
+      "Female": 1,
+      "Total": 2,
       "District": "Shekhan",
       "Province": "Duhok"
     },
@@ -397,9 +397,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 0,
-      "Female": 0,
-      "Total": 0,
+      "Male": 3,
+      "Female": 6,
+      "Total": 9,
       "District": "Bardarash",
       "Province": "Duhok"
     },
@@ -410,8 +410,8 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 0,
-      "Female": 0,
+      "Male": null,
+      "Female": null,
       "Total": 0,
       "District": "Tel Kaif",
       "Province": "Nineveh"
@@ -423,9 +423,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Bajid Kandala",
-      "Male": 12,
-      "Female": 12,
-      "Total": 24,
+      "Male": 14,
+      "Female": 19,
+      "Total": 33,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -436,9 +436,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Berseve 1",
-      "Male": 5,
-      "Female": 2,
-      "Total": 7,
+      "Male": 18,
+      "Female": 23,
+      "Total": 41,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -449,9 +449,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Berseve 2",
-      "Male": 0,
-      "Female": 0,
-      "Total": 0,
+      "Male": 5,
+      "Female": 13,
+      "Total": 18,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -462,9 +462,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Chamishko",
-      "Male": 10,
-      "Female": 13,
-      "Total": 23,
+      "Male": 22,
+      "Female": 28,
+      "Total": 50,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -475,9 +475,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Darkar",
-      "Male": 1,
-      "Female": 0,
-      "Total": 1,
+      "Male": 18,
+      "Female": 1,
+      "Total": 19,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -488,9 +488,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Dawodiya",
-      "Male": 1,
-      "Female": 0,
-      "Total": 1,
+      "Male": 8,
+      "Female": 2,
+      "Total": 10,
       "District": "Amedi",
       "Province": "Duhok"
     },
@@ -501,9 +501,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Essiyan",
-      "Male": 3,
-      "Female": 9,
-      "Total": 12,
+      "Male": 7,
+      "Female": 15,
+      "Total": 22,
       "District": "Shekhan",
       "Province": "Duhok"
     },
@@ -514,9 +514,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Kabarto 1",
-      "Male": 4,
-      "Female": 0,
-      "Total": 4,
+      "Male": 5,
+      "Female": 1,
+      "Total": 6,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -527,9 +527,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Kabarto 2",
-      "Male": 6,
-      "Female": 3,
-      "Total": 9,
+      "Male": 14,
+      "Female": 15,
+      "Total": 29,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -540,9 +540,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Khanke",
-      "Male": 9,
-      "Female": 10,
-      "Total": 19,
+      "Male": 7,
+      "Female": 3,
+      "Total": 10,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -553,8 +553,8 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Mamilian",
-      "Male": 0,
-      "Female": 0,
+      "Male": null,
+      "Female": null,
       "Total": 0,
       "District": "Akre",
       "Province": "Duhok"
@@ -566,8 +566,8 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Mamrashan",
-      "Male": 0,
-      "Female": 0,
+      "Male": null,
+      "Female": null,
       "Total": 0,
       "District": "Shekhan",
       "Province": "Duhok"
@@ -579,10 +579,10 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Rwanga Community",
-      "Male": 1,
-      "Female": 0,
-      "Total": 1,
-      "District": "Zakho",
+      "Male": 14,
+      "Female": 5,
+      "Total": 19,
+      "District": "Sumel",
       "Province": "Duhok"
     },
     {
@@ -592,9 +592,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Shariya",
-      "Male": 0,
-      "Female": 16,
-      "Total": 16,
+      "Male": 3,
+      "Female": 2,
+      "Total": 5,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -605,9 +605,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Shekhan",
-      "Male": 0,
-      "Female": 2,
-      "Total": 2,
+      "Male": 6,
+      "Female": 12,
+      "Total": 18,
       "District": "Shekhan",
       "Province": "Duhok"
     },
@@ -618,9 +618,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 25,
-      "Female": 24,
-      "Total": 49,
+      "Male": 21,
+      "Female": 23,
+      "Total": 44,
       "District": "Amedi",
       "Province": "Duhok"
     },
@@ -631,9 +631,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 182,
-      "Female": 176,
-      "Total": 358,
+      "Male": 97,
+      "Female": 92,
+      "Total": 189,
       "District": "Duhok",
       "Province": "Duhok"
     },
@@ -644,9 +644,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 267,
-      "Female": 254,
-      "Total": 521,
+      "Male": 190,
+      "Female": 177,
+      "Total": 367,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -657,9 +657,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 195,
-      "Female": 208,
-      "Total": 403,
+      "Male": 125,
+      "Female": 132,
+      "Total": 257,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -670,9 +670,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 30,
-      "Female": 24,
-      "Total": 54,
+      "Male": 14,
+      "Female": 15,
+      "Total": 29,
       "District": "Akre",
       "Province": "Duhok"
     },
@@ -683,9 +683,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 152,
-      "Female": 179,
-      "Total": 331,
+      "Male": 123,
+      "Female": 142,
+      "Total": 265,
       "District": "Shekhan",
       "Province": "Duhok"
     },
@@ -696,9 +696,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 17,
-      "Female": 14,
-      "Total": 31,
+      "Male": 6,
+      "Female": 7,
+      "Total": 13,
       "District": "Bardarash",
       "Province": "Duhok"
     },
@@ -920,19 +920,6 @@
       "Male": 0,
       "Female": 0,
       "Total": 0,
-      "District": null,
-      "Province": "Nineveh"
-    },
-    {
-      "NameOfProject": "Strengthening Protection, HLP Response,and Prevention services during COVI9-19 Pandemic in Duhok, Ninewa governorates in Iraq.",
-      "Objective": "The overall objective of the project is Strengthening Protection and HLP Response and Prevention services during COVI9-19 Pandemic in Duhok, Ninewa governorates in Iraq",
-      "Cluster": "Protection",
-      "TypeOfBeneficiaries": "IDPs",
-      "CampNonCamp": "NonCamp",
-      "NameOfCamp": null,
-      "Male": 6,
-      "Female": 86,
-      "Total": 92,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -943,9 +930,22 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 12,
-      "Female": 64,
-      "Total": 76,
+      "Male": 36,
+      "Female": 92,
+      "Total": 128,
+      "District": "Sumel",
+      "Province": "Duhok"
+    },
+    {
+      "NameOfProject": "Strengthening Protection, HLP Response,and Prevention services during COVI9-19 Pandemic in Duhok, Ninewa governorates in Iraq.",
+      "Objective": "The overall objective of the project is Strengthening Protection and HLP Response and Prevention services during COVI9-19 Pandemic in Duhok, Ninewa governorates in Iraq",
+      "Cluster": "Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 31,
+      "Female": 92,
+      "Total": 123,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -956,9 +956,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 7,
-      "Female": 18,
-      "Total": 25,
+      "Male": 47,
+      "Female": 97,
+      "Total": 144,
       "District": "Tel Kaif",
       "Province": "Nineveh"
     },
@@ -969,9 +969,9 @@
       "TypeOfBeneficiaries": "Returnees",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 45,
-      "Female": 59,
-      "Total": 104,
+      "Male": 88,
+      "Female": 106,
+      "Total": 194,
       "District": "Sinjar",
       "Province": "Nineveh"
     }
@@ -981,27 +981,27 @@
       "Activity": "Number of POCs receiving legal assestance",
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Syrian",
-      "Male": 122,
-      "Female": 95,
-      "Total": 217,
+      "Male": 149,
+      "Female": 97,
+      "Total": 246,
       "NumberOfSessions": null
     },
     {
       "Activity": "Number of POCs receiving legal assestance in detention centers",
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Syrian",
-      "Male": 8,
-      "Female": 2,
-      "Total": 10,
+      "Male": 6,
+      "Female": 0,
+      "Total": 6,
       "NumberOfSessions": null
     },
     {
       "Activity": "Number of POCs participating in legal awareness raising",
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Syrian",
-      "Male": 100,
-      "Female": 80,
-      "Total": 180,
+      "Male": 72,
+      "Female": 72,
+      "Total": 144,
       "NumberOfSessions": null
     },
     {
@@ -1011,7 +1011,7 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "NumberOfSessions": 4
+      "NumberOfSessions": 7
     },
     {
       "Activity": "Number of events, workshops and seminars organized to promote access to entry points and detention centres",
@@ -1029,7 +1029,7 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "NumberOfSessions": 10
+      "NumberOfSessions": 2
     },
     {
       "Activity": "Number Face-to-face complaints/feedback received at Information Points, Service Centers, outreach volunteers",
@@ -1038,7 +1038,7 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "NumberOfSessions": 515
+      "NumberOfSessions": 637
     },
     {
       "Activity": "Number community assessments conducted",
@@ -1047,15 +1047,15 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "NumberOfSessions": 32
+      "NumberOfSessions": 23
     },
     {
       "Activity": "Number of POCs participated in community assessments",
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Syrian",
-      "Male": 28,
-      "Female": 8,
-      "Total": 36,
+      "Male": 9,
+      "Female": 10,
+      "Total": 19,
       "NumberOfSessions": null
     },
     {
@@ -1063,8 +1063,8 @@
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Syrian",
       "Male": 0,
-      "Female": 0,
-      "Total": 0,
+      "Female": 266,
+      "Total": 266,
       "NumberOfSessions": null
     },
     {
@@ -1072,8 +1072,8 @@
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Syrian",
       "Male": 0,
-      "Female": 1,
-      "Total": 1,
+      "Female": 4,
+      "Total": 4,
       "NumberOfSessions": null
     },
     {
@@ -1089,18 +1089,18 @@
       "Activity": "Number of POCs reached by protection monitoring/indivdual assesments",
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Syrian",
-      "Male": 293,
-      "Female": 269,
-      "Total": 562,
+      "Male": 214,
+      "Female": 170,
+      "Total": 384,
       "NumberOfSessions": null
     },
     {
       "Activity": "Number of POCs receiving legal assestance",
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Non-syrian",
-      "Male": 24,
-      "Female": 13,
-      "Total": 37,
+      "Male": 13,
+      "Female": 10,
+      "Total": 23,
       "NumberOfSessions": null
     },
     {
@@ -1116,9 +1116,9 @@
       "Activity": "Number of POCs participating in legal awareness raising",
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Non-syrian",
-      "Male": 0,
-      "Female": 0,
-      "Total": 0,
+      "Male": 20,
+      "Female": 20,
+      "Total": 40,
       "NumberOfSessions": null
     },
     {
@@ -1128,7 +1128,7 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "NumberOfSessions": 0
+      "NumberOfSessions": 1
     },
     {
       "Activity": "Number of events, workshops and seminars organized to promote access to entry points and detention centres",
@@ -1155,7 +1155,7 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "NumberOfSessions": 69
+      "NumberOfSessions": 78
     },
     {
       "Activity": "Number community assessments conducted",
@@ -1164,15 +1164,15 @@
       "Male": null,
       "Female": null,
       "Total": 0,
-      "NumberOfSessions": 17
+      "NumberOfSessions": 5
     },
     {
       "Activity": "Number of POCs participated in community assessments",
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Non-syrian",
-      "Male": 17,
+      "Male": 5,
       "Female": 0,
-      "Total": 17,
+      "Total": 5,
       "NumberOfSessions": null
     },
     {
@@ -1180,8 +1180,8 @@
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Non-syrian",
       "Male": 0,
-      "Female": 0,
-      "Total": 0,
+      "Female": 3,
+      "Total": 3,
       "NumberOfSessions": null
     },
     {
@@ -1206,41 +1206,95 @@
       "Activity": "Number of POCs reached by protection monitoring/indivdual assesments",
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Non-syrian",
-      "Male": 15,
-      "Female": 8,
-      "Total": 23,
+      "Male": 11,
+      "Female": 4,
+      "Total": 15,
       "NumberOfSessions": null
     },
     {
       "Activity": "Legal representation",
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 19,
-      "Female": 10,
-      "Total": 29,
+      "Male": 33,
+      "Female": 28,
+      "Total": 61,
       "NumberOfSessions": null
     },
     {
       "Activity": "Legal counselling",
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 41,
-      "Female": 26,
-      "Total": 67,
+      "Male": 97,
+      "Female": 84,
+      "Total": 181,
       "NumberOfSessions": null
     },
     {
       "Activity": "Awareness rasing",
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 0,
-      "Female": 37,
-      "Total": 37,
+      "Male": 15,
+      "Female": 35,
+      "Total": 50,
       "NumberOfSessions": null
     },
     {
       "Activity": "Number of POCs assisted with civil status registration or documentation",
       "TypeOfBeneficiaries": "IDPs",
+      "SyrianNonSyrian": "Not-Apllicable",
+      "Male": 15,
+      "Female": 14,
+      "Total": 29,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "Number of POCs reached by protection monitoring",
+      "TypeOfBeneficiaries": "IDPs",
+      "SyrianNonSyrian": "Not-Apllicable",
+      "Male": 1082,
+      "Female": 1095,
+      "Total": 2177,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "Number of PSN identified and referred",
+      "TypeOfBeneficiaries": "IDPs",
+      "SyrianNonSyrian": "Not-Apllicable",
+      "Male": null,
+      "Female": null,
+      "Total": 1421,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "Cash for Protection",
+      "TypeOfBeneficiaries": "IDPs",
+      "SyrianNonSyrian": "Not-Apllicable",
+      "Male": 101,
+      "Female": 74,
+      "Total": 175,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "PSS",
+      "TypeOfBeneficiaries": "IDPs",
+      "SyrianNonSyrian": "Not-Apllicable",
+      "Male": 0,
+      "Female": 175,
+      "Total": 175,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "Case Managment",
+      "TypeOfBeneficiaries": "IDPs",
+      "SyrianNonSyrian": "Not-Apllicable",
+      "Male": 32,
+      "Female": 13,
+      "Total": 45,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "Cash for Protection",
+      "TypeOfBeneficiaries": "Returnees",
       "SyrianNonSyrian": "Not-Apllicable",
       "Male": 0,
       "Female": 0,
@@ -1248,84 +1302,21 @@
       "NumberOfSessions": null
     },
     {
-      "Activity": "Number of POCs reached by protection monitoring",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 868,
-      "Female": 879,
-      "Total": 1747,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Number of PSN identified and referred",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 729,
-      "Female": 296,
-      "Total": 1025,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "IDPs received case management services",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 21,
-      "Female": 22,
-      "Total": 43,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Cash for Protection",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "PSS",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 20,
-      "Female": 126,
-      "Total": 146,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Case Managment",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 5,
-      "Female": 42,
-      "Total": 47,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Cash for Protection",
-      "TypeOfBeneficiaries": "Returnees",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
       "Activity": "PSS",
       "TypeOfBeneficiaries": "Returnees",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 24,
-      "Female": 33,
-      "Total": 57,
+      "Male": 62,
+      "Female": 67,
+      "Total": 129,
       "NumberOfSessions": null
     },
     {
       "Activity": "Case Managment",
       "TypeOfBeneficiaries": "Returnees",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 21,
-      "Female": 26,
-      "Total": 47,
+      "Male": 26,
+      "Female": 39,
+      "Total": 65,
       "NumberOfSessions": null
     }
   ],
@@ -1426,9 +1417,9 @@
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "Objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
       "Cluster": "SGBV",
-      "TypeOfBeneficiaries": "IDPs",
+      "TypeOfBeneficiaries": "Returnees",
       "CampNonCamp": "NonCamp",
-      "NameOfCamp": "Sinune",
+      "NameOfCamp": "Sinjar",
       "Male": null,
       "Female": 81,
       "Total": 81,
@@ -1585,9 +1576,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Domiz1",
-      "Male": 29,
-      "Female": 82,
-      "Total": 111,
+      "Male": 28,
+      "Female": 154,
+      "Total": 182,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -1612,8 +1603,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Akre camp",
       "Male": 0,
-      "Female": 4,
-      "Total": 4,
+      "Female": 49,
+      "Total": 49,
       "District": "Akre",
       "Province": "Duhok"
     },
@@ -1638,8 +1629,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Bardarash camp",
       "Male": 6,
-      "Female": 37,
-      "Total": 43,
+      "Female": 81,
+      "Total": 87,
       "District": "Bardarash",
       "Province": "Duhok"
     },
@@ -1650,9 +1641,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Gawilan camp",
-      "Male": 1,
-      "Female": 27,
-      "Total": 28,
+      "Male": 10,
+      "Female": 82,
+      "Total": 92,
       "District": "Al-Hamdaniya",
       "Province": "Nineveh"
     },
@@ -1663,9 +1654,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 2,
-      "Female": 4,
-      "Total": 6,
+      "Male": 0,
+      "Female": 7,
+      "Total": 7,
       "District": "Amedi",
       "Province": "Duhok"
     },
@@ -1677,8 +1668,8 @@
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
       "Male": 0,
-      "Female": 15,
-      "Total": 15,
+      "Female": 11,
+      "Total": 11,
       "District": "Duhok",
       "Province": "Duhok"
     },
@@ -1690,8 +1681,8 @@
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
       "Male": 0,
-      "Female": 14,
-      "Total": 14,
+      "Female": 40,
+      "Total": 40,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -1702,9 +1693,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 0,
-      "Female": 10,
-      "Total": 10,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -1728,9 +1719,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": null,
-      "Female": null,
-      "Total": 0,
+      "Male": 0,
+      "Female": 18,
+      "Total": 18,
       "District": "Shekhan",
       "Province": "Duhok"
     },
@@ -1780,9 +1771,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Domiz1 camp",
-      "Male": 137,
-      "Female": 144,
-      "Total": 281,
+      "Male": 130,
+      "Female": 145,
+      "Total": 275,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -1793,9 +1784,9 @@
       "TypeOfBeneficiaries": "Refugee",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Gawilan camp",
-      "Male": 125,
-      "Female": 273,
-      "Total": 398,
+      "Male": 180,
+      "Female": 303,
+      "Total": 483,
       "District": "Al-Hamdaniya",
       "Province": "Nineveh"
     },
@@ -1804,11 +1795,11 @@
       "Objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
       "Cluster": "SGBV",
       "TypeOfBeneficiaries": "IDPs",
-      "CampNonCamp": "NonCamp",
+      "CampNonCamp": "Camp",
       "NameOfCamp": "Bardarash",
-      "Male": 165,
-      "Female": 291,
-      "Total": 456,
+      "Male": 194,
+      "Female": 379,
+      "Total": 573,
       "District": "Bardarash",
       "Province": "Duhok"
     },
@@ -1819,9 +1810,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": "Bashiqa",
-      "Male": 135,
-      "Female": 274,
-      "Total": 409,
+      "Male": 175,
+      "Female": 339,
+      "Total": 514,
       "District": "Al-Mosul",
       "Province": "Nineveh"
     },
@@ -1832,9 +1823,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": "Zummar",
-      "Male": 144,
-      "Female": 270,
-      "Total": 414,
+      "Male": 187,
+      "Female": 353,
+      "Total": 540,
       "District": "Tel Afer",
       "Province": "Nineveh"
     },
@@ -1845,9 +1836,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": "West Mosul",
-      "Male": 158,
-      "Female": 353,
-      "Total": 511,
+      "Male": 175,
+      "Female": 326,
+      "Total": 501,
       "District": "Al-Mosul",
       "Province": "Nineveh"
     },
@@ -1858,9 +1849,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Essian",
-      "Male": 25,
-      "Female": 25,
-      "Total": 50,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
       "District": "Shekhan",
       "Province": "Duhok"
     },
@@ -1871,9 +1862,9 @@
       "TypeOfBeneficiaries": "Returnees",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": "Sinjar",
-      "Male": 26,
-      "Female": 26,
-      "Total": 52,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
       "District": "Sinjar",
       "Province": "Nineveh"
     },
@@ -1884,9 +1875,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Essian",
-      "Male": 0,
-      "Female": 51,
-      "Total": 51,
+      "Male": 90,
+      "Female": 120,
+      "Total": 210,
       "District": "Shekhan",
       "Province": "Duhok"
     },
@@ -1897,9 +1888,9 @@
       "TypeOfBeneficiaries": "Returnees",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": "Sinjar",
-      "Male": 0,
-      "Female": 10,
-      "Total": 10,
+      "Male": 81,
+      "Female": 145,
+      "Total": 226,
       "District": "Sinjar",
       "Province": "Nineveh"
     },
@@ -1910,9 +1901,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Essian",
-      "Male": 259,
-      "Female": 435,
-      "Total": 694,
+      "Male": 121,
+      "Female": 116,
+      "Total": 237,
       "District": "Shekhan",
       "Province": "Duhok"
     },
@@ -1923,9 +1914,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Chamishku",
-      "Male": 208,
-      "Female": 597,
-      "Total": 805,
+      "Male": 62,
+      "Female": 196,
+      "Total": 258,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -1936,9 +1927,9 @@
       "TypeOfBeneficiaries": "Returnees",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": "Sinjar",
-      "Male": 327,
-      "Female": 335,
-      "Total": 662,
+      "Male": 90,
+      "Female": 90,
+      "Total": 180,
       "District": "Sinjar",
       "Province": "Nineveh"
     },
@@ -1961,234 +1952,234 @@
       "Activity": "POCs reached through raising awareness sessions",
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Syrian",
-      "Male": 182,
-      "Female": 545,
-      "Total": 727,
-      "NumberOfSessions": 12
+      "Male": 206,
+      "Female": 911,
+      "Total": 1117,
+      "NumberOfSessions": 25
     },
     {
       "Activity": "Case management",
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Syrian",
-      "Male": 12,
-      "Female": 145,
-      "Total": 157,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "POCs reached through Non-formal education classes",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Syrian",
-      "Male": 53,
-      "Female": 74,
-      "Total": 127,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "POCs reached through PSS sessions",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Syrian",
-      "Male": 20,
-      "Female": 175,
-      "Total": 195,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "POCs reached through AGT trainings",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Syrian",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Recreational activities",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Syrian",
-      "Male": 48,
-      "Female": 215,
-      "Total": 263,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Distribution of dignity kits",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Syrian",
-      "Male": null,
-      "Female": 520,
-      "Total": 520,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "safety audit",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Syrian",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "referral Pathway",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Syrian",
-      "Male": 2,
-      "Female": 1,
-      "Total": 3,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Service providers trained on GBV prevention and referral",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Syrian",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "POCs trained on GBV prevention and referral",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Syrian",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Service providers trained on PSEA",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Syrian",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "community members trained on PSEA",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Syrian",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "POCs reached through vocational training",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Syrian",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "POCs reached through raising awareness sessions",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Non-syrian",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Case management",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Non-syrian",
-      "Male": 0,
-      "Female": 3,
-      "Total": 3,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "POCs reached through PSS sessions",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Non-syrian",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "POCs trained on GBV prevention and referral",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Non-syrian",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "community members trained on PSEA",
-      "TypeOfBeneficiaries": "Refugee",
-      "SyrianNonSyrian": "Non-syrian",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "POCs reached through raising awareness sessions",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 528,
-      "Female": 828,
-      "Total": 1356,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Case management",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 0,
-      "Female": 98,
-      "Total": 98,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "POCs reached through Non-formal education classes",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": null,
-      "Female": 23,
+      "Male": 1,
+      "Female": 22,
       "Total": 23,
       "NumberOfSessions": null
     },
     {
+      "Activity": "POCs reached through Non-formal education classes",
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Syrian",
+      "Male": 63,
+      "Female": 72,
+      "Total": 135,
+      "NumberOfSessions": null
+    },
+    {
       "Activity": "POCs reached through PSS sessions",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 0,
-      "Female": 266,
-      "Total": 266,
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Syrian",
+      "Male": null,
+      "Female": 103,
+      "Total": 103,
       "NumberOfSessions": null
     },
     {
       "Activity": "POCs reached through AGT trainings",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 0,
-      "Female": 256,
-      "Total": 256,
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Syrian",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
       "NumberOfSessions": null
     },
     {
       "Activity": "Recreational activities",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 96,
-      "Female": 129,
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Syrian",
+      "Male": 92,
+      "Female": 133,
       "Total": 225,
       "NumberOfSessions": null
     },
     {
       "Activity": "Distribution of dignity kits",
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Syrian",
+      "Male": 4,
+      "Female": 412,
+      "Total": 416,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "safety audit",
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Syrian",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "referral Pathway",
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Syrian",
+      "Male": 6,
+      "Female": 5,
+      "Total": 11,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "Service providers trained on GBV prevention and referral",
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Syrian",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "POCs trained on GBV prevention and referral",
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Syrian",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "Service providers trained on PSEA",
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Syrian",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "community members trained on PSEA",
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Syrian",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "POCs reached through vocational training",
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Syrian",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "POCs reached through raising awareness sessions",
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Non-syrian",
+      "Male": 0,
+      "Female": 18,
+      "Total": 18,
+      "NumberOfSessions": 1
+    },
+    {
+      "Activity": "Case management",
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Non-syrian",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "POCs reached through PSS sessions",
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Non-syrian",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "POCs trained on GBV prevention and referral",
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Non-syrian",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "community members trained on PSEA",
+      "TypeOfBeneficiaries": "Refugee",
+      "SyrianNonSyrian": "Non-syrian",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "POCs reached through raising awareness sessions",
+      "TypeOfBeneficiaries": "IDPs",
+      "SyrianNonSyrian": "Not-Apllicable",
+      "Male": 800,
+      "Female": 1209,
+      "Total": 2009,
+      "NumberOfSessions": 88
+    },
+    {
+      "Activity": "Case management",
+      "TypeOfBeneficiaries": "IDPs",
+      "SyrianNonSyrian": "Not-Apllicable",
+      "Male": 8,
+      "Female": 145,
+      "Total": 153,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "POCs reached through Non-formal education classes",
+      "TypeOfBeneficiaries": "IDPs",
+      "SyrianNonSyrian": "Not-Apllicable",
+      "Male": 0,
+      "Female": null,
+      "Total": 0,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "POCs reached through PSS sessions",
+      "TypeOfBeneficiaries": "IDPs",
+      "SyrianNonSyrian": "Not-Apllicable",
+      "Male": 90,
+      "Female": 673,
+      "Total": 763,
+      "NumberOfSessions": 160
+    },
+    {
+      "Activity": "POCs reached through AGT trainings",
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
       "Male": null,
-      "Female": 38,
-      "Total": 38,
+      "Female": null,
+      "Total": 0,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "Recreational activities",
+      "TypeOfBeneficiaries": "IDPs",
+      "SyrianNonSyrian": "Not-Apllicable",
+      "Male": 80,
+      "Female": 171,
+      "Total": 251,
+      "NumberOfSessions": 16
+    },
+    {
+      "Activity": "Distribution of dignity kits",
+      "TypeOfBeneficiaries": "IDPs",
+      "SyrianNonSyrian": "Not-Apllicable",
+      "Male": null,
+      "Female": 44,
+      "Total": 44,
       "NumberOfSessions": null
     },
     {
@@ -2213,10 +2204,10 @@
       "Activity": "Service providers trained on GBV prevention and referral",
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
+      "Male": 56,
+      "Female": 56,
+      "Total": 112,
+      "NumberOfSessions": 8
     },
     {
       "Activity": "POCs trained on GBV prevention and referral",
@@ -2250,17 +2241,17 @@
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
       "Male": 0,
-      "Female": 108,
-      "Total": 108,
-      "NumberOfSessions": null
+      "Female": 94,
+      "Total": 94,
+      "NumberOfSessions": 48
     },
     {
       "Activity": "POCs reached through raising awareness sessions",
       "TypeOfBeneficiaries": "Returnees",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 5,
-      "Female": 103,
-      "Total": 108,
+      "Male": 95,
+      "Female": 147,
+      "Total": 242,
       "NumberOfSessions": null
     },
     {
@@ -2268,8 +2259,8 @@
       "TypeOfBeneficiaries": "Returnees",
       "SyrianNonSyrian": "Not-Apllicable",
       "Male": null,
-      "Female": 2,
-      "Total": 2,
+      "Female": 13,
+      "Total": 13,
       "NumberOfSessions": null
     },
     {
@@ -2285,9 +2276,9 @@
       "Activity": "POCs reached through PSS sessions",
       "TypeOfBeneficiaries": "Returnees",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": null,
-      "Female": 32,
-      "Total": 32,
+      "Male": 81,
+      "Female": 205,
+      "Total": 286,
       "NumberOfSessions": null
     },
     {
@@ -2304,8 +2295,8 @@
       "TypeOfBeneficiaries": "Returnees",
       "SyrianNonSyrian": "Not-Apllicable",
       "Male": null,
-      "Female": null,
-      "Total": 0,
+      "Female": 25,
+      "Total": 25,
       "NumberOfSessions": null
     },
     {
@@ -2509,22 +2500,22 @@
   ],
   "SGBVHighlights": [
     {
-      "GeneralHighlights": "APM for GBV has attended GBV WG meeting through zoom. During the meeting, the attendees shared their updates and services."
+      "GeneralHighlights": "APM for GBV has attended GBVIMS data analysis meeting through Zoom and updated GBVIMS DGOs regarding the main issues of Duhok and Ninewa governorates."
     },
     {
-      "GeneralHighlights": "APM for GBV has attended GBVIMS task force meeting and data analysis through Zoom."
+      "GeneralHighlights": "APM for GBV has attended a meeting with UNHCR GBV focal point regarding the workplan of 2021 and referral mechanism."
     },
     {
-      "GeneralHighlights": "CLC/Bardarash center manager has attended UNHCR online monthly Bardarash protection meeting."
+      "GeneralHighlights": "CLC-Gawilan manager has attended Gawilan monthly protection meeting which was conducted by camp management in registration center during the meeting all protection updates from protection sectors and work plan for the camp have been discussed."
     },
     {
-      "GeneralHighlights": "CLC-Gawilan social worker has attended Gawilan monthly meeting which was conducted by camp management in camp management office during the meeting all updates from other agencies shared with activities, plans for January and challenges inside the camp."
+      "GeneralHighlights": "CLC-Manager has attended CCM meeting with a group of governmental and non-governmental organizations at Domiz camp during the meeting a lot of topic have been discussed like updates from all attendees for better coordination."
     },
     {
-      "GeneralHighlights": "CLC-Manager has attended monthly CCM meeting that was online, during the meeting updates and more plans for the camp have been discussed for 2021."
+      "GeneralHighlights": "CPO has attended CCM and CP working group meetings"
     },
     {
-      "GeneralHighlights": "CPO has attended montly CCM and CPWG meetings."
+      "GeneralHighlights": "CPO has attended UNHCR-HARIKAR coordination meeting"
     }
   ],
   "Health": [
@@ -2536,8 +2527,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Domiz 1",
       "Male": null,
-      "Female": 1401,
-      "Total": 1401,
+      "Female": 2504,
+      "Total": 2504,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -2549,8 +2540,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Domiz 2",
       "Male": null,
-      "Female": 409,
-      "Total": 409,
+      "Female": 1132,
+      "Total": 1132,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -2562,8 +2553,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Bardarash camp",
       "Male": null,
-      "Female": 410,
-      "Total": 410,
+      "Female": 964,
+      "Total": 964,
       "District": "Bardarash",
       "Province": "Duhok"
     },
@@ -2575,8 +2566,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Gawilan Camp",
       "Male": null,
-      "Female": 402,
-      "Total": 402,
+      "Female": 992,
+      "Total": 992,
       "District": "Al-Hamdaniya",
       "Province": "Nineveh"
     },
@@ -2588,8 +2579,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Sharya",
       "Male": null,
-      "Female": 101,
-      "Total": 101,
+      "Female": 441,
+      "Total": 441,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -2601,8 +2592,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "chameshko",
       "Male": null,
-      "Female": 289,
-      "Total": 289,
+      "Female": 1259,
+      "Total": 1259,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -2614,8 +2605,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Bajed kandala",
       "Male": null,
-      "Female": 105,
-      "Total": 105,
+      "Female": 228,
+      "Total": 228,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -2627,8 +2618,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Bersive 2",
       "Male": null,
-      "Female": 55,
-      "Total": 55,
+      "Female": 0,
+      "Total": 0,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -2640,8 +2631,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Darkar",
       "Male": null,
-      "Female": 100,
-      "Total": 100,
+      "Female": 275,
+      "Total": 275,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -2653,8 +2644,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Khankia",
       "Male": null,
-      "Female": 129,
-      "Total": 129,
+      "Female": 709,
+      "Total": 709,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -2666,8 +2657,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Kabarto2",
       "Male": null,
-      "Female": 110,
-      "Total": 110,
+      "Female": 428,
+      "Total": 428,
       "District": "Sumel",
       "Province": "Duhok"
     },
@@ -2679,8 +2670,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Shekhan",
       "Male": null,
-      "Female": 111,
-      "Total": 111,
+      "Female": 339,
+      "Total": 339,
       "District": "Shekhan",
       "Province": "Duhok"
     },
@@ -2692,8 +2683,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Mamryshan",
       "Male": null,
-      "Female": 161,
-      "Total": 161,
+      "Female": 346,
+      "Total": 346,
       "District": "Shekhan",
       "Province": "Duhok"
     },
@@ -2705,8 +2696,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Qadiya",
       "Male": null,
-      "Female": 92,
-      "Total": 92,
+      "Female": 267,
+      "Total": 267,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -2718,8 +2709,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Dawediya",
       "Male": null,
-      "Female": 20,
-      "Total": 20,
+      "Female": 3,
+      "Total": 3,
       "District": "Amedi",
       "Province": "Duhok"
     },
@@ -2729,10 +2720,10 @@
       "Cluster": "Health",
       "TypeOfBeneficiaries": "Host Community",
       "CampNonCamp": "NonCamp",
-      "NameOfCamp": null,
+      "NameOfCamp": "Duhok Maternity \nHospital",
       "Male": null,
-      "Female": 3002,
-      "Total": 3002,
+      "Female": 7703,
+      "Total": 7703,
       "District": "Duhok",
       "Province": "Duhok"
     },
@@ -2742,10 +2733,10 @@
       "Cluster": "Health",
       "TypeOfBeneficiaries": "Host Community",
       "CampNonCamp": "NonCamp",
-      "NameOfCamp": null,
+      "NameOfCamp": "Zahho Matrernity \nHospital",
       "Male": null,
-      "Female": 2111,
-      "Total": 2111,
+      "Female": 4268,
+      "Total": 4268,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -2757,8 +2748,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Bersive1",
       "Male": null,
-      "Female": 0,
-      "Total": 0,
+      "Female": 1075,
+      "Total": 1075,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -2770,8 +2761,8 @@
       "CampNonCamp": "Camp",
       "NameOfCamp": "Kabarto1",
       "Male": null,
-      "Female": 0,
-      "Total": 0,
+      "Female": 1063,
+      "Total": 1063,
       "District": "Sumel",
       "Province": "Duhok"
     }
@@ -2782,8 +2773,8 @@
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Syrian",
       "Male": null,
-      "Female": 2622,
-      "Total": 2622,
+      "Female": 2662,
+      "Total": 2662,
       "NumberOfSessions": null
     },
     {
@@ -2818,8 +2809,8 @@
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Syrian",
       "Male": null,
-      "Female": 43,
-      "Total": 43,
+      "Female": 0,
+      "Total": 0,
       "NumberOfSessions": null
     },
     {
@@ -2827,8 +2818,8 @@
       "TypeOfBeneficiaries": "Refugee",
       "SyrianNonSyrian": "Syrian",
       "Male": null,
-      "Female": null,
-      "Total": 0,
+      "Female": 43,
+      "Total": 43,
       "NumberOfSessions": null
     },
     {
@@ -2836,8 +2827,8 @@
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
       "Male": null,
-      "Female": 10597,
-      "Total": 10597,
+      "Female": 9014,
+      "Total": 9014,
       "NumberOfSessions": null
     },
     {
@@ -2845,8 +2836,8 @@
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
       "Male": null,
-      "Female": 266,
-      "Total": 266,
+      "Female": 352,
+      "Total": 352,
       "NumberOfSessions": null
     },
     {
@@ -2854,8 +2845,8 @@
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
       "Male": null,
-      "Female": 628,
-      "Total": 628,
+      "Female": 997,
+      "Total": 997,
       "NumberOfSessions": null
     },
     {
@@ -2863,8 +2854,8 @@
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
       "Male": null,
-      "Female": 1517,
-      "Total": 1517,
+      "Female": 642,
+      "Total": 642,
       "NumberOfSessions": null
     },
     {
@@ -2872,8 +2863,8 @@
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
       "Male": null,
-      "Female": 676,
-      "Total": 676,
+      "Female": 619,
+      "Total": 619,
       "NumberOfSessions": null
     },
     {
@@ -2881,12 +2872,19 @@
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
       "Male": null,
-      "Female": 1981,
-      "Total": 1981,
+      "Female": 1626,
+      "Total": 1626,
       "NumberOfSessions": null
     }
   ],
-  "HealthHighlights": [],
+  "HealthHighlights": [
+    {
+      "GeneralHighlights": "Two Reproductive Health Clinic implenented recently in Kabarto-1 and Bersive -1 Camps as a National Consortium project( Dary -Harikar project ) under fund of IHF."
+    },
+    {
+      "GeneralHighlights": "In addition to the above mentioned RH cliinc , we are supporing  COVID -19 awarness campiang in both Camps through 10 community educators in each Camp."
+    }
+  ],
   "Livelihood": [
     {
       "NameOfProject": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
@@ -2921,22 +2919,22 @@
       "TypeOfBeneficiaries": "Returnees",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "District": "Al-Mosul",
-      "Province": "Nineveh"
-    },
-    {
-      "NameOfProject": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
-      "Objective": "improving the status of food security through support with agricultural\r\nlivelihoods for increased access and availability of food at household level as well as generate agricultural income of food insecure IDPs,\r\nReturnees and Host Communities.",
-      "Cluster": "Livelihood",
-      "TypeOfBeneficiaries": "Host Community",
-      "CampNonCamp": "NonCamp",
-      "NameOfCamp": null,
-      "Male": 18,
+      "Male": 27,
       "Female": 6,
-      "Total": 24,
+      "Total": 33,
+      "District": "Al-Mosul",
+      "Province": "Nineveh"
+    },
+    {
+      "NameOfProject": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
+      "Objective": "improving the status of food security through support with agricultural\r\nlivelihoods for increased access and availability of food at household level as well as generate agricultural income of food insecure IDPs,\r\nReturnees and Host Communities.",
+      "Cluster": "Livelihood",
+      "TypeOfBeneficiaries": "Host Community",
+      "CampNonCamp": "NonCamp",
+      "NameOfCamp": null,
+      "Male": 9,
+      "Female": 5,
+      "Total": 14,
       "District": "Al-Mosul",
       "Province": "Nineveh"
     },
@@ -2960,9 +2958,9 @@
       "TypeOfBeneficiaries": "Returnees",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 23,
-      "Female": 18,
-      "Total": 41,
+      "Male": 79,
+      "Female": 38,
+      "Total": 117,
       "District": "Sinjar",
       "Province": "Nineveh"
     },
@@ -2986,9 +2984,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 2,
-      "Female": 1,
-      "Total": 3,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
       "District": "Sinjar",
       "Province": "Nineveh"
     },
@@ -2999,9 +2997,9 @@
       "TypeOfBeneficiaries": "Returnees",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 14,
-      "Female": 4,
-      "Total": 18,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
       "District": "Tel Kaif",
       "Province": "Nineveh"
     },
@@ -3012,9 +3010,9 @@
       "TypeOfBeneficiaries": "Host Community",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": null,
-      "Male": 8,
-      "Female": 0,
-      "Total": 8,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
       "District": "Tel Kaif",
       "Province": "Nineveh"
     },
@@ -3037,72 +3035,72 @@
       "Activity": "Distribution of Greenhouses",
       "TypeOfBeneficiaries": "Returnees",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 8,
-      "Female": 2,
-      "Total": 10,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Distribution of Agricultural inputs for Home Gardens",
-      "TypeOfBeneficiaries": "Returnees",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 16,
-      "Female": 15,
-      "Total": 31,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Distribution of Agricultural inputs for Rainfed farms",
-      "TypeOfBeneficiaries": "Returnees",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Distribution of Agricutural Inputs for Irrigated farms",
-      "TypeOfBeneficiaries": "Returnees",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 10,
-      "Female": 1,
-      "Total": 11,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Cash for work",
-      "TypeOfBeneficiaries": "Returnees",
-      "SyrianNonSyrian": "Not-Apllicable",
       "Male": 20,
-      "Female": 4,
-      "Total": 24,
+      "Female": 3,
+      "Total": 23,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "Distribution of Agricultural inputs for Home Gardens",
+      "TypeOfBeneficiaries": "Returnees",
+      "SyrianNonSyrian": "Not-Apllicable",
+      "Male": 33,
+      "Female": 34,
+      "Total": 67,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "Distribution of Agricultural inputs for Rainfed farms",
+      "TypeOfBeneficiaries": "Returnees",
+      "SyrianNonSyrian": "Not-Apllicable",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "Distribution of Agricutural Inputs for Irrigated farms",
+      "TypeOfBeneficiaries": "Returnees",
+      "SyrianNonSyrian": "Not-Apllicable",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
+      "NumberOfSessions": null
+    },
+    {
+      "Activity": "Cash for work",
+      "TypeOfBeneficiaries": "Returnees",
+      "SyrianNonSyrian": "Not-Apllicable",
+      "Male": null,
+      "Female": null,
+      "Total": 0,
       "NumberOfSessions": null
     },
     {
       "Activity": "Agricultural Trainings on Greenhouses",
       "TypeOfBeneficiaries": "Returnees",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
+      "Male": 31,
+      "Female": 6,
+      "Total": 37,
       "NumberOfSessions": null
     },
     {
       "Activity": "General Agricultural Trainings",
       "TypeOfBeneficiaries": "Returnees",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
+      "Male": 31,
+      "Female": 6,
+      "Total": 37,
       "NumberOfSessions": null
     },
     {
       "Activity": "Distribution of Greenhouses",
       "TypeOfBeneficiaries": "Host Community",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 3,
-      "Female": 1,
-      "Total": 4,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
       "NumberOfSessions": null
     },
     {
@@ -3136,9 +3134,9 @@
       "Activity": "Cash for work",
       "TypeOfBeneficiaries": "Host Community",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 23,
-      "Female": 5,
-      "Total": 28,
+      "Male": null,
+      "Female": null,
+      "Total": 0,
       "NumberOfSessions": null
     },
     {
@@ -3153,69 +3151,6 @@
     {
       "Activity": "General Agricultural Trainings",
       "TypeOfBeneficiaries": "Host Community",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Distribution of Greenhouses",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Distribution of Agricultural inputs for Home Gardens",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 2,
-      "Female": 1,
-      "Total": 3,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Distribution of Agricultural inputs for Rainfed farms",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Distribution of Agricutural Inputs for Irrigated farms",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Cash for work",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "Agricultural Trainings on Greenhouses",
-      "TypeOfBeneficiaries": "IDPs",
-      "SyrianNonSyrian": "Not-Apllicable",
-      "Male": null,
-      "Female": null,
-      "Total": 0,
-      "NumberOfSessions": null
-    },
-    {
-      "Activity": "General Agricultural Trainings",
-      "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
       "Male": null,
       "Female": null,
@@ -3232,9 +3167,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Chamishku",
-      "Male": 1672,
-      "Female": 1610,
-      "Total": 3282,
+      "Male": 1375,
+      "Female": 1480,
+      "Total": 2855,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -3245,8 +3180,8 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Essian",
-      "Male": null,
-      "Female": null,
+      "Male": 0,
+      "Female": 0,
       "Total": 0,
       "District": "Shekhan",
       "Province": "Duhok"
@@ -3271,9 +3206,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Essian",
-      "Male": 2077,
-      "Female": 2188,
-      "Total": 4265,
+      "Male": 2320,
+      "Female": 2476,
+      "Total": 4796,
       "District": "Shekhan",
       "Province": "Duhok"
     },
@@ -3284,9 +3219,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Chamishku",
-      "Male": 445,
-      "Female": 465,
-      "Total": 910,
+      "Male": 12011,
+      "Female": 12674,
+      "Total": 24685,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -3297,9 +3232,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Chamishku",
-      "Male": 1266,
-      "Female": 1833,
-      "Total": 3099,
+      "Male": 1244,
+      "Female": 1536,
+      "Total": 2780,
       "District": "Zakho",
       "Province": "Duhok"
     },
@@ -3310,9 +3245,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Essian",
-      "Male": 1032,
-      "Female": 1292,
-      "Total": 2324,
+      "Male": 719,
+      "Female": 959,
+      "Total": 1678,
       "District": "Shekhan",
       "Province": "Duhok"
     },
@@ -3323,9 +3258,9 @@
       "TypeOfBeneficiaries": "Returnees",
       "CampNonCamp": "NonCamp",
       "NameOfCamp": "Sinjar",
-      "Male": 806,
-      "Female": 724,
-      "Total": 1530,
+      "Male": 1283,
+      "Female": 1359,
+      "Total": 2642,
       "District": "Sinjar",
       "Province": "Nineveh"
     },
@@ -3336,9 +3271,9 @@
       "TypeOfBeneficiaries": "IDPs",
       "CampNonCamp": "Camp",
       "NameOfCamp": "Essian",
-      "Male": 6351,
-      "Female": 6610,
-      "Total": 12961,
+      "Male": 6353,
+      "Female": 6620,
+      "Total": 12973,
       "District": "Shekhan",
       "Province": "Duhok"
     },
@@ -3361,35 +3296,35 @@
       "Activity": "Provision of water through boreholes operations in Chamishku camp",
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 10755,
-      "Female": 11425,
-      "Total": 22180,
+      "Male": 10776,
+      "Female": 11429,
+      "Total": 22205,
       "NumberOfSessions": null
     },
     {
       "Activity": "Provision of water through boreholes operations in Essian camp",
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 6351,
-      "Female": 6610,
-      "Total": 12961,
+      "Male": 6353,
+      "Female": 6620,
+      "Total": 12973,
       "NumberOfSessions": null
     },
     {
       "Activity": "Care and Maintenance of water network in Chamishku camp",
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 1672,
-      "Female": 1610,
-      "Total": 3282,
+      "Male": 1375,
+      "Female": 1480,
+      "Total": 2855,
       "NumberOfSessions": null
     },
     {
       "Activity": "care and Maintenance of water network in Essian camp",
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": null,
-      "Female": null,
+      "Male": 0,
+      "Female": 0,
       "Total": 0,
       "NumberOfSessions": null
     },
@@ -3397,63 +3332,63 @@
       "Activity": "Care and Maintenance of sanitation facilities in Chamishku camp",
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 2077,
-      "Female": 2188,
-      "Total": 4265,
+      "Male": 2320,
+      "Female": 2476,
+      "Total": 4796,
       "NumberOfSessions": null
     },
     {
       "Activity": "Care and Maintenance of sanitation facilities in Essian camp",
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 445,
-      "Female": 465,
-      "Total": 910,
+      "Male": 12011,
+      "Female": 12674,
+      "Total": 24685,
       "NumberOfSessions": null
     },
     {
       "Activity": "Garbage collection in Essian camp",
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 6351,
-      "Female": 6610,
-      "Total": 12961,
+      "Male": 6353,
+      "Female": 6620,
+      "Total": 12973,
       "NumberOfSessions": null
     },
     {
       "Activity": "Desludging in Essian camp",
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 6351,
-      "Female": 6610,
-      "Total": 12961,
+      "Male": 5998,
+      "Female": 5762,
+      "Total": 11760,
       "NumberOfSessions": null
     },
     {
       "Activity": "Hygiene promotion in Chamishku camp",
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 1266,
-      "Female": 1833,
-      "Total": 3099,
+      "Male": 1244,
+      "Female": 1536,
+      "Total": 2780,
       "NumberOfSessions": null
     },
     {
       "Activity": "Hygiene promotion in Essian camp",
       "TypeOfBeneficiaries": "IDPs",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 1032,
-      "Female": 1292,
-      "Total": 2324,
+      "Male": 719,
+      "Female": 959,
+      "Total": 1678,
       "NumberOfSessions": null
     },
     {
       "Activity": "Hygiene promotion in Sinjar",
       "TypeOfBeneficiaries": "Returnees",
       "SyrianNonSyrian": "Not-Apllicable",
-      "Male": 806,
-      "Female": 724,
-      "Total": 1530,
+      "Male": 1283,
+      "Female": 1359,
+      "Total": 2642,
       "NumberOfSessions": null
     }
   ],
