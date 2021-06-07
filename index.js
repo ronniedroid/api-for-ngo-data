@@ -124,12 +124,12 @@ app.get('/months/:year', (req, res) => {
   }
   months = sortByMonthName(months);
 
-  let monthsData = [];
+  let monthsData = {};
 
   months.forEach((month) => {
     try {
       month = month.replace(/.json/, '');
-      monthsData.push(month);
+      monthsData[month] = month;
     } catch (e) {
       res.status(400).json({ message: 'file not found' });
     }
