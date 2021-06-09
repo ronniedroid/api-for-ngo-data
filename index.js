@@ -225,7 +225,29 @@ app.get('/v2/data/:year', (req, res) => {
     });
   });
 
-  res.send(JSON.stringify(monthsData));
+  const adjustedMonthsData = monthsData.filter((item) => {
+    if (
+      (item.cluster === 'WASH' &&
+        item.nameOfProject ===
+          'WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021' &&
+        item.typeOfBeneficiaries === 'IDPs' &&
+        item.month !== 'february') ||
+      (item.month === 'february' &&
+        item.cluster === 'WASH' &&
+        item.typeOfBeneficiaries === 'IDPs' &&
+        item.nameOfProject ===
+          'WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021' &&
+        item.objective !==
+          'Water infrastructure repaired, maintained, or rehabilitated in IDP camps and Sinjar')
+    )
+      return item;
+  });
+
+  const finalData = [
+    ...new Set(monthsData.filter((x) => !adjustedMonthsData.includes(x))),
+  ];
+
+  res.send(JSON.stringify(finalData));
 });
 
 app.get('/v2/data/:year/:month', (req, res) => {
