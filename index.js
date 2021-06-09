@@ -138,6 +138,164 @@ app.get('/months/:year', (req, res) => {
   res.send(JSON.stringify(monthsData));
 });
 
+app.get('/v2/data/:year', (req, res) => {
+  const { year } = req.params;
+  // read in all the data for the years data
+  let months = fs.readdirSync(`./data/${year}`);
+
+  function sortByMonthName(monthNames, isReverse = false) {
+    const referenceMonthNames = [
+      'jan',
+      'feb',
+      'mar',
+      'apr',
+      'may',
+      'jun',
+      'jul',
+      'aug',
+      'sep',
+      'oct',
+      'nov',
+      'dec',
+    ];
+    const directionFactor = isReverse ? -1 : 1;
+    const comparator = (a, b) => {
+      if (!a && !b) return 0;
+      if (!a && b) return -1 * directionFactor;
+      if (a && !b) return 1 * directionFactor;
+
+      const comparableA = a.toLowerCase().substring(0, 3);
+      const comparableB = b.toLowerCase().substring(0, 3);
+      const comparisonResult =
+        referenceMonthNames.indexOf(comparableA) -
+        referenceMonthNames.indexOf(comparableB);
+      return comparisonResult * directionFactor;
+    };
+    const safeCopyMonthNames = [...monthNames];
+    safeCopyMonthNames.sort(comparator);
+    return safeCopyMonthNames;
+  }
+  months = sortByMonthName(months);
+
+  let mdata = {};
+  monthsData = [];
+
+  months.forEach((month) => {
+    try {
+      const fileBuffer = fs.readFileSync(`./data/${year}/${month}`);
+      const data = JSON.parse(fileBuffer);
+      month = month.replace(/.json/, '');
+      mdata[month] = data;
+    } catch (e) {
+      res.status(400).json({ message: 'file not found' });
+    }
+  });
+
+  const clusters = ['Protection', 'SGBV', 'Health', 'Livelihood', 'WASH'];
+  Object.keys(mdata).forEach((month) => {
+    clusters.forEach((cluster) => {
+      mdata[month][cluster].forEach((obj) => {
+        if (obj.Total <= 0) return;
+        const {
+          NameOfProject,
+          Objective,
+          Cluster,
+          Province,
+          District,
+          TypeOfBeneficiaries,
+          CampNonCamp,
+          Male,
+          Female,
+          Total,
+        } = obj;
+        monthsData.push({
+          nameOfProject: NameOfProject,
+          objective: Objective,
+          cluster: Cluster,
+          province: Province,
+          district: District,
+          typeOfBeneficiaries: TypeOfBeneficiaries,
+          location: CampNonCamp,
+          male: Male,
+          female: Female,
+          total: Total,
+          month: month,
+        });
+      });
+    });
+  });
+
+  res.send(JSON.stringify(monthsData));
+});
+
+app.get('/v2/data/:year/:month', (req, res) => {
+  let { year, month } = req.params;
+  const fileBuffer = fs.readFileSync(`./data/${year}/${month}.json`);
+  const data = JSON.parse(fileBuffer);
+  monthsData = {
+    info: [],
+    activities: [],
+    summaries: [],
+  };
+  const clusters = ['Protection', 'SGBV', 'Health', 'Livelihood', 'WASH'];
+  clusters.forEach((cluster) => {
+    data[cluster].forEach((obj) => {
+      if (obj.Total <= 0) return;
+      const {
+        NameOfProject,
+        Objective,
+        Cluster,
+        Province,
+        District,
+        TypeOfBeneficiaries,
+        CampNonCamp,
+        Male,
+        Female,
+        Total,
+      } = obj;
+      monthsData.info.push({
+        nameOfProject: NameOfProject,
+        objective: Objective,
+        cluster: Cluster,
+        province: Province,
+        district: District,
+        typeOfBeneficiaries: TypeOfBeneficiaries,
+        location: CampNonCamp,
+        male: Male,
+        female: Female,
+        total: Total,
+      });
+    });
+  });
+
+  clusters.forEach((cluster) => {
+    data[cluster + 'Activities'].forEach((obj) => {
+      if (obj.Total <= 0) return;
+      const { Activity, TypeOfBeneficiaries, Male, Female, Total } = obj;
+      monthsData.activities.push({
+        activity: Activity,
+        typeOfBeneficiaries: TypeOfBeneficiaries,
+        male: Male,
+        female: Female,
+        total: Total,
+        cluster: cluster,
+      });
+    });
+  });
+
+  clusters.forEach((cluster) => {
+    data[cluster + 'Highlights'].forEach((obj) => {
+      if (obj.Total <= 0) return;
+      monthsData.summaries.push({
+        summary: obj,
+        cluster: cluster,
+      });
+    });
+  });
+
+  res.send(JSON.stringify(monthsData));
+});
+
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`);
 });
