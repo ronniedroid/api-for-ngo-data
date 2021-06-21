@@ -61,12 +61,12 @@ app.get('/months/:year', (req, res) => {
 
   months = sort.sortByMonthName(months);
 
-  let monthsData = {};
+  let monthsData = [];
 
   months.forEach((month) => {
     try {
       month = month.replace(/.json/, '');
-      monthsData[month] = month;
+      monthsData.push(month);
     } catch (e) {
       res.status(400).json({ message: 'file not found' });
     }
@@ -153,7 +153,8 @@ app.get('/v2/data/:year', (req, res) => {
   ];
   const bothData = { original: monthsData, adjusted: finalData };
 
-  res.send(JSON.stringify(bothData));
+  // res.send(JSON.stringify(bothData));
+  res.status(200).json(bothData);
 });
 
 app.get('/v2/data/:year/:month', (req, res) => {
@@ -199,13 +200,21 @@ app.get('/v2/data/:year/:month', (req, res) => {
   clusters.forEach((cluster) => {
     data[cluster + 'Activities'].forEach((obj) => {
       if (obj.Total <= 0) return;
-      const { Activity, TypeOfBeneficiaries, Male, Female, Total } = obj;
+      const {
+        Activity,
+        TypeOfBeneficiaries,
+        Male,
+        Female,
+        Total,
+        NumberOfSessions,
+      } = obj;
       monthsData.activities.push({
         activity: Activity,
         typeOfBeneficiaries: TypeOfBeneficiaries,
         male: Male,
         female: Female,
         total: Total,
+        sessions: NumberOfSessions,
         cluster: cluster,
       });
     });
