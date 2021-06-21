@@ -4,6 +4,7 @@ const helmet = require('helmet');
 const fs = require('fs');
 const app = express();
 const port = process.env.PORT || 8000;
+const sort = require('./sortByName.js');
 
 //allow requests from apps on other ports
 app.use(cors());
@@ -35,39 +36,7 @@ app.get('/data/:year', (req, res) => {
   // read in all the data for the years data
   let months = fs.readdirSync(`./data/${year}`);
 
-  function sortByMonthName(monthNames, isReverse = false) {
-    const referenceMonthNames = [
-      'jan',
-      'feb',
-      'mar',
-      'apr',
-      'may',
-      'jun',
-      'jul',
-      'aug',
-      'sep',
-      'oct',
-      'nov',
-      'dec',
-    ];
-    const directionFactor = isReverse ? -1 : 1;
-    const comparator = (a, b) => {
-      if (!a && !b) return 0;
-      if (!a && b) return -1 * directionFactor;
-      if (a && !b) return 1 * directionFactor;
-
-      const comparableA = a.toLowerCase().substring(0, 3);
-      const comparableB = b.toLowerCase().substring(0, 3);
-      const comparisonResult =
-        referenceMonthNames.indexOf(comparableA) -
-        referenceMonthNames.indexOf(comparableB);
-      return comparisonResult * directionFactor;
-    };
-    const safeCopyMonthNames = [...monthNames];
-    safeCopyMonthNames.sort(comparator);
-    return safeCopyMonthNames;
-  }
-  months = sortByMonthName(months);
+  months = sort.sortByMonthName(months);
 
   let monthsData = {};
 
@@ -90,39 +59,7 @@ app.get('/months/:year', (req, res) => {
   // read in all the data for the years data
   let months = fs.readdirSync(`./data/${year}`);
 
-  function sortByMonthName(monthNames, isReverse = false) {
-    const referenceMonthNames = [
-      'jan',
-      'feb',
-      'mar',
-      'apr',
-      'may',
-      'jun',
-      'jul',
-      'aug',
-      'sep',
-      'oct',
-      'nov',
-      'dec',
-    ];
-    const directionFactor = isReverse ? -1 : 1;
-    const comparator = (a, b) => {
-      if (!a && !b) return 0;
-      if (!a && b) return -1 * directionFactor;
-      if (a && !b) return 1 * directionFactor;
-
-      const comparableA = a.toLowerCase().substring(0, 3);
-      const comparableB = b.toLowerCase().substring(0, 3);
-      const comparisonResult =
-        referenceMonthNames.indexOf(comparableA) -
-        referenceMonthNames.indexOf(comparableB);
-      return comparisonResult * directionFactor;
-    };
-    const safeCopyMonthNames = [...monthNames];
-    safeCopyMonthNames.sort(comparator);
-    return safeCopyMonthNames;
-  }
-  months = sortByMonthName(months);
+  months = sort.sortByMonthName(months);
 
   let monthsData = {};
 
@@ -143,39 +80,7 @@ app.get('/v2/data/:year', (req, res) => {
   // read in all the data for the years data
   let months = fs.readdirSync(`./data/${year}`);
 
-  function sortByMonthName(monthNames, isReverse = false) {
-    const referenceMonthNames = [
-      'jan',
-      'feb',
-      'mar',
-      'apr',
-      'may',
-      'jun',
-      'jul',
-      'aug',
-      'sep',
-      'oct',
-      'nov',
-      'dec',
-    ];
-    const directionFactor = isReverse ? -1 : 1;
-    const comparator = (a, b) => {
-      if (!a && !b) return 0;
-      if (!a && b) return -1 * directionFactor;
-      if (a && !b) return 1 * directionFactor;
-
-      const comparableA = a.toLowerCase().substring(0, 3);
-      const comparableB = b.toLowerCase().substring(0, 3);
-      const comparisonResult =
-        referenceMonthNames.indexOf(comparableA) -
-        referenceMonthNames.indexOf(comparableB);
-      return comparisonResult * directionFactor;
-    };
-    const safeCopyMonthNames = [...monthNames];
-    safeCopyMonthNames.sort(comparator);
-    return safeCopyMonthNames;
-  }
-  months = sortByMonthName(months);
+  months = sort.sortByMonthName(months);
 
   let mdata = {};
   monthsData = [];
@@ -246,8 +151,9 @@ app.get('/v2/data/:year', (req, res) => {
   const finalData = [
     ...new Set(monthsData.filter((x) => !adjustedMonthsData.includes(x))),
   ];
+  const bothData = { original: monthsData, adjusted: finalData };
 
-  res.send(JSON.stringify(finalData));
+  res.send(JSON.stringify(bothData));
 });
 
 app.get('/v2/data/:year/:month', (req, res) => {
