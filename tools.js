@@ -47,34 +47,27 @@ module.exports = {
       const arr = Array.from(Object.values(data));
       arr.map((item) => {
         item.map((i) => {
-          results = [...results, i];
+          if (i.nameOfProject && i.total > 0) {
+            results = [...results, i];
+          }
         });
       });
     });
     return results;
   },
-  cleanWashDoubleCounting: function (yearData) {
-    const adjustedYearData = yearData.filter((item) => {
-      if (
-        (item.cluster === 'WASH' &&
-          item.nameOfProject ===
-            'WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021' &&
-          item.typeOfBeneficiaries === 'IDPs' &&
-          item.month !== 'february') ||
-        (item.month === 'february' &&
-          item.cluster === 'WASH' &&
-          item.typeOfBeneficiaries === 'IDPs' &&
-          item.nameOfProject ===
-            'WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021' &&
-          item.objective !==
-            'Water infrastructure repaired, maintained, or rehabilitated in IDP camps and Sinjar')
-      )
-        return item;
-    });
+  getMonthData: function (year, month) {
+    let currentMonth = fs.readFileSync(`./data/${year}/${month}.json`);
 
-    const finalData = [
-      ...new Set(yearData.filter((x) => !adjustedYearData.includes(x))),
-    ];
-    return finalData;
+    let results = [];
+    const data = JSON.parse(currentMonth);
+    const arr = Array.from(Object.values(data));
+    arr.map((item) => {
+      item.map((i) => {
+        if (i.GeneralHighlights != null || i.total > 0) {
+          results = [...results, i];
+        }
+      });
+    });
+    return results;
   },
 };

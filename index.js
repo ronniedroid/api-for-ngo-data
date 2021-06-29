@@ -70,25 +70,25 @@ app.get('/v2/data/:year', (req, res) => {
   const { year } = req.params;
 
   const yearData = tools.getYearData(year);
-  const adjustedYearData = tools.cleanWashDoubleCounting(yearData);
-
-  const bothData = { original: yearData, adjusted: adjustedYearData };
 
   // res.send(JSON.stringify(bothData));
-  res.status(200).json(bothData);
+  res.status(200).json(yearData);
 });
 
 app.get('/v2/data/:year/:month', (req, res) => {
   let { year, month } = req.params;
 
   const yearData = tools
-    .getYearData(year)
+    .getMonthData(year, month)
     .filter((item) => item.month === month);
 
   monthsData = {
     info: yearData.filter((item) => item.nameOfProject),
     activities: yearData.filter((item) => item.activity),
-    summaries: [],
+    summaries:
+      year === '2020'
+        ? yearData.filter((item) => item.GeneralHighlights)
+        : yearData.filter((item) => item.summary),
   };
 
   res.status(200).json(monthsData);
