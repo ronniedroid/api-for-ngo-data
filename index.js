@@ -1,10 +1,10 @@
-const express = require('express');
-const cors = require('cors');
-const helmet = require('helmet');
-const fs = require('fs');
+const express = require("express");
+const cors = require("cors");
+const helmet = require("helmet");
+const fs = require("fs");
 const app = express();
 const port = process.env.PORT || 8000;
-const tools = require('./tools.js');
+const tools = require("./tools.js");
 
 //allow requests from apps on other ports
 app.use(cors());
@@ -12,18 +12,30 @@ app.use(helmet());
 app.use(express.json());
 
 // GET: localhost:3000/
-app.get('/', (req, res) => {
-  res.send('Harikar report data API');
+app.get("/", (req, res) => {
+  res.send("Harikar report data API");
 });
 
-app.get('/data/projects', (req, res) => {
+app.use("/v2/pdfs/bids/:bid", (req, res) => {
+  const { bid } = req.params;
+  const file = `${__dirname}/public/pdfs/bids/${bid}.pdf`;
+  res.download(file);
+});
+
+app.use("/v2/pdfs/jobs/:job", (req, res) => {
+  const { job } = req.params;
+  const file = `${__dirname}/public/pdfs/jobs/${job}.pdf`;
+  res.download(file);
+});
+
+app.get("/data/projects", (req, res) => {
   const fileBuffer = fs.readFileSync(`./data/projects.json`);
   const data = JSON.parse(fileBuffer);
   res.status(200).json(data);
 });
 
 // GET: localhost:300/data
-app.get('/data/:year/:month', (req, res) => {
+app.get("/data/:year/:month", (req, res) => {
   let { year, month } = req.params;
   const fileBuffer = fs.readFileSync(`./data/${year}/${month}.json`);
   const data = JSON.parse(fileBuffer);
@@ -31,7 +43,7 @@ app.get('/data/:year/:month', (req, res) => {
 });
 
 // GET: localhost:3000/:year
-app.get('/data/:year', (req, res) => {
+app.get("/data/:year", (req, res) => {
   const { year } = req.params;
   // read in all the data for the years data
   let months = fs.readdirSync(`./data/${year}`);
@@ -44,29 +56,29 @@ app.get('/data/:year', (req, res) => {
     try {
       const fileBuffer = fs.readFileSync(`./data/${year}/${month}`);
       const data = JSON.parse(fileBuffer);
-      month = month.replace(/.json/, '');
+      month = month.replace(/.json/, "");
       monthsData[month] = data;
     } catch (e) {
-      res.status(400).json({ message: 'file not found' });
+      res.status(400).json({ message: "file not found" });
     }
   });
 
   res.send(JSON.stringify(monthsData));
 });
 
-app.get('/v2/months/:year', (req, res) => {
+app.get("/v2/months/:year", (req, res) => {
   const { year } = req.params;
   // read in all the data for the years data
   let months = fs
     .readdirSync(`./data/${year}`)
-    .map((month) => month.split('.')[0]);
+    .map((month) => month.split(".")[0]);
 
   months = tools.sortByMonthName(months);
 
   res.status(200).json(months);
 });
 
-app.get('/v2/data/:year', (req, res) => {
+app.get("/v2/data/:year", (req, res) => {
   const { year } = req.params;
 
   const yearData = tools.getYearData(year);
@@ -75,7 +87,7 @@ app.get('/v2/data/:year', (req, res) => {
   res.status(200).json(yearData);
 });
 
-app.get('/v2/data/:year/:month', (req, res) => {
+app.get("/v2/data/:year/:month", (req, res) => {
   let { year, month } = req.params;
 
   const yearData = tools
@@ -86,7 +98,7 @@ app.get('/v2/data/:year/:month', (req, res) => {
     info: yearData.filter((item) => item.nameOfProject),
     activities: yearData.filter((item) => item.activity),
     summaries:
-      year === '2020'
+      year === "2020"
         ? yearData.filter((item) => item.GeneralHighlights)
         : yearData.filter((item) => item.summary),
   };
