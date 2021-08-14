@@ -1541,26 +1541,7 @@
       "month": "june"
     }
   ],
-  "ProtectionHighlights": [
-    {
-      "project": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq - IDPs",
-      "summary": "During June, the activities of the Refugees unit such as protection assessment, case follow-up, case management, helpdesk presence, and office presence were conducted with no challenges. At the beginning of June, Harikar received 685 bags as dignity kits for Females (IDPs and Refugees) in the Duhok governorate and our unit has distributed 189 bags.",
-      "Cluster": "Protection",
-      "month": "june"
-    },
-    {
-      "project": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq - Refugees",
-      "summary": null,
-      "Cluster": "Protection",
-      "month": "june"
-    },
-    {
-      "project": "Strengthening Protection, HLP Response, and Prevention services during COVID-19 Pandemic",
-      "summary": "During June, Strengthening Protection, HLP Response, and Prevention services during COVID-19 Pandemic continued it's ctivities for IDP's and Ruternees in the uraban areas, consisting of vulnerability assessments, Follow-up assessment, PSS, Case Management and Cash for Protection for IDP's in Zakho ( Darkar-Batifa), Sumel (Batel), Alqosh sub District and for Returnees in Sinune. we are reaching the needed targets as going toward project closure but still for GP-Case Management, a shortage of service providers remains a fundamental barrier. and access to some regions is difficult even with our native staff due to security concerns.",
-      "Cluster": "Protection",
-      "month": "june"
-    }
-  ],
+  "ProtectionHighlights": [],
   "SGBV": [
     {
       "NameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -2866,38 +2847,7 @@
       "month": "june"
     }
   ],
-  "SGBVHighlights": [
-    {
-      "project": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq - IDPs - GBV Unit",
-      "summary": "Harikar/UNHCR GBV unit conducted different activities in June 2021 for Syrian and Non-Syrian refugees in camps and out of camps and continousley presented awareness sessions and case management. GBV unit conducted seven training for Syrian refugees in camps and urban areas on PSEA and the purpose behind it to aware the community of PSEA, referral and reporting mechanism. Furthermore; CLC-Mnanagers have attended camp management and protection meeting on camp level and presented the updates of GBV activities. It is also worth to mention that; CLC-Domiz manager has attended an online GBV WG meeting as well as GBVIMS ISP meeting.GBV unit also celeberated World Refugees Day in camps by conducting various activitis and coordination with other stakeholders such as: seminar on the day, role play and Domiz Radio interview for discussing the importance of that day.",
-      "Cluster": "SGBV",
-      "month": "june"
-    },
-    {
-      "project": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq - IDPs - Community Activity Centers",
-      "summary": null,
-      "Cluster": "SGBV",
-      "month": "june"
-    },
-    {
-      "project": "UNFPA Country Programe for Iraq 2020-2024",
-      "summary": null,
-      "Cluster": "SGBV",
-      "month": "june"
-    },
-    {
-      "project": "Provision of Gender-Based Violence prevention and response services for women and girls in Ninawa and west Mosul",
-      "summary": "During June, GBV prevention and response intervention in Ninawah team carried out the usual activities of providing GBV case management, vocational training, awareness sessions, structured pss for women and girls, and recreational activities for children. In addition, the project manager has attended ” Grant writing and donor relation training\",  case management supervisor has attended the monthly meeting of Duhok GBV WG. Moreover, the monthly meeting was conducted with the center managers. \n  Database &reporting assistant has participated in a training on the impact of COVID-19 for women and girls to conduct a survey in the mentioned issue. \nFurthermore, A self-care training was provided to the team in the four CampNonCamps.\nAs for the challenges, the lack of service providers in the legal sector in Zummar prevents the team from referral several cases, difficulty to referrals in Bardrash due to lack of service providers. To overcome the mentioned challenges, the lack of service providers was shared with Ninawah GBV WG.",
-      "Cluster": "SGBV",
-      "month": "june"
-    },
-    {
-      "project": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
-      "summary": null,
-      "Cluster": "SGBV",
-      "month": "june"
-    }
-  ],
+  "SGBVHighlights": [],
   "CP": [
     {
       "NameOfProject": "IRQ Sida Major Hum 2021",
@@ -3004,14 +2954,7 @@
       "month": "june"
     }
   ],
-  "CPHighlights": [
-    {
-      "project": "IRQ Sida Major Hum 2021",
-      "summary": "Harikar/ SCI newly initiated CP intervention in June 2021 for IDPs in Chamishko camp.  the MHPSS, livelihoods and health services will be provided for most volnerable conflict-affected displaced boys, girls and their caregivers in the camp. during June, many trainings have been conducted for CP staff related to CP programs such as ( CSG, child resilience, youth resilience, HEART session, CPIMS+ and case management)  in addition, CPO has attended CCM of Chamishko camp and attended CPWG through online platform and presented our new CP activities and intervention.",
-      "Cluster": "CP",
-      "month": "june"
-    }
-  ],
+  "CPHighlights": [],
   "Health": [
     {
       "NameOfProject": "Providing primary and reproductive health care services in Anbar, Duhok, Erbil, Sulaymaniyah, Diyala and Ninawa governorate",
@@ -3176,14 +3119,7 @@
       "month": "june"
     }
   ],
-  "HealthHighlights": [
-    {
-      "project": "Providing primary and reproductive health care services  in Anbar, Duhok, Erbil, Sulaymaniyah, Diyala and Ninawa governorate (National Consortium Dary-Harikar)",
-      "summary": "In June, HARIKAR  - DARY consortium project for RH In Duhok, our staff carried out the usual activities for women and girls.\nwe contiune in providing all RH activities and COVID-19 awareness activities , i addition to distribution of PPEs kits in both camps\nwe participate in health Cluster meeting in DOH on 30 of june  . \nAs for the challenges: The limited number of beneficiaries  reaching out to our facilities due to the Covid-19 pandimic and lack of provision of RH medications and lab kits from DOH.",
-      "Cluster": "Health",
-      "month": "june"
-    }
-  ],
+  "HealthHighlights": [],
   "Livelihood": [
     {
       "NameOfProject": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
@@ -3573,20 +3509,7 @@
       "month": "june"
     }
   ],
-  "LivelihoodHighlights": [
-    {
-      "project": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
-      "summary": null,
-      "Cluster": "Livelihood",
-      "month": "june"
-    },
-    {
-      "project": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
-      "summary": null,
-      "Cluster": "Livelihood",
-      "month": "june"
-    }
-  ],
+  "LivelihoodHighlights": [],
   "WASH": [
     {
       "NameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -3852,12 +3775,5 @@
       "month": "june"
     }
   ],
-  "WASHHighlights": [
-    {
-      "project": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
-      "summary": null,
-      "Cluster": "WASH",
-      "month": "june"
-    }
-  ]
+  "WASHHighlights": []
 }
