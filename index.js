@@ -34,6 +34,15 @@ app.get("/data/projects", (req, res) => {
   res.status(200).json(data);
 });
 
+app.get("/data/projects/:id", (req, res) => {
+  const { id } = req.params;
+  const fileBuffer = fs.readFileSync("./data/projects.json");
+  const data = JSON.parse(fileBuffer);
+  const results = Object.values(data);
+  const currentProject = results.filter((item) => item.id === Number(id));
+  res.status(200).json(currentProject);
+});
+
 // GET: localhost:300/data
 app.get("/data/:year/:month", (req, res) => {
   let { year, month } = req.params;
