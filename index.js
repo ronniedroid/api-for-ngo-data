@@ -78,13 +78,13 @@ app.get("/data/:year", (req, res) => {
 app.get("/v2/months/:year", (req, res) => {
   const { year } = req.params;
   // read in all the data for the years data
-  let months = fs
-    .readdirSync(`./data/${year}`)
-    .map((month) => month.split(".")[0]);
-
+  let months = fs.readdirSync(`./data/${year}`);
   months = tools.sortByMonthName(months);
+  const results = months.map((month) => {
+    return month.split(".")[0];
+  });
 
-  res.status(200).json(months);
+  res.status(200).json(results);
 });
 
 app.get("/v2/data/:year", (req, res) => {

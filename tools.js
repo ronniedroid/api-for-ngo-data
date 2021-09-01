@@ -1,20 +1,20 @@
-const fs = require('fs');
+const fs = require("fs");
 
 module.exports = {
   sortByMonthName: function (monthNames, isReverse = false) {
     const referenceMonthNames = [
-      'jan',
-      'feb',
-      'mar',
-      'apr',
-      'may',
-      'jun',
-      'jul',
-      'aug',
-      'sep',
-      'oct',
-      'nov',
-      'dec',
+      "jan",
+      "feb",
+      "mar",
+      "apr",
+      "may",
+      "jun",
+      "jul",
+      "aug",
+      "sep",
+      "oct",
+      "nov",
+      "dec",
     ];
     const directionFactor = isReverse ? -1 : 1;
     const comparator = (a, b) => {
@@ -36,7 +36,7 @@ module.exports = {
   getYearData: function (year) {
     let months = fs
       .readdirSync(`./data/${year}`)
-      .map((month) => month.split('.')[0]);
+      .map((month) => month.split(".")[0]);
 
     months = this.sortByMonthName(months);
 
