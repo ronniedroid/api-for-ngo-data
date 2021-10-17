@@ -1,10 +1,10 @@
-const express = require('express');
-const cors = require('cors');
-const helmet = require('helmet');
-const fs = require('fs');
+const express = require("express");
+const cors = require("cors");
+const helmet = require("helmet");
+const fs = require("fs");
 const app = express();
 const port = process.env.PORT || 8000;
-const sort = require('./sortByName.js');
+const tools = require("./tools.js");
 
 //allow requests from apps on other ports
 app.use(cors());
@@ -12,18 +12,39 @@ app.use(helmet());
 app.use(express.json());
 
 // GET: localhost:3000/
-app.get('/', (req, res) => {
-  res.send('Harikar report data API');
+app.get("/", (req, res) => {
+  res.send("Harikar report data API");
 });
 
-app.get('/data/projects', (req, res) => {
+app.use("/v2/pdfs/bids/:bid", (req, res) => {
+  const { bid } = req.params;
+  const file = `${__dirname}/public/pdfs/bids/${bid}.pdf`;
+  res.download(file);
+});
+
+app.use("/v2/pdfs/jobs/:job", (req, res) => {
+  const { job } = req.params;
+  const file = `${__dirname}/public/pdfs/jobs/${job}.pdf`;
+  res.download(file);
+});
+
+app.get("/data/projects", (req, res) => {
   const fileBuffer = fs.readFileSync(`./data/projects.json`);
   const data = JSON.parse(fileBuffer);
   res.status(200).json(data);
 });
 
+app.get("/data/projects/:id", (req, res) => {
+  const { id } = req.params;
+  const fileBuffer = fs.readFileSync("./data/projects.json");
+  const data = JSON.parse(fileBuffer);
+  const results = Object.values(data);
+  const currentProject = results.filter((item) => item.id === Number(id));
+  res.status(200).json(currentProject);
+});
+
 // GET: localhost:300/data
-app.get('/data/:year/:month', (req, res) => {
+app.get("/data/:year/:month", (req, res) => {
   let { year, month } = req.params;
   const fileBuffer = fs.readFileSync(`./data/${year}/${month}.json`);
   const data = JSON.parse(fileBuffer);
@@ -31,12 +52,12 @@ app.get('/data/:year/:month', (req, res) => {
 });
 
 // GET: localhost:3000/:year
-app.get('/data/:year', (req, res) => {
+app.get("/data/:year", (req, res) => {
   const { year } = req.params;
   // read in all the data for the years data
   let months = fs.readdirSync(`./data/${year}`);
 
-  months = sort.sortByMonthName(months);
+  months = tools.sortByMonthName(months);
 
   let monthsData = {};
 
@@ -44,193 +65,79 @@ app.get('/data/:year', (req, res) => {
     try {
       const fileBuffer = fs.readFileSync(`./data/${year}/${month}`);
       const data = JSON.parse(fileBuffer);
-      month = month.replace(/.json/, '');
+      month = month.replace(/.json/, "");
       monthsData[month] = data;
     } catch (e) {
-      res.status(400).json({ message: 'file not found' });
+      res.status(400).json({ message: "file not found" });
     }
   });
 
   res.send(JSON.stringify(monthsData));
 });
 
-app.get('/months/:year', (req, res) => {
+app.get("/v2/months/:year", (req, res) => {
   const { year } = req.params;
   // read in all the data for the years data
   let months = fs.readdirSync(`./data/${year}`);
-
-  months = sort.sortByMonthName(months);
-
-  let monthsData = [];
-
-  months.forEach((month) => {
-    try {
-      month = month.replace(/.json/, '');
-      monthsData.push(month);
-    } catch (e) {
-      res.status(400).json({ message: 'file not found' });
-    }
+  months = tools.sortByMonthName(months);
+  const results = months.map((month) => {
+    return month.split(".")[0];
   });
 
-  res.send(JSON.stringify(monthsData));
+  res.status(200).json(results);
 });
 
-app.get('/v2/data/:year', (req, res) => {
+app.get("/v2/data/:year", (req, res) => {
   const { year } = req.params;
-  // read in all the data for the years data
-  let months = fs.readdirSync(`./data/${year}`);
 
-  months = sort.sortByMonthName(months);
-
-  let mdata = {};
-  monthsData = [];
-
-  months.forEach((month) => {
-    try {
-      const fileBuffer = fs.readFileSync(`./data/${year}/${month}`);
-      const data = JSON.parse(fileBuffer);
-      month = month.replace(/.json/, '');
-      mdata[month] = data;
-    } catch (e) {
-      res.status(400).json({ message: 'file not found' });
-    }
-  });
-
-  const clusters = ['Protection', 'SGBV', 'Health', 'Livelihood', 'WASH'];
-  Object.keys(mdata).forEach((month) => {
-    clusters.forEach((cluster) => {
-      mdata[month][cluster].forEach((obj) => {
-        if (obj.Total <= 0) return;
-        const {
-          NameOfProject,
-          Objective,
-          Cluster,
-          Province,
-          District,
-          TypeOfBeneficiaries,
-          CampNonCamp,
-          Male,
-          Female,
-          Total,
-        } = obj;
-        monthsData.push({
-          nameOfProject: NameOfProject,
-          objective: Objective,
-          cluster: Cluster,
-          province: Province,
-          district: District,
-          typeOfBeneficiaries: TypeOfBeneficiaries,
-          location: CampNonCamp,
-          male: Male,
-          female: Female,
-          total: Total,
-          month: month,
-        });
-      });
-    });
-  });
-
-  const adjustedMonthsData = monthsData.filter((item) => {
-    if (
-      (item.cluster === 'WASH' &&
-        item.nameOfProject ===
-          'WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021' &&
-        item.typeOfBeneficiaries === 'IDPs' &&
-        item.month !== 'february') ||
-      (item.month === 'february' &&
-        item.cluster === 'WASH' &&
-        item.typeOfBeneficiaries === 'IDPs' &&
-        item.nameOfProject ===
-          'WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021' &&
-        item.objective !==
-          'Water infrastructure repaired, maintained, or rehabilitated in IDP camps and Sinjar')
-    )
-      return item;
-  });
-
-  const finalData = [
-    ...new Set(monthsData.filter((x) => !adjustedMonthsData.includes(x))),
-  ];
-  const bothData = { original: monthsData, adjusted: finalData };
+  const yearData = tools.getYearData(year);
 
   // res.send(JSON.stringify(bothData));
-  res.status(200).json(bothData);
+  res.status(200).json(yearData);
 });
 
-app.get('/v2/data/:year/:month', (req, res) => {
+app.get("/v2/data/:year/:month", (req, res) => {
   let { year, month } = req.params;
-  const fileBuffer = fs.readFileSync(`./data/${year}/${month}.json`);
-  const data = JSON.parse(fileBuffer);
+
+  const yearData = tools
+    .getMonthData(year, month)
+    .filter((item) => item.month === month);
+
   monthsData = {
-    info: [],
-    activities: [],
-    summaries: [],
+    info: yearData.filter((item) => item.nameOfProject),
+    activities: yearData.filter((item) => item.activity),
+    summaries:
+      year === "2020"
+        ? yearData.filter((item) => item.GeneralHighlights)
+        : yearData.filter((item) => item.summary),
   };
-  const clusters = ['Protection', 'SGBV', 'Health', 'Livelihood', 'WASH'];
-  clusters.forEach((cluster) => {
-    data[cluster].forEach((obj) => {
-      if (obj.Total <= 0) return;
-      const {
-        NameOfProject,
-        Objective,
-        Cluster,
-        Province,
-        District,
-        TypeOfBeneficiaries,
-        CampNonCamp,
-        Male,
-        Female,
-        Total,
-      } = obj;
-      monthsData.info.push({
-        nameOfProject: NameOfProject,
-        objective: Objective,
-        cluster: Cluster,
-        province: Province,
-        district: District,
-        typeOfBeneficiaries: TypeOfBeneficiaries,
-        location: CampNonCamp,
-        male: Male,
-        female: Female,
-        total: Total,
-      });
-    });
-  });
 
-  clusters.forEach((cluster) => {
-    data[cluster + 'Activities'].forEach((obj) => {
-      if (obj.Total <= 0) return;
-      const {
-        Activity,
-        TypeOfBeneficiaries,
-        Male,
-        Female,
-        Total,
-        NumberOfSessions,
-      } = obj;
-      monthsData.activities.push({
-        activity: Activity,
-        typeOfBeneficiaries: TypeOfBeneficiaries,
-        male: Male,
-        female: Female,
-        total: Total,
-        sessions: NumberOfSessions,
-        cluster: cluster,
-      });
-    });
-  });
+  res.status(200).json(monthsData);
+});
 
-  clusters.forEach((cluster) => {
-    data[cluster + 'Highlights'].forEach((obj) => {
-      if (obj.Total <= 0) return;
-      monthsData.summaries.push({
-        summary: obj,
-        cluster: cluster,
-      });
-    });
-  });
+app.get("/v2/projects/", (req, res) => {
+  const fileBuffer = fs.readFileSync(
+    `${__dirname}/public/projects/projects.json`
+  );
+  const data = JSON.parse(fileBuffer);
+  res.status(200).json(data);
+});
 
-  res.send(JSON.stringify(monthsData));
+app.get("/v2/policies/", (req, res) => {
+  const fileBuffer = fs.readFileSync(`${__dirname}/public/policies.json`);
+  const data = JSON.parse(fileBuffer);
+  res.status(200).json(data);
+});
+
+app.get("/v2/projects/:id", (req, res) => {
+  const { id } = req.params;
+  const fileBuffer = fs.readFileSync(
+    `${__dirname}/public/projects/projects.json`
+  );
+  const data = JSON.parse(fileBuffer);
+  const { projects } = data;
+  const currentProject = projects.filter((item) => item.id === Number(id));
+  res.status(200).json(currentProject);
 });
 
 app.listen(port, () => {

@@ -1,0 +1,89 @@
+{
+  "policies": [
+    {
+      "policy": "Harikar Management and operations guidlince (including HR and Finance)",
+      "version": "v3",
+      "year": 2020
+    },
+    {
+      "policy": "PSEA Policy",
+      "version": "v1",
+      "year": 2017
+    },
+    {
+      "policy": "Child Protection Policy",
+      "version": "v2",
+      "year": 2020
+    },
+    {
+      "policy": "Child Safeguarding Policy",
+      "version": "v1",
+      "year": 2020
+    },
+    {
+      "policy": "Procurment Policy",
+      "version": "v2",
+      "year": 2021
+    },
+    {
+      "policy": "Anti-fraud Policy",
+      "version": "v1",
+      "year": 2015
+    },
+    {
+      "policy": "Visibility Policy",
+      "version": "v1",
+      "year": 2019
+    },
+    {
+      "policy": "Travel Allowance Policy",
+      "version": "v2",
+      "year": 2021
+    },
+    {
+      "policy": "Security Policy",
+      "version": "v1",
+      "year": 2019
+    },
+    {
+      "policy": "Warehouse Management Policy",
+      "version": "v1",
+      "year": 2015
+    },
+    {
+      "policy": "Salary Scale Policy",
+      "version": "v1",
+      "year": 2021
+    },
+    {
+      "policy": "Conflect of Interest Policy",
+      "version": "v1",
+      "year": 2021
+    },
+    {
+      "policy": "Advocacy Policy",
+      "version": "v2",
+      "year": 2018
+    },
+    {
+      "policy": "Daily Substance Allowance (DSA) Policy",
+      "version": "v2",
+      "year": 2021
+    },
+    {
+      "policy": "Shared Cost Allocation Policy",
+      "version": "v1",
+      "year": 2020
+    },
+    {
+      "policy": "Volunteering Policy",
+      "version": "v1",
+      "year": 2021
+    },
+    {
+      "policy": "Code of Conduct (CoC) Policy",
+      "version": "v2",
+      "year": 2020
+    }
+  ]
+}

@@ -1,0 +1,841 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Providing PSS, Case Management and vocational training services for women and girls in Ninawa ( Baashiqa, Zummar and Bardarash in Akre)",
+      "start": "2020-01-04T21:00:00.000Z",
+      "end": "2020-07-04T21:00:00.000Z",
+      "budget": 305453,
+      "summary": "Fulfill gaps in addressing GBV against women through setting up safe space for women and girls , awareness, case management, providing PSSl support a and capacity building of services providers.",
+      "partners": [
+        "UNICEF"
+      ],
+      "clusters": [
+        "SGBV"
+      ],
+      "locations": {
+        "type": [
+          "urban"
+        ],
+        "urban": [
+          "Bardarash",
+          "Tel Afer",
+          "Bashiqa"
+        ],
+        "camp": []
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs"
+        ],
+        "target": 5710,
+        "male": 1600,
+        "female": 4110,
+        "summary": "This project targets IDPs in urban areas of Bardarash, Tel Afer and Bashiqa, with a target beneficiaries of 5710, of which 1600 are male and 4110 are female."
+      },
+      "objectives": {
+        "list": [
+          "Lifesaving, age appropriate GBV case management and PSS services are available to women and children in Baashiqa, Zummar and Bardarash.",
+          "Improved community engagement, mobilisation and risk mitigation to increase the protective environment for women and children."
+        ],
+        "summary": "This project primarily aimed at providing and ensuring the availability of lifesaving, age apropriate  GBV case management  and PSS services to women and children in Bashiqa, Zumar. Besides, providing improved community engagement, mobilisation and risk mitigation to increase the protective environment for women and children in targeted area."
+      },
+      "activities": {
+        "list": [
+          "GBV case management.",
+          "Structured pss sessions for women and girls.",
+          "Rising awareness sessions on issue related to GBV.",
+          "Capacity building training for non-GBV actors and community leaders on GBV core concepts and referral mechanism",
+          "vocational training (including sewing, hair dressing...etc to girls and women.",
+          "conducting safety audits.",
+          "Recreational activities for the children's under 18 years."
+        ],
+        "summary": "This project carries out a number of activities to accomplish its objectives, including, GBV case management, Structured pss sessions for women and girls, Rising awareness sessions on issue related to GBV, Capacity building training for non-GBV actors and community leaders on GBV core concepts and referral mechanism, vocational training (including sewing, hair dressing...etc to girls and women, conducting safety audits and Recreational activities for the children's under 18 years."
+      },
+      "state": "done",
+      "employees": {
+        "male": 0,
+        "female": 0,
+        "total": 0
+      }
+    },
+    {
+      "id": 2,
+      "name": "Provision of Gender-Based Violence prevention and response services for women and girls in Ninawa and west Mosul",
+      "start": "2020-10-14T21:00:00.000Z",
+      "end": "2021-10-14T21:00:00.000Z",
+      "budget": 726945,
+      "summary": "provision of GBV case management and Structured PSS programme,using structured programme specifically designed for adolescent girls,skills building through vocational training for women and girls",
+      "partners": [
+        "UNICEF"
+      ],
+      "clusters": [
+        "SGBV"
+      ],
+      "locations": {
+        "type": [
+          "urban"
+        ],
+        "urban": [
+          "Bardarash",
+          "Tel Afer",
+          "Bashiqa",
+          "Al-Mosul"
+        ],
+        "camp": []
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs",
+          "Host Community"
+        ],
+        "target": 21309,
+        "male": 7238,
+        "female": 14071,
+        "summary": "This project targets IDPs in urban areas of Bardarash, Tel Afer and Bashiqa, and west Mosul with a target beneficiaries of 21309, of which 7238 are male and 14071 are female."
+      },
+      "objectives": {
+        "list": [
+          "provision of GBV case management and Structured PSS programme,using structured programme specifically designed for adolescent girls,skills building through vocational training for women and girls"
+        ],
+        "summary": "The main objective of this project is to provide GBV case management, \nusing structured programme specifically designed for adolscent girls and\n skill building through vocational training for women and girls in Ninawa west\n mosul to prevent gender-based violence."
+      },
+      "activities": {
+        "list": [
+          "GBV case managment.",
+          "Structured pss sessions for women and girls.",
+          "Awareness on GBV related issues for all community members.",
+          "Capacity Building for non-GBV actors and community leaders on GBV core concepts and referral mechanism",
+          "Vocational Training as sewing and hairdressing",
+          "Recreational activities for the children's under 18."
+        ],
+        "summary": "This project carries out a number of activities to accomplish its objectives, including, GBV case management, Structured pss sessions for women and girls, Awareness on GBV related issues for all community members, Capacity building training for non-GBV actors and community leaders on GBV core concepts and referral mechanism, vocational training (including sewing, hair dressing...etc to girls and women and Recreational activities for the children's under 18 years."
+      },
+      "state": "onGoing",
+      "employees": {
+        "male": 12,
+        "female": 32,
+        "total": 44
+      }
+    },
+    {
+      "id": 3,
+      "name": "Protection and Assistance program for refugees and IDPs in Duhok-Iraq",
+      "start": "2020-12-31T21:00:00.000Z",
+      "end": "2021-12-30T21:00:00.000Z",
+      "budget": 3017620,
+      "summary": "The project aims at ensuring that all PoCs (Syrain and non-Syrian refugee, and IDPs) (in and out of camps) have access to free legal aid including civil status documentation, protection counselling, protection needs assessment and subsequent response (including return and border monitoring) and S/GBV support services.",
+      "partners": [
+        "UNHCR"
+      ],
+      "clusters": [
+        "Protection",
+        "SGBV"
+      ],
+      "locations": {
+        "type": [
+          "camp",
+          "urban"
+        ],
+        "urban": [
+          "Amedi",
+          "Duhok",
+          "Sumel",
+          "Zakho",
+          "Akre",
+          "Shekhan",
+          "Bardarash"
+        ],
+        "camp": [
+          "Bajid Kandala",
+          "Berseve 1",
+          "Berseve 2",
+          "Chamishko",
+          "Darkar",
+          "Dawodiya",
+          "Essiyan",
+          "Kabarto 1",
+          "Kabarto 2",
+          "Khanke",
+          "Mamilian",
+          "Mamrashan",
+          "Rwanga Community",
+          "Shariya",
+          "Shekhan",
+          "Domiz 1",
+          "Domiz 2",
+          "Bardarash",
+          "Gewilan",
+          "Akre Settlement"
+        ]
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs",
+          "Refugees",
+          "Returnees"
+        ],
+        "target": 60690,
+        "male": 21241,
+        "female": 39449,
+        "summary": "This projects targers IDPs, Refugees and Returnees in urban and camp areas of Amedi, Duhok, Sumel, Zakho, Akre, Shekhan and Bardarash, with a target beneficiareis of 60690, of which 21241 are male and 39449 are female."
+      },
+      "objectives": {
+        "list": [
+          "Access to legal assistance and legal remedies improved (Syrian, non-Syrian refugees, and IDPs)",
+          "Quality of registration and profiling improved or maintained (Syrian, non-Syrian refugees, and IDPs)",
+          "Civil registration and civil status documentation is strengthened - IDPs",
+          "Risk of GBV is reduced and quality of response is improved - Syrian and non-Syrian refugees"
+        ],
+        "summary": "This project's objectives are to affirm that (Syrian and non-Syrian refugees, and IDPs) have access to improved legal assistance and legal remedies. In addition to that, it ensures an improved and maintained quality of regestration and profilling. As well as to strenghthen civil registratiom and documentation and reduce risk of GBV and improve quality of response for Syrian and non-Syrian refugees."
+      },
+      "activities": {
+        "list": [
+          "Legal counselling, legal awareness raising, representation",
+          "Protection Monitoring (PMT), border monitoring, protection counselling, helpdesks, referral",
+          "Issuance of civil IDs and nationality certificates in IDP camps in Duhok",
+          "Case Management, PSS counselling, EMAP, capacity building on GBV, referral, GBV awareness raising"
+        ],
+        "summary": "This project carries out a number of activities to accomplish its objectives, including, Legal counselling, legal awareness raising, representation, Protection Monitoring (PMT), border monitoring, protection counselling, helpdesks, referral, Issuance of civil IDs and nationality certificates in IDP camps in Duhok, Case Management, PSS counselling, EMAP, capacity building on GBV, referral and GBV awareness raising."
+      },
+      "state": "onGoing",
+      "employees": {
+        "male": 100,
+        "female": 79,
+        "total": 179
+      }
+    },
+    {
+      "id": 4,
+      "name": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
+      "start": "2019-02-02T21:00:00.000Z",
+      "end": "2021-07-30T21:00:00.000Z",
+      "budget": 1574783,
+      "summary": "This project is leaded by CARE international and implemented by Harikar NGO to enhance the resilience of vulnerable host communities and sustainable reintegration of conflict affected returnees in the selected locations in Sinjar district and Zummar sub-district.",
+      "partners": [
+        "CARE",
+        "BMZ"
+      ],
+      "clusters": [
+        "Protection",
+        "Livelihood",
+        "WASH"
+      ],
+      "locations": {
+        "type": [
+          "urban"
+        ],
+        "urban": [
+          "Sinjar",
+          "Tel Afer",
+          "Snuni"
+        ],
+        "camp": []
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs",
+          "Host Community"
+        ],
+        "target": 24500,
+        "male": 12495,
+        "female": 12005,
+        "summary": "This projects targers IDPs and Host communities in urban areas of Sinjar, Tel Afer and Snuni, with a target beneficiareis of 24500, of which 12495 are male and 12005 are female."
+      },
+      "objectives": {
+        "list": [
+          "Improved access to water for vulnerable host families and returnees with equal access for men, women, girls, and boys",
+          "Improved awareness on safe hygiene and sanitation practices",
+          "Improved opportunities for culturally and gender sensitive livelihoods for vulnerable families returning home",
+          "Improved and equal access to legal assistance issues, focusing but not exclusively on housing, land and property issues"
+        ],
+        "summary": "This project aimed at improved access to water for vulnerable host families and returnees with equal access for men, women, girls and boys.Furthermore, it concenterated on improving awarness on safe hygiene and sanitation practices. Along with improving opportunities for culturally and gender sensetive livelihoods for vulnerable families returning home. Lastly, improved and equal access to legal assistance issues, fucosing but not exclusively on housing, land and property issues."
+      },
+      "activities": {
+        "list": [
+          "WASH activities (rehabilitation/construction of water structures and hygiene promotion)",
+          "Vocational Trainings",
+          "Cash for work",
+          "Agriculture Inputs provision",
+          "Providing Legal Assistance",
+          "Provision of food baskets for COVID-19 affected families."
+        ],
+        "summary": "This project carries out a number of activities to accomplish its objectives, including, WASH activities (rehabilitation/construction of water structures and hygiene promotion), Vocational Trainings, Cash for work, Agriculture Inputs provision, Providing Legal Assistance and Provision of food baskets for COVID-19 affected families."
+      },
+      "state": "done",
+      "employees": {
+        "male": 0,
+        "female": 0,
+        "total": 0
+      }
+    },
+    {
+      "id": 5,
+      "name": "UNFPA Country Programme for Iraq 2020-2024",
+      "start": "2020-12-31T21:00:00.000Z",
+      "end": "2021-12-30T21:00:00.000Z",
+      "budget": 1552029,
+      "summary": "The current programme is the third Country Cycle Programme implemented by UNFPA through its implementing partner including Harikar NGO in Iraq. The current cycle is entailing development phase activities. The main sectors of response are GBV for full year, Youth and adolescent for two quarters and Reproductive Health only for one quarter.",
+      "partners": [
+        "UNFPA"
+      ],
+      "clusters": [
+        "SGBV",
+        "Health"
+      ],
+      "locations": {
+        "type": [
+          "camp",
+          "urban"
+        ],
+        "urban": [
+          "Amedi",
+          "Duhok",
+          "Sumel",
+          "Zakho",
+          "Shekhan",
+          "Bardarash",
+          "Sinjar",
+          "Al-Hamdaniya",
+          "Snuni"
+        ],
+        "camp": [
+          "Bajid Kandala",
+          "Berseve 2",
+          "Chamishko",
+          "Darkar",
+          "Dawodiya",
+          "Kabarto 2",
+          "Khanke",
+          "Mamrashan",
+          "Shariya",
+          "Shekhan",
+          "Domiz 1",
+          "Domiz 2",
+          "Bardarash",
+          "Gewilan"
+        ]
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs",
+          "Refugees",
+          "Returnees"
+        ],
+        "target": 12120,
+        "male": 3030,
+        "female": 9090,
+        "summary": "This projects targers IDPs, Refugees and Returnees in urban and camp areas of Amedi, Duhok, Sumel, Zakho, Shekhan, Bardarash Sinjar, Al-Hamdaniya and Snuni, with a target beneficiareis of 12120, of which 3030 are male and 9090 are female."
+      },
+      "objectives": {
+        "list": [
+          "Improved capacity of Government, human rights institutions, local civil society organizations and communities to prevent and respond to gender-based violence, including in humanitarian settings.",
+          "Young people, particularly adolescent girls, are more empowered to make informed choices about their sexual and reproductive health and rights, exercise leadership and participate in sustaining peace",
+          "Strengthened national capacity for the provision of high-quality integrated SRH services, especially for the most vulnerable populations, including women, young people, internally displaced people and those in refugee camps."
+        ],
+        "summary": "This project primarily aims at impriving capacity of Government, human rights instituition, local civil society organizations and communities to prevent and respond to gender-based violence, including in humanitarian settings. Moreover, young people, especially adolscent are more empowered to make informed choices about their sexual and reproductive health and rights, excercise leadarship and participate in sustaining peace. Additionaly, strengthen national capacity for the provision of high-quality integrated SRH services, especially for the most volunrable people, including young women, young people, IDP's, and those in refugees camp."
+      },
+      "activities": {
+        "list": [
+          "GBV case management, PSS, awareness raising activities including COVID19, recreational activities, capacity building including coaching and mentoring, referrals, DK distributions, AGTK actvities",
+          "Life skills activities including recreational, awareness raising activities including peace building and COVID19, Psychosocial activities",
+          "Ante and Post natal services, Family planning, Normal and C section deliveries, Gynecological services, awareness including COVID 19 awareness"
+        ],
+        "summary": "This project carries out a number of activities to accomplish its objectives, including, GBV case management, PSS, awareness raising activities including COVID19, recreational activities, capacity building including coaching and mentoring, referrals, DK distributions, AGTK actvities, Life skills activities including recreational, awareness raising activities including peace building and COVID19, Psychosocial activities, Ante and Post natal services, Family planning, Normal and C section deliveries, Gynecological services and awareness including COVID 19 awareness."
+      },
+      "state": "onGoing",
+      "employees": {
+        "male": 22,
+        "female": 124,
+        "total": 146
+      }
+    },
+    {
+      "id": 6,
+      "name": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
+      "start": "2020-01-31T21:00:00.000Z",
+      "end": "2021-12-30T21:00:00.000Z",
+      "budget": 1741104,
+      "summary": "Harikar and CARE’s programme is aligned with the 2020 HRP and will improve access to lifesaving gender-sensitive WASH, Protection and SRHR activities to 64,434 conflict affected individuals (18,169 women, 14,701 girls, 16,924 men and 14,640 boys) living in Chamishku and Essyan IDP camps as well as returnees in Sinjar district, Ninawa governorate. The activities are designed to complement Harikar and CARE’s existing GAC-funded program while expanding our reach to support returnees in Sinjar.",
+      "partners": [
+        "CARE",
+        "GAC"
+      ],
+      "clusters": [
+        "SGBV",
+        "WASH"
+      ],
+      "locations": {
+        "type": [
+          "camp",
+          "urban"
+        ],
+        "urban": [
+          "Zakho",
+          "Shekhan",
+          "Sinjar",
+          "Snuni"
+        ],
+        "camp": [
+          "Chamishko",
+          "Essiyan"
+        ]
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs",
+          "Returnees"
+        ],
+        "target": 64434,
+        "male": 31564,
+        "female": 32870,
+        "summary": "This projects targers IDPs and Returnees in urban and camp areas of Zakho, Shekhan, Sinjar, and Snuni, with a target beneficiareis of 64434, of which 31564 are male and 32870 are female."
+      },
+      "objectives": {
+        "list": [
+          "Increased and more equitable access to safe water supply, sanitation facilities and hygiene supplies for vulnerable women, men, girls and boys in IDP and returnee communities.",
+          "Increased access to protection services, including GBV prevention and response, for vulnerable women, girls, boys and men in IDP and returnee communities"
+        ],
+        "summary": "The main objective of the project is to provide increased and more equitable access to safe water supply, sanitation facilities and hygiene supplies for volunrable women, men, girls and boys in IDP and returnee communities. As well as increased acces to protection services, including GBV prevention and response, for vulnerable women, girls, boys and men in IDP and returnee communities."
+      },
+      "activities": {
+        "list": [
+          "Care and maintenance of WASH facilities in IDP camps.",
+          "Rehabilitation of water and sanitation networks in IDP camps and Sinjar.",
+          "Borehole operation in IDP camps.",
+          "Distribution of water filters in Sinjar.",
+          "Garbage collection and Desludging in Essian camp.",
+          "Cash for work through clean up campaigns in Sinjar.",
+          "Raising awareness of protection issues in IDP camps and Sinjar.",
+          "Hygiene promotion in IDP camps and Sinjar.",
+          "Hygiene kits and dignity kits distribution in Sinjar.",
+          "Cash assistance in Sinjar for attendees of case management and PSS activities"
+        ],
+        "summary": "This project carries out a number of activities to accomplish its objectives, including, Care and maintenance of WASH facilities in IDP camps, Rehabilitation of water and sanitation networks in IDP camps and Sinjar, Borehole operation in IDP camps, Distribution of water filters in Sinjar, Garbage collection and Desludging in Essian camp, Cash for work through clean up campaigns in Sinjar, Raising awareness of protection issues in IDP camps and Sinjar, Hygiene promotion in IDP camps and Sinjar, Hygiene kits and dignity kits distribution in Sinjar and Cash assistance in Sinjar for attendees of case management and PSS activities."
+      },
+      "state": "onGoing",
+      "employees": {
+        "male": 51,
+        "female": 23,
+        "total": 74
+      }
+    },
+    {
+      "id": 7,
+      "name": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
+      "start": "2021-07-31T21:00:00.000Z",
+      "end": "2021-06-29T21:00:00.000Z",
+      "budget": 327553,
+      "summary": "World Vision together with Dorcas and Harikar, three active leading NGO’s in the FS sector propose to support 5,747 severely vulnerable IDPs , returnees, and Host Community in Al Mosul (Bashiqa ), Sinjar (Sinuni ) and Tilkaif (Wana ) in Ninewa Governorate with access to productive assets through the distribution of agricultural assets and inputs to (re)start their livelihoods, training to promote increased production and productivity with a focus on homestead and small-scale food production.",
+      "partners": [
+        "Dorcas",
+        "WVI"
+      ],
+      "clusters": [
+        "Livelihood"
+      ],
+      "locations": {
+        "type": [
+          "urban"
+        ],
+        "urban": [
+          "Bashiqa",
+          "Wana",
+          "Snuni"
+        ],
+        "camp": []
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs",
+          "Returnees",
+          "Host Community"
+        ],
+        "target": 236,
+        "male": 136,
+        "female": 100,
+        "summary": "This projects targers IDPs, Returnees and Host Comunnities in urban areas of Bashiqa, Wana, and Snuni, with a target beneficiareis of 236, of which 136 are male and 100 are female."
+      },
+      "objectives": {
+        "list": [
+          "The primary objective of this proposal is to contribute towards improving the status of food security through support with agricultural livelihoods for increased access and availability of food at household level as well as generate agricultural income of food insecure IDPs, Returnees and Host Communities."
+        ],
+        "summary": "The primary objective of this project is to contribute towards improving the status of food security through support with agricultural livelihoods for increased access and availability of food at household level as well as generate agricultural income of food insecure IDPs, Returnees and Host Communities."
+      },
+      "activities": {
+        "list": [
+          "Provision of agriculture inputs and assets",
+          "Cash for Work (cleaning irrigation canals and water networks)"
+        ],
+        "summary": "This project carries out a number of activities to accomplish its objectives, including, Provision of agriculture inputs and assets and Cash for Work (cleaning irrigation canals and water networks)."
+      },
+      "state": "done",
+      "employees": {
+        "male": 0,
+        "female": 0,
+        "total": 0
+      }
+    },
+    {
+      "id": 8,
+      "name": "Strengthening Protection, HLP Response, and Prevention services during COVID-19 Pandemic in Duhok, Ninewa governorates in Iraq.",
+      "start": "2020-07-31T21:00:00.000Z",
+      "end": "2021-07-30T21:00:00.000Z",
+      "budget": 327342,
+      "summary": "Harikar NGO is collaborating with Dorcas Aid International in a UNOCHA-funded consortium to improve the protection situation of the IDPS’s out of camp and returnees in Duhok, Ninewa governorates with the overall objective of Strengthening Protection, HLP response and Prevention services during COVID-19 Pandemic to ensure safeguarding the physical, mental well-being and addressing critical problems related to living standards of millions conflict-affected people.",
+      "partners": [
+        "UNOCHA IHF3",
+        "Dorcas"
+      ],
+      "clusters": [
+        "Protection"
+      ],
+      "locations": {
+        "type": [
+          "urban"
+        ],
+        "urban": [
+          "Sumel",
+          "Zakho",
+          "Tel Kaif",
+          "Snuni"
+        ],
+        "camp": []
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs",
+          "Returnees"
+        ],
+        "target": 2593,
+        "male": 704,
+        "female": 1690,
+        "summary": "This projects targers IDPs and Returnees in urban areas of Sumel, Zakho, Tel Kaif and Snuni, with a target beneficiareis of 2593, of which 704 are male and 1690 are female."
+      },
+      "objectives": {
+        "list": [
+          "Safeguarding physical and mental well-being of up to 1.65 million conflict-affected people with acute needs by providing services.",
+          "Addressing critical problems related to living standards of up to 1.54 million conflict-affected people with acute needs by expanding access to services."
+        ],
+        "summary": "The overall objective of the project is Strengthening Protection and HLP, Response and Prevention services during COVI9-19 Pandemic. For returnees, IDPs host communities and remainees in Northern Ninewa, and Dohuk Governorates. This is envisaged to be established by building on NGO's ongoing expertise and programming related to PSS, GP. Legal/HLP &amp; GP in Sinjar (Sinuni and by expanding this successful package into areas with the highest needs, mainly Sumel (Bateel Sub-district for out of camps) and Zakho (Bartifa &amp; Dercar Sub-districts). Through Protection static and mobile teams in all 3locations, a package of protection monitoring, case management, awareness-raising and, legal, HLP, Cash for Protection is made available for populations in Telkaif, Sinuni, Zakho and, Summel district. Services will be expanded in Telkaif- Alqosh, and Duhok for out of camps only. By using community-based structures (volunteers) a sustainable and long-lasting impact is envisaged in the operational areas."
+      },
+      "activities": {
+        "list": [
+          "Psychosocial Support – GP",
+          "Case Management – GP",
+          "Cash for protection (COVID)"
+        ],
+        "summary": "This project carries out a number of activities to accomplish its objectives, including, Psychosocial Support, Case Management and Cash for protection."
+      },
+      "state": "done",
+      "employees": {
+        "male": 0,
+        "female": 0,
+        "total": 0
+      }
+    },
+    {
+      "id": 9,
+      "name": "Provision of integrated water, sanitation and hygiene services for out-of-camp IDPs and returnees in informal settlements, recently secondarily displaced IDPs, and recently returned populations aiming at preventing COVID - 19 and mitigating negative health outcomes for most vulnerable populations",
+      "start": "2021-07-31T21:00:00.000Z",
+      "end": "2022-01-30T21:00:00.000Z",
+      "budget": 165011,
+      "summary": "Harikar will rehabilitate and extend water networks, provide 300 storage tanks with the standard size 250L per family, rehabilitate dysfunctional sanitation facilities, provide 50 garbage containers with 660L for an average of 8 households per container, promote hygiene using the PHAST approach and distribute hygiene kits to reach 16,245 people in Zakho and Sumel districts.",
+      "partners": [
+        "UNOCHA IHF",
+        "Solidarity International"
+      ],
+      "clusters": [
+        "WASH"
+      ],
+      "locations": {
+        "type": [
+          "urban"
+        ],
+        "urban": [
+          "Sumel",
+          "Zakho"
+        ],
+        "camp": []
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs"
+        ],
+        "target": 16245,
+        "male": 7809,
+        "female": 8436,
+        "summary": "This projects targers IDPs in urban areas of Sumel and Zakho with a target beneficiareis of 16245, of which 7809 are male and 8436 are female."
+      },
+      "objectives": {
+        "list": [
+          "IDPs, recent returnees, and returnees living in critical shelters and/or informal settlements in 20 districts of seven governorates have access to sufficient quantity and quality of both drinking and domestic water as well as to dignified, safe, clean and functional sanitation facilities through operation and maintenance of water and sanitation services",
+          "Informal settlements and critical shelters WASH (ICW) consortium partners deliver well-coordinated, effective, efficient and harmonized WASH response adapted to the continuously evolving context"
+        ],
+        "summary": "The primary objective of this project is to ensure that IDPs, recent returnees, and returnees living in critical shelters and/or informal settlements in 20 districts of seven governorates have access to sufficient quantity and quality of both drinking and domestic water as well as to dignified, safe, clean and functional sanitation facilities through operation and maintenance of water and sanitation services as well as to help Informal settlements and critical shelters WASH (ICW) consortium partners deliver well-coordinated, effective, efficient and harmonized WASH response adapted to the continuously evolving context."
+      },
+      "activities": {
+        "list": [
+          "Provision of safe and sufficient water to populations living in underserved informal settlements through minor rehabilitations of water supply systems",
+          "Provision of safe water storage and filters at household level",
+          "Provision of sanitation facilities and services accessible for women and people with disabilities in targeted informal settlements",
+          "Sustainable management of solid waste in targeted informal settlements/critical shelters through provision of trash bags and bins and proper disposal of the waste",
+          "Hygiene promotion (including MHM) while taking a community centric behavior change approaches",
+          "Distribution of hygiene kits (including MHM materials) to IDPs/returnees in targeted informal settlements/critical shelters"
+        ],
+        "summary": "This project carries out a number of activities to accomplish its objectives, including, Provision of safe and sufficient water to populations living in underserved informal settlements through minor rehabilitations of water supply systems, Provision of safe water storage and filters at household level, Provision of sanitation facilities and services accessible for women and people with disabilities in targeted informal settlements, Sustainable management of solid waste in targeted informal settlements/critical shelters through provision of trash bags and bins and proper disposal of the waste, Hygiene promotion (including MHM) while taking a community centric behavior change approaches and Distribution of hygiene kits (including MHM materials) to IDPs/returnees in targeted informal settlements/critical shelters."
+      },
+      "state": "onGoing",
+      "employees": {
+        "male": 9,
+        "female": 6,
+        "total": 15
+      }
+    },
+    {
+      "id": 10,
+      "name": "Vulnerable, conflict-affected Syrian youth in Dohuk have livelihood opportunities, access to MHPSS services, and are economically resilient",
+      "start": "2021-07-31T21:00:00.000Z",
+      "end": "2025-05-03T21:00:00.000Z",
+      "budget": 1352129,
+      "summary": "This project will seek to improve the employability of the target population and their access to existing livelihoods opportunities, while also creating new opportunities by building the capacity of entrepreneurs to grow their businesses, facilitating access to the necessary inputs to improve their sustainability and supporting scale-up to take on additional employees.",
+      "partners": [
+        "DTV",
+        "SCI"
+      ],
+      "clusters": [
+        "Livelihood"
+      ],
+      "locations": {
+        "type": [
+          "urban",
+          "camp"
+        ],
+        "urban": [
+          "Sumel"
+        ],
+        "camp": [
+          "Bajid Kandala",
+          "Domiz 1",
+          "Domiz 2"
+        ]
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs",
+          "Refugees",
+          "Host Community"
+        ],
+        "target": 1065,
+        "male": 533,
+        "female": 532,
+        "summary": "This projects targers IDPs, Refugees and Host Communities in urban and camp areas of Sumel with a target beneficiareis of 1065, of which 533 are male and 532 are female."
+      },
+      "objectives": {
+        "list": [
+          "Youth and young mothers have market-relevant skills to access enhanced and sustainable income",
+          "Vulnerable conflict-affected youth have access to safe and dignified employment or self-employment and MHPSS services"
+        ],
+        "summary": "The primary objective of this project is to ensure that youth and young mothers have market-relevant skills to access enhanced and sustainable income and that vulnerable conflict-affected youth have access to safe and dignified employment or self-employment and MHPSS services"
+      },
+      "activities": {
+        "list": [
+          "Labour Market Assessment",
+          "Microenterprise Training",
+          "Business grants distribution",
+          "Business Mentorship",
+          "Apprenticeships Support Services",
+          "Job Counselling and Referrals"
+        ],
+        "summary": "This project carries out a number of activities to accomplish its objectives, including, Labour Market Assessment, Microenterprise Training, Business grants distribution, Business Mentorship, Apprenticeships Support Services and Job Counselling and Referrals."
+      },
+      "state": "onGoing",
+      "employees": {
+        "male": 5,
+        "female": 0,
+        "total": 5
+      }
+    },
+    {
+      "id": 11,
+      "name": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
+      "start": "2021-07-31T21:00:00.000Z",
+      "end": "2022-03-30T21:00:00.000Z",
+      "budget": 141199,
+      "summary": "World Vision together with Dorcas and Harikar, three active leading NGO’s in the FS sector propose to support 5,747 severely vulnerable IDPs , returnees, and Host Community in Tilkaif (Wana ) in Ninewa Governorate with access to productive assets through the distribution of agricultural assets and inputs to (re)start their livelihoods, training to promote increased production and productivity with a focus on homestead and small-scale food production.",
+      "partners": [
+        "Dorcas",
+        "WVI"
+      ],
+      "clusters": [
+        "Livelihood"
+      ],
+      "locations": {
+        "type": [
+          "urban"
+        ],
+        "urban": [
+          "Wana"
+        ],
+        "camp": []
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs",
+          "Returnees",
+          "Host Community"
+        ],
+        "target": 149,
+        "male": 89,
+        "female": 60,
+        "summary": "This projects targers IDPs, Returnees and Host Comunnities in urban area of Wana with a target beneficiareis of 149, of which 89 are male and 60 are female."
+      },
+      "objectives": {
+        "list": [
+          "The primary objective of this project is to contribute towards improving the status of food security through support with agricultural livelihoods for increased access and availability of food at household level as well as generate agricultural income of food insecure out-of-camp IDPs and Returnees."
+        ],
+        "summary": "The primary objective of this project is to contribute towards improving the status of food security through support with agricultural livelihoods for increased access and availability of food at household level as well as generate agricultural income of food insecure out-of-camp IDPs and Returnees."
+      },
+      "activities": {
+        "list": [
+          "Provision of agriculture inputs and assets",
+          "Cash for Work (cleaning irrigation canals and water networks)"
+        ],
+        "summary": "This project carries out a number of activities to accomplish its objectives, including, Provision of agriculture inputs and assets and Cash for Work (cleaning irrigation canals and water networks)."
+      },
+      "state": "onGoing",
+      "employees": {
+        "male": 2,
+        "female": 0,
+        "total": 2
+      }
+    },
+    {
+      "id": 12,
+      "name": "IRQ SIDA Major Hum 2021",
+      "start": "2021-04-30T21:00:00.000Z",
+      "end": "2022-03-30T21:00:00.000Z",
+      "budget": 279698,
+      "summary": "Most vulnerable conflict-affected displaced boys, girls and their caregivers in Duhok are supported to survive and be protected through integrated protection ( MHPSS, livelihoods and health services).",
+      "partners": [
+        "SIDA",
+        "SCI"
+      ],
+      "clusters": [
+        "CP"
+      ],
+      "locations": {
+        "type": [
+          "camp"
+        ],
+        "urban": [],
+        "camp": [
+          "Chamishko"
+        ]
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs"
+        ],
+        "target": 5000,
+        "male": 2000,
+        "female": 3000,
+        "summary": "This projects targers IDPs in camp area of Zakho (Chamishko camp) with a target beneficiareis of 5000, of which 2000 are male and 3000 are female."
+      },
+      "objectives": {
+        "list": [
+          "Supporting the strengthening and functioning of a comprehensive case management mechanism",
+          "Improving cooperation and peaceful interactions between children through SPSS activities",
+          "Promote the culture of community free of violence against children, youth and adolescent",
+          "Provide urgent life-saving assistance to alleviate suffering among socio-economically vulnerable households in conflict affected community",
+          "Encourage and enable community to promote healthy behaviours and prevent the spread of infectious diseases."
+        ],
+        "summary": "The primary objectives of this project are supporting the strengthening and functioning of a comprehensive case management mechanism, Improving cooperation and peaceful interactions between children through SPSS activities, promote the culture of community free of violence against children, youth and adolescent as well as to provide urgent life-saving assistance to alleviate suffering among socio-economically vulnerable households in conflict affected community and encourage and enable community to promote healthy behaviours and prevent the spread of infectious diseases."
+      },
+      "activities": {
+        "list": [
+          "Case Management service",
+          "SPSS activities (child resilience, youth resilience and HEART)",
+          "PD for parents",
+          "MAG workshop for male gender",
+          "Multipurpose cash Assistance and cash for ptotection",
+          "life skills training for youth",
+          "Health awareness sessions"
+        ],
+        "summary": "This project carries out a number of activities to accomplish its objectives, including, Case Management service, SPSS activities (child resilience, youth resilience and HEART), PD for parents, MAG workshop for male gender, Multipurpose cash Assistance and cash for ptotection, life skills training for youth and Health awareness sessions."
+      },
+      "state": "onGoing",
+      "employees": {
+        "male": 9,
+        "female": 8,
+        "total": 17
+      }
+    },
+    {
+      "id": 13,
+      "name": "Water conservation camping in Duhok and Neinawa",
+      "start": "2021-08-09T21:00:00.000Z",
+      "end": "2022-06-14T21:00:00.000Z",
+      "budget": "675976 Euro",
+      "summary": "This project is funded by AFD with cooperation with GIZ and coordination with DOW and DOWD, ......",
+      "partners": [
+        "AFD",
+        "GIZ"
+      ],
+      "clusters": [
+        "WASH"
+      ],
+      "locations": {
+        "type": [
+          "urban",
+          "camp"
+        ],
+        "urban": [
+          "Duhok",
+          "Sumel",
+          "Bardarash",
+          "Al-Mosul"
+        ],
+        "camp": [
+          "Domiz 1",
+          "Domiz 2"
+        ]
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs",
+          "Refugees",
+          "Host Community"
+        ],
+        "target": 110627,
+        "male": 54208,
+        "female": 56420,
+        "summary": "This projects targers IDPs, Refugees and Host Communities in urabn and camp areas of Duhok, Sumel (Domiz 1 and Domiz 2 camps) Bardarash and Al-Mosul with a target beneficiareis of 1,100,627, of which 54,208 are male and 56,420 are female."
+      },
+      "objectives": {
+        "list": [
+          "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+          "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+          "Water Conservation practices promoted and adopted among 110,627 IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates.",
+          "Best practices for water conservation identified and documented to be used by partners in other locations"
+        ],
+        "summary": "The primary objectives of this project are to raise awarness on the issues of water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders. As well as supporting the improvement of local water authorities’ capacities to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels. The project also ensures Water Conservation practices to be promoted and adopted among 110,627 IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates and to identify and document best practices for water conservation to be used by partners in other locations."
+      },
+      "activities": {
+        "list": [
+          "Identify and invite project partners, stakeholders and targeted communities’ representatives (religious leader, mukhtars, teachers, students, social activists, media staff from IDPs, refugees, host community members “male and female”) to attend one day workshop to present and discuss water waste and abuse practices and formulate Multi-Sectoral Water Conservation Concept/Policy Paper.",
+          "Awareness raising for schools and community members through the concept paper formulated in the workshop",
+          "Improve local authoriteis and school teachers capacity on the subjects of WASH through training.",
+          "Organize and conduct 1 day conference in coordination with the university of Dohuk to present the outcomes of the project"
+        ],
+        "summary": "This project carries out a number of activities to accomplish its objectives, including, Identify and invite project partners, stakeholders and targeted communities’ representatives (religious leader, mukhtars, teachers, students, social activists, media staff from IDPs, refugees, host community members “male and female”) to attend one day workshop to present and discuss water waste and abuse practices and formulate Multi-Sectoral Water Conservation Concept/Policy Paper, Awareness raising for schools and community members through the concept paper formulated in the workshop, Improve local authoriteis and school teachers capacity on the subjects of WASH through training and organize and conduct 1 day conference in coordination with the university of Dohuk to present the outcomes of the project"
+      },
+      "state": "onGoing",
+      "employees": {
+        "male": 7,
+        "female": 1,
+        "total": 8
+      }
+    }
+  ]
+}
