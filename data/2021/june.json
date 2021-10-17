@@ -1640,8 +1640,8 @@
       "location": "Camp",
       "nameOfCamp": "Berseve 2",
       "male": null,
-      "female": 92,
-      "total": 92,
+      "female": 100,
+      "total": 100,
       "district": "Zakho",
       "province": "Duhok",
       "month": "june"
@@ -1752,8 +1752,8 @@
       "location": "Camp",
       "nameOfCamp": "Bardarash",
       "male": null,
-      "female": 169,
-      "total": 169,
+      "female": 187,
+      "total": 187,
       "district": "Bardarash",
       "province": "Duhok",
       "month": "june"
@@ -2243,8 +2243,8 @@
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
       "male": null,
-      "female": null,
-      "total": 0,
+      "female": 18,
+      "total": 18,
       "numberOfSessions": null,
       "cluster": "SGBV",
       "month": "june"
@@ -2452,8 +2452,8 @@
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": 0,
-      "female": 296,
-      "total": 296,
+      "female": 304,
+      "total": 304,
       "numberOfSessions": null,
       "cluster": "SGBV",
       "month": "june"

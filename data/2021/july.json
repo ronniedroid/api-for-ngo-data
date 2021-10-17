@@ -1081,6 +1081,17 @@
   ],
   "ProtectionActivities": [
     {
+      "activity": "Number of POCs receiving legal assestance",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Syrian",
+      "male": 215,
+      "female": 155,
+      "total": 370,
+      "numberOfSessions": null,
+      "cluster": "Protection",
+      "month": "july"
+    },
+    {
       "activity": "Number of POCs receiving legal assestance in detention centers",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
