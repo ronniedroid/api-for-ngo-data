@@ -115,6 +115,31 @@ app.get("/v2/data/:year/:month", (req, res) => {
   res.status(200).json(monthsData);
 });
 
+app.get("/v2/projects/", (req, res) => {
+  const fileBuffer = fs.readFileSync(
+    `${__dirname}/public/projects/projects.json`
+  );
+  const data = JSON.parse(fileBuffer);
+  res.status(200).json(data);
+});
+
+app.get("/v2/policies/", (req, res) => {
+  const fileBuffer = fs.readFileSync(`${__dirname}/public/policies.json`);
+  const data = JSON.parse(fileBuffer);
+  res.status(200).json(data);
+});
+
+app.get("/v2/projects/:id", (req, res) => {
+  const { id } = req.params;
+  const fileBuffer = fs.readFileSync(
+    `${__dirname}/public/projects/projects.json`
+  );
+  const data = JSON.parse(fileBuffer);
+  const { projects } = data;
+  const currentProject = projects.filter((item) => item.id === Number(id));
+  res.status(200).json(currentProject);
+});
+
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`);
 });
