@@ -523,11 +523,11 @@
       "month": "april"
     }
   ],
-  "SGBV": [
+  "GBV": [
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Sharia",
@@ -541,7 +541,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Khanke",
@@ -555,7 +555,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Bajid kandal",
@@ -569,7 +569,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Chamishko",
@@ -583,7 +583,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Mamrashan",
@@ -597,7 +597,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -611,7 +611,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": "Sinune",
@@ -625,7 +625,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Domiz 1",
@@ -639,7 +639,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Domiz 2",
@@ -653,7 +653,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Gawilan",
@@ -667,7 +667,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Bardarsh",
@@ -681,7 +681,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Enhanced capacity of national government and civil society organizations to design and implement programmes on reproductive health, social cohesion and civic engagement for vulnerable young people, with special focus on marginalized adolescent girls in humanitarian settings (Youth Programme)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Domiz 1",
@@ -695,7 +695,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Enhanced capacity of national government and civil society organizations to design and implement programmes on reproductive health, social cohesion and civic engagement for vulnerable young people, with special focus on marginalized adolescent girls in humanitarian settings (Youth Programme)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": null,
@@ -709,7 +709,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": null,
@@ -723,7 +723,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": null,
@@ -737,7 +737,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Domiz1",
@@ -751,7 +751,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": null,
@@ -765,7 +765,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Akre camp",
@@ -779,7 +779,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": null,
@@ -793,7 +793,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Bardarash camp",
@@ -807,7 +807,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Gawilan camp",
@@ -821,7 +821,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -835,7 +835,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -849,7 +849,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -863,7 +863,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -877,7 +877,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -891,7 +891,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -905,7 +905,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -919,7 +919,7 @@
     {
       "nameOfProject": "Providing PSS, case managment and vocational training services for women and girls",
       "objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -933,7 +933,7 @@
     {
       "nameOfProject": "Providing PSS, case managment and vocational training services for women and girls",
       "objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -947,7 +947,7 @@
     {
       "nameOfProject": "Providing PSS, case managment and vocational training services for women and girls",
       "objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -961,7 +961,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Domiz1 camp",
@@ -975,7 +975,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Gawilan camp",
@@ -989,7 +989,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved (CAC)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Domiz1 camp",
@@ -1003,7 +1003,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved (CAC)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Gawilan camp",
@@ -1015,13 +1015,13 @@
       "month": "april"
     }
   ],
-  "SGBVActivities": [
+  "GBVActivities": [
     {
       "activity": "Awareness session",
       "male": 39,
       "female": 120,
       "total": 159,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
@@ -1029,7 +1029,7 @@
       "male": 8,
       "female": 247,
       "total": 255,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
@@ -1037,7 +1037,7 @@
       "male": 58,
       "female": 63,
       "total": 121,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
@@ -1045,7 +1045,7 @@
       "male": 135,
       "female": 168,
       "total": 303,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
@@ -1053,7 +1053,7 @@
       "male": 0,
       "female": 0,
       "total": 0,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
@@ -1061,7 +1061,7 @@
       "male": 0,
       "female": 117,
       "total": 117,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
@@ -1069,7 +1069,7 @@
       "male": null,
       "female": null,
       "total": 0,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
@@ -1077,7 +1077,7 @@
       "male": null,
       "female": null,
       "total": 0,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
@@ -1085,7 +1085,7 @@
       "male": null,
       "female": null,
       "total": 0,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
@@ -1093,7 +1093,7 @@
       "male": null,
       "female": null,
       "total": 0,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
@@ -1101,7 +1101,7 @@
       "male": null,
       "female": null,
       "total": 0,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
@@ -1109,7 +1109,7 @@
       "male": null,
       "female": null,
       "total": 0,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
@@ -1117,7 +1117,7 @@
       "male": null,
       "female": null,
       "total": 0,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
@@ -1125,7 +1125,7 @@
       "male": null,
       "female": null,
       "total": 0,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
@@ -1133,7 +1133,7 @@
       "male": null,
       "female": null,
       "total": 0,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
@@ -1141,59 +1141,59 @@
       "male": null,
       "female": null,
       "total": 0,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     }
   ],
-  "SGBVHighlights": [
+  "GBVHighlights": [
     {
       "GeneralHighlights": "Community listening centers conducted 98 online awareness key messages related to COVID-19 for different age groups, 40 women, 30 men, 42 boys and 30 girls attended. The purpose behind these session was to aware the community on how they will protect themselves and family members from Coronavirus and to manage their stress while staying at home.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
       "GeneralHighlights": "APM for GBV conudcted three online meetings with CLC-Managers to discuss the staff challanges during the curfew and provide a new methodology for the activities.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
       "GeneralHighlights": "APM for GBV has atteded GBVIMD data analysis quartely report meeting via Skype. The main aim of the meeting to discuss the trends of the cases and reason behind them.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
       "GeneralHighlights": "APM for GBV has attended PSEA Duhok task force meeting via Skype to discuss and update Duhok PSEA workplan of 2020.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
       "GeneralHighlights": "CACs have conducted awareness raising sessions on COVID-19 for children and parents through WhatsApp groups",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
       "GeneralHighlights": "Some non- structured psycho-social support (PSS) activities are being conducted for children and adolescents also through the WhatsApp groups.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
       "GeneralHighlights": "CPO has attended CPWG via zoom on 27th April 2020 the main purpose was about the description on the current modality of program delivery ( family PSS kits and awareness-raising on COVID19).",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
       "GeneralHighlights": "GBV staff conducted some online awareness sessions on COVID-19 and total of  8704 members (2227 women, 2565 men, 2025 boys, and 1887 girls) were reached.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
       "GeneralHighlights": "GBV staff  presented several online family PSS kits and total of 5346 (2367 women, 1352 girls, 617 men, and 1010 boys) were reached.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     },
     {
       "GeneralHighlights": "GBV staff in partnership with UNICEF organized an online drawing contest for children from three to twelve years old. 151 children (106 girls, and 45 boys) participated and total of 9 children won in the contest.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "april"
     }
   ],

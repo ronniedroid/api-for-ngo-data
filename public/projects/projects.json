@@ -15,7 +15,7 @@
         "UNICEF"
       ],
       "clusters": [
-        "SGBV"
+        "GBV"
       ],
       "locations": {
         "type": [
@@ -78,7 +78,7 @@
         "UNICEF"
       ],
       "clusters": [
-        "SGBV"
+        "GBV"
       ],
       "locations": {
         "type": [
@@ -142,7 +142,7 @@
       ],
       "clusters": [
         "Protection",
-        "SGBV"
+        "GBV"
       ],
       "locations": {
         "type": [
@@ -300,7 +300,7 @@
         "UNFPA"
       ],
       "clusters": [
-        "SGBV",
+        "GBV",
         "Health"
       ],
       "locations": {
@@ -386,7 +386,7 @@
         "GAC"
       ],
       "clusters": [
-        "SGBV",
+        "GBV",
         "WASH"
       ],
       "locations": {

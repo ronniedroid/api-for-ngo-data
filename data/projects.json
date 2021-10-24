@@ -108,7 +108,7 @@
     "summary": "Fulfill gaps in addressing GBV against women  through setting up safe space for women and girls , awareness, case management, providing PSSl support a and capacity building of services providers.",
     "clusters": [
       {
-        "cluster": "SGBV",
+        "cluster": "GBV",
         "color": "gbv"
       }
     ],
@@ -128,7 +128,7 @@
     "summary": "provision of GBV case management and Structured PSS programme,using structured programme specifically designed for adolescent girls,skills building through vocational training for women and girls",
     "clusters": [
       {
-        "cluster": "SGBV",
+        "cluster": "GBV",
         "color": "gbv"
       }
     ],
@@ -152,7 +152,7 @@
         "color": "pro"
       },
       {
-        "cluster": "SGBV",
+        "cluster": "GBV",
         "color": "gbv"
       }
     ],
@@ -175,7 +175,7 @@
     "summary": "Providing GBV,  Youth and RH services in Duhok and Nineveh. With 15 women centers operating across Dohuk and Ninewe governorates providing different services to vulnerable women and girls.",
     "clusters": [
       {
-        "cluster": "SGBV",
+        "cluster": "GBV",
         "color": "gbv"
       },
       {

@@ -1561,11 +1561,11 @@
       "month": "june"
     }
   ],
-  "SGBV": [
+  "GBV": [
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Shariya",
@@ -1579,7 +1579,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Kabarto 2",
@@ -1593,7 +1593,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Khanke",
@@ -1607,7 +1607,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Bajid Kandala",
@@ -1621,7 +1621,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Chamishko",
@@ -1635,7 +1635,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Berseve 2",
@@ -1649,7 +1649,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Mamrashan",
@@ -1663,7 +1663,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -1677,7 +1677,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -1691,7 +1691,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Domiz 1",
@@ -1705,7 +1705,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -1719,7 +1719,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Domiz 2",
@@ -1733,7 +1733,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Gewilan",
@@ -1747,7 +1747,7 @@
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Bardarash",
@@ -1761,7 +1761,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": null,
@@ -1775,7 +1775,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": null,
@@ -1789,7 +1789,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Domiz 1",
@@ -1803,7 +1803,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": null,
@@ -1817,7 +1817,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Akre Settlement",
@@ -1831,7 +1831,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": null,
@@ -1845,7 +1845,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Bardarash",
@@ -1859,7 +1859,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Gewilan",
@@ -1873,7 +1873,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -1887,7 +1887,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -1901,7 +1901,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -1915,7 +1915,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -1929,7 +1929,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -1943,7 +1943,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -1957,7 +1957,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -1971,7 +1971,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Domiz 1",
@@ -1985,7 +1985,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Gewilan",
@@ -1999,7 +1999,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved (CAC)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Domiz 1",
@@ -2013,7 +2013,7 @@
     {
       "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved (CAC)",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Gewilan",
@@ -2027,7 +2027,7 @@
     {
       "nameOfProject": "Provision of Gender-Based Violence prevention and\nresponse services for women and girls in Ninawa and West Mosul.",
       "objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -2041,7 +2041,7 @@
     {
       "nameOfProject": "Provision of Gender-Based Violence prevention and\nresponse services for women and girls in Ninawa and West Mosul.",
       "objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -2055,7 +2055,7 @@
     {
       "nameOfProject": "Provision of Gender-Based Violence prevention and\nresponse services for women and girls in Ninawa and West Mosul.",
       "objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -2069,7 +2069,7 @@
     {
       "nameOfProject": "Provision of Gender-Based Violence prevention and\nresponse services for women and girls in Ninawa and West Mosul.",
       "objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -2083,7 +2083,7 @@
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
       "objective": "Gender sensitive community centres supported to deliver psychosocial support to the communities",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Essiyan",
@@ -2097,7 +2097,7 @@
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
       "objective": "Gender sensitive community centres supported to deliver psychosocial support to the communities",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Returnees",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -2111,7 +2111,7 @@
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
       "objective": "Protection response services including case management provided for women, girls, men and boys",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Essiyan",
@@ -2125,7 +2125,7 @@
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
       "objective": "Protection response services including case management provided for women, girls, men and boys",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Returnees",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -2139,7 +2139,7 @@
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
       "objective": "Community awareness raising sessions on protection and GBV prevention conducted",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Essiyan",
@@ -2153,7 +2153,7 @@
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
       "objective": "Community awareness raising sessions on protection and GBV prevention conducted",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Chamishko",
@@ -2167,7 +2167,7 @@
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
       "objective": "Community awareness raising sessions on protection and GBV prevention conducted",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Returnees",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -2181,7 +2181,7 @@
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
       "objective": "Cash transfers for urgent protection needs distributed to vulnerable returnees in Sinjar",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "typeOfBeneficiaries": "Returnees",
       "location": "NonCamp",
       "nameOfCamp": null,
@@ -2193,7 +2193,7 @@
       "month": "june"
     }
   ],
-  "SGBVActivities": [
+  "GBVActivities": [
     {
       "activity": "POCs reached through raising awareness sessions",
       "typeOfBeneficiaries": "Refugee",
@@ -2202,7 +2202,7 @@
       "female": 392,
       "total": 790,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2213,7 +2213,7 @@
       "female": 30,
       "total": 31,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2224,7 +2224,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2235,7 +2235,7 @@
       "female": 474,
       "total": 474,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2246,7 +2246,7 @@
       "female": 18,
       "total": 18,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2257,7 +2257,7 @@
       "female": 62,
       "total": 62,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2268,7 +2268,7 @@
       "female": 138,
       "total": 138,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2279,7 +2279,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2290,7 +2290,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2301,7 +2301,7 @@
       "female": 11,
       "total": 13,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2312,7 +2312,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2323,7 +2323,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2334,7 +2334,7 @@
       "female": 78,
       "total": 106,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2345,7 +2345,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2356,7 +2356,7 @@
       "female": 13,
       "total": 33,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2367,7 +2367,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2378,7 +2378,7 @@
       "female": 6,
       "total": 6,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2389,7 +2389,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2400,7 +2400,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2411,7 +2411,7 @@
       "female": 1196,
       "total": 1968,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2422,7 +2422,7 @@
       "female": 117,
       "total": 95,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2433,7 +2433,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2444,7 +2444,7 @@
       "female": 478,
       "total": 583,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2455,7 +2455,7 @@
       "female": 304,
       "total": 304,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2466,7 +2466,7 @@
       "female": 125,
       "total": 216,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2477,7 +2477,7 @@
       "female": 197,
       "total": 197,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2488,7 +2488,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2499,7 +2499,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2510,7 +2510,7 @@
       "female": 60,
       "total": 116,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2521,7 +2521,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2532,7 +2532,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2543,7 +2543,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2554,7 +2554,7 @@
       "female": 80,
       "total": 80,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2565,7 +2565,7 @@
       "female": 182,
       "total": 541,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2576,7 +2576,7 @@
       "female": 37,
       "total": 41,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2587,7 +2587,7 @@
       "female": 237,
       "total": 434,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2598,7 +2598,7 @@
       "female": 18,
       "total": 18,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2609,7 +2609,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2620,7 +2620,7 @@
       "female": 16,
       "total": 16,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2631,7 +2631,7 @@
       "female": 148,
       "total": 148,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2642,7 +2642,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2653,7 +2653,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2664,7 +2664,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2675,7 +2675,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2686,7 +2686,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2697,7 +2697,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2708,7 +2708,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2719,7 +2719,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2730,7 +2730,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2741,7 +2741,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2752,7 +2752,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2763,7 +2763,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2774,7 +2774,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2785,7 +2785,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2796,7 +2796,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2807,7 +2807,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2818,7 +2818,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2829,7 +2829,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2840,7 +2840,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2851,7 +2851,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
@@ -2862,39 +2862,39 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     }
   ],
-  "SGBVHighlights": [
+  "GBVHighlights": [
     {
       "project": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq - IDPs - GBV Unit",
       "summary": "Harikar/UNHCR GBV unit conducted different activities in June 2021 for Syrian and Non-Syrian refugees in camps and out of camps and continousley presented awareness sessions and case management. GBV unit conducted seven training for Syrian refugees in camps and urban areas on PSEA and the purpose behind it to aware the community of PSEA, referral and reporting mechanism. Furthermore; CLC-Mnanagers have attended camp management and protection meeting on camp level and presented the updates of GBV activities. It is also worth to mention that; CLC-Domiz manager has attended an online GBV WG meeting as well as GBVIMS ISP meeting.GBV unit also celeberated World Refugees Day in camps by conducting various activitis and coordination with other stakeholders such as: seminar on the day, role play and Domiz Radio interview for discussing the importance of that day.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
       "project": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq - IDPs - Community Activity Centers",
       "summary": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
       "project": "UNFPA Country Programe for Iraq 2020-2024",
       "summary": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
       "project": "Provision of Gender-Based Violence prevention and response services for women and girls in Ninawa and west Mosul",
       "summary": "During June, GBV prevention and response intervention in Ninawah team carried out the usual activities of providing GBV case management, vocational training, awareness sessions, structured pss for women and girls, and recreational activities for children. In addition, the project manager has attended ” Grant writing and donor relation training\",  case management supervisor has attended the monthly meeting of Duhok GBV WG. Moreover, the monthly meeting was conducted with the center managers. \n  Database &reporting assistant has participated in a training on the impact of COVID-19 for women and girls to conduct a survey in the mentioned issue. \nFurthermore, A self-care training was provided to the team in the four locations.\nAs for the challenges, the lack of service providers in the legal sector in Zummar prevents the team from referral several cases, difficulty to referrals in Bardrash due to lack of service providers. To overcome the mentioned challenges, the lack of service providers was shared with Ninawah GBV WG.",
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     },
     {
       "project": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
       "summary": null,
-      "cluster": "SGBV",
+      "cluster": "GBV",
       "month": "june"
     }
   ],
