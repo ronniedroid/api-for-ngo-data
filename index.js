@@ -16,18 +16,6 @@ app.get("/", (req, res) => {
   res.send("Harikar report data API");
 });
 
-app.use("/v2/pdfs/bids/:bid", (req, res) => {
-  const { bid } = req.params;
-  const file = `${__dirname}/public/pdfs/bids/${bid}.pdf`;
-  res.download(file);
-});
-
-app.use("/v2/pdfs/jobs/:job", (req, res) => {
-  const { job } = req.params;
-  const file = `${__dirname}/public/pdfs/jobs/${job}.pdf`;
-  res.download(file);
-});
-
 app.get("/data/projects", (req, res) => {
   const fileBuffer = fs.readFileSync(`./data/projects.json`);
   const data = JSON.parse(fileBuffer);
