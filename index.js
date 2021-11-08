@@ -94,10 +94,6 @@ app.get("/v2/data/:year/:month", (req, res) => {
   monthsData = {
     info: yearData.filter((item) => item.nameOfProject),
     activities: yearData.filter((item) => item.activity),
-    summaries:
-      year === "2020"
-        ? yearData.filter((item) => item.GeneralHighlights)
-        : yearData.filter((item) => item.summary),
   };
 
   res.status(200).json(monthsData);

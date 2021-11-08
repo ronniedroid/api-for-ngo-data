@@ -63,7 +63,7 @@ module.exports = {
     const arr = Array.from(Object.values(data));
     arr.map((item) => {
       item.map((i) => {
-        if (i.GeneralHighlights != null || i.total > 0) {
+        if (i.total > 0) {
           results = [...results, i];
         }
       });
