@@ -15,7 +15,7 @@
         "UNICEF"
       ],
       "clusters": [
-        "GBV"
+        "SGBV"
       ],
       "locations": {
         "type": [
@@ -78,7 +78,7 @@
         "UNICEF"
       ],
       "clusters": [
-        "GBV"
+        "SGBV"
       ],
       "locations": {
         "type": [
@@ -142,7 +142,7 @@
       ],
       "clusters": [
         "Protection",
-        "GBV"
+        "SGBV"
       ],
       "locations": {
         "type": [
@@ -300,7 +300,7 @@
         "UNFPA"
       ],
       "clusters": [
-        "GBV",
+        "SGBV",
         "Health"
       ],
       "locations": {
@@ -386,7 +386,7 @@
         "GAC"
       ],
       "clusters": [
-        "GBV",
+        "SGBV",
         "WASH"
       ],
       "locations": {
@@ -708,7 +708,6 @@
       "budget": 141199,
       "summary": "Harikar NGO in consortium with WVI is implementing a project in cooperation with Directorate of Agriculture and local mayor offices. This project seeks to support severely vulnerable IDPs, Returnees and Host community. Furthermore,it improves their access to productive assets through the distribution of agricultural assets and inputs to (re)start their livelihoods and conduct a training to promote increased production and productivity with a focus on homestead and small-scale food production.",
       "partners": [
-        "Dorcas",
         "WVI"
       ],
       "clusters": [
@@ -825,7 +824,7 @@
         "name": "Brwa Hikmat",
         "email": "brwa.h@harikar.org"
       },
-      "name": "Water conservation camping in Duhok and Neinawa",
+      "name": "Water conservation campaign in Duhok and Neinawa",
       "start": "2021-08-09T21:00:00.000Z",
       "end": "2022-06-14T21:00:00.000Z",
       "budget": "675976 Euro",
