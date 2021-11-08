@@ -31,38 +31,6 @@ app.get("/data/projects/:id", (req, res) => {
   res.status(200).json(currentProject);
 });
 
-// GET: localhost:300/data
-app.get("/data/:year/:month", (req, res) => {
-  let { year, month } = req.params;
-  const fileBuffer = fs.readFileSync(`./data/${year}/${month}.json`);
-  const data = JSON.parse(fileBuffer);
-  res.status(200).json(data);
-});
-
-// GET: localhost:3000/:year
-app.get("/data/:year", (req, res) => {
-  const { year } = req.params;
-  // read in all the data for the years data
-  let months = fs.readdirSync(`./data/${year}`);
-
-  months = tools.sortByMonthName(months);
-
-  let monthsData = {};
-
-  months.forEach((month) => {
-    try {
-      const fileBuffer = fs.readFileSync(`./data/${year}/${month}`);
-      const data = JSON.parse(fileBuffer);
-      month = month.replace(/.json/, "");
-      monthsData[month] = data;
-    } catch (e) {
-      res.status(400).json({ message: "file not found" });
-    }
-  });
-
-  res.send(JSON.stringify(monthsData));
-});
-
 app.get("/v2/months/:year", (req, res) => {
   const { year } = req.params;
   // read in all the data for the years data
@@ -107,12 +75,6 @@ app.get("/v2/projects/", (req, res) => {
   res.status(200).json(data);
 });
 
-app.get("/v2/policies/", (req, res) => {
-  const fileBuffer = fs.readFileSync(`${__dirname}/public/policies.json`);
-  const data = JSON.parse(fileBuffer);
-  res.status(200).json(data);
-});
-
 app.get("/v2/projects/:id", (req, res) => {
   const { id } = req.params;
   const fileBuffer = fs.readFileSync(
@@ -122,6 +84,12 @@ app.get("/v2/projects/:id", (req, res) => {
   const { projects } = data;
   const currentProject = projects.filter((item) => item.id === Number(id));
   res.status(200).json(currentProject);
+});
+
+app.get("/v2/policies/", (req, res) => {
+  const fileBuffer = fs.readFileSync(`${__dirname}/public/policies.json`);
+  const data = JSON.parse(fileBuffer);
+  res.status(200).json(data);
 });
 
 app.listen(port, () => {
