@@ -2902,7 +2902,7 @@
     {
       "nameOfProject": "IRQ Sida Major Hum 2021",
       "objective": "Most vulnerable conflict-affected displaced boys, girls and their caregivers in Duhok are supported to survive and be protected through integrated protection ( MHPSS, livelihoods and health actions).",
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Chamishko",
@@ -2923,7 +2923,7 @@
       "female": 47,
       "total": 90,
       "numberOfSessions": null,
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "august"
     },
     {
@@ -2934,7 +2934,7 @@
       "female": 24,
       "total": 48,
       "numberOfSessions": null,
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "august"
     },
     {
@@ -2945,7 +2945,7 @@
       "female": 10,
       "total": 20,
       "numberOfSessions": null,
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "august"
     },
     {
@@ -2956,7 +2956,7 @@
       "female": 23,
       "total": 46,
       "numberOfSessions": null,
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "august"
     },
     {
@@ -2967,7 +2967,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "august"
     },
     {
@@ -2978,7 +2978,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "august"
     },
     {
@@ -2989,7 +2989,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "august"
     },
     {
@@ -3000,7 +3000,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "august"
     }
   ],
@@ -3008,7 +3008,7 @@
     {
       "project": "IRQ Sida Major Hum 2021",
       "summary": "During August, Harikar in partnership with SCI funded by SIDA provided various CP activities for IDPs in Chamishko camp such as SPSS, case management and positive descipline for parents. Also, Harikar has recruited health assistant for the project for providing awareness sessions/ campaigns on COVID-19 for children and parents. in addendum, Project Coordinator has attended Duhok CMTF and CPWG, CP staff has traied on PD program and Safe Identification and Referral Pathway. As for the challenges: due to the last wave of Covid-19 child protection activities in our Chamishko Camp Community Center were seized from August 3rd to August 19th.",
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "August"
     }
   ],

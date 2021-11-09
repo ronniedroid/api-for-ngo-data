@@ -1457,7 +1457,7 @@
       "month": "september"
     }
   ],
-  "SGBV": [
+  "GBV": [
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
       "objective": "Strengthened capacity of government and civil society institutions to mitigate and respond to gender-based violence and harmful practices, with a special focus on vulnerable women in humanitarian settings. (GBV)",
@@ -2089,7 +2089,7 @@
       "month": "september"
     }
   ],
-  "SGBVActivities": [
+  "GBVActivities": [
     {
       "activity": "POCs reached through raising awareness sessions",
       "typeOfBeneficiaries": "Refugee",
@@ -2762,7 +2762,7 @@
       "month": "september"
     }
   ],
-  "SGBVHighlights": [
+  "GBVHighlights": [
     {
       "project": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq - IDPs - GBV Unit",
       "summary": "Harikar with the support of UNHCR conducted different activities in Sep 2021 for Syrian and Non-Syrian refugees in camps and out of camps such as: case management, awareness sessions, GBV prevention and response training. In addition, CLC-Managers have attended camp coordination meeting as well as protection meeting. Further more, Assisstant Project Manager has attended GBV WG meeting, PSEA Duhok task force, PSEA Iraq network and GBVIMS via online modalities and during the meeting Harikar updates and activities have been shared with attendess.",
@@ -2798,13 +2798,13 @@
     {
       "nameOfProject": "IRQ Sida Major Hum 2021",
       "objective": "Most vulnerable conflict-affected displaced boys, girls and their caregivers in Duhok are supported to survive and be protected through integrated protection ( MHPSS, livelihoods and health actions).",
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Chamishko",
-      "male": null,
-      "female": null,
-      "total": 0,
+      "male": 47,
+      "female": 103,
+      "total": 150,
       "district": "Zakho",
       "province": "Duhok",
       "month": "september"
@@ -2815,22 +2815,22 @@
       "activity": "Structured Psychosocial support programs.",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": null,
-      "female": null,
-      "total": 0,
+      "male": 44,
+      "female": 54,
+      "total": 98,
       "numberOfSessions": null,
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "september"
     },
     {
       "activity": "Case Management service.",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": null,
-      "female": null,
-      "total": 0,
+      "male": 3,
+      "female": 9,
+      "total": 12,
       "numberOfSessions": null,
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "september"
     },
     {
@@ -2841,18 +2841,18 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "september"
     },
     {
       "activity": "PD for families",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": null,
-      "female": null,
-      "total": 0,
+      "male": 23,
+      "female": 23,
+      "total": 46,
       "numberOfSessions": null,
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "september"
     },
     {
@@ -2863,7 +2863,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "september"
     },
     {
@@ -2874,7 +2874,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "september"
     },
     {
@@ -2885,7 +2885,7 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "september"
     },
     {
@@ -2896,15 +2896,15 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "Child Protection",
+      "cluster": "CP",
       "month": "september"
     }
   ],
   "CPHighlights": [
     {
       "project": "IRQ Sida Major Hum 2021",
-      "summary": null,
-      "cluster": "Child Protection",
+      "summary": "During September month, Harikar in partnership with SCI have supported children and caregivers through different CP programs in Chamishko camp such as ( Case management for most vulnerable cases, structured PSS activities and positive descipline for parents), in addition, CPO has attended CCM/protection and CCCM meetings at the camp management office.",
+      "cluster": "CP",
       "month": "september"
     }
   ],
