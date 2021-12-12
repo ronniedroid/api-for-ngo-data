@@ -15,7 +15,7 @@
         "UNICEF"
       ],
       "clusters": [
-        "SGBV"
+        "GBV"
       ],
       "locations": {
         "type": [
@@ -78,7 +78,7 @@
         "UNICEF"
       ],
       "clusters": [
-        "SGBV"
+        "GBV"
       ],
       "locations": {
         "type": [
@@ -142,7 +142,7 @@
       ],
       "clusters": [
         "Protection",
-        "SGBV"
+        "GBV"
       ],
       "locations": {
         "type": [
@@ -300,7 +300,7 @@
         "UNFPA"
       ],
       "clusters": [
-        "SGBV",
+        "GBV",
         "Health"
       ],
       "locations": {
@@ -386,7 +386,7 @@
         "GAC"
       ],
       "clusters": [
-        "SGBV",
+        "GBV",
         "WASH"
       ],
       "locations": {
@@ -691,9 +691,9 @@
       },
       "state": "onGoing",
       "employees": {
-        "male": 5,
+        "male": 7,
         "female": 0,
-        "total": 5
+        "total": 7
       }
     },
     {
@@ -886,6 +886,65 @@
         "male": 7,
         "female": 1,
         "total": 8
+      }
+    },
+    {
+      "id": 14,
+      "contact": {
+        "name": "Sarah Salam Elias",
+        "email": "rhcoordinator@harikar.org"
+      },
+      "name": "Providing primary and reproductive health care services in Anbar, Duhok, Erbil, Sulaymaniyah, Diyala and Ninawa governorate (national consortium)",
+      "start": "2020-12-31T21:00:00.000Z",
+      "end": "2021-06-29T21:00:00.000Z",
+      "budget": 96000,
+      "summary": "Harikar as part of NC Project with Dary in collaboration with Duhok DOH implemented a 6-months project (RH Units) in 2IDPs camp Bersive1,Kabarto1.Aims to reach an estimated 6660 IDPs in both camps engaging one RH doctor, nurse,10 community health volunteers for each RH unit in each camp Services provided in Reproductive Health clinics include management of Gynecological and obstetric cases ,ANC,PNC,FP, CMR, management of women and girls with disability in addition to COVID-19 awareness sessions",
+      "partners": [
+        "Dary"
+      ],
+      "clusters": [
+        "Health"
+      ],
+      "locations": {
+        "type": [
+          "Camp"
+        ],
+        "urban": [],
+        "camp": [
+          "Berseve 1",
+          "Kabarto 1"
+        ]
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs"
+        ],
+        "target": 6660,
+        "male": 0,
+        "female": 6660,
+        "summary": "This projects targers IDPs in camp areas of Sumel (Kabarto 1 camp) and Zakho (Berseve 1 camp) with a target beneficiareis of 6660, of which all are female."
+      },
+      "objectives": {
+        "list": [
+          "Improved access to comprehensive primary health services for crisis-affected populations aimed at reducing avoidable morbidity and mortality in targeted areas.",
+          "Strengthen and expand early warning disease detection to mitigate, detect and respond to disease outbreaks in a timely manner.",
+          "Provision of first line life-saving reproductive health and referral services to women and girls in the targeted areas.",
+          "Increased capacity of Ministry of Health, and civil society targeted organizing actions to deliver quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)"
+        ],
+        "summary": "The primary objectives of this project are to Improved access to comprehensive primary health services for crisis-affected populations aimed at reducing avoidable morbidity and mortality in targeted areas as well as strengthen and expand early warning disease detection to mitigate, detect and respond to disease outbreaks in a timely manner. The project also provides first line life-saving reproductive health and referral services to women and girls in the targeted areas and increas capacity of Ministry of Health, and civil society targeted organizing actions to deliver quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)"
+      },
+      "activities": {
+        "list": [
+          "Reproductive health services ANC (Ante Natal Care), PNC (Post Natal Care) for mothers and Newborns. FP (Family Planning) services, CMR (Clinical Management of Rape)",
+          "COVID-19 awareness campaigns for pregnant and new mothers, and other community members (old age group)"
+        ],
+        "summary": "This project carries out a number of activities to accomplish it's objectives, including Reproductive health services ANC (Ante Natal Care), PNC (Post Natal Care) for mothers and Newborns. FP (Family Planning) services, CMR (Clinical Management of Rape) and COVID-19 awareness campaigns for pregnant and new mothers, and other community members (old age group)"
+      },
+      "state": "Done",
+      "employees": {
+        "male": 0,
+        "female": 0,
+        "total": 0
       }
     }
   ]
