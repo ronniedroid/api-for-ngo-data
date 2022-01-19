@@ -7,12 +7,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 49,
-      "female": 0,
-      "total": 49,
+      "male": 45,
+      "female": 2,
+      "total": 47,
       "district": "Amedi",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -21,12 +21,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 50,
-      "female": 21,
-      "total": 71,
+      "male": 47,
+      "female": 16,
+      "total": 63,
       "district": "Duhok",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -35,54 +35,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 49,
-      "female": 56,
-      "total": 105,
+      "male": 17,
+      "female": 36,
+      "total": 53,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "Refugee",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 76,
-      "female": 35,
-      "total": 111,
-      "district": "Zakho",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "Refugee",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 1,
-      "female": 1,
-      "total": 2,
-      "district": "Akre",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "Refugee",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 0,
-      "female": 39,
-      "total": 39,
-      "district": "Shekhan",
-      "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -92,11 +50,53 @@
       "location": "NonCamp",
       "nameOfCamp": null,
       "male": 13,
-      "female": 24,
-      "total": 37,
+      "female": 16,
+      "total": 29,
+      "district": "Zakho",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 6,
+      "female": 3,
+      "total": 9,
+      "district": "Akre",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 21,
+      "female": 6,
+      "total": 27,
+      "district": "Shekhan",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 6,
+      "female": 3,
+      "total": 9,
       "district": "Bardarash",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -105,12 +105,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Domiz 1",
-      "male": 120,
-      "female": 66,
-      "total": 186,
+      "male": 91,
+      "female": 38,
+      "total": 129,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -119,12 +119,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Domiz 2",
-      "male": 32,
-      "female": 33,
-      "total": 65,
+      "male": 28,
+      "female": 39,
+      "total": 67,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -133,12 +133,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Bardarash",
-      "male": 40,
-      "female": 35,
-      "total": 73,
+      "male": 45,
+      "female": 37,
+      "total": 82,
       "district": "Bardarash",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -147,12 +147,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Gewilan",
-      "male": 62,
-      "female": 75,
-      "total": 137,
+      "male": 36,
+      "female": 46,
+      "total": 82,
       "district": "Al-Hamdaniya",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -161,12 +161,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Akre Settlement",
-      "male": 17,
-      "female": 37,
-      "total": 54,
+      "male": 2,
+      "female": 8,
+      "total": 10,
       "district": "Akre",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -175,40 +175,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 20,
-      "female": 3,
-      "total": 23,
+      "male": 9,
+      "female": 5,
+      "total": 14,
       "district": "Amedi",
       "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Quality of registration and profiling to be improved or maintained",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "Refugee",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 0,
-      "female": 7,
-      "total": 7,
-      "district": "Duhok",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Quality of registration and profiling to be improved or maintained",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "Refugee",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 43,
-      "female": 74,
-      "total": 117,
-      "district": "Sumel",
-      "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -218,529 +190,473 @@
       "location": "NonCamp",
       "nameOfCamp": null,
       "male": 4,
-      "female": 16,
-      "total": 20,
-      "district": "Zakho",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Quality of registration and profiling to be improved or maintained",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "Refugee",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 1,
-      "female": 2,
-      "total": 3,
-      "district": "Akre",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Quality of registration and profiling to be improved or maintained",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "Refugee",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 2,
-      "female": 0,
-      "total": 2,
-      "district": "Shekhan",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Quality of registration and profiling to be improved or maintained",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "Refugee",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 0,
-      "female": 0,
-      "total": 0,
-      "district": "Bardarash",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Quality of registration and profiling to be improved or maintained",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "Refugee",
-      "location": "Camp",
-      "nameOfCamp": "Domiz 1",
-      "male": 124,
-      "female": 157,
-      "total": 281,
-      "district": "Sumel",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Quality of registration and profiling to be improved or maintained",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "Refugee",
-      "location": "Camp",
-      "nameOfCamp": "Domiz 2",
-      "male": 20,
-      "female": 56,
-      "total": 76,
-      "district": "Sumel",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Quality of registration and profiling to be improved or maintained",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "Refugee",
-      "location": "Camp",
-      "nameOfCamp": "Bardarash",
-      "male": 26,
-      "female": 12,
-      "total": 38,
-      "district": "Bardarash",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Quality of registration and profiling to be improved or maintained",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "Refugee",
-      "location": "Camp",
-      "nameOfCamp": "Gewilan",
-      "male": 37,
-      "female": 29,
-      "total": 66,
-      "district": "Al-Hamdaniya",
-      "province": "Nineveh",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Quality of registration and profiling to be improved or maintained",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "Refugee",
-      "location": "Camp",
-      "nameOfCamp": "Akre Settlement",
-      "male": 5,
-      "female": 7,
-      "total": 12,
-      "district": "Akre",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 0,
-      "female": 0,
-      "total": 0,
-      "district": "Amedi",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 0,
-      "female": 0,
-      "total": 0,
+      "female": 3,
+      "total": 7,
       "district": "Duhok",
       "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 1,
-      "female": 0,
-      "total": 1,
-      "district": "Sumel",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 0,
-      "female": 0,
-      "total": 0,
-      "district": "Zakho",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 0,
-      "female": 0,
-      "total": 0,
-      "district": "Akre",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 0,
-      "female": 0,
-      "total": 0,
-      "district": "Shekhan",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 0,
-      "female": 0,
-      "total": 0,
-      "district": "Bardarash",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 0,
-      "female": 0,
-      "total": 0,
-      "district": "Tel Kaif",
-      "province": "Nineveh",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Bajid Kandala",
-      "male": 9,
-      "female": 4,
-      "total": 13,
-      "district": "Sumel",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Berseve 1",
-      "male": 0,
-      "female": 1,
-      "total": 1,
-      "district": "Zakho",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Berseve 2",
-      "male": 0,
-      "female": 1,
-      "total": 1,
-      "district": "Zakho",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Chamishko",
-      "male": 7,
-      "female": 10,
-      "total": 17,
-      "district": "Zakho",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Darkar",
-      "male": 0,
-      "female": 0,
-      "total": 0,
-      "district": "Zakho",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Dawodiya",
-      "male": 3,
-      "female": 0,
-      "total": 3,
-      "district": "Amedi",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Essiyan",
-      "male": 13,
-      "female": 1,
-      "total": 14,
-      "district": "Shekhan",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Kabarto 1",
-      "male": 7,
-      "female": 0,
-      "total": 7,
-      "district": "Sumel",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Kabarto 2",
-      "male": 0,
-      "female": 1,
-      "total": 1,
-      "district": "Sumel",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Khanke",
-      "male": 0,
-      "female": 0,
-      "total": 0,
-      "district": "Sumel",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Mamilian",
-      "male": 0,
-      "female": 0,
-      "total": 0,
-      "district": "Akre",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Mamrashan",
-      "male": 12,
-      "female": 3,
-      "total": 15,
-      "district": "Shekhan",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Rwanga Community",
-      "male": 21,
-      "female": 23,
-      "total": 44,
-      "district": "Zakho",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Shariya",
-      "male": 40,
-      "female": 6,
-      "total": 46,
-      "district": "Sumel",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Access to legal assistance and legal remedies improved",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Shekhan",
-      "male": 2,
-      "female": 0,
-      "total": 2,
-      "district": "Shekhan",
-      "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Quality of registration and profiling to be improved or maintained",
       "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
+      "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
       "male": 23,
-      "female": 25,
-      "total": 48,
-      "district": "Amedi",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Quality of registration and profiling to be improved or maintained",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 102,
-      "female": 75,
-      "total": 177,
-      "district": "Duhok",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Quality of registration and profiling to be improved or maintained",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 229,
-      "female": 261,
-      "total": 490,
+      "female": 15,
+      "total": 38,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Quality of registration and profiling to be improved or maintained",
       "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
+      "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 97,
-      "female": 84,
-      "total": 181,
+      "male": 87,
+      "female": 60,
+      "total": 147,
       "district": "Zakho",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Quality of registration and profiling to be improved or maintained",
       "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
+      "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 71,
-      "female": 59,
-      "total": 130,
+      "male": 4,
+      "female": 6,
+      "total": 10,
       "district": "Akre",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Quality of registration and profiling to be improved or maintained",
       "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
+      "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 85,
-      "female": 81,
-      "total": 166,
+      "male": 21,
+      "female": 8,
+      "total": 29,
       "district": "Shekhan",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Quality of registration and profiling to be improved or maintained",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Quality of registration and profiling to be improved or maintained",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "Camp",
+      "nameOfCamp": "Domiz 1",
+      "male": 111,
+      "female": 71,
+      "total": 182,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Quality of registration and profiling to be improved or maintained",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "Camp",
+      "nameOfCamp": "Domiz 2",
+      "male": 15,
+      "female": 14,
+      "total": 29,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Quality of registration and profiling to be improved or maintained",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "Camp",
+      "nameOfCamp": "Bardarash",
+      "male": 25,
+      "female": 13,
+      "total": 38,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Quality of registration and profiling to be improved or maintained",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "Camp",
+      "nameOfCamp": "Gewilan",
+      "male": 25,
+      "female": 18,
+      "total": 43,
+      "district": "Al-Hamdaniya",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Quality of registration and profiling to be improved or maintained",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "Camp",
+      "nameOfCamp": "Akre Settlement",
+      "male": 8,
+      "female": 17,
+      "total": 25,
+      "district": "Akre",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 0,
+      "female": 0,
+      "total": 0,
+      "district": "Amedi",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 34,
+      "female": 53,
+      "total": 87,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 14,
+      "female": 13,
+      "total": 27,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 39,
+      "female": 15,
+      "total": 54,
+      "district": "Zakho",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 0,
+      "female": 0,
+      "total": 0,
+      "district": "Akre",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 16,
+      "female": 7,
+      "total": 23,
+      "district": "Shekhan",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 0,
+      "female": 2,
+      "total": 2,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 0,
+      "female": 0,
+      "total": 0,
+      "district": "Tel Kaif",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Bajid Kandala",
+      "male": 18,
+      "female": 18,
+      "total": 36,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Berseve 1",
+      "male": 2,
+      "female": 2,
+      "total": 4,
+      "district": "Zakho",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Berseve 2",
+      "male": 1,
+      "female": 0,
+      "total": 1,
+      "district": "Zakho",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Chamishko",
+      "male": 14,
+      "female": 30,
+      "total": 44,
+      "district": "Zakho",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Darkar",
+      "male": 0,
+      "female": 1,
+      "total": 1,
+      "district": "Zakho",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Dawodiya",
+      "male": 36,
+      "female": 23,
+      "total": 59,
+      "district": "Amedi",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Essiyan",
+      "male": 7,
+      "female": 16,
+      "total": 23,
+      "district": "Shekhan",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Kabarto 1",
+      "male": 6,
+      "female": 2,
+      "total": 8,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Kabarto 2",
+      "male": 43,
+      "female": 0,
+      "total": 43,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Khanke",
+      "male": 0,
+      "female": 0,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Mamilian",
+      "male": 0,
+      "female": 0,
+      "total": 0,
+      "district": "Akre",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Mamrashan",
+      "male": 2,
+      "female": 10,
+      "total": 12,
+      "district": "Shekhan",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Rwanga Community",
+      "male": 58,
+      "female": 16,
+      "total": 74,
+      "district": "Zakho",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Shariya",
+      "male": 55,
+      "female": 39,
+      "total": 94,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Access to legal assistance and legal remedies improved",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Shekhan",
+      "male": 7,
+      "female": 5,
+      "total": 12,
+      "district": "Shekhan",
+      "province": "Duhok",
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -749,12 +665,96 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 13,
-      "female": 11,
-      "total": 24,
+      "male": 8,
+      "female": 7,
+      "total": 15,
+      "district": "Amedi",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Quality of registration and profiling to be improved or maintained",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 43,
+      "female": 41,
+      "total": 84,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Quality of registration and profiling to be improved or maintained",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 231,
+      "female": 239,
+      "total": 470,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Quality of registration and profiling to be improved or maintained",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 134,
+      "female": 116,
+      "total": 250,
+      "district": "Zakho",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Quality of registration and profiling to be improved or maintained",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 75,
+      "female": 93,
+      "total": 168,
+      "district": "Akre",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Quality of registration and profiling to be improved or maintained",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 286,
+      "female": 288,
+      "total": 574,
+      "district": "Shekhan",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Quality of registration and profiling to be improved or maintained",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 38,
+      "female": 37,
+      "total": 75,
       "district": "Bardarash",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -768,7 +768,7 @@
       "total": 0,
       "district": "Tel Kaif",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -782,7 +782,7 @@
       "total": 0,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -791,12 +791,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Berseve 1",
-      "male": 17,
-      "female": 21,
-      "total": 38,
+      "male": 4,
+      "female": 4,
+      "total": 8,
       "district": "Zakho",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -805,12 +805,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Berseve 2",
-      "male": 10,
-      "female": 10,
-      "total": 20,
+      "male": 18,
+      "female": 15,
+      "total": 33,
       "district": "Zakho",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -819,12 +819,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Chamishko",
-      "male": 34,
-      "female": 24,
-      "total": 58,
+      "male": 96,
+      "female": 81,
+      "total": 177,
       "district": "Zakho",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -833,12 +833,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Darkar",
-      "male": 0,
-      "female": 0,
-      "total": 0,
+      "male": 4,
+      "female": 4,
+      "total": 8,
       "district": "Zakho",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -852,7 +852,7 @@
       "total": 0,
       "district": "Amedi",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -861,12 +861,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Essiyan",
-      "male": 47,
-      "female": 50,
-      "total": 97,
+      "male": 77,
+      "female": 81,
+      "total": 158,
       "district": "Shekhan",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -875,12 +875,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Kabarto 1",
-      "male": 0,
-      "female": 0,
-      "total": 0,
+      "male": 31,
+      "female": 35,
+      "total": 66,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -889,12 +889,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Kabarto 2",
-      "male": 22,
-      "female": 11,
-      "total": 33,
+      "male": 30,
+      "female": 25,
+      "total": 55,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -903,12 +903,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Khanke",
-      "male": 31,
-      "female": 27,
-      "total": 58,
+      "male": 38,
+      "female": 40,
+      "total": 78,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -922,7 +922,7 @@
       "total": 0,
       "district": "Akre",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -931,12 +931,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Mamrashan",
-      "male": 7,
-      "female": 12,
-      "total": 19,
+      "male": 70,
+      "female": 78,
+      "total": 148,
       "district": "Shekhan",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -945,12 +945,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Rwanga Community",
-      "male": 0,
-      "female": 0,
-      "total": 0,
+      "male": 41,
+      "female": 37,
+      "total": 78,
       "district": "Zakho",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -959,12 +959,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Shariya",
-      "male": 13,
-      "female": 23,
-      "total": 36,
+      "male": 39,
+      "female": 42,
+      "total": 81,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -973,128 +973,16 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Shekhan",
-      "male": 0,
-      "female": 0,
-      "total": 0,
+      "male": 5,
+      "female": 8,
+      "total": 13,
       "district": "Shekhan",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Civil registration and civil status documentation strengthened (IDPs)",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Chamishko",
-      "male": 1,
-      "female": 3,
-      "total": 4,
-      "district": "Duhok",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Civil registration and civil status documentation strengthened (IDPs)",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Rwanga Community",
-      "male": 4,
-      "female": 12,
-      "total": 16,
-      "district": "Sumel",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Civil registration and civil status documentation strengthened (IDPs)",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Shariya",
-      "male": 2038,
-      "female": 2008,
-      "total": 4046,
-      "district": "Sumel",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Civil registration and civil status documentation strengthened (IDPs)",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Mamrashan",
-      "male": 1103,
-      "female": 984,
-      "total": 2087,
-      "district": "Sumel",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Civil registration and civil status documentation strengthened (IDPs)",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Essiyan",
-      "male": 2449,
-      "female": 2360,
-      "total": 4809,
-      "district": "Sumel",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
-      "objective": "Civil registration and civil status documentation strengthened (IDPs)",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "Camp",
-      "nameOfCamp": "Dawodiya",
-      "male": 618,
-      "female": 634,
-      "total": 1252,
-      "district": "Sumel",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Strengthening Protection, HLP Response,and Prevention services during COVI9-19 Pandemic in Duhok, Ninewa governorates in Iraq.",
-      "objective": "The overall objective of the project is Strengthening Protection and HLP Response and Prevention services during COVI9-19 Pandemic in Duhok, Ninewa governorates in Iraq",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 68,
-      "female": 23,
-      "total": 91,
-      "district": "Sumel",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Strengthening Protection, HLP Response,and Prevention services during COVI9-19 Pandemic in Duhok, Ninewa governorates in Iraq.",
-      "objective": "The overall objective of the project is Strengthening Protection and HLP Response and Prevention services during COVI9-19 Pandemic in Duhok, Ninewa governorates in Iraq",
-      "cluster": "Protection",
-      "typeOfBeneficiaries": "IDPs",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 5,
-      "female": 20,
-      "total": 25,
-      "district": "Zakho",
-      "province": "Duhok",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Strengthening Protection, HLP Response,and Prevention services during COVI9-19 Pandemic in Duhok, Ninewa governorates in Iraq.",
-      "objective": "The overall objective of the project is Strengthening Protection and HLP Response and Prevention services during COVI9-19 Pandemic in Duhok, Ninewa governorates in Iraq",
       "cluster": "Protection",
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
@@ -1102,23 +990,37 @@
       "male": null,
       "female": null,
       "total": 0,
-      "district": "Tel Kaif",
-      "province": "Nineveh",
-      "month": "june"
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
     },
     {
-      "nameOfProject": "Strengthening Protection, HLP Response,and Prevention services during COVI9-19 Pandemic in Duhok, Ninewa governorates in Iraq.",
-      "objective": "The overall objective of the project is Strengthening Protection and HLP Response and Prevention services during COVI9-19 Pandemic in Duhok, Ninewa governorates in Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Civil registration and civil status documentation strengthened (IDPs)",
       "cluster": "Protection",
-      "typeOfBeneficiaries": "Returnees",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 75,
-      "female": 292,
-      "total": 367,
-      "district": "Sinjar",
-      "province": "Nineveh",
-      "month": "june"
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Kabarto 1",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
+      "objective": "Civil registration and civil status documentation strengthened (IDPs)",
+      "cluster": "Protection",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": "Kabarto 2",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
     }
   ],
   "ProtectionActivities": [
@@ -1126,34 +1028,34 @@
       "activity": "Number of POCs receiving legal assistance",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
-      "male": 236,
-      "female": 184,
-      "total": 420,
+      "male": 234,
+      "female": 164,
+      "total": 398,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of POCs receiving legal assistance in detention centers",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
-      "male": 6,
-      "female": 1,
-      "total": 7,
+      "male": 4,
+      "female": 0,
+      "total": 4,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of POCs participating in legal awareness raising",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
-      "male": 210,
-      "female": 175,
-      "total": 385,
+      "male": 81,
+      "female": 66,
+      "total": 147,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of advocacy interventions made to promote access to entry points and detention centres",
@@ -1162,9 +1064,9 @@
       "male": null,
       "female": null,
       "total": 0,
-      "numberOfSessions": 9,
+      "numberOfSessions": 0,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of events, workshops and seminars organized to promote access to entry points and detention centres",
@@ -1175,7 +1077,7 @@
       "total": 0,
       "numberOfSessions": 0,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of interventions made to release individuals from detention",
@@ -1184,9 +1086,9 @@
       "male": null,
       "female": null,
       "total": 0,
-      "numberOfSessions": 7,
+      "numberOfSessions": 4,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number Face-to-face complaints/feedback received at Information Points, Service Centers, outreach volunteers",
@@ -1195,9 +1097,9 @@
       "male": null,
       "female": null,
       "total": 0,
-      "numberOfSessions": 895,
+      "numberOfSessions": 1043,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number community assessments conducted",
@@ -1206,97 +1108,97 @@
       "male": null,
       "female": null,
       "total": 0,
-      "numberOfSessions": 28,
+      "numberOfSessions": 41,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of POCs participated in community assessments",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
-      "male": 42,
-      "female": 32,
-      "total": 74,
+      "male": 24,
+      "female": 17,
+      "total": 41,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of Females of reproductive age who received dignity kits",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
       "male": 0,
-      "female": 189,
-      "total": 189,
+      "female": 0,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of POCs receiving Child Protection specialized services type case management",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
       "male": 0,
-      "female": 1,
-      "total": 1,
+      "female": 3,
+      "total": 3,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Counselling at Derebon return center",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
-      "male": 5,
-      "female": 14,
-      "total": 19,
+      "male": 17,
+      "female": 28,
+      "total": 45,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of POCs reached by protection monitoring/indivdual assesments",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
-      "male": 231,
-      "female": 183,
-      "total": 414,
+      "male": 251,
+      "female": 166,
+      "total": 417,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of POCs receiving legal assistance",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Non-syrian",
-      "male": 48,
-      "female": 28,
-      "total": 76,
+      "male": 22,
+      "female": 17,
+      "total": 39,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of POCs receiving legal assistance in detention centers",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Non-syrian",
-      "male": 1,
+      "male": 0,
       "female": 0,
-      "total": 1,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of POCs participating in legal awareness raising",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Non-syrian",
-      "male": 47,
-      "female": 11,
-      "total": 58,
+      "male": 10,
+      "female": 0,
+      "total": 10,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of advocacy interventions made to promote access to entry points and detention centres",
@@ -1305,9 +1207,9 @@
       "male": null,
       "female": null,
       "total": 0,
-      "numberOfSessions": 1,
+      "numberOfSessions": 0,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of events, workshops and seminars organized to promote access to entry points and detention centres",
@@ -1318,7 +1220,7 @@
       "total": 0,
       "numberOfSessions": 0,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of interventions made to release individuals from detention",
@@ -1327,9 +1229,9 @@
       "male": null,
       "female": null,
       "total": 0,
-      "numberOfSessions": 1,
+      "numberOfSessions": 0,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number Face-to-face complaints/feedback received at Information Points, Service Centers, outreach volunteers",
@@ -1338,9 +1240,9 @@
       "male": null,
       "female": null,
       "total": 0,
-      "numberOfSessions": 102,
+      "numberOfSessions": 126,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number community assessments conducted",
@@ -1349,12 +1251,23 @@
       "male": null,
       "female": null,
       "total": 0,
-      "numberOfSessions": 0,
+      "numberOfSessions": 2,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of POCs participated in community assessments",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Non-syrian",
+      "male": 2,
+      "female": 0,
+      "total": 2,
+      "numberOfSessions": null,
+      "cluster": "Protection",
+      "month": "november"
+    },
+    {
+      "activity": "Number of Females of reproductive age who received dignity kits",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Non-syrian",
       "male": 0,
@@ -1362,18 +1275,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
-    },
-    {
-      "activity": "Number of Females of reproductive age who received dignity kits",
-      "typeOfBeneficiaries": "Refugee",
-      "syrianNonSyrian": "Non-syrian",
-      "male": 0,
-      "female": 7,
-      "total": 7,
-      "numberOfSessions": null,
-      "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of POCs receiving Child Protection specialized services type case management",
@@ -1384,95 +1286,95 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Counselling at Derebon return center",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Non-syrian",
-      "male": 0,
-      "female": 0,
+      "male": null,
+      "female": null,
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of POCs reached by protection monitoring/indivdual assesments",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Non-syrian",
-      "male": 11,
-      "female": 15,
-      "total": 26,
+      "male": 40,
+      "female": 17,
+      "total": 57,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Legal representation",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": null,
-      "female": null,
-      "total": 0,
+      "male": 56,
+      "female": 50,
+      "total": 106,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Legal counselling",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": null,
-      "female": null,
-      "total": 0,
+      "male": 157,
+      "female": 78,
+      "total": 235,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Awareness rasing",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": null,
-      "female": null,
-      "total": 0,
+      "male": 96,
+      "female": 167,
+      "total": 263,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of POCs assisted with civil status registration or documentation",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": null,
-      "female": null,
-      "total": 0,
+      "male": 28,
+      "female": 25,
+      "total": 53,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of POCs reached by protection monitoring",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": null,
-      "female": null,
-      "total": 0,
+      "male": 1268,
+      "female": 1271,
+      "total": 2539,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of PSN identified and referred",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": null,
-      "female": null,
-      "total": 0,
+      "male": 24,
+      "female": 30,
+      "total": 54,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Cash for Protection",
@@ -1483,62 +1385,62 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "PSS",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 60,
-      "female": 5,
-      "total": 65,
+      "male": null,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Case Managment",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 13,
-      "female": 39,
-      "total": 52,
+      "male": null,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Cash for Protection",
       "typeOfBeneficiaries": "Returnees",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 68,
-      "female": 43,
-      "total": 111,
+      "male": null,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "PSS",
       "typeOfBeneficiaries": "Returnees",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 2,
-      "female": 132,
-      "total": 134,
+      "male": null,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Case Managment",
       "typeOfBeneficiaries": "Returnees",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 5,
-      "female": 117,
-      "total": 122,
+      "male": null,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "Protection",
-      "month": "june"
+      "month": "november"
     }
   ],
   "GBV": [
@@ -1549,12 +1451,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Shariya",
-      "male": null,
-      "female": 252,
-      "total": 252,
+      "male": 7,
+      "female": 82,
+      "total": 89,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1563,12 +1465,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Kabarto 2",
-      "male": 8,
-      "female": 38,
-      "total": 46,
+      "male": 22,
+      "female": 90,
+      "total": 112,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1577,12 +1479,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Khanke",
-      "male": 15,
-      "female": 27,
-      "total": 42,
+      "male": 24,
+      "female": 138,
+      "total": 162,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1591,12 +1493,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Bajid Kandala",
-      "male": 7,
-      "female": 47,
-      "total": 54,
+      "male": 8,
+      "female": 93,
+      "total": 101,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1605,12 +1507,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Chamishko",
-      "male": null,
-      "female": 36,
-      "total": 36,
+      "male": 16,
+      "female": 66,
+      "total": 82,
       "district": "Zakho",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1619,12 +1521,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Berseve 2",
-      "male": null,
+      "male": 17,
       "female": 100,
-      "total": 100,
+      "total": 117,
       "district": "Zakho",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1633,12 +1535,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Mamrashan",
-      "male": null,
-      "female": 259,
-      "total": 259,
+      "male": 35,
+      "female": 180,
+      "total": 215,
       "district": "Shekhan",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1647,12 +1549,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 8,
-      "female": 30,
-      "total": 38,
+      "male": 11,
+      "female": 81,
+      "total": 92,
       "district": "Sinjar",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1661,12 +1563,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": null,
-      "female": 46,
-      "total": 46,
+      "male": 32,
+      "female": 118,
+      "total": 150,
       "district": "Sinjar",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1675,12 +1577,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Domiz 1",
-      "male": null,
-      "female": 59,
-      "total": 59,
+      "male": 48,
+      "female": 72,
+      "total": 120,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1689,12 +1591,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 6,
-      "female": 60,
-      "total": 66,
+      "male": 23,
+      "female": 137,
+      "total": 160,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1703,12 +1605,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Domiz 2",
-      "male": 8,
-      "female": 50,
-      "total": 58,
+      "male": 20,
+      "female": 58,
+      "total": 78,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1717,12 +1619,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Gewilan",
-      "male": null,
-      "female": 42,
-      "total": 42,
+      "male": 16,
+      "female": 91,
+      "total": 107,
       "district": "Al-Hamdaniya",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1731,12 +1633,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Bardarash",
-      "male": null,
-      "female": 187,
-      "total": 187,
+      "male": 37,
+      "female": 85,
+      "total": 122,
       "district": "Bardarash",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1750,7 +1652,7 @@
       "total": 0,
       "district": "Amedi",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1764,7 +1666,7 @@
       "total": 0,
       "district": "Duhok",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1773,12 +1675,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Domiz 1",
-      "male": 30,
-      "female": 267,
-      "total": 297,
+      "male": 169,
+      "female": 307,
+      "total": 476,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1792,7 +1694,7 @@
       "total": 0,
       "district": "Zakho",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1801,12 +1703,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Akre Settlement",
-      "male": 20,
-      "female": 73,
-      "total": 93,
+      "male": 907,
+      "female": 206,
+      "total": 1113,
       "district": "Akre",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1820,7 +1722,7 @@
       "total": 0,
       "district": "Shekhan",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1829,12 +1731,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Bardarash",
-      "male": 143,
-      "female": 204,
-      "total": 347,
+      "male": 266,
+      "female": 425,
+      "total": 691,
       "district": "Bardarash",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1843,12 +1745,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "Camp",
       "nameOfCamp": "Gewilan",
-      "male": 188,
-      "female": 180,
-      "total": 368,
+      "male": 111,
+      "female": 341,
+      "total": 452,
       "district": "Al-Hamdaniya",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1857,12 +1759,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": null,
-      "female": null,
-      "total": 0,
+      "male": 7,
+      "female": 0,
+      "total": 7,
       "district": "Amedi",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1871,12 +1773,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 0,
-      "female": 42,
-      "total": 42,
+      "male": 40,
+      "female": 97,
+      "total": 137,
       "district": "Duhok",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1885,12 +1787,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 15,
-      "female": 65,
-      "total": 80,
+      "male": 42,
+      "female": 100,
+      "total": 142,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1900,11 +1802,11 @@
       "location": "NonCamp",
       "nameOfCamp": null,
       "male": 0,
-      "female": 2,
-      "total": 2,
+      "female": 17,
+      "total": 17,
       "district": "Zakho",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1918,7 +1820,7 @@
       "total": 0,
       "district": "Akre",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1927,12 +1829,12 @@
       "typeOfBeneficiaries": "Refugee",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 31,
-      "female": 35,
-      "total": 66,
+      "male": 28,
+      "female": 19,
+      "total": 47,
       "district": "Shekhan",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1946,7 +1848,7 @@
       "total": 0,
       "district": "Bardarash",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1960,7 +1862,7 @@
       "total": 0,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1974,7 +1876,7 @@
       "total": 0,
       "district": "Al-Hamdaniya",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -1988,7 +1890,7 @@
       "total": 0,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
@@ -2002,63 +1904,63 @@
       "total": 0,
       "district": "Al-Hamdaniya",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
-      "nameOfProject": "Provision of Gender-Based Violence prevention and\nresponse services for women and girls in Ninawa and West Mosul.",
-      "objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
+      "nameOfProject": "Enhancing GBV prevention and response services to children and community members in Ninewa governorate",
+      "objective": "provision of GBV case management and Structured PSS programme,using structured programme specifically designed for adolescent girls,skills building through vocational training for children and community members",
       "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 194,
-      "female": 331,
-      "total": 525,
+      "male": 16,
+      "female": 92,
+      "total": 108,
       "district": "Bardarash",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
-      "nameOfProject": "Provision of Gender-Based Violence prevention and\nresponse services for women and girls in Ninawa and West Mosul.",
-      "objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
+      "nameOfProject": "Enhancing GBV prevention and response services to children and community members in Ninewa governorate",
+      "objective": "provision of GBV case management and Structured PSS programme,using structured programme specifically designed for adolescent girls,skills building through vocational training for children and community members",
       "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 176,
-      "female": 331,
-      "total": 507,
+      "male": 25,
+      "female": 50,
+      "total": 75,
       "district": "Al-Mosul",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
-      "nameOfProject": "Provision of Gender-Based Violence prevention and\nresponse services for women and girls in Ninawa and West Mosul.",
-      "objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
+      "nameOfProject": "Enhancing GBV prevention and response services to children and community members in Ninewa governorate",
+      "objective": "provision of GBV case management and Structured PSS programme,using structured programme specifically designed for adolescent girls,skills building through vocational training for children and community members",
       "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 176,
-      "female": 335,
-      "total": 511,
+      "male": 65,
+      "female": 96,
+      "total": 161,
       "district": "Tel Afer",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
-      "nameOfProject": "Provision of Gender-Based Violence prevention and\nresponse services for women and girls in Ninawa and West Mosul.",
-      "objective": "Improve women’s and children’s\naccess to lifesaving GBV services \nand reduce risks of GBV through \nimproved multi-sectoral and \ncommunity-based protection.",
+      "nameOfProject": "Enhancing GBV prevention and response services to children and community members in Ninewa governorate",
+      "objective": "provision of GBV case management and Structured PSS programme,using structured programme specifically designed for adolescent girls,skills building through vocational training for children and community members",
       "cluster": "GBV",
       "typeOfBeneficiaries": "IDPs",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": 174,
-      "female": 315,
-      "total": 489,
-      "district": "Al-Mosul",
-      "province": "Nineveh",
-      "month": "june"
+      "location": "Camp",
+      "nameOfCamp": "Shekhan",
+      "male": 0,
+      "female": 0,
+      "total": 0,
+      "district": "Shekhan",
+      "province": "Duhok",
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -2072,7 +1974,7 @@
       "total": 0,
       "district": "Shekhan",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -2086,7 +1988,7 @@
       "total": 0,
       "district": "Sinjar",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -2095,12 +1997,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Essiyan",
-      "male": 113,
-      "female": 138,
-      "total": 251,
+      "male": 370,
+      "female": 438,
+      "total": 808,
       "district": "Shekhan",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -2109,12 +2011,12 @@
       "typeOfBeneficiaries": "Returnees",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 201,
-      "female": 270,
-      "total": 471,
+      "male": 384,
+      "female": 307,
+      "total": 691,
       "district": "Sinjar",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -2123,12 +2025,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Essiyan",
-      "male": 124,
-      "female": 144,
-      "total": 268,
+      "male": 140,
+      "female": 233,
+      "total": 373,
       "district": "Shekhan",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -2137,12 +2039,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Chamishko",
-      "male": 45,
-      "female": 204,
-      "total": 249,
+      "male": 179,
+      "female": 324,
+      "total": 503,
       "district": "Zakho",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -2151,12 +2053,12 @@
       "typeOfBeneficiaries": "Returnees",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 351,
-      "female": 144,
-      "total": 495,
+      "male": 29,
+      "female": 39,
+      "total": 68,
       "district": "Sinjar",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -2170,7 +2072,7 @@
       "total": 0,
       "district": "Sinjar",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     }
   ],
   "GBVActivities": [
@@ -2178,166 +2080,166 @@
       "activity": "POCs reached through raising awareness sessions",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
-      "male": 398,
-      "female": 392,
-      "total": 790,
-      "numberOfSessions": null,
+      "male": 845,
+      "female": 1617,
+      "total": 2462,
+      "numberOfSessions": 27,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Case management",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
       "male": 1,
-      "female": 30,
-      "total": 31,
-      "numberOfSessions": null,
-      "cluster": "GBV",
-      "month": "june"
-    },
-    {
-      "activity": "POCs reached through Non-formal education classes",
-      "typeOfBeneficiaries": "Refugee",
-      "syrianNonSyrian": "Syrian",
-      "male": null,
-      "female": null,
-      "total": 0,
-      "numberOfSessions": null,
-      "cluster": "GBV",
-      "month": "june"
-    },
-    {
-      "activity": "POCs reached through PSS sessions",
-      "typeOfBeneficiaries": "Refugee",
-      "syrianNonSyrian": "Syrian",
-      "male": 0,
-      "female": 474,
-      "total": 474,
-      "numberOfSessions": null,
-      "cluster": "GBV",
-      "month": "june"
-    },
-    {
-      "activity": "POCs reached through AGT trainings",
-      "typeOfBeneficiaries": "Refugee",
-      "syrianNonSyrian": "Syrian",
-      "male": null,
-      "female": 18,
-      "total": 18,
-      "numberOfSessions": null,
-      "cluster": "GBV",
-      "month": "june"
-    },
-    {
-      "activity": "Recreational activities",
-      "typeOfBeneficiaries": "Refugee",
-      "syrianNonSyrian": "Syrian",
-      "male": null,
-      "female": 62,
-      "total": 62,
-      "numberOfSessions": null,
-      "cluster": "GBV",
-      "month": "june"
-    },
-    {
-      "activity": "Distribution of dignity kits",
-      "typeOfBeneficiaries": "Refugee",
-      "syrianNonSyrian": "Syrian",
-      "male": 0,
-      "female": 138,
-      "total": 138,
-      "numberOfSessions": null,
-      "cluster": "GBV",
-      "month": "june"
-    },
-    {
-      "activity": "safety audit",
-      "typeOfBeneficiaries": "Refugee",
-      "syrianNonSyrian": "Syrian",
-      "male": null,
-      "female": null,
-      "total": 0,
-      "numberOfSessions": null,
-      "cluster": "GBV",
-      "month": "june"
-    },
-    {
-      "activity": "referral Pathway",
-      "typeOfBeneficiaries": "Refugee",
-      "syrianNonSyrian": "Syrian",
-      "male": null,
-      "female": null,
-      "total": 0,
-      "numberOfSessions": null,
-      "cluster": "GBV",
-      "month": "june"
-    },
-    {
-      "activity": "Service providers trained on GBV prevention and referral",
-      "typeOfBeneficiaries": "Refugee",
-      "syrianNonSyrian": "Syrian",
-      "male": 2,
-      "female": 11,
-      "total": 13,
-      "numberOfSessions": null,
-      "cluster": "GBV",
-      "month": "june"
-    },
-    {
-      "activity": "POCs trained on GBV prevention and referral",
-      "typeOfBeneficiaries": "Refugee",
-      "syrianNonSyrian": "Syrian",
-      "male": null,
-      "female": null,
-      "total": 0,
-      "numberOfSessions": null,
-      "cluster": "GBV",
-      "month": "june"
-    },
-    {
-      "activity": "Service providers trained on PSEA",
-      "typeOfBeneficiaries": "Refugee",
-      "syrianNonSyrian": "Syrian",
-      "male": null,
-      "female": null,
-      "total": 0,
-      "numberOfSessions": null,
-      "cluster": "GBV",
-      "month": "june"
-    },
-    {
-      "activity": "community members trained on PSEA",
-      "typeOfBeneficiaries": "Refugee",
-      "syrianNonSyrian": "Syrian",
-      "male": 28,
-      "female": 78,
-      "total": 106,
-      "numberOfSessions": null,
-      "cluster": "GBV",
-      "month": "june"
-    },
-    {
-      "activity": "POCs reached through vocational training",
-      "typeOfBeneficiaries": "Refugee",
-      "syrianNonSyrian": "Syrian",
-      "male": null,
-      "female": null,
-      "total": 0,
-      "numberOfSessions": null,
-      "cluster": "GBV",
-      "month": "june"
-    },
-    {
-      "activity": "POCs reached through raising awareness sessions",
-      "typeOfBeneficiaries": "Refugee",
-      "syrianNonSyrian": "Non-syrian",
-      "male": 20,
       "female": 13,
-      "total": 33,
+      "total": 14,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
+    },
+    {
+      "activity": "POCs reached through Non-formal education classes",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Syrian",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "GBV",
+      "month": "november"
+    },
+    {
+      "activity": "POCs reached through PSS sessions",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Syrian",
+      "male": null,
+      "female": 98,
+      "total": 98,
+      "numberOfSessions": null,
+      "cluster": "GBV",
+      "month": "november"
+    },
+    {
+      "activity": "POCs reached through AGT trainings",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Syrian",
+      "male": null,
+      "female": 90,
+      "total": 90,
+      "numberOfSessions": null,
+      "cluster": "GBV",
+      "month": "november"
+    },
+    {
+      "activity": "Recreational activities",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Syrian",
+      "male": null,
+      "female": 66,
+      "total": 66,
+      "numberOfSessions": null,
+      "cluster": "GBV",
+      "month": "november"
+    },
+    {
+      "activity": "Distribution of dignity kits",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Syrian",
+      "male": null,
+      "female": 2,
+      "total": 2,
+      "numberOfSessions": null,
+      "cluster": "GBV",
+      "month": "november"
+    },
+    {
+      "activity": "safety audit",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Syrian",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "GBV",
+      "month": "november"
+    },
+    {
+      "activity": "referral Pathway",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Syrian",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "GBV",
+      "month": "november"
+    },
+    {
+      "activity": "Service providers trained on GBV prevention and referral",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Syrian",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "GBV",
+      "month": "november"
+    },
+    {
+      "activity": "POCs trained on GBV prevention and referral",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Syrian",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "GBV",
+      "month": "november"
+    },
+    {
+      "activity": "Service providers trained on PSEA",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Syrian",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "GBV",
+      "month": "november"
+    },
+    {
+      "activity": "community members trained on PSEA",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Syrian",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "GBV",
+      "month": "november"
+    },
+    {
+      "activity": "POCs reached through vocational training",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Syrian",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "GBV",
+      "month": "november"
+    },
+    {
+      "activity": "POCs reached through raising awareness sessions",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Non-syrian",
+      "male": 58,
+      "female": 43,
+      "total": 101,
+      "numberOfSessions": 4,
+      "cluster": "GBV",
+      "month": "november"
     },
     {
       "activity": "Case management",
@@ -2348,18 +2250,18 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs reached through PSS sessions",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Non-syrian",
-      "male": 0,
-      "female": 6,
-      "total": 6,
+      "male": null,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs trained on GBV prevention and referral",
@@ -2370,7 +2272,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "community members trained on PSEA",
@@ -2381,29 +2283,29 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs reached through raising awareness sessions",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 772,
-      "female": 1196,
-      "total": 1968,
+      "male": 509,
+      "female": 1086,
+      "total": 1595,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Case management",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 8,
-      "female": 117,
-      "total": 95,
+      "male": null,
+      "female": 10,
+      "total": 10,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs reached through Non-formal education classes",
@@ -2414,51 +2316,51 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs reached through PSS sessions",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 105,
-      "female": 478,
-      "total": 583,
+      "male": 722,
+      "female": 935,
+      "total": 1657,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs reached through AGT trainings",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 0,
-      "female": 304,
-      "total": 304,
+      "male": null,
+      "female": 154,
+      "total": 154,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Recreational activities",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 91,
-      "female": 125,
-      "total": 216,
+      "male": 14,
+      "female": 88,
+      "total": 102,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Distribution of dignity kits",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
-      "female": 197,
-      "total": 197,
+      "female": 2,
+      "total": 2,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "safety audit",
@@ -2469,7 +2371,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "referral Pathway",
@@ -2480,18 +2382,18 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Service providers trained on GBV prevention and referral",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 56,
-      "female": 60,
-      "total": 116,
+      "male": null,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs trained on GBV prevention and referral",
@@ -2502,7 +2404,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Service providers trained on PSEA",
@@ -2513,7 +2415,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "community members trained on PSEA",
@@ -2524,62 +2426,62 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs reached through vocational training",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
-      "female": 80,
-      "total": 80,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs reached through raising awareness sessions",
       "typeOfBeneficiaries": "Returnees",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 359,
-      "female": 182,
-      "total": 541,
+      "male": 72,
+      "female": 114,
+      "total": 186,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Case management",
       "typeOfBeneficiaries": "Returnees",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 4,
-      "female": 37,
-      "total": 41,
+      "male": 5,
+      "female": 4,
+      "total": 9,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs reached through Non-formal education classes",
       "typeOfBeneficiaries": "Returnees",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 197,
-      "female": 237,
-      "total": 434,
+      "male": null,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs reached through PSS sessions",
       "typeOfBeneficiaries": "Returnees",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": null,
-      "female": 18,
-      "total": 18,
+      "male": 82,
+      "female": 160,
+      "total": 242,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs reached through AGT trainings",
@@ -2590,29 +2492,29 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Recreational activities",
       "typeOfBeneficiaries": "Returnees",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
-      "female": 16,
-      "total": 16,
+      "female": 20,
+      "total": 20,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Distribution of dignity kits",
       "typeOfBeneficiaries": "Returnees",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
-      "female": 148,
-      "total": 148,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "safety audit",
@@ -2623,7 +2525,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "referral Pathway",
@@ -2634,7 +2536,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Service providers trained on GBV prevention and referral",
@@ -2645,7 +2547,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs trained on GBV prevention and referral",
@@ -2656,7 +2558,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Service providers trained on PSEA",
@@ -2667,7 +2569,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "community members trained on PSEA",
@@ -2678,7 +2580,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs reached through vocational training",
@@ -2689,7 +2591,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs reached through raising awareness sessions",
@@ -2700,7 +2602,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Case management",
@@ -2711,7 +2613,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs reached through Non-formal education classes",
@@ -2722,7 +2624,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs reached through PSS sessions",
@@ -2733,7 +2635,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs reached through AGT trainings",
@@ -2744,7 +2646,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Recreational activities",
@@ -2755,7 +2657,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Distribution of dignity kits",
@@ -2766,7 +2668,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "safety audit",
@@ -2777,7 +2679,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "referral Pathway",
@@ -2788,7 +2690,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Service providers trained on GBV prevention and referral",
@@ -2799,7 +2701,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs trained on GBV prevention and referral",
@@ -2810,7 +2712,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Service providers trained on PSEA",
@@ -2821,7 +2723,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "community members trained on PSEA",
@@ -2832,7 +2734,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "POCs reached through vocational training",
@@ -2843,7 +2745,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "GBV",
-      "month": "june"
+      "month": "november"
     }
   ],
   "CP": [
@@ -2854,12 +2756,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Chamishko",
-      "male": 51,
-      "female": 49,
-      "total": 100,
+      "male": 142,
+      "female": 162,
+      "total": 304,
       "district": "Zakho",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     }
   ],
   "CPActivities": [
@@ -2867,67 +2769,67 @@
       "activity": "Structured Psychosocial support programs.",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 21,
-      "female": 23,
-      "total": 44,
+      "male": 40,
+      "female": 81,
+      "total": 121,
       "numberOfSessions": null,
       "cluster": "CP",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Case Management service.",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 10,
-      "female": 7,
-      "total": 17,
+      "male": 0,
+      "female": 0,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "CP",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Child Protection Committee",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 10,
-      "female": 9,
-      "total": 19,
+      "male": 0,
+      "female": 0,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "CP",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "PD for families",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": null,
-      "female": null,
-      "total": 0,
+      "male": 20,
+      "female": 40,
+      "total": 60,
       "numberOfSessions": null,
       "cluster": "CP",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "MAG workshop",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": null,
+      "male": 40,
       "female": null,
-      "total": 0,
+      "total": 40,
       "numberOfSessions": null,
       "cluster": "CP",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "MHPSS awareness sessions",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": null,
-      "female": null,
+      "male": 0,
+      "female": 0,
       "total": 0,
       "numberOfSessions": null,
       "cluster": "CP",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Health services",
@@ -2938,18 +2840,18 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "CP",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Livelihood programs ( Conditional and unconditional cash assistance)",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": null,
-      "female": null,
-      "total": 0,
+      "male": 35,
+      "female": 41,
+      "total": 76,
       "numberOfSessions": null,
       "cluster": "CP",
-      "month": "june"
+      "month": "november"
     }
   ],
   "Health": [
@@ -2961,11 +2863,11 @@
       "location": "Camp",
       "nameOfCamp": "Berseve 1",
       "male": null,
-      "female": 930,
-      "total": 930,
+      "female": null,
+      "total": 0,
       "district": "Zakho",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Providing primary and reproductive health care services in Anbar, Duhok, Erbil, Sulaymaniyah, Diyala and Ninawa governorate",
@@ -2975,11 +2877,11 @@
       "location": "Camp",
       "nameOfCamp": "Kabarto 1",
       "male": null,
-      "female": 1010,
-      "total": 1010,
+      "female": null,
+      "total": 0,
       "district": "Sumel",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     }
   ],
   "HealthActivities": [
@@ -2992,7 +2894,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Health",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number Of Benfeciaries receaved family palnning serveces",
@@ -3003,7 +2905,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Health",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of ante-natal care visits",
@@ -3014,7 +2916,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Health",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of post-natal care visits",
@@ -3025,7 +2927,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Health",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of safe C-sections deleveries",
@@ -3036,7 +2938,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Health",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of safe normal deliverie",
@@ -3047,105 +2949,77 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Health",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of beneficiaries recieaved, Gynacology and RH counsoltations",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
-      "female": 1107,
-      "total": 1107,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "Health",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number Of Benfeciaries receaved family palnning serveces",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
-      "female": 160,
-      "total": 160,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "Health",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of ante-natal care visits",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
-      "female": 176,
-      "total": 176,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "Health",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of post-natal care visits",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
-      "female": 141,
-      "total": 141,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "Health",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of safe C-sections deleveries",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
-      "female": 0,
+      "female": null,
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Health",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Number of safe normal deliverie",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
-      "female": 0,
+      "female": null,
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Health",
-      "month": "june"
+      "month": "november"
     }
   ],
   "Livelihood": [
     {
-      "nameOfProject": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
-      "objective": "Improved opportunities for culturally and gender sensitive livelihoods for vulnerable families returning home",
-      "cluster": "Livelihood",
-      "typeOfBeneficiaries": "Returnees",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": null,
-      "female": null,
-      "total": 0,
-      "district": "Sinjar",
-      "province": "Nineveh",
-      "month": "june"
-    },
-    {
-      "nameOfProject": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
-      "objective": "Improved opportunities for culturally and gender sensitive livelihoods for vulnerable families returning home",
-      "cluster": "Livelihood",
-      "typeOfBeneficiaries": "Returnees",
-      "location": "NonCamp",
-      "nameOfCamp": null,
-      "male": null,
-      "female": null,
-      "total": 0,
-      "district": "Tel Afer",
-      "province": "Nineveh",
-      "month": "june"
-    },
-    {
       "nameOfProject": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
       "objective": "improving the status of food security through support with agricultural\r\nlivelihoods for increased access and availability of food at household level as well as generate agricultural income of food insecure IDPs,\r\nReturnees and Host Communities.",
       "cluster": "Livelihood",
@@ -3157,7 +3031,7 @@
       "total": 0,
       "district": "Al-Mosul",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
@@ -3171,7 +3045,7 @@
       "total": 0,
       "district": "Al-Mosul",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
@@ -3185,7 +3059,7 @@
       "total": 0,
       "district": "Al-Mosul",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
@@ -3194,12 +3068,12 @@
       "typeOfBeneficiaries": "Returnees",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 4,
-      "female": 1,
-      "total": 5,
+      "male": null,
+      "female": null,
+      "total": 0,
       "district": "Sinjar",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
@@ -3213,7 +3087,7 @@
       "total": 0,
       "district": "Sinjar",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
@@ -3227,7 +3101,7 @@
       "total": 0,
       "district": "Sinjar",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
@@ -3236,12 +3110,12 @@
       "typeOfBeneficiaries": "Returnees",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 2,
-      "female": 2,
-      "total": 4,
+      "male": null,
+      "female": null,
+      "total": 0,
       "district": "Tel Kaif",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
@@ -3255,7 +3129,7 @@
       "total": 0,
       "district": "Tel Kaif",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
@@ -3267,9 +3141,149 @@
       "male": null,
       "female": null,
       "total": 0,
-      "district": "Tel Kaif",
-      "province": "Nineveh",
-      "month": "june"
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Vulnerable, conflict-affected Syrian youth in Dohuk have livelihood opportunities, access to MHPSS services, and are economically resilient",
+      "objective": "Youth and young mothers have market-relevant skills to access enhanced and sustainable income",
+      "cluster": "Livelihood",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Vulnerable, conflict-affected Syrian youth in Dohuk have livelihood opportunities, access to MHPSS services, and are economically resilient",
+      "objective": "Youth and young mothers have market-relevant skills to access enhanced and sustainable income",
+      "cluster": "Livelihood",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "Camp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Vulnerable, conflict-affected Syrian youth in Dohuk have livelihood opportunities, access to MHPSS services, and are economically resilient",
+      "objective": "Youth and young mothers have market-relevant skills to access enhanced and sustainable income",
+      "cluster": "Livelihood",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Vulnerable, conflict-affected Syrian youth in Dohuk have livelihood opportunities, access to MHPSS services, and are economically resilient",
+      "objective": "Youth and young mothers have market-relevant skills to access enhanced and sustainable income",
+      "cluster": "Livelihood",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Vulnerable, conflict-affected Syrian youth in Dohuk have livelihood opportunities, access to MHPSS services, and are economically resilient",
+      "objective": "Youth and young mothers have market-relevant skills to access enhanced and sustainable income",
+      "cluster": "Livelihood",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Vulnerable, conflict-affected Syrian youth in Dohuk have livelihood opportunities, access to MHPSS services, and are economically resilient",
+      "objective": "Vulnerable conflict-affected youth have access to safe and dignified employment or self-employment and MHPSS services",
+      "cluster": "Livelihood",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "Camp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Vulnerable, conflict-affected Syrian youth in Dohuk have livelihood opportunities, access to MHPSS services, and are economically resilient",
+      "objective": "Vulnerable conflict-affected youth have access to safe and dignified employment or self-employment and MHPSS services",
+      "cluster": "Livelihood",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "Camp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Vulnerable, conflict-affected Syrian youth in Dohuk have livelihood opportunities, access to MHPSS services, and are economically resilient",
+      "objective": "Vulnerable conflict-affected youth have access to safe and dignified employment or self-employment and MHPSS services",
+      "cluster": "Livelihood",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Vulnerable, conflict-affected Syrian youth in Dohuk have livelihood opportunities, access to MHPSS services, and are economically resilient",
+      "objective": "Vulnerable conflict-affected youth have access to safe and dignified employment or self-employment and MHPSS services",
+      "cluster": "Livelihood",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Vulnerable, conflict-affected Syrian youth in Dohuk have livelihood opportunities, access to MHPSS services, and are economically resilient",
+      "objective": "Vulnerable conflict-affected youth have access to safe and dignified employment or self-employment and MHPSS services",
+      "cluster": "Livelihood",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
     }
   ],
   "LivelihoodActivities": [
@@ -3282,7 +3296,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Distribution of Agricultural inputs for Home Gardens",
@@ -3293,7 +3307,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Distribution of Agricultural inputs for Rainfed farms",
@@ -3304,7 +3318,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Distribution of Agricutural Inputs for Irrigated farms",
@@ -3315,18 +3329,18 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Cash for work",
       "typeOfBeneficiaries": "Returnees",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 6,
-      "female": 3,
-      "total": 9,
+      "male": null,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Agricultural Trainings on Greenhouses",
@@ -3337,7 +3351,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "General Agricultural Trainings",
@@ -3348,7 +3362,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Distribution of Greenhouses",
@@ -3359,7 +3373,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Distribution of Agricultural inputs for Home Gardens",
@@ -3370,7 +3384,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Distribution of Agricultural inputs for Rainfed farms",
@@ -3381,7 +3395,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Distribution of Agricutural Inputs for Irrigated farms",
@@ -3392,7 +3406,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Cash for work",
@@ -3403,7 +3417,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Agricultural Trainings on Greenhouses",
@@ -3414,7 +3428,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "General Agricultural Trainings",
@@ -3425,10 +3439,10 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
-      "activity": "Distribution of Greenhouses",
+      "activity": "Labour Market Assessment",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
@@ -3436,10 +3450,10 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
-      "activity": "Distribution of Agricultural inputs for Home Gardens",
+      "activity": "Microenterprise Training",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
@@ -3447,10 +3461,10 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
-      "activity": "Distribution of Agricultural inputs for Rainfed farms",
+      "activity": "Business grants distribution",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
@@ -3458,10 +3472,10 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
-      "activity": "Distribution of Agricutural Inputs for Irrigated farms",
+      "activity": "Business Mentorship",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
@@ -3469,10 +3483,10 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
-      "activity": "Cash for work",
+      "activity": "Apprenticeships Support Services",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
@@ -3480,10 +3494,10 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
-      "activity": "Agricultural Trainings on Greenhouses",
+      "activity": "Life Skills Trainings",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
@@ -3491,10 +3505,10 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
     },
     {
-      "activity": "General Agricultural Trainings",
+      "activity": "Job Counselling and Referrals",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
@@ -3502,7 +3516,161 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
-      "month": "june"
+      "month": "november"
+    },
+    {
+      "activity": "Labour Market Assessment",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "Livelihood",
+      "month": "november"
+    },
+    {
+      "activity": "Microenterprise Training",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "Livelihood",
+      "month": "november"
+    },
+    {
+      "activity": "Business grants distribution",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "Livelihood",
+      "month": "november"
+    },
+    {
+      "activity": "Business Mentorship",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "Livelihood",
+      "month": "november"
+    },
+    {
+      "activity": "Apprenticeships Support Services",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "Livelihood",
+      "month": "november"
+    },
+    {
+      "activity": "Life Skills Trainings",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "Livelihood",
+      "month": "november"
+    },
+    {
+      "activity": "Job Counselling and Referrals",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "Livelihood",
+      "month": "november"
+    },
+    {
+      "activity": "Labour Market Assessment",
+      "typeOfBeneficiaries": "Host Community",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "Livelihood",
+      "month": "november"
+    },
+    {
+      "activity": "Microenterprise Training",
+      "typeOfBeneficiaries": "Host Community",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "Livelihood",
+      "month": "november"
+    },
+    {
+      "activity": "Business grants distribution",
+      "typeOfBeneficiaries": "Host Community",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "Livelihood",
+      "month": "november"
+    },
+    {
+      "activity": "Business Mentorship",
+      "typeOfBeneficiaries": "Host Community",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "Livelihood",
+      "month": "november"
+    },
+    {
+      "activity": "Apprenticeships Support Services",
+      "typeOfBeneficiaries": "Host Community",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "Livelihood",
+      "month": "november"
+    },
+    {
+      "activity": "Life Skills Trainings",
+      "typeOfBeneficiaries": "Host Community",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "Livelihood",
+      "month": "november"
+    },
+    {
+      "activity": "Job Counselling and Referrals",
+      "typeOfBeneficiaries": "Host Community",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "Livelihood",
+      "month": "november"
     }
   ],
   "WASH": [
@@ -3513,12 +3681,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Chamishko",
-      "male": 5446,
-      "female": 5504,
-      "total": 10950,
+      "male": 10524,
+      "female": 10949,
+      "total": 21473,
       "district": "Zakho",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -3527,12 +3695,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Essiyan",
-      "male": 1348,
-      "female": 2022,
-      "total": 3370,
+      "male": 6399,
+      "female": 6624,
+      "total": 13023,
       "district": "Shekhan",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -3546,7 +3714,7 @@
       "total": 0,
       "district": "Sinjar",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -3555,12 +3723,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Essiyan",
-      "male": 1670,
-      "female": 1830,
-      "total": 3500,
+      "male": 3515,
+      "female": 3673,
+      "total": 7188,
       "district": "Shekhan",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -3569,12 +3737,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Chamishko",
-      "male": 1065,
-      "female": 1153,
-      "total": 2218,
+      "male": 2142,
+      "female": 2081,
+      "total": 4223,
       "district": "Zakho",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -3583,12 +3751,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Chamishko",
-      "male": 483,
-      "female": 557,
-      "total": 1040,
+      "male": 1047,
+      "female": 1099,
+      "total": 2146,
       "district": "Zakho",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -3597,12 +3765,12 @@
       "typeOfBeneficiaries": "IDPs",
       "location": "Camp",
       "nameOfCamp": "Essiyan",
-      "male": 1183,
-      "female": 1261,
-      "total": 2444,
+      "male": 668,
+      "female": 709,
+      "total": 1377,
       "district": "Shekhan",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -3611,12 +3779,12 @@
       "typeOfBeneficiaries": "Returnees",
       "location": "NonCamp",
       "nameOfCamp": null,
-      "male": 131,
-      "female": 142,
-      "total": 273,
+      "male": 2572,
+      "female": 2559,
+      "total": 5131,
       "district": "Sinjar",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -3630,7 +3798,7 @@
       "total": 0,
       "district": "Shekhan",
       "province": "Duhok",
-      "month": "june"
+      "month": "november"
     },
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -3644,7 +3812,1029 @@
       "total": 0,
       "district": "Sinjar",
       "province": "Nineveh",
-      "month": "june"
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Provision of integrated water, sanitation and hygiene services for out-of-camp IDPs and returnees in informal settlements, recently secondarily displaced IDPs, and recently returned populations aiming at preventing COVID - 19 and mitigating negative health outcomes for most vulnerable populations",
+      "objective": "IDPs, recent returnees, and returnees living in critical shelters and/or informal settlements in 20 districts of seven governorates have access to sufficient quantity and quality of both drinking and domestic water as well as to dignified, safe, clean and functional sanitation facilities through operation and maintenance of water and sanitation services",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 4505,
+      "female": 4739,
+      "total": 9244,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Provision of integrated water, sanitation and hygiene services for out-of-camp IDPs and returnees in informal settlements, recently secondarily displaced IDPs, and recently returned populations aiming at preventing COVID - 19 and mitigating negative health outcomes for most vulnerable populations",
+      "objective": "IDPs, recent returnees, and returnees living in critical shelters and/or informal settlements in 20 districts of seven governorates have access to sufficient quantity and quality of both drinking and domestic water as well as to dignified, safe, clean and functional sanitation facilities through operation and maintenance of water and sanitation services",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 2928,
+      "female": 3191,
+      "total": 6119,
+      "district": "Zakho",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "Camp",
+      "nameOfCamp": "Domiz 1",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "Camp",
+      "nameOfCamp": "Domiz 2",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Al-Mosul",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Al-Mosul",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Al-Mosul",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Al-Mosul",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": 11,
+      "female": 10,
+      "total": 21,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "Camp",
+      "nameOfCamp": "Domiz 1",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "Camp",
+      "nameOfCamp": "Domiz 2",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Al-Mosul",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Al-Mosul",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Al-Mosul",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Al-Mosul",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "Camp",
+      "nameOfCamp": "Domiz 1",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "Camp",
+      "nameOfCamp": "Domiz 2",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Al-Mosul",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Al-Mosul",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Al-Mosul",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Water Conservation practices promoted and adopted among IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Al-Mosul",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Duhok",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "Camp",
+      "nameOfCamp": "Domiz 1",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "Camp",
+      "nameOfCamp": "Domiz 2",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Sumel",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Bardarash",
+      "province": "Duhok",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "IDPs",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Al-Mosul",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Refugee",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Al-Mosul",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Returnees",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Al-Mosul",
+      "province": "Nineveh",
+      "month": "november"
+    },
+    {
+      "nameOfProject": "Water conservation campaign in Duhok and Neinawa",
+      "objective": "Best practices for water conservation identified and documented to be used by partners in other locations",
+      "cluster": "WASH",
+      "typeOfBeneficiaries": "Host Community",
+      "location": "NonCamp",
+      "nameOfCamp": null,
+      "male": null,
+      "female": null,
+      "total": 0,
+      "district": "Al-Mosul",
+      "province": "Nineveh",
+      "month": "november"
     }
   ],
   "WASHActivities": [
@@ -3652,67 +4842,67 @@
       "activity": "Provision of water through boreholes operations in Chamishku camp",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 10816,
-      "female": 11440,
-      "total": 22256,
+      "male": 10524,
+      "female": 10949,
+      "total": 21473,
       "numberOfSessions": null,
       "cluster": "WASH",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Provision of water through boreholes operations in Essian camp",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 6352,
-      "female": 6619,
-      "total": 12971,
+      "male": 6399,
+      "female": 6624,
+      "total": 13023,
       "numberOfSessions": null,
       "cluster": "WASH",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Care and Maintenance of water network in Chamishku camp",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 5446,
-      "female": 5504,
-      "total": 10950,
+      "male": 1693,
+      "female": 1876,
+      "total": 3569,
       "numberOfSessions": null,
       "cluster": "WASH",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "care and Maintenance of water network in Essian camp",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 1348,
-      "female": 2022,
-      "total": 3370,
+      "male": null,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "WASH",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Care and Maintenance of sanitation facilities in Chamishku camp",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 1670,
-      "female": 1830,
-      "total": 3500,
+      "male": 2142,
+      "female": 2081,
+      "total": 4223,
       "numberOfSessions": null,
       "cluster": "WASH",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Care and Maintenance of sanitation facilities in Essian camp",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 1065,
-      "female": 1153,
-      "total": 2218,
+      "male": 3515,
+      "female": 3673,
+      "total": 7188,
       "numberOfSessions": null,
       "cluster": "WASH",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Garbage collection in Essian camp",
@@ -3723,7 +4913,7 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "WASH",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Desludging in Essian camp",
@@ -3734,32 +4924,43 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "WASH",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Hygiene promotion in Chamishku camp",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": null,
-      "female": null,
-      "total": 0,
+      "male": 1047,
+      "female": 1099,
+      "total": 2146,
       "numberOfSessions": null,
       "cluster": "WASH",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Hygiene promotion in Essian camp",
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": null,
-      "female": null,
-      "total": 0,
+      "male": 668,
+      "female": 709,
+      "total": 1377,
       "numberOfSessions": null,
       "cluster": "WASH",
-      "month": "june"
+      "month": "november"
     },
     {
       "activity": "Hygiene promotion in Sinjar",
+      "typeOfBeneficiaries": "Returnees",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": 2572,
+      "female": 2559,
+      "total": 5131,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Water FIlter Distribution",
       "typeOfBeneficiaries": "Returnees",
       "syrianNonSyrian": "Not-Apllicable",
       "male": null,
@@ -3767,7 +4968,205 @@
       "total": 0,
       "numberOfSessions": null,
       "cluster": "WASH",
-      "month": "june"
+      "month": "november"
+    },
+    {
+      "activity": "Provision of safe and sufficient water to populations living in underserved informal settlements through minor rehabilitations of water supply systems",
+      "typeOfBeneficiaries": "IDPs",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Provision of safe water storage and filters at household level",
+      "typeOfBeneficiaries": "IDPs",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": 1136,
+      "female": 1150,
+      "total": 2286,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Provision of sanitation facilities and services accessible for women and people with disabilities in targeted informal settlements",
+      "typeOfBeneficiaries": "IDPs",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Sustainable management of solid waste in targeted informal settlements/critical shelters through provision of trash bags and bins and proper disposal of the waste",
+      "typeOfBeneficiaries": "IDPs",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": 696,
+      "female": 724,
+      "total": 1420,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Hygiene promotion (including MHM) while taking a community centric behavior change approaches",
+      "typeOfBeneficiaries": "IDPs",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": 2049,
+      "female": 2059,
+      "total": 4108,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Distribution of hygiene kits (including MHM materials) to IDPs/returnees in targeted informal settlements/critical shelters",
+      "typeOfBeneficiaries": "IDPs",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": 3552,
+      "female": 3997,
+      "total": 7549,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Identify and invite project partners, stakeholders and targeted communities’ representatives (religious leader, mukhtars, teachers, students, social activists, media staff from IDPs, refugees, host community members “male and female”) to attend one day workshop to present and discuss water waste and abuse practices and formulate Multi-Sectoral Water Conservation Concept/Policy Paper",
+      "typeOfBeneficiaries": "IDPs",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Identify and invite project partners, stakeholders and targeted communities’ representatives (religious leader, mukhtars, teachers, students, social activists, media staff from IDPs, refugees, host community members “male and female”) to attend one day workshop to present and discuss water waste and abuse practices and formulate Multi-Sectoral Water Conservation Concept/Policy Paper",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Identify and invite project partners, stakeholders and targeted communities’ representatives (religious leader, mukhtars, teachers, students, social activists, media staff from IDPs, refugees, host community members “male and female”) to attend one day workshop to present and discuss water waste and abuse practices and formulate Multi-Sectoral Water Conservation Concept/Policy Paper",
+      "typeOfBeneficiaries": "Returnees",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Identify and invite project partners, stakeholders and targeted communities’ representatives (religious leader, mukhtars, teachers, students, social activists, media staff from IDPs, refugees, host community members “male and female”) to attend one day workshop to present and discuss water waste and abuse practices and formulate Multi-Sectoral Water Conservation Concept/Policy Paper",
+      "typeOfBeneficiaries": "Host Community",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Improve local authoriteis and school teachers capacity on the subjects of WASH through training",
+      "typeOfBeneficiaries": "IDPs",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Improve local authoriteis and school teachers capacity on the subjects of WASH through training",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Improve local authoriteis and school teachers capacity on the subjects of WASH through training",
+      "typeOfBeneficiaries": "Returnees",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Improve local authoriteis and school teachers capacity on the subjects of WASH through training",
+      "typeOfBeneficiaries": "Host Community",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": 11,
+      "female": 10,
+      "total": 21,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Organize and conduct 1 day conference in coordination with the university of Dohuk to present the outcomes of the project",
+      "typeOfBeneficiaries": "IDPs",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Organize and conduct 1 day conference in coordination with the university of Dohuk to present the outcomes of the project",
+      "typeOfBeneficiaries": "Refugee",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Organize and conduct 1 day conference in coordination with the university of Dohuk to present the outcomes of the project",
+      "typeOfBeneficiaries": "Returnees",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
+    },
+    {
+      "activity": "Organize and conduct 1 day conference in coordination with the university of Dohuk to present the outcomes of the project",
+      "typeOfBeneficiaries": "Host Community",
+      "syrianNonSyrian": "Not-Apllicable",
+      "male": null,
+      "female": null,
+      "total": 0,
+      "numberOfSessions": null,
+      "cluster": "WASH",
+      "month": "november"
     }
   ]
 }

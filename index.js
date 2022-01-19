@@ -59,7 +59,7 @@ app.get("/v2/data/:year/:month", (req, res) => {
     .getMonthData(year, month)
     .filter((item) => item.month === month);
 
-  monthsData = {
+ const monthsData = {
     info: yearData.filter((item) => item.nameOfProject),
     activities: yearData.filter((item) => item.activity),
   };

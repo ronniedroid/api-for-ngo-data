@@ -1053,7 +1053,7 @@
   ],
   "ProtectionActivities": [
     {
-      "activity": "Number of POCs receiving legal assestance",
+      "activity": "Number of POCs receiving legal assistance",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
       "male": 122,
@@ -1064,7 +1064,7 @@
       "month": "january"
     },
     {
-      "activity": "Number of POCs receiving legal assestance in detention centers",
+      "activity": "Number of POCs receiving legal assistance in detention centers",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
       "male": 8,
@@ -1196,7 +1196,7 @@
       "month": "january"
     },
     {
-      "activity": "Number of POCs receiving legal assestance",
+      "activity": "Number of POCs receiving legal assistance",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Non-syrian",
       "male": 24,
@@ -1207,7 +1207,7 @@
       "month": "january"
     },
     {
-      "activity": "Number of POCs receiving legal assestance in detention centers",
+      "activity": "Number of POCs receiving legal assistance in detention centers",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Non-syrian",
       "male": 0,
@@ -1482,8 +1482,6 @@
       "month": "january"
     }
   ],
-  "ProtectionHighlights": [
-  ],
   "GBV": [
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1535,8 +1533,8 @@
       "location": "Camp",
       "nameOfCamp": "Bajid kandal",
       "male": null,
-      "female": 45,
-      "total": 45,
+      "female": 52,
+      "total": 52,
       "district": "Sumel",
       "province": "Duhok",
       "month": "january"
@@ -1577,8 +1575,8 @@
       "location": "Camp",
       "nameOfCamp": "Mamrashan",
       "male": null,
-      "female": 142,
-      "total": 142,
+      "female": 158,
+      "total": 158,
       "district": "Shekhan",
       "province": "Duhok",
       "month": "january"
@@ -1689,8 +1687,8 @@
       "location": "Camp",
       "nameOfCamp": "Bardarsh",
       "male": null,
-      "female": 724,
-      "total": 724,
+      "female": 744,
+      "total": 744,
       "district": "Bardarash",
       "province": "Duhok",
       "month": "january"
@@ -1724,7 +1722,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1738,7 +1736,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1752,7 +1750,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1766,7 +1764,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1780,7 +1778,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1794,7 +1792,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1808,7 +1806,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1822,7 +1820,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1836,7 +1834,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1850,7 +1848,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1864,7 +1862,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1878,7 +1876,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1892,7 +1890,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1906,7 +1904,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1920,7 +1918,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1934,7 +1932,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1948,7 +1946,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1962,7 +1960,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved (CAC)",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1976,7 +1974,7 @@
       "month": "january"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved (CAC)",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -2208,8 +2206,8 @@
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
       "male": null,
-      "female": null,
-      "total": 0,
+      "female": 20,
+      "total": 20,
       "numberOfSessions": null,
       "cluster": "GBV",
       "month": "january"
@@ -2417,8 +2415,8 @@
       "typeOfBeneficiaries": "IDPs",
       "syrianNonSyrian": "Not-Apllicable",
       "male": 0,
-      "female": 256,
-      "total": 256,
+      "female": 279,
+      "total": 279,
       "numberOfSessions": null,
       "cluster": "GBV",
       "month": "january"
@@ -2831,8 +2829,6 @@
       "month": "january"
     }
   ],
-  "GBVHighlights": [
-  ],
   "Health": [
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -3235,8 +3231,6 @@
       "month": "january"
     }
   ],
-  "HealthHighlights": [
-  ],
   "Livelihood": [
     {
       "nameOfProject": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
@@ -3626,8 +3620,6 @@
       "month": "january"
     }
   ],
-  "LivelihoodHighlights": [
-  ],
   "WASH": [
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -3892,7 +3884,5 @@
       "cluster": "WASH",
       "month": "january"
     }
-  ],
-  "WASHHighlights": [
   ]
 }

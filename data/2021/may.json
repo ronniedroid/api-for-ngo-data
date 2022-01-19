@@ -1081,7 +1081,7 @@
   ],
   "ProtectionActivities": [
     {
-      "activity": "Number of POCs receiving legal assestance",
+      "activity": "Number of POCs receiving legal assistance",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
       "male": 149,
@@ -1092,7 +1092,7 @@
       "month": "may"
     },
     {
-      "activity": "Number of POCs receiving legal assestance in detention centers",
+      "activity": "Number of POCs receiving legal assistance in detention centers",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
       "male": 3,
@@ -1224,7 +1224,7 @@
       "month": "may"
     },
     {
-      "activity": "Number of POCs receiving legal assestance",
+      "activity": "Number of POCs receiving legal assistance",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Non-syrian",
       "male": 27,
@@ -1235,7 +1235,7 @@
       "month": "may"
     },
     {
-      "activity": "Number of POCs receiving legal assestance in detention centers",
+      "activity": "Number of POCs receiving legal assistance in detention centers",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Non-syrian",
       "male": 0,
@@ -1499,20 +1499,6 @@
       "month": "may"
     }
   ],
-  "ProtectionHighlights": [
-    {
-      "project": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq - IDPs",
-      "summary": "MoI missions started in 2 IDP camps (Kabarto 1 and Kabarto 2) and Verification process for Essiyan, Dawodiya, Mam Rashan, and Shariya camps started as preparation for the fourth and fifth MoI missions. \nthe legal team was supported by Protection Monitors (IDPs and Refugees), CBP teams (IDPs and Refugees, Refugee lawyers and volunteers as well."
-    },
-    {
-      "project": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq - Refugees",
-      "summary": "During May, Protection, and Assistance program for Refugees and IDPs in Duhok-Iraq, the Refugees unit (CBP, PRT, and legal teams) conducted various activities for Syrian and Non-Syrian refugees, besides these activities our teams supported IDP colleagues in MOI mission in different camps. it's worth mentioning that on May 07, 2021, the Harikar border team received 104 Iraqi returnees through Ibrahim Khalil crossing border point. they returned from Azaz- Akda camp and Ayn Issa camp in Syria through Turkey, however, they originally from Ninewa-Talafar, Kirkuk, and Anbar after they fled from their territory country-Iraq in 2014 because of the ISIS attack. MoMD has organized the process of returning to Iraq by their office in the Iraqi consulate in Gazi Antap Turkey. All cases will go to the last point of the trip, which is Mosul city."
-    },
-    {
-      "project": "Strengthening Protection, HLP Response, and Prevention services during COVID-19 Pandemic",
-      "summary": "During May, Strengthening Protection, HLP Response, and Prevention services during COVID-19 Pandemic continued to carry out various activities for IDP's and Ruternees in the uraban areas, consisting of vulnerability assessments, PSS, Case Management for IDP's in Zakho ( Darkar-Batifa), Sumeel (Batel), Alqosh sub district and for Returnees in Sinune.Since raising awareness has eased the situation, the assessment on the house level is going more easily. For GP-Case Management, a shortage of service providers remains a fundamental barrier. We are unable to travel to Sinune due to the lateness of the authorization letters, making it difficult to supervise the implementation of the activities, particularly since we are unable to travel to Sinune we can't disturb the Cash for Protection, and access to some regions is difficult even with our native staff due to security concerns."
-    }
-  ],
   "GBV": [
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1711,7 +1697,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1725,7 +1711,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1739,7 +1725,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1753,7 +1739,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1767,7 +1753,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1781,7 +1767,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1795,7 +1781,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1809,7 +1795,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1823,7 +1809,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1837,7 +1823,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1851,7 +1837,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1865,7 +1851,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1879,7 +1865,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1893,7 +1879,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1907,7 +1893,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1921,7 +1907,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1935,7 +1921,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1949,7 +1935,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved (CAC)",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1963,7 +1949,7 @@
       "month": "may"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved (CAC)",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -2818,28 +2804,6 @@
       "month": "may"
     }
   ],
-  "GBVHighlights": [
-    {
-      "project": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq - IDPs - GBV Unit",
-      "summary": "During May, Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq, GBV unit conducted various activities for Syrian and Non-Syrian refugees in order to be more aware of their rights and to prevent GBV. GBV unit started to implement Egnaging Men through Accountable Practice approach through online modality for Syrian refugees in Gawilan and Bardarash for Men to change their behavior, norms and make them to be an ally in the community. Furthermore; GBV unit conducted one day online training for Syrian refugees in Domiz1, Gawilan, Bardarash, Akre and Shekhan non-camp. The purpose behind this training; to explain the main concequences fo PSEA and how to referral and report such cases. Also, CLC-Managers have attended camp coordination and protection meeting via online. In addition; Asssistant Project Manager for GBV has attended online GBVIMS, PSEA Duhok taskforce, PSEA Iraq network and GBV WG meeting on behalf of Harikar and presented Harikar updates. The main challanges that the GBV unit is facining are, lack of livelihood project for referring the most vulnerable cases and also lack of MHPSS sectors for psychological cases."
-    },
-    {
-      "project": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq - IDPs - Community Activity Centers",
-      "summary": null
-    },
-    {
-      "project": "UNFPA Country Programe for Iraq 2020-2024",
-      "summary": "During May, HARIKAR  - UNFPA  program GBV prevention  in Duhok and Ninawa our staff carried out the usual activities of providing GBV case management, recreational activities, FGD,  awareness sessions, structured PSS for women and girls.\nIn addition, Harikar staff (case manager and social worker) was trained on MHPSS in Duhok. However, Harikar and UNFPA monthly based cohering the Duhok -GBV working group. \nAs for the challenges: The limited a number of beneficiaries of our activities due to the Covid-19.  Lack of livelihood projects in the camp and urban. Lack of projects and profession course that entertain women and girls  in the camp in order to get rid of psychosocial pressures. Lack of NGOs that provide safe work opportunities in camps and urban lead to gaps. Lack of service providers in urban area. Lack of legal and MHPSS services in urban areas lead to increasing of gaps.\nTo overcome the mentioned challenges and gaps were shared with Duhok GBV Working group."
-    },
-    {
-      "project": "Provision of Gender-Based Violence prevention and response services for women and girls in Ninawa and west Mosul",
-      "summary": "During May, GBV prevention and response intervention in Ninawah  team carried out the usual activities of providing GBV case management, vocational training, awareness sessions, structured pss for women and girls, and recreational activities for children. In addition, the project manager has attended partnership and Remote Management” training, Ninawa GBV WG monthly meeting and the case management supervisor has attended the monthly meeting of Duhok GBV WG . Moreover, the monthly meeting was conducted with the center managers. \n  As for the challenges, the lack of service providers in the legal sector in Zummar prevents the team from referral several cases, difficulty to referrals in Bardrash due to lack of service providers. To overcome the mentioned challenges the issues of the lack of service providers were shared with Ninawah GBV WG."
-    },
-    {
-      "project": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
-      "summary": null
-    }
-  ],
   "Health": [
     {
       "nameOfProject": "Providing primary and reproductive health care services in Anbar, Duhok, Erbil, Sulaymaniyah, Diyala and Ninawa governorate",
@@ -3002,12 +2966,6 @@
       "numberOfSessions": null,
       "cluster": "Health",
       "month": "may"
-    }
-  ],
-  "HealthHighlights": [
-    {
-      "project": "Providing primary and reproductive health care services  in Anbar, Duhok, Erbil, Sulaymaniyah, Diyala and Ninawa governorate (National Consortium Dary-Harikar)",
-      "summary": "During May, HARIKAR  - DARY consortium  project for RH In Duhok, our staff carried out the usual activities activities for women and girls.\nwe contiune in providing all RH activities and COVID-19 awareness activities , i addition to distribution of PPEs kits in camps\nwe participate in health cluster meeting in DOH on 24 of May . \nAs for the challenges: The limited a number of beneficiaries of our activities due to the Covid-19 and lack of provision of RH medications and lab kits from DOH."
     }
   ],
   "Livelihood": [
@@ -3399,16 +3357,6 @@
       "month": "may"
     }
   ],
-  "LivelihoodHighlights": [
-    {
-      "project": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
-      "summary": null
-    },
-    {
-      "project": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
-      "summary": null
-    }
-  ],
   "WASH": [
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -3672,12 +3620,6 @@
       "numberOfSessions": null,
       "cluster": "WASH",
       "month": "may"
-    }
-  ],
-  "WASHHighlights": [
-    {
-      "project": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
-      "summary": null
     }
   ]
 }

@@ -1123,7 +1123,7 @@
   ],
   "ProtectionActivities": [
     {
-      "activity": "Number of POCs receiving legal assestance",
+      "activity": "Number of POCs receiving legal assistance",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
       "male": 312,
@@ -1134,7 +1134,7 @@
       "month": "august"
     },
     {
-      "activity": "Number of POCs receiving legal assestance in detention centers",
+      "activity": "Number of POCs receiving legal assistance in detention centers",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Syrian",
       "male": 9,
@@ -1266,7 +1266,7 @@
       "month": "august"
     },
     {
-      "activity": "Number of POCs receiving legal assestance",
+      "activity": "Number of POCs receiving legal assistance",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Non-syrian",
       "male": null,
@@ -1277,7 +1277,7 @@
       "month": "august"
     },
     {
-      "activity": "Number of POCs receiving legal assestance in detention centers",
+      "activity": "Number of POCs receiving legal assistance in detention centers",
       "typeOfBeneficiaries": "Refugee",
       "syrianNonSyrian": "Non-syrian",
       "male": null,
@@ -1541,26 +1541,6 @@
       "month": "august"
     }
   ],
-  "ProtectionHighlights": [
-    {
-      "project": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq - IDPs",
-      "summary": null,
-      "cluster": "Protection",
-      "month": "august"
-    },
-    {
-      "project": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq - Refugees",
-      "summary": "All the activities under the Refugees unit were going very smoothly. The Harikar border team was requested to contact assessments for Iraqi returnees at Ibrahim Khalil crossing border point on 27 Aug 2021 received 44 individuals and interviewed to identify their needs and report to UNHCR accordingly.",
-      "cluster": "Protection",
-      "month": "august"
-    },
-    {
-      "project": "Strengthening Protection, HLP Response, and Prevention services during COVID-19 Pandemic",
-      "summary": null,
-      "cluster": "Protection",
-      "month": "august"
-    }
-  ],
   "GBV": [
     {
       "nameOfProject": "(IRQ02EBL /UNFPA), (Programme Activities in Kurdistan)",
@@ -1759,7 +1739,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1773,7 +1753,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1787,7 +1767,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1801,7 +1781,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1815,7 +1795,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1829,7 +1809,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1843,7 +1823,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1857,7 +1837,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1871,7 +1851,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1885,7 +1865,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1899,7 +1879,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1913,7 +1893,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1927,7 +1907,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1941,7 +1921,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1955,7 +1935,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1969,7 +1949,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1983,7 +1963,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -1997,7 +1977,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved (CAC)",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -2011,7 +1991,7 @@
       "month": "august"
     },
     {
-      "nameOfProject": "Protection and Assistance programme for Refugees in Duhok-Iraq",
+      "nameOfProject": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq",
       "objective": "Risk of SGBV is reduced and quality of response improved (CAC)",
       "cluster": "GBV",
       "typeOfBeneficiaries": "Refugee",
@@ -2866,38 +2846,6 @@
       "month": "august"
     }
   ],
-  "GBVHighlights": [
-    {
-      "project": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq - IDPs - GBV Unit",
-      "summary": "GBV team conducted verious activies in Aug for Syrian and Non-Syrian refugees by providing case managment , awareness sessions, FGDs, AGT and women speak out approach. CLC-Managers have attended camp coordination meeting and protection and shared Harikar updates and activities with attendees. Assistant Project Manager has attended GBV WG, GBVIMS, PSEA Iraq network and Duhok taskforce meetings via Microsoft office, during the meeting the updates and action points have been shared. Assistant Project Manager conducted PSEA refresher session for 216 Harikar staff.",
-      "cluster": "GBV",
-      "month": "august"
-    },
-    {
-      "project": "Protection and Assistance programme for Refugees and IDPs in Duhok-Iraq - IDPs - Community Activity Centers",
-      "summary": null,
-      "cluster": "GBV",
-      "month": "august"
-    },
-    {
-      "project": "UNFPA Country Programe for Iraq 2020-2024",
-      "summary": null,
-      "cluster": "GBV",
-      "month": "august"
-    },
-    {
-      "project": "Provision of Gender-Based Violence prevention and response services for women and girls in Ninawa and west Mosul",
-      "summary": "During August, GBV prevention and response intervention in Ninawah team conducted different activities in Zummar,Bashiqa, Bardarsh, and west Mosul such as awareness sessions, capacity building for community leaders, and non-GBV actors, case management, Structured pss for women and girls , and vocational training.",
-      "cluster": "GBV",
-      "month": "august"
-    },
-    {
-      "project": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
-      "summary": null,
-      "cluster": "GBV",
-      "month": "august"
-    }
-  ],
   "CP": [
     {
       "nameOfProject": "IRQ Sida Major Hum 2021",
@@ -3002,14 +2950,6 @@
       "numberOfSessions": null,
       "cluster": "CP",
       "month": "august"
-    }
-  ],
-  "CPHighlights": [
-    {
-      "project": "IRQ Sida Major Hum 2021",
-      "summary": "During August, Harikar in partnership with SCI funded by SIDA provided various CP activities for IDPs in Chamishko camp such as SPSS, case management and positive descipline for parents. Also, Harikar has recruited health assistant for the project for providing awareness sessions/ campaigns on COVID-19 for children and parents. in addendum, Project Coordinator has attended Duhok CMTF and CPWG, CP staff has traied on PD program and Safe Identification and Referral Pathway. As for the challenges: due to the last wave of Covid-19 child protection activities in our Chamishko Camp Community Center were seized from August 3rd to August 19th.",
-      "cluster": "CP",
-      "month": "August"
     }
   ],
   "Health": [
@@ -3172,14 +3112,6 @@
       "female": null,
       "total": 0,
       "numberOfSessions": null,
-      "cluster": "Health",
-      "month": "august"
-    }
-  ],
-  "HealthHighlights": [
-    {
-      "project": "Providing primary and reproductive health care services  in Anbar, Duhok, Erbil, Sulaymaniyah, Diyala and Ninawa governorate (National Consortium Dary-Harikar)",
-      "summary": null,
       "cluster": "Health",
       "month": "august"
     }
@@ -3573,20 +3505,6 @@
       "month": "august"
     }
   ],
-  "LivelihoodHighlights": [
-    {
-      "project": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
-      "summary": null,
-      "cluster": "Livelihood",
-      "month": "august"
-    },
-    {
-      "project": "Strengthening WASH basic infrastructure, resilience and livelihoods in return areas in Ninewa, Iraq",
-      "summary": null,
-      "cluster": "Livelihood",
-      "month": "august"
-    }
-  ],
   "WASH": [
     {
       "nameOfProject": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
@@ -3929,20 +3847,6 @@
       "female": 1117,
       "total": 2149,
       "numberOfSessions": null,
-      "cluster": "WASH",
-      "month": "august"
-    }
-  ],
-  "WASHHighlights": [
-    {
-      "project": "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021",
-      "summary": null,
-      "cluster": "WASH",
-      "month": "august"
-    },
-    {
-      "project": "Provision of integrated water, sanitation and hygiene services for out-of-camp IDPs and returnees in informal settlements, recently secondarily displaced IDPs, and recently returned populations aiming at preventing COVID - 19 and mitigating negative health outcomes for most vulnerable populations",
-      "summary": "During August 1238 vulnerability assessments and 775 technical assessments have been done for IDP families living in informal settlements in Zakho & Sumel districts",
       "cluster": "WASH",
       "month": "august"
     }
