@@ -3566,9 +3566,9 @@
       "activity": "Cash for work",
       "typeOfBeneficiaries": "Returnees",
       "syrianNonSyrian": "Not-Apllicable",
-      "male": 22,
-      "female": 7,
-      "total": 29,
+      "male": null,
+      "female": null,
+      "total": 0,
       "numberOfSessions": null,
       "cluster": "Livelihood",
       "month": "october"
