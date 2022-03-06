@@ -46,7 +46,44 @@ app.get("/v2/months/:year", (req, res) => {
 app.get("/v2/data/:year", (req, res) => {
   const { year } = req.params;
 
-  const yearData = tools.getYearData(year);
+  const data = tools.getYearData(year);
+  const cleanedYearData = tools.cleanWashDoubleCounting(data);
+  const yearData = {
+    data: cleanedYearData,
+    total: cleanedYearData.map((item) => item.total).sum(),
+    gender: {
+      male: cleanedYearData.map((item) => item.male).sum(),
+      female: cleanedYearData.map((item) => item.female).sum(),
+    },
+    location: {
+      camp: cleanedYearData
+        .filter((item) => item.location === "Camp")
+        .map((item) => item.total)
+        .sum(),
+      noncamp: cleanedYearData
+        .filter((item) => item.location === "NonCamp")
+        .map((item) => item.total)
+        .sum(),
+    },
+    type: {
+      idps: cleanedYearData
+        .filter((item) => item.typeOfBeneficiaries === "IDPs")
+        .map((item) => item.total)
+        .sum(),
+      refugees: cleanedYearData
+        .filter((item) => item.typeOfBeneficiaries === "Refugee")
+        .map((item) => item.total)
+        .sum(),
+      returnees: cleanedYearData
+        .filter((item) => item.typeOfBeneficiaries === "Returnees")
+        .map((item) => item.total)
+        .sum(),
+      host: cleanedYearData
+        .filter((item) => item.typeOfBeneficiaries === "Host Community")
+        .map((item) => item.total)
+        .sum(),
+    },
+  };
 
   // res.send(JSON.stringify(bothData));
   res.status(200).json(yearData);
@@ -59,7 +96,7 @@ app.get("/v2/data/:year/:month", (req, res) => {
     .getMonthData(year, month)
     .filter((item) => item.month === month);
 
- const monthsData = {
+  const monthsData = {
     info: yearData.filter((item) => item.nameOfProject),
     activities: yearData.filter((item) => item.activity),
   };
