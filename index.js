@@ -75,6 +75,17 @@ app.get("/v2/projects/", (req, res) => {
   res.status(200).json(data);
 });
 
+app.get("/v2/projectsmini/", (req, res) => {
+  const fileBuffer = fs.readFileSync(
+    `${__dirname}/public/projects/projects.json`
+  );
+  const data = JSON.parse(fileBuffer);
+    const {projects} = data
+  const filteredData = projects.map((item) => ({id: item.id, name: item.name, state: item.state, partner: item.partners}))
+    .filter((item) => item.state === 'onGoing')
+  res.status(200).json(filteredData);
+});
+
 app.get("/v2/projects/:id", (req, res) => {
   const { id } = req.params;
   const fileBuffer = fs.readFileSync(
