@@ -132,32 +132,15 @@ module.exports = {
     months.map((month) => {
       const fileBuffer = fs.readFileSync(`./data/${year}/${month}.json`);
       const data = JSON.parse(fileBuffer);
-      const arr = Array.from(Object.values(data));
-      arr.map((item) => {
-        item.map((i) => {
-          if (i.nameOfProject && i.total > 0) {
-            i.year = year;
-            results = [...results, i];
-          }
-        });
-      });
+      results = [...results, ...data];
     });
     return results;
   },
+
   getMonthData: function (year, month) {
     let currentMonth = fs.readFileSync(`./data/${year}/${month}.json`);
 
-    let results = [];
     const data = JSON.parse(currentMonth);
-    const arr = Array.from(Object.values(data));
-    arr.map((item) => {
-      item.map((i) => {
-        if (i.total > 0) {
-          i.year = year;
-          results = [...results, i];
-        }
-      });
-    });
-    return results;
+    return data;
   },
 };
