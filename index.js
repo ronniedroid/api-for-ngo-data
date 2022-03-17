@@ -5,33 +5,20 @@ const fs = require("fs");
 const app = express();
 const port = process.env.PORT || 8000;
 const tools = require("./tools.js");
+const compression = require("compression");
 
 //allow requests from apps on other ports
 app.use(cors());
 app.use(helmet());
+app.use(compression());
 app.use(express.json());
 
-// GET: localhost:3000/
+// GET: localhost:8000/
 app.get("/", (req, res) => {
   res.send("Harikar report data API");
 });
 
-app.get("/data/projects", (req, res) => {
-  const fileBuffer = fs.readFileSync(`./data/projects.json`);
-  const data = JSON.parse(fileBuffer);
-  res.status(200).json(data);
-});
-
-app.get("/data/projects/:id", (req, res) => {
-  const { id } = req.params;
-  const fileBuffer = fs.readFileSync("./data/projects.json");
-  const data = JSON.parse(fileBuffer);
-  const results = Object.values(data);
-  const currentProject = results.filter((item) => item.id === Number(id));
-  res.status(200).json(currentProject);
-});
-
-app.get("/v2/months/:year", (req, res) => {
+app.get("/v2/monthsList/:year", (req, res) => {
   const { year } = req.params;
   // read in all the data for the years data
   let months = fs.readdirSync(`./data/${year}`);
@@ -46,25 +33,30 @@ app.get("/v2/months/:year", (req, res) => {
 app.get("/v2/data/:year", (req, res) => {
   const { year } = req.params;
 
-  const yearData = tools.getYearData(year);
+  const data = tools.getYearData(year);
+  let yearData = [];
+  if (year === "2020" || year === "2021") {
+    const cleanedYearData = tools.cleanWashDoubleCounting(data);
+    yearData = cleanedYearData.filter((item) => !item.activity);
+    console.log("it works");
+  } else {
+    yearData = data.filter((item) => !item.activity);
+  }
 
-  // res.send(JSON.stringify(bothData));
   res.status(200).json(yearData);
 });
 
 app.get("/v2/data/:year/:month", (req, res) => {
   let { year, month } = req.params;
 
-  const yearData = tools
-    .getMonthData(year, month)
-    .filter((item) => item.month === month);
+  const data = tools.getMonthData(year, month);
 
- const monthsData = {
-    info: yearData.filter((item) => item.nameOfProject),
-    activities: yearData.filter((item) => item.activity),
+  const monthData = {
+    info: data.filter((item) => !item.activity),
+    activities: data.filter((item) => item.activity),
   };
 
-  res.status(200).json(monthsData);
+  res.status(200).json(monthData);
 });
 
 app.get("/v2/projects/", (req, res) => {
@@ -80,9 +72,15 @@ app.get("/v2/projectsmini/", (req, res) => {
     `${__dirname}/public/projects/projects.json`
   );
   const data = JSON.parse(fileBuffer);
-    const {projects} = data
-  const filteredData = projects.map((item) => ({id: item.id, name: item.name, state: item.state, partner: item.partners}))
-    .filter((item) => item.state === 'onGoing')
+  const { projects } = data;
+  const filteredData = projects
+    .map((item) => ({
+      id: item.id,
+      name: item.name,
+      state: item.state,
+      partner: item.partners,
+    }))
+    .filter((item) => item.state === "onGoing");
   res.status(200).json(filteredData);
 });
 
