@@ -118,8 +118,9 @@ app.delete("/v2/social", (req, res) => {
 
 app.get("/v2/social", (req, res) => {
     const posts = fs.readdirSync(`${__dirname}/public/posts`);
+    const filteredPosts = posts.filter((post) => post != "README.md");
     let results = [];
-    posts.map((post) => {
+    filteredPosts.map((post) => {
         const fileBuffer = fs.readFileSync(`${__dirname}/public/posts/${post}`);
         const data = JSON.parse(fileBuffer);
         results = [...results, data];
