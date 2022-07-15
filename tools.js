@@ -143,4 +143,7 @@ module.exports = {
     const data = JSON.parse(currentMonth);
     return data;
   },
+    getCurrentDate: function () {
+        return new Date().toISOString().split('T')[0];
+    }
 };
