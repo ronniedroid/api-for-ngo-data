@@ -104,12 +104,11 @@ app.get("/v2/policies/", (req, res) => {
 app.get("/v2/social", (req, res) => {
     const fileBuffer = fs.readFileSync(`${__dirname}/public/posts/posts.json`);
     const { posts } = JSON.parse(fileBuffer);
-    const fileredPosts = posts.map((item) => {
+    posts.map((item) => {
         if (item.platform === 'fb') {
             item.id = `https://www.facebook.com/Harikar2004/posts/${item.id}`;
         }
     });
-    console.log(fileredPosts);
     res.status(200).json(posts);
 });
 
