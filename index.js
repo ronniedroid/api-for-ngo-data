@@ -101,31 +101,10 @@ app.get("/v2/policies/", (req, res) => {
   res.status(200).json(data);
 });
 
-app.post("/v2/social", (req, res) => {
-    const { id, platform, height } = req.body;
-    const post = { id, platform, height, date: tools.getCurrentDate()  };
-    fs.writeFile(`${__dirname}/public/posts/${id}.json`, JSON.stringify(post), function (err) {
-        if (err) throw err;
-    });
-    res.status(200).json(post);
-});
-
-app.delete("/v2/social", (req, res) => {
-    const { id } = req.body;
-    fs.rmSync(`${__dirname}/public/posts/${id}.json`);
-    res.status(200).json(id);
-});
-
 app.get("/v2/social", (req, res) => {
-    const posts = fs.readdirSync(`${__dirname}/public/posts`);
-    const filteredPosts = posts.filter((post) => post != "README.md");
-    let results = [];
-    filteredPosts.map((post) => {
-        const fileBuffer = fs.readFileSync(`${__dirname}/public/posts/${post}`);
-        const data = JSON.parse(fileBuffer);
-        results = [...results, data];
-    });
-    res.status(200).json(results);
+    const fileBuffer = fs.readFileSync(`${__dirname}/public/posts/posts.json`);
+    const posts = JSON.parse(fileBuffer);
+    res.status(200).json(posts);
 });
 
 app.listen(port, () => {
