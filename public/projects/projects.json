@@ -33,8 +33,6 @@
           "IDPs"
         ],
         "target": 5710,
-        "male": 1600,
-        "female": 4110,
         "summary": "This project targets IDPs in urban areas of Bardarash, Tel Afer and Bashiqa, with a target beneficiaries of 5710, of which 1600 are male and 4110 are female."
       },
       "objectives": {
@@ -125,8 +123,6 @@
           "Returnees"
         ],
         "target": 60690,
-        "male": 21241,
-        "female": 39449,
         "summary": "This projects targers IDPs, Refugees and Returnees in urban and camp areas of Amedi, Duhok, Sumel, Zakho, Akre, Shekhan and Bardarash, with a target beneficiareis of 60,690, of which 21,241 are male and 39,449 are female."
       },
       "objectives": {
@@ -190,8 +186,6 @@
           "Returnees"
         ],
         "target": 2593,
-        "male": 704,
-        "female": 1690,
         "summary": "This projects targers IDPs and Returnees in urban areas of Sumel, Zakho, Tel Kaif and Snuni, with a target beneficiareis of 2,593, of which 704 are male and 1,690 are female."
       },
       "objectives": {
@@ -274,8 +268,6 @@
           "Returnees"
         ],
         "target": 12120,
-        "male": 3030,
-        "female": 9090,
         "summary": "This projects targers IDPs, Refugees and Returnees in urban and camp areas of Amedi, Duhok, Sumel, Zakho, Shekhan, Bardarash Sinjar, Al-Hamdaniya and Snuni, with a target beneficiareis of 12,120, of which 3,030 are male and 9,090 are female."
       },
       "objectives": {
@@ -336,8 +328,6 @@
           "Host Community"
         ],
         "target": 21309,
-        "male": 7238,
-        "female": 14071,
         "summary": "This project targets IDPs in urban areas of Bardarash, Tel Afer and Bashiqa, and west Mosul with a target beneficiaries of 21,309, of which 7,238 are male and 14,071 are female."
       },
       "objectives": {
@@ -405,8 +395,6 @@
           "Returnees"
         ],
         "target": 64434,
-        "male": 31564,
-        "female": 32870,
         "summary": "This projects targers IDPs and Returnees in urban and camp areas of Zakho, Shekhan, Sinjar, and Snuni, with a target beneficiareis of 64,434, of which 31,564 are male and 32,870 are female."
       },
       "objectives": {
@@ -474,8 +462,6 @@
           "Host Community"
         ],
         "target": 236,
-        "male": 136,
-        "female": 100,
         "summary": "This projects targers IDPs, Returnees and Host Comunnities in urban areas of Bashiqa, Wana, and Snuni, with a target beneficiareis of 236, of which 136 are male and 100 are female."
       },
       "objectives": {
@@ -531,8 +517,6 @@
           "Host Community"
         ],
         "target": 149,
-        "male": 89,
-        "female": 60,
         "summary": "This projects targers IDPs, Returnees and Host Comunnities in urban area of Wana with a target beneficiareis of 149, of which 89 are male and 60 are female."
       },
       "objectives": {
@@ -548,7 +532,7 @@
         ],
         "summary": "This project carried out a number of activities to accomplish its objectives, including, providing agricultural inputs and assets as well as Cash for Work (irrigation canals cleaning and water networks)."
       },
-      "state": "onGoing",
+      "state": "done",
       "employees": {
         "male": 2,
         "female": 0,
@@ -587,8 +571,6 @@
           "IDPs"
         ],
         "target": 6660,
-        "male": 0,
-        "female": 6660,
         "summary": "This projects targers IDPs in camp areas of Sumel (Kabarto 1 camp) and Zakho (Berseve 1 camp) with a target beneficiareis of 6660, of which all are female."
       },
       "objectives": {
@@ -651,8 +633,6 @@
           "Host Community"
         ],
         "target": 24500,
-        "male": 12495,
-        "female": 12005,
         "summary": "This projects targers IDPs and Host communities in urban areas of Sinjar, Tel Afer and Snuni, with a target beneficiareis of 24,500, of which 12,495 are male and 12,005 are female."
       },
       "objectives": {
@@ -714,9 +694,7 @@
           "IDPs"
         ],
         "target": 5000,
-        "male": 2000,
-        "female": 3000,
-        "summary": "This projects targers IDPs in camp area of Zakho (Chamishko camp) with a target beneficiareis of 5,000, of which 2,000 are male and 3,000 are female."
+        "summary": "This projects targers IDPs in camp area of Zakho (Chamishko camp) with a target beneficiareis of 5,000."
       },
       "objectives": {
         "list": [
@@ -740,7 +718,7 @@
         ],
         "summary": "This project carries out a number of activities to accomplish its objectives, including, case Management service, SPSS activities (child resilience, youth resilience and HEART), PD for parents, MAG workshop for male gender, multipurpose cash Assistance and cash for protection, life skills training for youth and health awareness sessions."
       },
-      "state": "onGoing",
+      "state": "done",
       "employees": {
         "male": 9,
         "female": 8,
@@ -786,9 +764,7 @@
           "Host Community"
         ],
         "target": 1065,
-        "male": 533,
-        "female": 532,
-        "summary": "This projects targers IDPs, Refugees and Host Communities in urban and camp areas of Sumel with a target beneficiareis of 1,065, of which 533 are male and 532 are female."
+        "summary": "This projects targers IDPs, Refugees and Host Communities in urban and camp areas of Sumel with a target beneficiareis of 1,065."
       },
       "objectives": {
         "list": [
@@ -857,9 +833,7 @@
           "Host Community"
         ],
         "target": 110627,
-        "male": 54208,
-        "female": 56420,
-        "summary": "This projects targers IDPs, Refugees and Host Communities in urabn and camp areas of Duhok, Sumel (Domiz 1 and Domiz 2 camps) Bardarash and Al-Mosul with a target beneficiareis of 1,100,627, of which 54,208 are male and 56,420 are female."
+        "summary": "This projects targers IDPs, Refugees and Host Communities in urabn and camp areas of Duhok, Sumel (Domiz 1 and Domiz 2 camps) Bardarash and Al-Mosul with a target beneficiareis of 1,100,627."
       },
       "objectives": {
         "list": [
@@ -919,8 +893,6 @@
           "IDPs"
         ],
         "target": 16245,
-        "male": 7809,
-        "female": 8436,
         "summary": "This projects targers IDPs in urban areas of Sumel and Zakho with a target beneficiareis of 16,245, of which 7,809 are male and 8,436 are female."
       },
       "objectives": {
@@ -984,9 +956,7 @@
           "IDPs"
         ],
         "target": 15424,
-        "male": 5128,
-        "female": 10296,
-        "summary": "This project targets IDPs in urban and Camp areas of Bardarash, Tel Afer and, and west Mosul and Shekhan (Shekhan Camp) with a target beneficiaries of 15424, of which 5128 are male and 10296 are female."
+        "summary": "This project targets IDPs in urban and Camp areas of Bardarash, Tel Afer and, and west Mosul and Shekhan (Shekhan Camp) with a target beneficiaries of 15424."
       },
       "objectives": {
         "list": [
@@ -1007,7 +977,7 @@
         ],
         "summary": "This project carries out a number of activities to accomplish its objectives, including, GBV case management, organized PSS sessions for women and girls, raising awareness on GBV related issues for all community members, Capacity building training for non-GBV actors and community leaders on GBV core concepts and referral mechanism, conducting vocational training such as sewing and hair dressing to girls and women and conducting entertaining activities for the children under 18 years."
       },
-      "state": "onGoing",
+      "state": "done",
       "employees": {
         "male": 15,
         "female": 32,
@@ -1045,8 +1015,6 @@
           "Host Community"
         ],
         "target": 2760,
-        "male": 0,
-        "female": 0,
         "summary": "This project targets Host Community in urban areas of Duhok and Erbil with a target beneficiaries of 2760."
       },
       "objectives": {
@@ -1134,21 +1102,19 @@
           "Returnees"
         ],
         "target": 95455,
-        "male": 33409,
-        "female": 62046,
-        "summary": null
+        "summary": "This projects targers IDPs, Refugees and Returnees in urban and camp areas of Amedi, Duhok, Sumel, Zakho, Akre, Shekhan and Bardarash, with a target beneficiareis of 95,455."
       },
       "objectives": {
         "list": [
           "- Access to legal assistance and legal remedies supported\n- Quality service provision and community mechanisms for GBV prevention, mitigation and response are strengthened\n- Profiling of Refugees and IDPs planned and undertaken\n- Access to civil registration and documentation supported"
         ],
-        "summary": null
+        "summary": "The primary objectives of this project is to affirm that (Syrian and non-Syrian refugees, and IDPs) have supported access to legal assistance and legal remedies as well as to civil registration and documentation. In addition to that, it insured the planned profilling of refugees and IDPs is undertaken. The project also focuses on strengthening the mitigation and response to GBV and inssure quality service provision and community mechanisms for GBV prevention."
       },
       "activities": {
         "list": [
           "- PSS counselling, Case management, GBV awareness raising, GBV capacity building\n- Legal representation, Legal counselling, Legal awareness raising, Detention monitoring\n- Protection monitoring (PMT, ASSIST, PMS,other tools as per required)\n- Implementation of Mol exercise"
         ],
-        "summary": null
+        "summary": "This project carries out a number of activities to accomplish its objectives. For the legal component, legal counselling, legal awareness raising, legal representation, detention monitoring and Implementation of MOI exercise. For the protection component; protection Monitoring (PMT, ASSIST, PMS and other tools as required). For the S/GBV component; GBV Case Management, PSS counselling, GBV capacity building and GBV awareness raising."
       },
       "state": "onGoing",
       "employees": {
@@ -1192,8 +1158,6 @@
           "Returnees\nHC"
         ],
         "target": 2050,
-        "male": 410,
-        "female": 1640,
         "summary": "The targeted beneficiaries include vulnerable women and girls within reporoductive age in Dohuk and Nenawa governorates. The taget population also incldes Men and Boys within the mentioned governorates"
       },
       "objectives": {
@@ -1215,6 +1179,110 @@
         "male": null,
         "female": null,
         "total": null
+      }
+    },
+    {
+      "id": 19,
+      "contact": {
+        "name": "Ahmed Salahaldin",
+        "email": "ahmed.s@harikar.org"
+      },
+      "name": "Providing specialized protection services to vulnerable returnees and IDPs in Ninawa governorate, Iraq",
+      "start": "1st Feb 2022",
+      "end": "31st August 2022",
+      "budget": 168343,
+      "summary": "Harikar NGO in a consortium with DAI funded by IHF launched a Protection project in Nineveh governorate to improve the situation of returnees living outside of camps, as host communities, and returnees in Ninewa governorate affected directly by military operations remain the focus of humanitarian assistance in Iraq.",
+      "partners": [
+        "DORCAS",
+        "IHF"
+      ],
+      "clusters": [
+        "Protection"
+      ],
+      "locations": {
+        "type": [
+          "Urban"
+        ],
+        "urban": [
+          "Hatra",
+          "Sinjar"
+        ],
+        "camp": []
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs",
+          "Returnees"
+        ],
+        "target": 830,
+        "summary": "The targeted beneficiaries include IDPs and Returnees from Hatra and Sinjar, with a total target of 830 beneficiaries."
+      },
+      "objectives": {
+        "list": [],
+        "summary": "The overall objective of the proposed project is to provide specialized protection services for returnees, IDPs in Ninawa, governorate. and  strengthen access to other services This is envisaged through A full package of protection services that are made available in three protection community centers (PCC) for vulnerable IDPs and returnees in Hatra district and Al shamal and Qayrawan Sub-districts. Through community-based structures (volunteers) a sustainable and long-lasting impact is envisaged in the operational areas."
+      },
+      "activities": {
+        "list": [
+          "Cash for Protection",
+          "PSS",
+          "Case Management"
+        ],
+        "summary": "This project carries out a number of activities to accomplish its objectives, including; Cash for Protectiom, PSS and Case management."
+      },
+      "state": "onGoing",
+      "employees": {
+        "male": 4,
+        "female": 2,
+        "total": 6
+      }
+    },
+    {
+      "id": 20,
+      "contact": {
+        "name": "Dunia Sami",
+        "email": "dunia.s@harikar.org"
+      },
+      "name": "IRQ SIDA Major Hum 2021",
+      "start": "2021-04-30T21:00:00.000Z",
+      "end": "2022-03-30T21:00:00.000Z",
+      "budget": 279698,
+      "summary": "Harikar NGO in partnership with Save the Children is implementing a project funded by SIDA. This project strives to support and protect most vulnerable conflict affected displaced boys, girls and their caregivers in Duhok through integrated protection MHPSS and livelihoods. .",
+      "partners": [
+        "SIDA",
+        "SCI"
+      ],
+      "clusters": [
+        "CP"
+      ],
+      "locations": {
+        "type": [
+          "camp"
+        ],
+        "urban": [],
+        "camp": [
+          "Chamishko"
+        ]
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs"
+        ],
+        "target": 4844,
+        "summary": "This projects targers IDPs in camp area of Zakho (Chamishko camp) with a target beneficiareis of 4844."
+      },
+      "objectives": {
+        "list": [],
+        "summary": "This project’s main objectives are to support the strengthening and functioning a comprehensive case management mechanism. On the other hand, it works on improving the cooperation and peaceful interactions between children through PSS activities and it enhances community’s culture to put an end to violence against children, youth and adolescent. It also support young people including CAAFAG and their parents/caregivers have access to immediate basic needs through Multi-Purpose Cash Assistance (MPCA) and income generation from safe and dignified employment or self- employment opportunities that support personal growth and reintegration into society."
+      },
+      "activities": {
+        "list": [],
+        "summary": "This project carries out a number of activities to accomplish its objectives, including, case Management service, SPSS activities (child resilience, youth resilience and HEART), PwV ( parents without violence) for parents and disabilities families, multipurpose cash Assistance and cash for protection, life skills training vocational training, business grants and aprenticiship service for youth."
+      },
+      "state": "onGoing",
+      "employees": {
+        "male": 9,
+        "female": 8,
+        "total": 17
       }
     }
   ]
