@@ -1,64 +1,79 @@
 {
-  "posts": {
-    "WgpQonFgri4": {
+  "posts": [
+    {
+      "id": "WgpQonFgri4",
       "platform": "yt",
       "date": "2021-11-30"
     },
-    "5xNxp1kYlPc": {
+    {
+      "id": "5xNxp1kYlPc",
       "platform": "yt",
       "date": "2021-12-15"
     },
-    "--hcxeG2ZzY": {
+    {
+      "id": "--hcxeG2ZzY",
       "platform": "yt",
       "date": "2021-12-22"
     },
-    "7EyyD9DCB9U": {
+    {
+      "id": "7EyyD9DCB9U",
       "platform": "yt",
       "date": "2021-05-18"
     },
-    "nBDXyjwRdaA": {
+    {
+      "id": "nBDXyjwRdaA",
       "platform": "yt",
       "date": "2021-05-14"
     },
-    "q7tE9zxg7t4": {
+    {
+      "id": "q7tE9zxg7t4",
       "platform": "yt",
       "date": "2021-01-28"
     },
-    "452486636783599": {
+    {
+      "id": 452486636783599,
       "platform": "fb",
       "date": "2022-08-10"
     },
-    "pfbid0bfECnj5qRh6ZNgrXzDFuy4axaSUpKnxS6CX6T5E8WKNZo3jZ4fvUqAeY7wfCEN8yl": {
+    {
+      "id": "pfbid0bfECnj5qRh6ZNgrXzDFuy4axaSUpKnxS6CX6T5E8WKNZo3jZ4fvUqAeY7wfCEN8yl",
       "platform": "fb",
       "date": "2022-08-10"
     },
-    "pfbid0na6p9BmoL6FewmpPCAjzM9eY3qoS9KbG7FYAxb3SHfEF5gx24sUQkobtiRZQw9JNl": {
+    {
+      "id": "pfbid0na6p9BmoL6FewmpPCAjzM9eY3qoS9KbG7FYAxb3SHfEF5gx24sUQkobtiRZQw9JNl",
       "platform": "fb",
       "date": "2022-08-04"
     },
-    "pfbid0M63wGHBzn3pffL9H9bj2aN7LpKY3XDeuEprvBFSx2akmrHWFjhDDJtDeM7d9CyS1l": {
+    {
+      "id": "pfbid0M63wGHBzn3pffL9H9bj2aN7LpKY3XDeuEprvBFSx2akmrHWFjhDDJtDeM7d9CyS1l",
       "platform": "fb",
       "date": "2022-08-04"
     },
-    "pfbid02BdpG7fXCvo6y9PmRiVbaVRvNHDejtHDgw2oKCnAMCB6eKXa4j3ev7c2fBSCJf37zl": {
+    {
+      "id": "pfbid02BdpG7fXCvo6y9PmRiVbaVRvNHDejtHDgw2oKCnAMCB6eKXa4j3ev7c2fBSCJf37zl",
       "platform": "fb",
       "date": "2022-08-09"
     },
-    "pfbid08PeX1h1gn76i1dgRnjG7GySG2Z4dTn2bYjLRwF9wHXhGmfJnphNfriyWpjdmYnnul": {
+    {
+      "id": "pfbid08PeX1h1gn76i1dgRnjG7GySG2Z4dTn2bYjLRwF9wHXhGmfJnphNfriyWpjdmYnnul",
       "platform": "fb",
       "date": "2022-08-09"
     },
-    "pfbid02Vmwp4AdxqhHSzec2fzvkAS5Uq5BPZ6huv51xmj28dcx79Ezhd3QtuTB4p7Xkcssil": {
+    {
+      "id": "pfbid02Vmwp4AdxqhHSzec2fzvkAS5Uq5BPZ6huv51xmj28dcx79Ezhd3QtuTB4p7Xkcssil",
       "platform": "fb",
       "date": "2022-08-09"
     },
-    "pfbid027ouCFquAUuJvn6AVJHiSaY228xK1jaa4zhdxU6Snc2xk6KR3zHumEQfKjnDM6VUGl": {
+    {
+      "id": "pfbid027ouCFquAUuJvn6AVJHiSaY228xK1jaa4zhdxU6Snc2xk6KR3zHumEQfKjnDM6VUGl",
       "platform": "fb",
       "date": "2022-08-14"
     },
-    "pfbid028eVuc2ksc2HqMrF8qpzywJECox8xLqUnBgrvAhPxsZdQLSfSvtNJZPsLdyF3sB3yl": {
+    {
+      "id": "pfbid028eVuc2ksc2HqMrF8qpzywJECox8xLqUnBgrvAhPxsZdQLSfSvtNJZPsLdyF3sB3yl",
       "platform": "fb",
       "date": "2022-08-15"
     }
-  }
+  ]
 }
