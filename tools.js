@@ -23,29 +23,42 @@ Array.prototype.groupBy = function (prop) {
   }, {});
 };
 
+function sortDistricts(a, b) {
+  let fa = a.name.toLowerCase(),
+    fb = b.name.toLowerCase();
+
+  if (fa < fb) {
+    return -1;
+  }
+  if (fa > fb) {
+    return 1;
+  }
+  return 0;
+}
+
+function filterByCluster(data, control, compair) {
+  const filteredData =
+    control && compair
+      ? data.filter((item) => item[control] === compair)
+      : data;
+  return filteredData;
+}
+
+function GroupElements(list, prop) {
+  const groupings = list.groupBy(prop);
+  const arrayFromGroupings = Object.values(groupings);
+
+  return arrayFromGroupings.map((item) => {
+    return {
+      name: item[0][prop],
+      male: item.map((ad) => ad.male).sum(),
+      female: item.map((ad) => ad.female).sum(),
+      total: item.map((ad) => ad.total).sum(),
+    };
+  });
+}
+
 module.exports = {
-  filterByCluster: function (data, control, compair) {
-    const filteredData =
-      control && compair
-        ? data.filter((item) => item[control] === compair)
-        : data;
-    return filteredData;
-  },
-
-  GroupElements: function (list, prop) {
-    const groupings = list.groupBy(prop);
-    const arrayFromGroupings = Object.values(groupings);
-
-    return arrayFromGroupings.map((item) => {
-      return {
-        name: item[0][prop],
-        male: item.map((ad) => ad.male).sum(),
-        female: item.map((ad) => ad.female).sum(),
-        total: item.map((ad) => ad.total).sum(),
-      };
-    });
-  },
-
   cleanWashDoubleCounting: function (yearData) {
     const adjustedYearData = yearData
       .filter((item) => {
@@ -75,19 +88,6 @@ module.exports = {
           return item;
       });
     return adjustedYearData;
-  },
-
-  sortDistricts: function (a, b) {
-    let fa = a.name.toLowerCase(),
-      fb = b.name.toLowerCase();
-
-    if (fa < fb) {
-      return -1;
-    }
-    if (fa > fb) {
-      return 1;
-    }
-    return 0;
   },
   sortByMonthName: function (monthNames, isReverse = false) {
     const referenceMonthNames = [
@@ -143,7 +143,7 @@ module.exports = {
     const data = JSON.parse(currentMonth);
     return data;
   },
-    getCurrentDate: function () {
-        return new Date().toISOString().split('T')[0];
-    }
+  getCurrentDate: function () {
+    return new Date().toISOString().split("T")[0];
+  },
 };

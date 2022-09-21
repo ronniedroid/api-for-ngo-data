@@ -38,7 +38,6 @@ app.get("/v2/data/:year", (req, res) => {
   if (year === "2020" || year === "2021") {
     const cleanedYearData = tools.cleanWashDoubleCounting(data);
     yearData = cleanedYearData.filter((item) => !item.activity);
-    console.log("it works");
   } else {
     yearData = data.filter((item) => !item.activity);
   }
@@ -102,14 +101,14 @@ app.get("/v2/policies/", (req, res) => {
 });
 
 app.get("/v2/social", (req, res) => {
-    const fileBuffer = fs.readFileSync(`${__dirname}/public/posts/posts.json`);
-    const { posts } = JSON.parse(fileBuffer);
-    posts.map((item) => {
-        if (item.platform === 'fb') {
-            item.id = `https://www.facebook.com/Harikar2004/posts/${item.id}`;
-        }
-    });
-    res.status(200).json(posts);
+  const fileBuffer = fs.readFileSync(`${__dirname}/public/posts/posts.json`);
+  const { posts } = JSON.parse(fileBuffer);
+  posts.map((item) => {
+    if (item.platform === "fb") {
+      item.id = `https://www.facebook.com/Harikar2004/posts/${item.id}`;
+    }
+  });
+  res.status(200).json(posts);
 });
 
 app.listen(port, () => {
