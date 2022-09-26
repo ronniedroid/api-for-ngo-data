@@ -90,7 +90,7 @@ app.get("/v2/projects/:id", (req, res) => {
   );
   const data = JSON.parse(fileBuffer);
   const { projects } = data;
-  const currentProject = projects.filter((item) => item.id === Number(id));
+  const currentProject = projects.filter((item) => item.id === Number(id))[0];
   res.status(200).json(currentProject);
 });
 
