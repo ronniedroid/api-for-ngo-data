@@ -6,6 +6,7 @@ const app = express();
 const port = process.env.PORT || 8000;
 const tools = require("./tools.js");
 const compression = require("compression");
+const { getClusters } = require("./tools.js");
 
 //allow requests from apps on other ports
 app.use(cors());
@@ -46,16 +47,111 @@ app.get("/v2/data/:year", (req, res) => {
 });
 
 app.get("/v2/data/:year/:month", (req, res) => {
-  let { year, month } = req.params;
+  const { year, month } = req.params;
 
-  const data = tools.getMonthData(year, month);
-
+  const allData = tools.getMonthData(year, month);
   const monthData = {
-    info: data.filter((item) => !item.activity),
-    activities: data.filter((item) => item.activity),
+    info: allData.filter((item) => !item.activity),
+    activities: allData.filter((item) => item.activity),
   };
 
   res.status(200).json(monthData);
+});
+
+app.get("/v2/data/dashboard/:year/:cluster", (req, res) => {
+  const { year, cluster } = req.params;
+
+  const allData = tools.getYearData(year);
+  let data = [];
+  if (year === "2020" || year === "2021") {
+    const cleanedYearData = tools.cleanWashDoubleCounting(allData);
+    data = cleanedYearData.filter((item) => !item.activity);
+  } else {
+    data = allData.filter((item) => !item.activity);
+  }
+
+  const filteredCluster = cluster === "total" ? "" : cluster;
+
+  const results = {
+    total: tools.getBens(data, "total", filteredCluster),
+    gender: {
+      male: tools.getBens(data, "male", filteredCluster),
+      female: tools.getBens(data, "female", filteredCluster),
+    },
+    locations: {
+      camp: tools.getLocs(data, "Camp", filteredCluster),
+      nonCamp: tools.getLocs(data, "NonCamp", filteredCluster),
+    },
+    types: {
+      idps: tools.getTypes(data, "IDPs", filteredCluster),
+      refugees: tools.getTypes(data, "Refugee", filteredCluster),
+      returnees: tools.getTypes(data, "Returnees", filteredCluster),
+      host: tools.getTypes(data, "Host Community", filteredCluster),
+    },
+    govs: {
+      duhok: tools.getGov(data, "Duhok", filteredCluster),
+      erbil: tools.getGov(data, "Erbil", filteredCluster),
+      nineveh: tools.getGov(data, "Nineveh", filteredCluster),
+    },
+    gender: {
+      male: tools.getGen(data, "male", filteredCluster),
+      female: tools.getGen(data, "female", filteredCluster),
+    },
+    districts: {
+      category: tools
+        .getDist(data, filteredCluster)
+        .map((item) => item.category),
+      series: tools.getDist(data, filteredCluster).map((item) => item.series),
+    },
+    clusters: getClusters(data),
+  };
+  res.status(200).json(results);
+});
+
+app.get("/v2/data/dashboard/:year/:month/:cluster", (req, res) => {
+  let { year, month, cluster } = req.params;
+
+  const allData = tools.getMonthData(year, month);
+
+  const data = allData.filter((item) => !item.activity);
+
+  const filteredCluster = cluster === "total" ? "" : cluster;
+
+  const results = {
+    total: tools.getBens(data, "total", filteredCluster),
+    gender: {
+      male: tools.getBens(data, "male", filteredCluster),
+      female: tools.getBens(data, "female", filteredCluster),
+    },
+    locations: {
+      camp: tools.getLocs(data, "Camp", filteredCluster),
+      nonCamp: tools.getLocs(data, "NonCamp", filteredCluster),
+    },
+    types: {
+      idps: tools.getTypes(data, "IDPs", filteredCluster),
+      refugees: tools.getTypes(data, "Refugee", filteredCluster),
+      returnees: tools.getTypes(data, "Returnees", filteredCluster),
+      host: tools.getTypes(data, "Host Community", filteredCluster),
+    },
+    govs: {
+      duhok: tools.getGov(data, "Duhok", filteredCluster),
+      erbil: tools.getGov(data, "Erbil", filteredCluster),
+      nineveh: tools.getGov(data, "Nineveh", filteredCluster),
+    },
+    gender: {
+      male: tools.getGen(data, "male", filteredCluster),
+      female: tools.getGen(data, "female", filteredCluster),
+    },
+    districts: {
+      category: tools
+        .getDist(data, filteredCluster)
+        .map((item) => item.category),
+      series: tools.getDist(data, filteredCluster).map((item) => item.series),
+    },
+    activities: allData.filter((item) => item.activity),
+    clusters: getClusters(data),
+  };
+  res.status(200).json(results);
 });
 
 app.get("/v2/projects/", (req, res) => {
