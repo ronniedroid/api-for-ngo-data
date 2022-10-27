@@ -88,6 +88,8 @@ app.get("/v2/dashboard/:year", (req, res) => {
     "Health": {},
     "Livelihood": {},
     "WASH": {},
+    months: tools.getMonths(year),
+    clusters: getClusters(data),
   };
 
   clusters.map((cluster) => {
@@ -123,9 +125,6 @@ app.get("/v2/dashboard/:year", (req, res) => {
           .map((item) => item.category),
         series: tools.getDist(data, filteredCluster).map((item) => item.series),
       },
-      months: cluster === "general" ? tools.getMonths(year) : "",
-
-      clusters: getClusters(data),
     };
   });
   res.status(200).json(results);
@@ -156,6 +155,7 @@ app.get("/v2/dashboard/:year/:month", (req, res) => {
     "Health": {},
     "Livelihood": {},
     "WASH": {},
+    clusters: getClusters(data),
   };
 
   clusters.map((cluster) => {
@@ -176,23 +176,19 @@ app.get("/v2/dashboard/:year/:month", (req, res) => {
         returnees: tools.getTypes(data, "Returnees", filteredCluster),
         host: tools.getTypes(data, "Host Community", filteredCluster),
       },
-      govs: {
-        duhok: tools.getGov(data, "Duhok", filteredCluster),
-        erbil: tools.getGov(data, "Erbil", filteredCluster),
-        nineveh: tools.getGov(data, "Nineveh", filteredCluster),
-      },
-      gender: {
-        male: tools.getGen(data, "male", filteredCluster),
-        female: tools.getGen(data, "female", filteredCluster),
-      },
       districts: {
         category: tools
           .getDist(data, filteredCluster)
           .map((item) => item.category),
         series: tools.getDist(data, filteredCluster).map((item) => item.series),
       },
-      activities: allData.filter((item) => item.activity),
-      clusters: getClusters(data),
+      activities:
+        cluster === "general"
+          ? []
+          : tools.getActivities(
+              allData.filter((item) => item.activity),
+              filteredCluster
+            ),
     };
   });
 

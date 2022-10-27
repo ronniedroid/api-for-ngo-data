@@ -234,33 +234,16 @@ module.exports = {
     return results;
   },
   getClusters: (data) => {
-    const allClusters = [
-      { title: "Protection", color: "pro", chartColor: "var(--v-pro-base)" },
-      { title: "GBV", color: "gbv", chartColor: "var(--v-gbv-base)" },
-      {
-        title: "CP",
-        color: "cp",
-        chartColor: "var(--v-cp-base)",
-      },
-      {
-        title: "Health",
-        color: "health",
-        chartColor: "var(--v-health-base)",
-      },
-      {
-        title: "Livelihood",
-        color: "livelihood",
-        chartColor: "var(--v-livelihood-base)",
-      },
-      { title: "WASH", color: "wash", chartColor: "var(--v-wash-base)" },
-    ];
     const uniqueClusters = GroupElements(data, "cluster")
       .filter((cluster) => cluster.total > 0)
       .map((item) => item.name);
+    console.log(uniqueClusters);
 
-    let monthsClusters = allClusters.filter((item) =>
-      uniqueClusters.includes(item.title)
-    );
-    return monthsClusters;
+    return uniqueClusters;
+  },
+  getActivities: (data, cluster) => {
+    const filteredActivities = filterByCluster(data, "cluster", cluster);
+    const nameGroupedActivities = GroupElements(filteredActivities, "activity");
+    return nameGroupedActivities;
   },
 };
