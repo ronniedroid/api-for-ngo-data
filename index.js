@@ -146,8 +146,8 @@ app.get("/v2/dashboard/:year/:month", (req, res) => {
     const filteredCluster = cluster === "general" ? "" : cluster;
     return {
       [cluster]: {
-        total: tools.getBens(data, "total", filteredCluster),
-        gender: {
+        bens: {
+          total: tools.getBens(data, "total", filteredCluster),
           male: tools.getBens(data, "male", filteredCluster),
           female: tools.getBens(data, "female", filteredCluster),
         },
