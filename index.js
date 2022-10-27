@@ -116,9 +116,9 @@ app.get("/v2/dashboard/:year", (req, res) => {
             .getDist(data, filteredCluster)
             .map((item) => item.series),
         },
-        months: filteredCluster === "total" ? tools.getMonths(year) : "",
+        months: cluster === "general" ? tools.getMonths(year) : "",
 
-        filteredClusters: getClusters(data),
+        clusters: getClusters(data),
       },
     };
   });
