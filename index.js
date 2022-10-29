@@ -111,13 +111,38 @@ app.get("/v2/dashboard/:year", (req, res) => {
         host: tools.getTypes(data, "Host Community", filteredCluster),
       },
       govs: {
-        duhok: tools.getGov(data, "Duhok", filteredCluster),
-        erbil: tools.getGov(data, "Erbil", filteredCluster),
-        nineveh: tools.getGov(data, "Nineveh", filteredCluster),
+        duhok: tools.getGov(
+          data,
+          tools.getMonths(year),
+          "Duhok",
+          filteredCluster
+        ),
+        erbil: tools.getGov(
+          data,
+          tools.getMonths(year),
+          "Erbil",
+          filteredCluster
+        ),
+        nineveh: tools.getGov(
+          data,
+          tools.getMonths(year),
+          "Nineveh",
+          filteredCluster
+        ),
       },
       gender: {
-        male: tools.getGen(data, "male", filteredCluster),
-        female: tools.getGen(data, "female", filteredCluster),
+        male: tools.getGen(
+          data,
+          tools.getMonths(year),
+          "male",
+          filteredCluster
+        ),
+        female: tools.getGen(
+          data,
+          tools.getMonths(year),
+          "female",
+          filteredCluster
+        ),
       },
       districts: {
         category: tools

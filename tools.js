@@ -41,7 +41,7 @@ function filterByCluster(data, control, compair) {
   return filteredData;
 }
 
-function GroupElements(list, prop) {
+function groupElements(list, prop) {
   const groupings = list.groupBy(prop);
   const arrayFromGroupings = Object.values(groupings);
 
@@ -92,6 +92,18 @@ function sortByMonthName(monthNames, isReverse = false) {
   const safeCopyMonthNames = [...monthNames];
   safeCopyMonthNames.sort(comparator);
   return safeCopyMonthNames;
+}
+
+function addEmpty(months, series) {
+  console.log(months);
+  const monthsWithTotal = months.map((item) => {
+    return { month: item, total: 0 };
+  });
+  const availableMonths = series;
+  const combined = [...monthsWithTotal, ...availableMonths];
+  return groupElements(combined, "month").map((item) => {
+    return { month: item.name, item: item.total };
+  });
 }
 
 module.exports = {
@@ -186,35 +198,46 @@ module.exports = {
           .sum();
     return types;
   },
-  getGov: (data, province, cluster) => {
+  getMonths: (year) => {
+    const months = fs.readdirSync(`./data/${year}`);
+    const sortedMonths = sortByMonthName(months);
+    const results = sortedMonths.map((month) => {
+      return month.split(".")[0];
+    });
+    console.log(results);
+    return results;
+  },
+  getGov: (data, months, province, cluster) => {
     const filteredData = cluster
       ? filterByCluster(data, "cluster", cluster).filter(
           (item) => item.province === province
         )
       : data.filter((item) => item.province === province);
-    const governmentData = GroupElements(filteredData, "month").map(
+    const governmentData = groupElements(filteredData, "month").map(
       (provinceLists) => {
         return { month: provinceLists.name, total: provinceLists.total };
       }
     );
-    return governmentData;
+    const govDataWithEmpty = addEmpty(months, governmentData);
+    return govDataWithEmpty;
   },
-  getGen: (data, gender, cluster) => {
+  getGen: (data, months, gender, cluster) => {
     const filteredMonths = cluster
       ? filterByCluster(data, "cluster", cluster)
       : data;
-    const genderData = GroupElements(filteredMonths, "month").map(
+    const genderData = groupElements(filteredMonths, "month").map(
       (gendersLists) => {
         return { month: gendersLists.name, total: gendersLists[gender] };
       }
     );
-    return genderData;
+    const genderDataWithEmpty = addEmpty(months, genderData);
+    return genderDataWithEmpty;
   },
   getDist: (data, cluster) => {
     const filteredData = cluster
       ? filterByCluster(data, "cluster", cluster)
       : data;
-    const uniqueDistricts = GroupElements(filteredData, "district").sort(
+    const uniqueDistricts = groupElements(filteredData, "district").sort(
       sortDistricts
     );
     const districts = uniqueDistricts.map((districtsList) => {
@@ -225,16 +248,8 @@ module.exports = {
     });
     return districts;
   },
-  getMonths: (year) => {
-    const months = fs.readdirSync(`./data/${year}`);
-    const sortedMonths = sortByMonthName(months);
-    const results = sortedMonths.map((month) => {
-      return month.split(".")[0];
-    });
-    return results;
-  },
   getClusters: (data) => {
-    const uniqueClusters = GroupElements(data, "cluster")
+    const uniqueClusters = groupElements(data, "cluster")
       .filter((cluster) => cluster.total > 0)
       .map((item) => item.name);
     console.log(uniqueClusters);
@@ -243,7 +258,7 @@ module.exports = {
   },
   getActivities: (data, cluster) => {
     const filteredActivities = filterByCluster(data, "cluster", cluster);
-    const nameGroupedActivities = GroupElements(filteredActivities, "activity");
+    const nameGroupedActivities = groupElements(filteredActivities, "activity");
     return nameGroupedActivities;
   },
 };
