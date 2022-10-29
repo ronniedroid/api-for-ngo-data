@@ -102,7 +102,7 @@ function addEmpty(months, series) {
   const availableMonths = series;
   const combined = [...monthsWithTotal, ...availableMonths];
   return groupElements(combined, "month").map((item) => {
-    return { month: item.name, item: item.total };
+    return { month: item.name, total: item.total };
   });
 }
 
