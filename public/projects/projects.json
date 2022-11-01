@@ -48,8 +48,8 @@
           "Structured pss sessions for women and girls.",
           "Rising awareness sessions on issue related to GBV.",
           "Capacity building training for non-GBV actors and community leaders on GBV core concepts and referral mechanism",
-          "vocational training (including sewing, hair dressing...etc to girls and women.",
-          "conducting safety audits.",
+          "Vocational training (including sewing, hair dressing...etc to girls and women.",
+          "Conducting safety audits.",
           "Recreational activities for the children's under 18 years."
         ],
         "summary": "This project carried out a number of activities to accomplish its objectives, including, GBV case management, structured PSS sessions for women and girls, raising awareness on GBV related issues for all community members, capacity building training for non-GBV actors and community leaders on GBV core concepts and referral mechanism, vocational training (including sewing, hair dressing) to girls and women and conducting recreational activities for children under 18 years."
@@ -734,7 +734,7 @@
       "name": "Vulnerable, conflict-affected Syrian youth in Dohuk have livelihood opportunities, access to MHPSS services, and are economically resilient",
       "start": "2021-07-31T21:00:00.000Z",
       "end": "2025-05-03T21:00:00.000Z",
-      "budget": 1352129,
+      "budget": "1,352,129.00",
       "summary": "Harikar NGO in partnership with DTV and SCI is implementing a project to improve the employability of target population and create new livelihood opportunities by building the capacity of entrepreneurs to grow their businesses and facilitate the access to necessary inputs to improve sustainability and support scale-up to take on additional employees.",
       "partners": [
         "DTV",
@@ -800,7 +800,7 @@
       "name": "Water conservation campaign in Duhok and Neinawa",
       "start": "2021-08-09T21:00:00.000Z",
       "end": "2022-06-14T21:00:00.000Z",
-      "budget": "675976 Euro",
+      "budget": 675976,
       "summary": "Harikar NGO in partnership with GIZ and AFD is implementing a project in cooperation with Directorate of water and DOWD. This project seeks to raise awareness on the issues of water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral water conservation concept paper developed based on local evidences by local stakeholders.",
       "partners": [
         "AFD",
@@ -853,7 +853,7 @@
         ],
         "summary": "This project carries out a number of activities to accomplish its objectives, including, Identifying and inviting project partners, stakeholders and targeted communities’ representatives (religious leader, mayors, teachers, students, social activists, media staff from IDPs, refugees, host community members “male and female” to attend a one-day workshop to present and discuss water waste and abuse practices and formulate Multi-Sectoral Water Conservation Concept/Policy Paper, raising awareness for schools and community members through the concept paper formulated in the workshop, Improve local authorities and school teachers capacity on the subjects of WASH through training and organizing and conduct a 1-day conference in coordination with the University of Dohuk to present the outcomes of the project."
       },
-      "state": "onGoing",
+      "state": "done",
       "employees": {
         "male": 7,
         "female": 1,
@@ -960,7 +960,7 @@
       },
       "objectives": {
         "list": [
-          "provision of GBV case management and Structured PSS programme,using structured programme specifically designed for adolescent girls,skills building through vocational training for children and community members"
+          "provision of GBV case management and Structured PSS programme,using structured programme specifically designed for adolescent girls,skills building through vocational training for women and girls"
         ],
         "summary": "The main objectives of this project is to provide GBV case management,\nconducting structured programme specifically designed for adolscent girls and\nskill building through vocational training for women and girls in Ninawa, west\nmosul, to prevent gender-based violence."
       },
@@ -1106,13 +1106,19 @@
       },
       "objectives": {
         "list": [
-          "- Access to legal assistance and legal remedies supported\n- Quality service provision and community mechanisms for GBV prevention, mitigation and response are strengthened\n- Profiling of Refugees and IDPs planned and undertaken\n- Access to civil registration and documentation supported"
+          "Access to legal assistance and legal remedies supported",
+          "Quality service provision and community mechanisms for GBV prevention, mitigation and response are strengthened",
+          "Profiling of Refugees and IDPs planned and undertaken",
+          "Access to civil registration and documentation supported"
         ],
         "summary": "The primary objectives of this project is to affirm that (Syrian and non-Syrian refugees, and IDPs) have supported access to legal assistance and legal remedies as well as to civil registration and documentation. In addition to that, it insured the planned profilling of refugees and IDPs is undertaken. The project also focuses on strengthening the mitigation and response to GBV and inssure quality service provision and community mechanisms for GBV prevention."
       },
       "activities": {
         "list": [
-          "- PSS counselling, Case management, GBV awareness raising, GBV capacity building\n- Legal representation, Legal counselling, Legal awareness raising, Detention monitoring\n- Protection monitoring (PMT, ASSIST, PMS,other tools as per required)\n- Implementation of Mol exercise"
+          "PSS counselling, Case management, GBV awareness raising, GBV capacity building",
+          "Legal representation, Legal counselling, Legal awareness raising, Detention monitoring",
+          "Protection monitoring (PMT, ASSIST, PMS,other tools as per required)",
+          "Implementation of Mol exercise"
         ],
         "summary": "This project carries out a number of activities to accomplish its objectives. For the legal component, legal counselling, legal awareness raising, legal representation, detention monitoring and Implementation of MOI exercise. For the protection component; protection Monitoring (PMT, ASSIST, PMS and other tools as required). For the S/GBV component; GBV Case Management, PSS counselling, GBV capacity building and GBV awareness raising."
       },
@@ -1169,7 +1175,14 @@
       },
       "activities": {
         "list": [
-          "GBV case management, PSS, awareness raising activities including COVID19, recreational activities, capacity building including coaching and mentoring, referrals, DK distributions, AGTK actvities",
+          "GBV case management",
+          "PSS",
+          "awareness raising activities including COVID19",
+          "Recreational activities",
+          "Capacity building including coaching and mentoring",
+          "Referrals",
+          "DK distributions",
+          "AGTK actvities",
           ""
         ],
         "summary": null
@@ -1218,7 +1231,10 @@
         "summary": "The targeted beneficiaries include IDPs and Returnees from Hatra and Sinjar, with a total target of 830 beneficiaries."
       },
       "objectives": {
-        "list": [],
+        "list": [
+          "To strengthen access to specialized protection services for returnees and IDPs in Ninawa governorate",
+          ""
+        ],
         "summary": "The overall objective of the proposed project is to provide specialized protection services for returnees, IDPs in Ninawa, governorate. and  strengthen access to other services This is envisaged through A full package of protection services that are made available in three protection community centers (PCC) for vulnerable IDPs and returnees in Hatra district and Al shamal and Qayrawan Sub-districts. Through community-based structures (volunteers) a sustainable and long-lasting impact is envisaged in the operational areas."
       },
       "activities": {
@@ -1229,7 +1245,7 @@
         ],
         "summary": "This project carries out a number of activities to accomplish its objectives, including; Cash for Protectiom, PSS and Case management."
       },
-      "state": "onGoing",
+      "state": "done",
       "employees": {
         "male": 4,
         "female": 2,
@@ -1271,11 +1287,23 @@
         "summary": "This projects targers IDPs in camp area of Zakho (Chamishko camp) with a target beneficiareis of 4844."
       },
       "objectives": {
-        "list": [],
+        "list": [
+          "Hard to reach girls and boys with child protection concerns and risks and their families and caregivers have access to inclusive and gender sensitive protective environment.",
+          "Young people including CAAFAG and their parents/caregivers have access to immediate basic needs through Multi-Purpose Cash Assistance (MPCA) and income generation from safe and dignified employment or self- employment opportunities that support personal growth and reintegration into society.",
+          "Youth initiatives, local partners, community leaders, authorities and other duty bearers develop and strengthen policies and systems that strengthen social cohesion"
+        ],
         "summary": "This project’s main objectives are to support the strengthening and functioning a comprehensive case management mechanism. On the other hand, it works on improving the cooperation and peaceful interactions between children through PSS activities and it enhances community’s culture to put an end to violence against children, youth and adolescent. It also support young people including CAAFAG and their parents/caregivers have access to immediate basic needs through Multi-Purpose Cash Assistance (MPCA) and income generation from safe and dignified employment or self- employment opportunities that support personal growth and reintegration into society."
       },
       "activities": {
-        "list": [],
+        "list": [
+          "Case Management service.",
+          "SPSS activities (child resilience, youth resilience and HEART)",
+          "PwV ( parents without violence) for parents and disabilities families",
+          "Multipurpose cash Assistance and cash for protection",
+          "Life skills training vocational training",
+          "Business grants",
+          "Aprenticiship service for youth."
+        ],
         "summary": "This project carries out a number of activities to accomplish its objectives, including, case Management service, SPSS activities (child resilience, youth resilience and HEART), PwV ( parents without violence) for parents and disabilities families, multipurpose cash Assistance and cash for protection, life skills training vocational training, business grants and aprenticiship service for youth."
       },
       "state": "onGoing",
@@ -1283,6 +1311,132 @@
         "male": 9,
         "female": 8,
         "total": 17
+      }
+    },
+    {
+      "id": 21,
+      "contact": {
+        "name": "Ahmed Salahaldin",
+        "email": "ahmed.s@harikar.org"
+      },
+      "name": "Providing specialized protection services to vulnerable returnees and IDPs in Duhok and Ninawa governorates, Iraq",
+      "start": "1st Sep 2022",
+      "end": "31st March2022",
+      "budget": 175021,
+      "summary": "Harikar NGO in a consortium with DAI funded by IHF launched a Protection project in Duhok and Nineveh governorates to improve the situation of IDPs and returnees living outside of camps, as IDPs and returnees in Duhok and Ninewa governorate affected directly by military operations remain the focus of humanitarian assistance in Iraq.",
+      "partners": [
+        "DORCAS",
+        "IHF"
+      ],
+      "clusters": [
+        "Protection"
+      ],
+      "locations": {
+        "type": [
+          "Urban"
+        ],
+        "urban": [
+          "Hatra",
+          "Baaj",
+          "Sumel"
+        ],
+        "camp": []
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs",
+          "Returnees"
+        ],
+        "target": 875,
+        "summary": "The targeted beneficiaries include IDPs and Returnees from Hatra, Sinjar and Sumel, with a total target of 875 beneficiaries."
+      },
+      "objectives": {
+        "list": [
+          "to strengthen access to specialized protection services for returnees and IDPs in Ninawa and Duhok \ngovernorate",
+          ""
+        ],
+        "summary": null
+      },
+      "activities": {
+        "list": [
+          "Cash for Protection",
+          "PSS",
+          "Case Management"
+        ],
+        "summary": null
+      },
+      "state": "onGoing",
+      "employees": {
+        "male": 8,
+        "female": 4,
+        "total": 12
+      }
+    },
+    {
+      "id": 22,
+      "contact": {
+        "name": "Sparwa Shamoel",
+        "email": "sparwa.shamoel@harikar.org"
+      },
+      "name": "Increasing the roles of the community leaders for supporting women and girls for better access to GBV serveces in Nineveh",
+      "start": "2022-08-31T21:00:00.000Z",
+      "end": "2023-02-27T21:00:00.000Z",
+      "budget": 226934,
+      "summary": "Harikar in partnership with UNICEF aims to ensure that women and girls affected by violence, abuse, neglect, and exploitation have access to appropriate GBV assistance through comprehensive case management, awareness-raising sessions, psychosocial support interventions, and vocational training. Moreover, Harikar will try to increase the role of the community in the prevention of GBV by targeting Schools-Based Management (SBM), community leaders, and government staff to build their GBV capacity and to identify girls and women who require specialized services. The project services will also include COVID-19 key messages to mitigate the protracted psychological challenges GBV survivors and other vulnerable groups continue to face.",
+      "partners": [
+        "UNICEF"
+      ],
+      "clusters": [
+        "GBV"
+      ],
+      "locations": {
+        "type": [
+          "urban",
+          "camp"
+        ],
+        "urban": [
+          "Duhok",
+          "Tel Afer",
+          "Al-Mosul"
+        ],
+        "camp": [
+          "Shekhan"
+        ]
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs"
+        ],
+        "target": 7474,
+        "summary": "This project targets IDPs in urban areas of Duhok, Tel Afer and, and west Mosul and Shekhan camp with a target beneficiaries of 7474."
+      },
+      "objectives": {
+        "list": [
+          "Lifesaving, age appropriate GBV case management and PSS services are available to women and children in, Zummar, Shekhan, and in west Mosul city.",
+          "Improved community engagement, mobilization, and risk mitigation to increase the protective environment for women and children"
+        ],
+        "summary": null
+      },
+      "activities": {
+        "list": [
+          "Support functional static women and Adolescent girls’ centers",
+          "Recreational activities for children under 18",
+          "Establish access to virtual safe space for Girls/ women",
+          "Providing GBV case management services for girls and women",
+          "Structured PSS program for women and girls using the AG toolkit, women speak-out  and the women rise curriculum.",
+          "Providing one-day PSS session such as yoga, meditation, anger control, match, movie day for women, girls, and boys.",
+          "Capacity  building training on GBV /SEA prevention and referral including associated risks for government staff, and community leaders",
+          "Number of awareness-raising sessions on GBV prevention or response, PSEA, associated risks for girls, boys, women, and men",
+          "Vocational training (including sewing, hair dressing, pastry making, ..etc) for girls and women",
+          "Communities Care initiative sessions for girls, boys, women, and men."
+        ],
+        "summary": null
+      },
+      "state": "onGoing",
+      "employees": {
+        "male": 10,
+        "female": 15,
+        "total": 25
       }
     }
   ]
