@@ -734,7 +734,7 @@
       "name": "Vulnerable, conflict-affected Syrian youth in Dohuk have livelihood opportunities, access to MHPSS services, and are economically resilient",
       "start": "2021-07-31T21:00:00.000Z",
       "end": "2025-05-03T21:00:00.000Z",
-      "budget": "1,352,129.00",
+      "budget": 1352129,
       "summary": "Harikar NGO in partnership with DTV and SCI is implementing a project to improve the employability of target population and create new livelihood opportunities by building the capacity of entrepreneurs to grow their businesses and facilitate the access to necessary inputs to improve sustainability and support scale-up to take on additional employees.",
       "partners": [
         "DTV",
@@ -1352,10 +1352,10 @@
       },
       "objectives": {
         "list": [
-          "to strengthen access to specialized protection services for returnees and IDPs in Ninawa and Duhok \ngovernorate",
+          "To strengthen access to specialized protection services for returnees and IDPs in Ninawa and Duhok \ngovernorate",
           ""
         ],
-        "summary": null
+        "summary": "This project's main objective is to strengthen access to specialized protection services for returnees and IDPs in Ninawa and Duhok \ngovernorate"
       },
       "activities": {
         "list": [
@@ -1363,7 +1363,7 @@
           "PSS",
           "Case Management"
         ],
-        "summary": null
+        "summary": "This project carries out a number of activities to accomplish its objectives, including, cash for protection, PSS and case management"
       },
       "state": "onGoing",
       "employees": {
@@ -1415,7 +1415,7 @@
           "Lifesaving, age appropriate GBV case management and PSS services are available to women and children in, Zummar, Shekhan, and in west Mosul city.",
           "Improved community engagement, mobilization, and risk mitigation to increase the protective environment for women and children"
         ],
-        "summary": null
+        "summary": "This project's main objectives are providing lifesaving, age appropriate GBV case management and PSS services to women and children in, Zummar, Shekhan, and in west Mosul city and improved community engagement, mobilization, and risk mitigation to increase the protective environment for women and children"
       },
       "activities": {
         "list": [
@@ -1430,7 +1430,7 @@
           "Vocational training (including sewing, hair dressing, pastry making, ..etc) for girls and women",
           "Communities Care initiative sessions for girls, boys, women, and men."
         ],
-        "summary": null
+        "summary": "This project carries out a number of activities to accomplish its objectives, including, supporting functional static women and Adolescent girls’ centers, recreational activities for children under 18, establish access to virtual safe space for Girls and women, providing GBV case management services for girls and women, providing structured PSS program for women and girls using the AG toolkit, women speak-out  and the women rise curriculum, providing one-day PSS session such as yoga, meditation, anger control, match, movie day for women, girls, and boys, carrying out capacity  building training on GBV /SEA prevention and referral including associated risks for government staff, and community leaders, holding awareness-raising sessions on GBV prevention or response, PSEA, associated risks for girls, boys, women, and men, vocational training (including sewing, hair dressing, pastry making, ..etc) for girls and women and communities care initiative sessions for girls, boys, women, and men."
       },
       "state": "onGoing",
       "employees": {
