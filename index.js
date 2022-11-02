@@ -180,6 +180,7 @@ app.get("/v2/dashboard/:year/:month", (req, res) => {
     "Health": {},
     "Livelihood": {},
     "WASH": {},
+    months: tools.getMonths(year),
     clusters: getClusters(data),
   };
 
