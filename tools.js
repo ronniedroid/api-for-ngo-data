@@ -95,7 +95,6 @@ function sortByMonthName(monthNames, isReverse = false) {
 }
 
 function addEmpty(months, series) {
-  console.log(months);
   const monthsWithTotal = months.map((item) => {
     return { month: item, total: 0 };
   });
@@ -204,7 +203,6 @@ module.exports = {
     const results = sortedMonths.map((month) => {
       return month.split(".")[0];
     });
-    console.log(results);
     return results;
   },
   getGov: (data, months, province, cluster) => {
@@ -252,9 +250,39 @@ module.exports = {
     const uniqueClusters = groupElements(data, "cluster")
       .filter((cluster) => cluster.total > 0)
       .map((item) => item.name);
-    console.log(uniqueClusters);
 
-    return uniqueClusters;
+    const allClusters = [
+      {
+        name: "Protection",
+        abbr: "Protection",
+      },
+      {
+        name: "Gender Based Violance",
+        abbr: "GBV",
+      },
+      {
+        name: "Health",
+        abbr: "Health",
+      },
+      {
+        name: "Child Protection",
+        abbr: "CP",
+      },
+      {
+        name: "Livelihood",
+        abbr: "Livelihood",
+      },
+      {
+        name: "water, sanitation and hygiene",
+        abbr: "WASH",
+      },
+    ];
+
+    const clusters = allClusters.filter((item) =>
+      uniqueClusters.includes(item.abbr)
+    );
+
+    return clusters;
   },
   getActivities: (data, cluster) => {
     const filteredActivities = filterByCluster(data, "cluster", cluster);
