@@ -253,7 +253,7 @@ module.exports = {
 
     const allClusters = [
       {
-        name: "Protection",
+        name: "General Protection",
         abbr: "Protection",
       },
       {
@@ -273,7 +273,7 @@ module.exports = {
         abbr: "Livelihood",
       },
       {
-        name: "water, sanitation and hygiene",
+        name: "Water, Sanitation and Hygiene",
         abbr: "WASH",
       },
     ];
