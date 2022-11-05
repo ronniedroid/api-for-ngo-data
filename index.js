@@ -73,8 +73,6 @@ app.get("/v2/dashboard/:year", (req, res) => {
     return tools.getMonthData(year, month).filter((item) => !item.activity);
   };
 
-  console.log(monthData("january"));
-
   const clusters = [
     "general",
     "Protection",
