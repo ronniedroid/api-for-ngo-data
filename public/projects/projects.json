@@ -32,28 +32,21 @@
         "type": [
           "IDPs"
         ],
-        "target": 5710,
-        "summary": "This project targets IDPs in urban areas of Bardarash, Tel Afer and Bashiqa, with a target beneficiaries of 5710, of which 1600 are male and 4110 are female."
+        "target": 5710
       },
-      "objectives": {
-        "list": [
-          "Lifesaving, age appropriate GBV case management and PSS services are available to women and children in Baashiqa, Zummar and Bardarash.",
-          "Improved community engagement, mobilisation and risk mitigation to increase the protective environment for women and children."
-        ],
-        "summary": "This project’s objectives aimed at providing and ensuring the availability of lifesaving, age appropriate GBV case management and PSS services to women and children in Bashiqa, Zumar. Besides, it provided and enhanced community engagement, mobilisation and risk mitigation to increase the protective environment for women and children in targeted area."
-      },
-      "activities": {
-        "list": [
-          "GBV case management.",
-          "Structured pss sessions for women and girls.",
-          "Rising awareness sessions on issue related to GBV.",
-          "Capacity building training for non-GBV actors and community leaders on GBV core concepts and referral mechanism",
-          "Vocational training (including sewing, hair dressing...etc to girls and women.",
-          "Conducting safety audits.",
-          "Recreational activities for the children's under 18 years."
-        ],
-        "summary": "This project carried out a number of activities to accomplish its objectives, including, GBV case management, structured PSS sessions for women and girls, raising awareness on GBV related issues for all community members, capacity building training for non-GBV actors and community leaders on GBV core concepts and referral mechanism, vocational training (including sewing, hair dressing) to girls and women and conducting recreational activities for children under 18 years."
-      },
+      "objectives": [
+        "Lifesaving, age appropriate GBV case management and PSS services are available to women and children in Baashiqa, Zummar and Bardarash.",
+        "Improved community engagement, mobilisation and risk mitigation to increase the protective environment for women and children."
+      ],
+      "activities": [
+        "GBV case management.",
+        "Structured pss sessions for women and girls.",
+        "Rising awareness sessions on issue related to GBV.",
+        "Capacity building training for non-GBV actors and community leaders on GBV core concepts and referral mechanism",
+        "Vocational training (including sewing, hair dressing...etc to girls and women.",
+        "Conducting safety audits.",
+        "Recreational activities for the children's under 18 years."
+      ],
       "state": "done",
       "employees": {
         "male": 0,
@@ -122,27 +115,20 @@
           "Refugees",
           "Returnees"
         ],
-        "target": 60690,
-        "summary": "This projects targers IDPs, Refugees and Returnees in urban and camp areas of Amedi, Duhok, Sumel, Zakho, Akre, Shekhan and Bardarash, with a target beneficiareis of 60,690, of which 21,241 are male and 39,449 are female."
+        "target": 60690
       },
-      "objectives": {
-        "list": [
-          "Access to legal assistance and legal remedies improved (Syrian, non-Syrian refugees, and IDPs)",
-          "Quality of registration and profiling improved or maintained (Syrian, non-Syrian refugees, and IDPs)",
-          "Civil registration and civil status documentation is strengthened - IDPs",
-          "Risk of GBV is reduced and quality of response is improved - Syrian and non-Syrian refugees"
-        ],
-        "summary": "This objectives of this project is to affirm that (Syrian and non-Syrian refugees, and IDPs) have access to improved legal assistance and legal remedies. In addition to that, it improves and maintains the quality of registration and profilling. As well as it strenghthens civil registration and documentation to reduce risk of GBV and improve the quality of response for Syrian and non-Syrian refugees."
-      },
-      "activities": {
-        "list": [
-          "Legal counselling, legal awareness raising, representation",
-          "Protection Monitoring (PMT), border monitoring, protection counselling, helpdesks, referral",
-          "Issuance of civil IDs and nationality certificates in IDP camps in Duhok",
-          "Case Management, PSS counselling, EMAP, capacity building on GBV, referral, GBV awareness raising"
-        ],
-        "summary": "This project carries out a number of activities to accomplish its objectives, including, Legal counselling, legal awareness raising, representation, Protection Monitoring (PMT), border monitoring, protection counselling, helpdesks, referral, Issuance of civil IDs and nationality certificates in IDP camps in Duhok, Case Management, PSS counselling, EMAP, capacity building on GBV, referral and GBV awareness raising."
-      },
+      "objectives": [
+        "Access to legal assistance and legal remedies improved (Syrian, non-Syrian refugees, and IDPs)",
+        "Quality of registration and profiling improved or maintained (Syrian, non-Syrian refugees, and IDPs)",
+        "Civil registration and civil status documentation is strengthened - IDPs",
+        "Risk of GBV is reduced and quality of response is improved - Syrian and non-Syrian refugees"
+      ],
+      "activities": [
+        "Legal counselling, legal awareness raising, representation",
+        "Protection Monitoring (PMT), border monitoring, protection counselling, helpdesks, referral",
+        "Issuance of civil IDs and nationality certificates in IDP camps in Duhok",
+        "Case Management, PSS counselling, EMAP, capacity building on GBV, referral, GBV awareness raising"
+      ],
       "state": "done",
       "employees": {
         "male": 100,
@@ -185,24 +171,17 @@
           "IDPs",
           "Returnees"
         ],
-        "target": 2593,
-        "summary": "This projects targers IDPs and Returnees in urban areas of Sumel, Zakho, Tel Kaif and Snuni, with a target beneficiareis of 2,593, of which 704 are male and 1,690 are female."
+        "target": 2593
       },
-      "objectives": {
-        "list": [
-          "Safeguarding physical and mental well-being of up to 1.65 million conflict-affected people with acute needs by providing services.",
-          "Addressing critical problems related to living standards of up to 1.54 million conflict-affected people with acute needs by expanding access to services."
-        ],
-        "summary": "The overall objective of the project is Strengthening Protection and HLP, Response and Prevention services during COVI9-19 Pandemic. For returnees, IDPs host communities and remainees in Northern Ninewa, and Dohuk Governorates. This is envisaged to be established by building on NGO's ongoing expertise and programming related to PSS, GP. Legal/HLP &amp; GP in Sinjar (Sinuni and by expanding this successful package into areas with the highest needs, mainly Sumel (Bateel Sub-district for out of camps) and Zakho (Bartifa &amp; Dercar Sub-districts). Through Protection static and mobile teams in all 3locations, a package of protection monitoring, case management, awareness-raising and, legal, HLP, Cash for Protection is made available for populations in Telkaif, Sinuni, Zakho and, Summel district. Services will be expanded in Telkaif- Alqosh, and Duhok for out of camps only. By using community-based structures (volunteers) a sustainable and long-lasting impact is envisaged in the operational areas."
-      },
-      "activities": {
-        "list": [
-          "Psychosocial Support – GP",
-          "Case Management – GP",
-          "Cash for protection (COVID)"
-        ],
-        "summary": "This project carried out a number of activities to accomplish its objectives, including, Psychosocial Support, Case Management and Cash for protection activities."
-      },
+      "objectives": [
+        "Safeguarding physical and mental well-being of up to 1.65 million conflict-affected people with acute needs by providing services.",
+        "Addressing critical problems related to living standards of up to 1.54 million conflict-affected people with acute needs by expanding access to services."
+      ],
+      "activities": [
+        "Psychosocial Support – GP",
+        "Case Management – GP",
+        "Cash for protection (COVID)"
+      ],
       "state": "done",
       "employees": {
         "male": 0,
@@ -267,25 +246,18 @@
           "Refugees",
           "Returnees"
         ],
-        "target": 12120,
-        "summary": "This projects targers IDPs, Refugees and Returnees in urban and camp areas of Amedi, Duhok, Sumel, Zakho, Shekhan, Bardarash Sinjar, Al-Hamdaniya and Snuni, with a target beneficiareis of 12,120, of which 3,030 are male and 9,090 are female."
+        "target": 12120
       },
-      "objectives": {
-        "list": [
-          "Improved capacity of Government, human rights institutions, local civil society organizations and communities to prevent and respond to gender-based violence, including in humanitarian settings.",
-          "Young people, particularly adolescent girls, are more empowered to make informed choices about their sexual and reproductive health and rights, exercise leadership and participate in sustaining peace",
-          "Strengthened national capacity for the provision of high-quality integrated SRH services, especially for the most vulnerable populations, including women, young people, internally displaced people and those in refugee camps."
-        ],
-        "summary": "This project primarily aims at improving capacity of Government, human rights institution, local civil society organizations and communities to prevent and respond to gender-based violence, including in humanitarian settings. Moreover, it empowers young people, especially adolescent to make informed choices about their sexual and reproductive health and rights, excercise leadarship and participate in sustaining peace. Additionally, it strengthens national capacity for the provision of high-quality integrated SRH services, especially for the most vulnerable people, including young women, young people, IDP's, and those in refugees camp."
-      },
-      "activities": {
-        "list": [
-          "GBV case management, PSS, awareness raising activities including COVID19, recreational activities, capacity building including coaching and mentoring, referrals, DK distributions, AGTK actvities",
-          "Life skills activities including recreational, awareness raising activities including peace building and COVID19, Psychosocial activities",
-          "Ante and Post natal services, Family planning, Normal and C section deliveries, Gynecological services, awareness including COVID 19 awareness"
-        ],
-        "summary": "This project carries out a number of activities to accomplish its objectives, including, GBV case management, PSS, awareness raising activities including COVID19, recreational activities, capacity building including coaching and mentoring, referrals, DK distributions, AGTK activities, Life skills activities including recreational, awareness raising activities including peace building and COVID19, Psychosocial activities, Ante and Poste natal services, Family planning, Normal and C section deliveries, Gynecological services and awareness including COVID 19 awareness."
-      },
+      "objectives": [
+        "Improved capacity of Government, human rights institutions, local civil society organizations and communities to prevent and respond to gender-based violence, including in humanitarian settings.",
+        "Young people, particularly adolescent girls, are more empowered to make informed choices about their sexual and reproductive health and rights, exercise leadership and participate in sustaining peace",
+        "Strengthened national capacity for the provision of high-quality integrated SRH services, especially for the most vulnerable populations, including women, young people, internally displaced people and those in refugee camps."
+      ],
+      "activities": [
+        "GBV case management, PSS, awareness raising activities including COVID19, recreational activities, capacity building including coaching and mentoring, referrals, DK distributions, AGTK actvities",
+        "Life skills activities including recreational, awareness raising activities including peace building and COVID19, Psychosocial activities",
+        "Ante and Post natal services, Family planning, Normal and C section deliveries, Gynecological services, awareness including COVID 19 awareness"
+      ],
       "state": "done",
       "employees": {
         "male": 22,
@@ -327,26 +299,19 @@
           "IDPs",
           "Host Community"
         ],
-        "target": 21309,
-        "summary": "This project targets IDPs in urban areas of Bardarash, Tel Afer and Bashiqa, and west Mosul with a target beneficiaries of 21,309, of which 7,238 are male and 14,071 are female."
+        "target": 21309
       },
-      "objectives": {
-        "list": [
-          "provision of GBV case management and Structured PSS programme,using structured programme specifically designed for adolescent girls,skills building through vocational training for women and girls"
-        ],
-        "summary": "The main objectives of this project is to provide GBV case management,\nconducting structured programme specifically designed for adolscent girls and\nskill building through vocational training for women and girls in Ninawa, west\nmosul, to prevent gender-based violence."
-      },
-      "activities": {
-        "list": [
-          "GBV case managment.",
-          "Structured pss sessions for women and girls.",
-          "Awareness on GBV related issues for all community members.",
-          "Capacity Building for non-GBV actors and community leaders on GBV core concepts and referral mechanism",
-          "Vocational Training as sewing and hairdressing",
-          "Recreational activities for the children's under 18."
-        ],
-        "summary": "This project carries out a number of activities to accomplish its objectives, including, GBV case management, organized PSS sessions for women and girls, raising awareness on GBV related issues for all community members, Capacity building training for non-GBV actors and community leaders on GBV core concepts and referral mechanism, conducting vocational training such as sewing and hair dressing to girls and women and conducting entertaining activities for the children under 18 years."
-      },
+      "objectives": [
+        "provision of GBV case management and Structured PSS programme,using structured programme specifically designed for adolescent girls,skills building through vocational training for women and girls"
+      ],
+      "activities": [
+        "GBV case managment.",
+        "Structured pss sessions for women and girls.",
+        "Awareness on GBV related issues for all community members.",
+        "Capacity Building for non-GBV actors and community leaders on GBV core concepts and referral mechanism",
+        "Vocational Training as sewing and hairdressing",
+        "Recreational activities for the children's under 18."
+      ],
       "state": "done",
       "employees": {
         "male": 12,
@@ -394,31 +359,24 @@
           "IDPs",
           "Returnees"
         ],
-        "target": 64434,
-        "summary": "This projects targers IDPs and Returnees in urban and camp areas of Zakho, Shekhan, Sinjar, and Snuni, with a target beneficiareis of 64,434, of which 31,564 are male and 32,870 are female."
+        "target": 64434
       },
-      "objectives": {
-        "list": [
-          "Increased and more equitable access to safe water supply, sanitation facilities and hygiene supplies for vulnerable women, men, girls and boys in IDP and returnee communities.",
-          "Increased access to protection services, including GBV prevention and response, for vulnerable women, girls, boys and men in IDP and returnee communities"
-        ],
-        "summary": "The main objective of the project is to provide increased and more equitable access to safe water supply, sanitation facilities and hygiene supplies for vulnerable women, men, girls and boys in IDP and returnee communities. As well as to increase access to protection services, including GBV prevention and response, for vulnerable women, girls, boys and men in IDPs and returnee communities."
-      },
-      "activities": {
-        "list": [
-          "Care and maintenance of WASH facilities in IDP camps.",
-          "Rehabilitation of water and sanitation networks in IDP camps and Sinjar.",
-          "Borehole operation in IDP camps.",
-          "Distribution of water filters in Sinjar.",
-          "Garbage collection and Desludging in Essian camp.",
-          "Cash for work through clean up campaigns in Sinjar.",
-          "Raising awareness of protection issues in IDP camps and Sinjar.",
-          "Hygiene promotion in IDP camps and Sinjar.",
-          "Hygiene kits and dignity kits distribution in Sinjar.",
-          "Cash assistance in Sinjar for attendees of case management and PSS activities"
-        ],
-        "summary": "This project carries out a number of activities to accomplish its objectives, including, Care and maintenance of WASH facilities in IDPs camps, Rehabilitation of water and sanitation networks in IDP camps and Sinjar, Borehole operation in IDP camps, Distribution of water filters in Sinjar, Garbage collection and Desludging in Essian camp, Cash for work through cleaning up campaigns in Sinjar, Raising awareness on protection issues in IDPs camps and Sinjar, Hygiene promotion in IDPs camps and Sinjar, Hygiene kits and dignity kits distribution in Sinjar and Cash assistance for attendees of case management and PSS activities"
-      },
+      "objectives": [
+        "Increased and more equitable access to safe water supply, sanitation facilities and hygiene supplies for vulnerable women, men, girls and boys in IDP and returnee communities.",
+        "Increased access to protection services, including GBV prevention and response, for vulnerable women, girls, boys and men in IDP and returnee communities"
+      ],
+      "activities": [
+        "Care and maintenance of WASH facilities in IDP camps.",
+        "Rehabilitation of water and sanitation networks in IDP camps and Sinjar.",
+        "Borehole operation in IDP camps.",
+        "Distribution of water filters in Sinjar.",
+        "Garbage collection and Desludging in Essian camp.",
+        "Cash for work through clean up campaigns in Sinjar.",
+        "Raising awareness of protection issues in IDP camps and Sinjar.",
+        "Hygiene promotion in IDP camps and Sinjar.",
+        "Hygiene kits and dignity kits distribution in Sinjar.",
+        "Cash assistance in Sinjar for attendees of case management and PSS activities"
+      ],
       "state": "done",
       "employees": {
         "male": 51,
@@ -461,22 +419,15 @@
           "Returnees",
           "Host Community"
         ],
-        "target": 236,
-        "summary": "This projects targers IDPs, Returnees and Host Comunnities in urban areas of Bashiqa, Wana, and Snuni, with a target beneficiareis of 236, of which 136 are male and 100 are female."
+        "target": 236
       },
-      "objectives": {
-        "list": [
-          "The primary objective of this proposal is to contribute towards improving the status of food security through support with agricultural livelihoods for increased access and availability of food at household level as well as generate agricultural income of food insecure IDPs, Returnees and Host Communities."
-        ],
-        "summary": "The primary objective of this project is to contribute towards enhancing food status security by supporting it with agricultural livelihoods to increase availability and access of food at household level as well as it generates agricultural income of food insecure IDPs, Returnees and Host Communities"
-      },
-      "activities": {
-        "list": [
-          "Provision of agriculture inputs and assets",
-          "Cash for Work (cleaning irrigation canals and water networks)"
-        ],
-        "summary": "This project carried out a number of activities to accomplish its objectives, including, providing agricultural inputs and assets as well as Cash for Work (irrigation canals cleaning and water networks)."
-      },
+      "objectives": [
+        "The primary objective of this proposal is to contribute towards improving the status of food security through support with agricultural livelihoods for increased access and availability of food at household level as well as generate agricultural income of food insecure IDPs, Returnees and Host Communities."
+      ],
+      "activities": [
+        "Provision of agriculture inputs and assets",
+        "Cash for Work (cleaning irrigation canals and water networks)"
+      ],
       "state": "done",
       "employees": {
         "male": 0,
@@ -516,22 +467,15 @@
           "Returnees",
           "Host Community"
         ],
-        "target": 149,
-        "summary": "This projects targers IDPs, Returnees and Host Comunnities in urban area of Wana with a target beneficiareis of 149, of which 89 are male and 60 are female."
+        "target": 149
       },
-      "objectives": {
-        "list": [
-          "The primary objective of this project is to contribute towards improving the status of food security through support with agricultural livelihoods for increased access and availability of food at household level as well as generate agricultural income of food insecure out-of-camp IDPs and Returnees."
-        ],
-        "summary": "This project strives towards contributing and enhancing food status security by supporting it with agricultural livelihoods to increase the availability of food access at household level. Moreover, it generates agricultural income of food insecure out-of-camp IDPs and Returnees."
-      },
-      "activities": {
-        "list": [
-          "Provision of agriculture inputs and assets",
-          "Cash for Work (cleaning irrigation canals and water networks)"
-        ],
-        "summary": "This project carried out a number of activities to accomplish its objectives, including, providing agricultural inputs and assets as well as Cash for Work (irrigation canals cleaning and water networks)."
-      },
+      "objectives": [
+        "The primary objective of this project is to contribute towards improving the status of food security through support with agricultural livelihoods for increased access and availability of food at household level as well as generate agricultural income of food insecure out-of-camp IDPs and Returnees."
+      ],
+      "activities": [
+        "Provision of agriculture inputs and assets",
+        "Cash for Work (cleaning irrigation canals and water networks)"
+      ],
       "state": "done",
       "employees": {
         "male": 2,
@@ -570,25 +514,18 @@
         "type": [
           "IDPs"
         ],
-        "target": 6660,
-        "summary": "This projects targers IDPs in camp areas of Sumel (Kabarto 1 camp) and Zakho (Berseve 1 camp) with a target beneficiareis of 6660, of which all are female."
+        "target": 6660
       },
-      "objectives": {
-        "list": [
-          "Improved access to comprehensive primary health services for crisis-affected populations aimed at reducing avoidable morbidity and mortality in targeted areas.",
-          "Strengthen and expand early warning disease detection to mitigate, detect and respond to disease outbreaks in a timely manner.",
-          "Provision of first line life-saving reproductive health and referral services to women and girls in the targeted areas.",
-          "Increased capacity of Ministry of Health, and civil society targeted organizing actions to deliver quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)"
-        ],
-        "summary": "The primary objectives of this project are to Improved access to comprehensive primary health services for crisis-affected populations aimed at reducing avoidable morbidity and mortality in targeted areas as well as strengthen and expand early warning disease detection to mitigate, detect and respond to disease outbreaks in a timely manner. The project also provides first line life-saving reproductive health and referral services to women and girls in the targeted areas and increas capacity of Ministry of Health, and civil society targeted organizing actions to deliver quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)"
-      },
-      "activities": {
-        "list": [
-          "Reproductive health services ANC (Ante Natal Care), PNC (Post Natal Care) for mothers and Newborns. FP (Family Planning) services, CMR (Clinical Management of Rape)",
-          "COVID-19 awareness campaigns for pregnant and new mothers, and other community members (old age group)"
-        ],
-        "summary": "This project carries out a number of activities to accomplish it's objectives, including Reproductive health services ANC (Ante Natal Care), PNC (Post Natal Care) for mothers and Newborns. FP (Family Planning) services, CMR (Clinical Management of Rape) and COVID-19 awareness campaigns for pregnant and new mothers, and other community members (old age group)"
-      },
+      "objectives": [
+        "Improved access to comprehensive primary health services for crisis-affected populations aimed at reducing avoidable morbidity and mortality in targeted areas.",
+        "Strengthen and expand early warning disease detection to mitigate, detect and respond to disease outbreaks in a timely manner.",
+        "Provision of first line life-saving reproductive health and referral services to women and girls in the targeted areas.",
+        "Increased capacity of Ministry of Health, and civil society targeted organizing actions to deliver quality reproductive health services that meet the needs of vulnerable populations, especially those in humanitarian settings (Health Cluster)"
+      ],
+      "activities": [
+        "Reproductive health services ANC (Ante Natal Care), PNC (Post Natal Care) for mothers and Newborns. FP (Family Planning) services, CMR (Clinical Management of Rape)",
+        "COVID-19 awareness campaigns for pregnant and new mothers, and other community members (old age group)"
+      ],
       "state": "done",
       "employees": {
         "male": 0,
@@ -632,29 +569,22 @@
           "IDPs",
           "Host Community"
         ],
-        "target": 24500,
-        "summary": "This projects targers IDPs and Host communities in urban areas of Sinjar, Tel Afer and Snuni, with a target beneficiareis of 24,500, of which 12,495 are male and 12,005 are female."
+        "target": 24500
       },
-      "objectives": {
-        "list": [
-          "Improved access to water for vulnerable host families and returnees with equal access for men, women, girls, and boys",
-          "Improved awareness on safe hygiene and sanitation practices",
-          "Improved opportunities for culturally and gender sensitive livelihoods for vulnerable families returning home",
-          "Improved and equal access to legal assistance issues, focusing but not exclusively on housing, land and property issues"
-        ],
-        "summary": "This project mainly aimed at improving access to water for vulnerable host families and returnees with equal access for men, women, girls and boys. Furthermore, it concenterated on raising awarness on safe hygiene and sanitation practices. Along with improving opportunities for cultural and gender sensetive livelihoods for vulnerable families returning home. Lastly, it provided improved and equal access to legal assistance issues fucocing not exclusively on housing, land and property issues.."
-      },
-      "activities": {
-        "list": [
-          "WASH activities (rehabilitation/construction of water structures and hygiene promotion)",
-          "Vocational Trainings",
-          "Cash for work",
-          "Agriculture Inputs provision",
-          "Providing Legal Assistance",
-          "Provision of food baskets for COVID-19 affected families."
-        ],
-        "summary": "This project carried out a number of activities to accomplish its objectives, including, WASH activities (rehabilitation/construction of water structures and hygiene promotion), Vocational Trainings, Cash for work, providing agricultural inputs, legal Assistance and food baskets for COVID-19 affected families."
-      },
+      "objectives": [
+        "Improved access to water for vulnerable host families and returnees with equal access for men, women, girls, and boys",
+        "Improved awareness on safe hygiene and sanitation practices",
+        "Improved opportunities for culturally and gender sensitive livelihoods for vulnerable families returning home",
+        "Improved and equal access to legal assistance issues, focusing but not exclusively on housing, land and property issues"
+      ],
+      "activities": [
+        "WASH activities (rehabilitation/construction of water structures and hygiene promotion)",
+        "Vocational Trainings",
+        "Cash for work",
+        "Agriculture Inputs provision",
+        "Providing Legal Assistance",
+        "Provision of food baskets for COVID-19 affected families."
+      ],
       "state": "done",
       "employees": {
         "male": 0,
@@ -693,31 +623,24 @@
         "type": [
           "IDPs"
         ],
-        "target": 5000,
-        "summary": "This projects targers IDPs in camp area of Zakho (Chamishko camp) with a target beneficiareis of 5,000."
+        "target": 5000
       },
-      "objectives": {
-        "list": [
-          "Supporting the strengthening and functioning of a comprehensive case management mechanism",
-          "Improving cooperation and peaceful interactions between children through SPSS activities",
-          "Promote the culture of community free of violence against children, youth and adolescent",
-          "Provide urgent life-saving assistance to alleviate suffering among socio-economically vulnerable households in conflict affected community",
-          "Encourage and enable community to promote healthy behaviours and prevent the spread of infectious diseases."
-        ],
-        "summary": "This project’s main objectives are to support the strengthening and functioning a comprehensive case management mechanism. On the other hand, it works on improving the cooperation and peaceful interactions between children through PSS activities and it enhances community’s culture to put an end to violence against children, youth and adolescent. It also provides urgent life-saving assistance to alleviate suffering among socio-economically vulnerable households in conflict affected community to encourage and enable community to promote healthy behaviours and prevent the spread of infectious diseases"
-      },
-      "activities": {
-        "list": [
-          "Case Management service",
-          "SPSS activities (child resilience, youth resilience and HEART)",
-          "PD for parents",
-          "MAG workshop for male gender",
-          "Multipurpose cash Assistance and cash for ptotection",
-          "life skills training for youth",
-          "Health awareness sessions"
-        ],
-        "summary": "This project carries out a number of activities to accomplish its objectives, including, case Management service, SPSS activities (child resilience, youth resilience and HEART), PD for parents, MAG workshop for male gender, multipurpose cash Assistance and cash for protection, life skills training for youth and health awareness sessions."
-      },
+      "objectives": [
+        "Supporting the strengthening and functioning of a comprehensive case management mechanism",
+        "Improving cooperation and peaceful interactions between children through SPSS activities",
+        "Promote the culture of community free of violence against children, youth and adolescent",
+        "Provide urgent life-saving assistance to alleviate suffering among socio-economically vulnerable households in conflict affected community",
+        "Encourage and enable community to promote healthy behaviours and prevent the spread of infectious diseases."
+      ],
+      "activities": [
+        "Case Management service",
+        "SPSS activities (child resilience, youth resilience and HEART)",
+        "PD for parents",
+        "MAG workshop for male gender",
+        "Multipurpose cash Assistance and cash for ptotection",
+        "life skills training for youth",
+        "Health awareness sessions"
+      ],
       "state": "done",
       "employees": {
         "male": 9,
@@ -763,27 +686,20 @@
           "Refugees",
           "Host Community"
         ],
-        "target": 1065,
-        "summary": "This projects targers IDPs, Refugees and Host Communities in urban and camp areas of Sumel with a target beneficiareis of 1,065."
+        "target": 1065
       },
-      "objectives": {
-        "list": [
-          "Youth and young mothers have market-relevant skills to access enhanced and sustainable income",
-          "Vulnerable conflict-affected youth have access to safe and dignified employment or self-employment and MHPSS services"
-        ],
-        "summary": "The primary objectives of this project are to ensure that youth and young mothers have market-relevant skills to access enhanced and sustainable income. In addition to ensuring that vulnerable conflict-affected youth have access to safe and dignified employment or self-employment and MHPSS services."
-      },
-      "activities": {
-        "list": [
-          "Labour Market Assessment",
-          "Microenterprise Training",
-          "Business grants distribution",
-          "Business Mentorship",
-          "Apprenticeships Support Services",
-          "Job Counselling and Referrals"
-        ],
-        "summary": "This project carries out a number of activities to accomplish its objectives, including, Labour Market Assessment, Microenterprise Training, Business grants distribution, Business Mentorship, Apprenticeships Support Services and Job Counselling and Referrals."
-      },
+      "objectives": [
+        "Youth and young mothers have market-relevant skills to access enhanced and sustainable income",
+        "Vulnerable conflict-affected youth have access to safe and dignified employment or self-employment and MHPSS services"
+      ],
+      "activities": [
+        "Labour Market Assessment",
+        "Microenterprise Training",
+        "Business grants distribution",
+        "Business Mentorship",
+        "Apprenticeships Support Services",
+        "Job Counselling and Referrals"
+      ],
       "state": "onGoing",
       "employees": {
         "male": 7,
@@ -832,27 +748,20 @@
           "Returnee",
           "Host Community"
         ],
-        "target": 110627,
-        "summary": "This projects targers IDPs, Refugees and Host Communities in urabn and camp areas of Duhok, Sumel (Domiz 1 and Domiz 2 camps) Bardarash and Al-Mosul with a target beneficiareis of 1,100,627."
+        "target": 110627
       },
-      "objectives": {
-        "list": [
-          "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
-          "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
-          "Water Conservation practices promoted and adopted among 110,627 IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates.",
-          "Best practices for water conservation identified and documented to be used by partners in other locations"
-        ],
-        "summary": "The primary objectives of this project are to raise awarness on the issues of water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders. As well as supporting the improvement of local water authorities’ capacities to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels. The project also ensures Water Conservation practices to be promoted and adopted among 110,627 IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates and to identify and document best practices for water conservation to be used by partners in other locations."
-      },
-      "activities": {
-        "list": [
-          "Identify and invite project partners, stakeholders and targeted communities’ representatives (religious leader, mukhtars, teachers, students, social activists, media staff from IDPs, refugees, host community members “male and female”) to attend one day workshop to present and discuss water waste and abuse practices and formulate Multi-Sectoral Water Conservation Concept/Policy Paper.",
-          "Awareness raising for schools and community members through the concept paper formulated in the workshop",
-          "Improve local authoriteis and school teachers capacity on the subjects of WASH through training.",
-          "Organize and conduct 1 day conference in coordination with the university of Dohuk to present the outcomes of the project"
-        ],
-        "summary": "This project carries out a number of activities to accomplish its objectives, including, Identifying and inviting project partners, stakeholders and targeted communities’ representatives (religious leader, mayors, teachers, students, social activists, media staff from IDPs, refugees, host community members “male and female” to attend a one-day workshop to present and discuss water waste and abuse practices and formulate Multi-Sectoral Water Conservation Concept/Policy Paper, raising awareness for schools and community members through the concept paper formulated in the workshop, Improve local authorities and school teachers capacity on the subjects of WASH through training and organizing and conduct a 1-day conference in coordination with the University of Dohuk to present the outcomes of the project."
-      },
+      "objectives": [
+        "Water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral Water Conservation Concept Paper developed based on local evidences by local stakeholders",
+        "Local water authorities’ capacities improved to develop Communities Water Conservation Educational Manual, handout, posters and educational message using social media pages and electronic media channels",
+        "Water Conservation practices promoted and adopted among 110,627 IDPs, refugees and host communities’ members in Duhok and Nineveh Governorates.",
+        "Best practices for water conservation identified and documented to be used by partners in other locations"
+      ],
+      "activities": [
+        "Identify and invite project partners, stakeholders and targeted communities’ representatives (religious leader, mukhtars, teachers, students, social activists, media staff from IDPs, refugees, host community members “male and female”) to attend one day workshop to present and discuss water waste and abuse practices and formulate Multi-Sectoral Water Conservation Concept/Policy Paper.",
+        "Awareness raising for schools and community members through the concept paper formulated in the workshop",
+        "Improve local authoriteis and school teachers capacity on the subjects of WASH through training.",
+        "Organize and conduct 1 day conference in coordination with the university of Dohuk to present the outcomes of the project"
+      ],
       "state": "done",
       "employees": {
         "male": 7,
@@ -892,27 +801,20 @@
         "type": [
           "IDPs"
         ],
-        "target": 16245,
-        "summary": "This projects targers IDPs in urban areas of Sumel and Zakho with a target beneficiareis of 16,245, of which 7,809 are male and 8,436 are female."
+        "target": 16245
       },
-      "objectives": {
-        "list": [
-          "IDPs, recent returnees, and returnees living in critical shelters and/or informal settlements in 20 districts of seven governorates have access to sufficient quantity and quality of both drinking and domestic water as well as to dignified, safe, clean and functional sanitation facilities through operation and maintenance of water and sanitation services",
-          "Informal settlements and critical shelters WASH (ICW) consortium partners deliver well-coordinated, effective, efficient and harmonized WASH response adapted to the continuously evolving context"
-        ],
-        "summary": "The primary objectives of this project are to ensure that IDPs, recent returnees, and returnees living in critical shelters and/or informal settlements in 20 districts of seven governorates have access to sufficient quantity and quality of both drinking and domestic water. As well as to dignified, safe, clean and functional sanitation facilities through operation and maintenance of water and sanitation services besides to help Informal settlements and critical shelters WASH (ICW) consortium partners deliver well-coordinated, effective, efficient and harmonized WASH response adapted to the continuously evolving context."
-      },
-      "activities": {
-        "list": [
-          "Provision of safe and sufficient water to populations living in underserved informal settlements through minor rehabilitations of water supply systems",
-          "Provision of safe water storage and filters at household level",
-          "Provision of sanitation facilities and services accessible for women and people with disabilities in targeted informal settlements",
-          "Sustainable management of solid waste in targeted informal settlements/critical shelters through provision of trash bags and bins and proper disposal of the waste",
-          "Hygiene promotion (including MHM) while taking a community centric behavior change approaches",
-          "Distribution of hygiene kits (including MHM materials) to IDPs/returnees in targeted informal settlements/critical shelters"
-        ],
-        "summary": "This project carries out a number of activities to accomplish its objectives, including, Provision of safe and sufficient water to people who are living in underserved informal settlements through minor rehabilitations of water supply systems, providing safe water storage and filters at household level, Provision of sanitation facilities and services accessible for women and people with disabilities in targeted informal settlements, Sustainable management of solid waste in targeted informal settlements/critical shelters through provision of trash bags and bins and proper disposal of the waste, Hygiene promotion (including MHM) while taking a community centric behavior change approaches and Distribution of hygiene kits (including MHM materials) to IDPs/returnees in targeted informal settlements/critical shelters."
-      },
+      "objectives": [
+        "IDPs, recent returnees, and returnees living in critical shelters and/or informal settlements in 20 districts of seven governorates have access to sufficient quantity and quality of both drinking and domestic water as well as to dignified, safe, clean and functional sanitation facilities through operation and maintenance of water and sanitation services",
+        "Informal settlements and critical shelters WASH (ICW) consortium partners deliver well-coordinated, effective, efficient and harmonized WASH response adapted to the continuously evolving context"
+      ],
+      "activities": [
+        "Provision of safe and sufficient water to populations living in underserved informal settlements through minor rehabilitations of water supply systems",
+        "Provision of safe water storage and filters at household level",
+        "Provision of sanitation facilities and services accessible for women and people with disabilities in targeted informal settlements",
+        "Sustainable management of solid waste in targeted informal settlements/critical shelters through provision of trash bags and bins and proper disposal of the waste",
+        "Hygiene promotion (including MHM) while taking a community centric behavior change approaches",
+        "Distribution of hygiene kits (including MHM materials) to IDPs/returnees in targeted informal settlements/critical shelters"
+      ],
       "state": "done",
       "employees": {
         "male": 9,
@@ -955,28 +857,21 @@
         "type": [
           "IDPs"
         ],
-        "target": 15424,
-        "summary": "This project targets IDPs in urban and Camp areas of Bardarash, Tel Afer and, and west Mosul and Shekhan (Shekhan Camp) with a target beneficiaries of 15424."
+        "target": 15424
       },
-      "objectives": {
-        "list": [
-          "provision of GBV case management and Structured PSS programme,using structured programme specifically designed for adolescent girls,skills building through vocational training for women and girls"
-        ],
-        "summary": "The main objectives of this project is to provide GBV case management,\nconducting structured programme specifically designed for adolscent girls and\nskill building through vocational training for women and girls in Ninawa, west\nmosul, to prevent gender-based violence."
-      },
-      "activities": {
-        "list": [
-          "GBV case managment.",
-          "Structured pss sessions for women and girls.",
-          "Awareness on GBV related issues for all community members.",
-          "Capacity Building for non-GBV actors, community leaders and government staff members on GBV core concepts and referral mechanism",
-          "Vocational Training as sewing and hairdressing",
-          "Recreational activities for the children under 18",
-          "Establishing access to virtual safe spaces (VSS) for women and girls",
-          "Community care anitiative sessions for the community members"
-        ],
-        "summary": "This project carries out a number of activities to accomplish its objectives, including, GBV case management, organized PSS sessions for women and girls, raising awareness on GBV related issues for all community members, Capacity building training for non-GBV actors and community leaders on GBV core concepts and referral mechanism, conducting vocational training such as sewing and hair dressing to girls and women and conducting entertaining activities for the children under 18 years."
-      },
+      "objectives": [
+        "provision of GBV case management and Structured PSS programme,using structured programme specifically designed for adolescent girls,skills building through vocational training for women and girls"
+      ],
+      "activities": [
+        "GBV case managment.",
+        "Structured pss sessions for women and girls.",
+        "Awareness on GBV related issues for all community members.",
+        "Capacity Building for non-GBV actors, community leaders and government staff members on GBV core concepts and referral mechanism",
+        "Vocational Training as sewing and hairdressing",
+        "Recreational activities for the children under 18",
+        "Establishing access to virtual safe spaces (VSS) for women and girls",
+        "Community care anitiative sessions for the community members"
+      ],
       "state": "done",
       "employees": {
         "male": 15,
@@ -1014,25 +909,18 @@
         "type": [
           "Host Community"
         ],
-        "target": 2760,
-        "summary": "This project targets Host Community in urban areas of Duhok and Erbil with a target beneficiaries of 2760."
+        "target": 2760
       },
-      "objectives": {
-        "list": [
-          "Legal and social services improved through enhancement of technical capacity of service providers",
-          "Restorative justice approach promoted in the search for alternative to deprivation of liberty and for making diversion a reality"
-        ],
-        "summary": "The main objectives of this project is to improve legal and social services through enhancement of technical capacity of service providers, as well as promoting for a restorative justice approach in the search for alternatives to deprivation of liberty and for making diversion a reality"
-      },
-      "activities": {
-        "list": [
-          "Capacity building",
-          "Awareness raising",
-          "Applying youth resilience programme",
-          "Reintegration to society through livelihood projects"
-        ],
-        "summary": "This project carries out a number of activities to accomplish its objectives, including capacity building, awareness raising, applying youth resilience programme and reintegration to society through livelihood projects"
-      },
+      "objectives": [
+        "Legal and social services improved through enhancement of technical capacity of service providers",
+        "Restorative justice approach promoted in the search for alternative to deprivation of liberty and for making diversion a reality"
+      ],
+      "activities": [
+        "Capacity building",
+        "Awareness raising",
+        "Applying youth resilience programme",
+        "Reintegration to society through livelihood projects"
+      ],
       "state": "onGoing",
       "employees": {
         "male": 2,
@@ -1101,27 +989,20 @@
           "Refugees",
           "Returnees"
         ],
-        "target": 95455,
-        "summary": "This projects targers IDPs, Refugees and Returnees in urban and camp areas of Amedi, Duhok, Sumel, Zakho, Akre, Shekhan and Bardarash, with a target beneficiareis of 95,455."
+        "target": 95455
       },
-      "objectives": {
-        "list": [
-          "Access to legal assistance and legal remedies supported",
-          "Quality service provision and community mechanisms for GBV prevention, mitigation and response are strengthened",
-          "Profiling of Refugees and IDPs planned and undertaken",
-          "Access to civil registration and documentation supported"
-        ],
-        "summary": "The primary objectives of this project is to affirm that (Syrian and non-Syrian refugees, and IDPs) have supported access to legal assistance and legal remedies as well as to civil registration and documentation. In addition to that, it insured the planned profilling of refugees and IDPs is undertaken. The project also focuses on strengthening the mitigation and response to GBV and inssure quality service provision and community mechanisms for GBV prevention."
-      },
-      "activities": {
-        "list": [
-          "PSS counselling, Case management, GBV awareness raising, GBV capacity building",
-          "Legal representation, Legal counselling, Legal awareness raising, Detention monitoring",
-          "Protection monitoring (PMT, ASSIST, PMS,other tools as per required)",
-          "Implementation of Mol exercise"
-        ],
-        "summary": "This project carries out a number of activities to accomplish its objectives. For the legal component, legal counselling, legal awareness raising, legal representation, detention monitoring and Implementation of MOI exercise. For the protection component; protection Monitoring (PMT, ASSIST, PMS and other tools as required). For the S/GBV component; GBV Case Management, PSS counselling, GBV capacity building and GBV awareness raising."
-      },
+      "objectives": [
+        "Access to legal assistance and legal remedies supported",
+        "Quality service provision and community mechanisms for GBV prevention, mitigation and response are strengthened",
+        "Profiling of Refugees and IDPs planned and undertaken",
+        "Access to civil registration and documentation supported"
+      ],
+      "activities": [
+        "PSS counselling, Case management, GBV awareness raising, GBV capacity building",
+        "Legal representation, Legal counselling, Legal awareness raising, Detention monitoring",
+        "Protection monitoring (PMT, ASSIST, PMS,other tools as per required)",
+        "Implementation of Mol exercise"
+      ],
       "state": "onGoing",
       "employees": {
         "male": 100,
@@ -1163,30 +1044,23 @@
           "Refugees",
           "Returnees\nHC"
         ],
-        "target": 2050,
-        "summary": "The targeted beneficiaries include vulnerable women and girls within reporoductive age in Dohuk and Nenawa governorates. The taget population also incldes Men and Boys within the mentioned governorates"
+        "target": 2050
       },
-      "objectives": {
-        "list": [
-          "Improved capacity of Government, human rights institutions, local civil society organizations and communities to prevent and respond to gender-based violence, including in humanitarian settings.",
-          ""
-        ],
-        "summary": null
-      },
-      "activities": {
-        "list": [
-          "GBV case management",
-          "PSS",
-          "awareness raising activities including COVID19",
-          "Recreational activities",
-          "Capacity building including coaching and mentoring",
-          "Referrals",
-          "DK distributions",
-          "AGTK actvities",
-          ""
-        ],
-        "summary": null
-      },
+      "objectives": [
+        "Improved capacity of Government, human rights institutions, local civil society organizations and communities to prevent and respond to gender-based violence, including in humanitarian settings.",
+        ""
+      ],
+      "activities": [
+        "GBV case management",
+        "PSS",
+        "awareness raising activities including COVID19",
+        "Recreational activities",
+        "Capacity building including coaching and mentoring",
+        "Referrals",
+        "DK distributions",
+        "AGTK actvities",
+        ""
+      ],
       "state": "done",
       "employees": {
         "male": null,
@@ -1227,24 +1101,17 @@
           "IDPs",
           "Returnees"
         ],
-        "target": 830,
-        "summary": "The targeted beneficiaries include IDPs and Returnees from Hatra and Sinjar, with a total target of 830 beneficiaries."
+        "target": 830
       },
-      "objectives": {
-        "list": [
-          "To strengthen access to specialized protection services for returnees and IDPs in Ninawa governorate",
-          ""
-        ],
-        "summary": "The overall objective of the proposed project is to provide specialized protection services for returnees, IDPs in Ninawa, governorate. and  strengthen access to other services This is envisaged through A full package of protection services that are made available in three protection community centers (PCC) for vulnerable IDPs and returnees in Hatra district and Al shamal and Qayrawan Sub-districts. Through community-based structures (volunteers) a sustainable and long-lasting impact is envisaged in the operational areas."
-      },
-      "activities": {
-        "list": [
-          "Cash for Protection",
-          "PSS",
-          "Case Management"
-        ],
-        "summary": "This project carries out a number of activities to accomplish its objectives, including; Cash for Protectiom, PSS and Case management."
-      },
+      "objectives": [
+        "To strengthen access to specialized protection services for returnees and IDPs in Ninawa governorate",
+        ""
+      ],
+      "activities": [
+        "Cash for Protection",
+        "PSS",
+        "Case Management"
+      ],
       "state": "done",
       "employees": {
         "male": 4,
@@ -1283,29 +1150,24 @@
         "type": [
           "IDPs"
         ],
-        "target": 4844,
-        "summary": "This projects targers IDPs in camp area of Zakho (Chamishko camp) with a target beneficiareis of 4844."
+        "target": 4844
       },
-      "objectives": {
-        "list": [
-          "Hard to reach girls and boys with child protection concerns and risks and their families and caregivers have access to inclusive and gender sensitive protective environment.",
-          "Young people including CAAFAG and their parents/caregivers have access to immediate basic needs through Multi-Purpose Cash Assistance (MPCA) and income generation from safe and dignified employment or self- employment opportunities that support personal growth and reintegration into society.",
-          "Youth initiatives, local partners, community leaders, authorities and other duty bearers develop and strengthen policies and systems that strengthen social cohesion"
-        ],
-        "summary": "This project’s main objectives are to support the strengthening and functioning a comprehensive case management mechanism. On the other hand, it works on improving the cooperation and peaceful interactions between children through PSS activities and it enhances community’s culture to put an end to violence against children, youth and adolescent. It also support young people including CAAFAG and their parents/caregivers have access to immediate basic needs through Multi-Purpose Cash Assistance (MPCA) and income generation from safe and dignified employment or self- employment opportunities that support personal growth and reintegration into society."
-      },
-      "activities": {
-        "list": [
-          "Case Management service.",
-          "SPSS activities (child resilience, youth resilience and HEART)",
-          "PwV ( parents without violence) for parents and disabilities families",
-          "Multipurpose cash Assistance and cash for protection",
-          "Life skills training vocational training",
-          "Business grants",
-          "Aprenticiship service for youth."
-        ],
-        "summary": "This project carries out a number of activities to accomplish its objectives, including, case Management service, SPSS activities (child resilience, youth resilience and HEART), PwV ( parents without violence) for parents and disabilities families, multipurpose cash Assistance and cash for protection, life skills training vocational training, business grants and aprenticiship service for youth."
-      },
+      "objectives": [
+        "Hard to reach girls and boys with child protection concerns and risks and their families and caregivers have access to inclusive and gender sensitive protective environment.",
+        "Young people including CAAFAG and their parents/caregivers have access to immediate basic needs through Multi-Purpose Cash Assistance (MPCA) and income generation from safe and dignified employment or self- employment opportunities that support personal growth and reintegration into society.",
+        "Youth initiatives, local partners, community leaders, authorities and other duty bearers develop and strengthen policies and systems that strengthen social cohesion"
+      ],
+      "activities": [
+        "Case Management service",
+        "SPSS activities (child resilience, youth resilience and HEART)",
+        "PwV ( parents without violence) for parents and disabilities families",
+        "Multipurpose cash Assistance and cash for protection",
+        "Life skills training",
+        "vocational training",
+        "Business grants",
+        "Aprenticiship service for youth",
+        "Cash for protection\nHome based MHPSS awarness sessions"
+      ],
       "state": "onGoing",
       "employees": {
         "male": 9,
@@ -1347,24 +1209,17 @@
           "IDPs",
           "Returnees"
         ],
-        "target": 875,
-        "summary": "The targeted beneficiaries include IDPs and Returnees from Hatra, Sinjar and Sumel, with a total target of 875 beneficiaries."
+        "target": 875
       },
-      "objectives": {
-        "list": [
-          "To strengthen access to specialized protection services for returnees and IDPs in Ninawa and Duhok \ngovernorate",
-          ""
-        ],
-        "summary": "This project's main objective is to strengthen access to specialized protection services for returnees and IDPs in Ninawa and Duhok \ngovernorate"
-      },
-      "activities": {
-        "list": [
-          "Cash for Protection",
-          "PSS",
-          "Case Management"
-        ],
-        "summary": "This project carries out a number of activities to accomplish its objectives, including, cash for protection, PSS and case management"
-      },
+      "objectives": [
+        "To strengthen access to specialized protection services for returnees and IDPs in Ninawa and Duhok \ngovernorate",
+        ""
+      ],
+      "activities": [
+        "Cash for Protection",
+        "PSS",
+        "Case Management"
+      ],
       "state": "onGoing",
       "employees": {
         "male": 8,
@@ -1407,31 +1262,24 @@
         "type": [
           "IDPs"
         ],
-        "target": 7474,
-        "summary": "This project targets IDPs in urban areas of Duhok, Tel Afer and, and west Mosul and Shekhan camp with a target beneficiaries of 7474."
+        "target": 7474
       },
-      "objectives": {
-        "list": [
-          "Lifesaving, age appropriate GBV case management and PSS services are available to women and children in, Zummar, Shekhan, and in west Mosul city.",
-          "Improved community engagement, mobilization, and risk mitigation to increase the protective environment for women and children"
-        ],
-        "summary": "This project's main objectives are providing lifesaving, age appropriate GBV case management and PSS services to women and children in, Zummar, Shekhan, and in west Mosul city and improved community engagement, mobilization, and risk mitigation to increase the protective environment for women and children"
-      },
-      "activities": {
-        "list": [
-          "Support functional static women and Adolescent girls’ centers",
-          "Recreational activities for children under 18",
-          "Establish access to virtual safe space for Girls/ women",
-          "Providing GBV case management services for girls and women",
-          "Structured PSS program for women and girls using the AG toolkit, women speak-out  and the women rise curriculum.",
-          "Providing one-day PSS session such as yoga, meditation, anger control, match, movie day for women, girls, and boys.",
-          "Capacity  building training on GBV /SEA prevention and referral including associated risks for government staff, and community leaders",
-          "Number of awareness-raising sessions on GBV prevention or response, PSEA, associated risks for girls, boys, women, and men",
-          "Vocational training (including sewing, hair dressing, pastry making, ..etc) for girls and women",
-          "Communities Care initiative sessions for girls, boys, women, and men."
-        ],
-        "summary": "This project carries out a number of activities to accomplish its objectives, including, supporting functional static women and Adolescent girls’ centers, recreational activities for children under 18, establish access to virtual safe space for Girls and women, providing GBV case management services for girls and women, providing structured PSS program for women and girls using the AG toolkit, women speak-out  and the women rise curriculum, providing one-day PSS session such as yoga, meditation, anger control, match, movie day for women, girls, and boys, carrying out capacity  building training on GBV /SEA prevention and referral including associated risks for government staff, and community leaders, holding awareness-raising sessions on GBV prevention or response, PSEA, associated risks for girls, boys, women, and men, vocational training (including sewing, hair dressing, pastry making, ..etc) for girls and women and communities care initiative sessions for girls, boys, women, and men."
-      },
+      "objectives": [
+        "Lifesaving, age appropriate GBV case management and PSS services are available to women and children in, Zummar, Shekhan, and in west Mosul city.",
+        "Improved community engagement, mobilization, and risk mitigation to increase the protective environment for women and children"
+      ],
+      "activities": [
+        "Support functional static women and Adolescent girls’ centers",
+        "Recreational activities for children under 18",
+        "Establish access to virtual safe space for Girls/ women",
+        "Providing GBV case management services for girls and women",
+        "Structured PSS program for women and girls using the AG toolkit, women speak-out  and the women rise curriculum.",
+        "Providing one-day PSS session such as yoga, meditation, anger control, match, movie day for women, girls, and boys.",
+        "Capacity  building training on GBV /SEA prevention and referral including associated risks for government staff, and community leaders",
+        "Number of awareness-raising sessions on GBV prevention or response, PSEA, associated risks for girls, boys, women, and men",
+        "Vocational training (including sewing, hair dressing, pastry making, ..etc) for girls and women",
+        "Communities Care initiative sessions for girls, boys, women, and men."
+      ],
       "state": "onGoing",
       "employees": {
         "male": 10,
