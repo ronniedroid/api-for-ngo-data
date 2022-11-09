@@ -74,24 +74,6 @@ app.get("/v2/dashboard/:year", (req, res) => {
   };
 
   const months = [...tools.getMonths(year)];
-  // const monthsAndYear = ["year", ...months];
-
-  // let results = { months };
-  // monthsAndYear.map((month) => {
-  //   results[month] = {
-  //     general: generateClusterData(month, "general"),
-  //     Protection: generateClusterData(month, "Protection"),
-  //     GBV: generateClusterData(month, "GBV"),
-  //     CP: generateClusterData(month, "CP"),
-  //     Health: generateClusterData(month, "Health"),
-  //     Livelihood: generateClusterData(month, "Livelihood"),
-  //     WASH: generateClusterData(month, "WASH"),
-  //     clusters:
-  //       month === "year"
-  //         ? tools.getClusters(yearData)
-  //         : tools.getClusters(monthData(month)),
-  //   };
-  // });
 
   function generateClusterData(data, cluster) {
     return {
