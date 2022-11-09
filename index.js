@@ -73,99 +73,81 @@ app.get("/v2/dashboard/:year", (req, res) => {
     return tools.getMonthData(year, month).filter((item) => !item.activity);
   };
 
-  const clusters = [
-    "general",
-    "Protection",
-    "GBV",
-    "CP",
-    "Health",
-    "Livelihood",
-    "WASH",
-  ];
+  const months = [...tools.getMonths(year)];
+  // const monthsAndYear = ["year", ...months];
 
-  const months = ["year", ...tools.getMonths(year)];
+  // let results = { months };
+  // monthsAndYear.map((month) => {
+  //   results[month] = {
+  //     general: generateClusterData(month, "general"),
+  //     Protection: generateClusterData(month, "Protection"),
+  //     GBV: generateClusterData(month, "GBV"),
+  //     CP: generateClusterData(month, "CP"),
+  //     Health: generateClusterData(month, "Health"),
+  //     Livelihood: generateClusterData(month, "Livelihood"),
+  //     WASH: generateClusterData(month, "WASH"),
+  //     clusters:
+  //       month === "year"
+  //         ? tools.getClusters(yearData)
+  //         : tools.getClusters(monthData(month)),
+  //   };
+  // });
 
-  let results = {};
-  months.map((month) => {
-    results[month] = {
-      general: {},
-      Protection: {},
-      GBV: {},
-      CP: {},
-      Health: {},
-      Livelihood: {},
-      WASH: {},
-      months: tools.getMonths(year),
-      clusters: [],
+  function generateClusterData(data, cluster) {
+    return {
+      bens: {
+        total: tools.getBens(data, "total", cluster),
+        male: tools.getBens(data, "male", cluster),
+        female: tools.getBens(data, "female", cluster),
+      },
+      locations: {
+        camp: tools.getLocs(data, "Camp", cluster),
+        nonCamp: tools.getLocs(data, "NonCamp", cluster),
+      },
+      types: {
+        idps: tools.getTypes(data, "IDPs", cluster),
+        refugees: tools.getTypes(data, "Refugee", cluster),
+        returnees: tools.getTypes(data, "Returnees", cluster),
+        host: tools.getTypes(data, "Host Community", cluster),
+      },
+      govs: {
+        duhok: tools.getGov(data, months, "Duhok", cluster),
+        erbil: tools.getGov(data, months, "Erbil", cluster),
+        nineveh: tools.getGov(data, months, "Nineveh", cluster),
+      },
+      gender: {
+        male: tools.getGen(data, months, "male", cluster),
+        female: tools.getGen(data, months, "female", cluster),
+      },
+      districts: {
+        category: tools.getDist(data, cluster).map((item) => item.category),
+        series: tools.getDist(data, cluster).map((item) => item.series),
+      },
     };
-  });
+  }
+
+  function generateMonthData(data) {
+    return {
+      general: generateClusterData(data, ""),
+      Protection: generateClusterData(data, "Protection"),
+      GBV: generateClusterData(data, "GBV"),
+      CP: generateClusterData(data, "CP"),
+      Health: generateClusterData(data, "Health"),
+      Livelihood: generateClusterData(data, "Livelihood"),
+      WASH: generateClusterData(data, "WASH"),
+      clusters: tools.getClusters(data),
+    };
+  }
+
+  const results = {
+    months,
+    "year": generateMonthData(yearData),
+  };
 
   months.map((month) => {
-    const data = month === "year" ? filteredYearData : monthData(month);
-    clusters.map((cluster) => {
-      const filteredCluster = cluster === "general" ? "" : cluster;
-      (results[month].clusters = tools.getClusters(data)),
-        (results[month][cluster] = {
-          bens: {
-            total: tools.getBens(data, "total", filteredCluster),
-            male: tools.getBens(data, "male", filteredCluster),
-            female: tools.getBens(data, "female", filteredCluster),
-          },
-          locations: {
-            camp: tools.getLocs(data, "Camp", filteredCluster),
-            nonCamp: tools.getLocs(data, "NonCamp", filteredCluster),
-          },
-          types: {
-            idps: tools.getTypes(data, "IDPs", filteredCluster),
-            refugees: tools.getTypes(data, "Refugee", filteredCluster),
-            returnees: tools.getTypes(data, "Returnees", filteredCluster),
-            host: tools.getTypes(data, "Host Community", filteredCluster),
-          },
-          govs: {
-            duhok: tools.getGov(
-              data,
-              tools.getMonths(year),
-              "Duhok",
-              filteredCluster
-            ),
-            erbil: tools.getGov(
-              data,
-              tools.getMonths(year),
-              "Erbil",
-              filteredCluster
-            ),
-            nineveh: tools.getGov(
-              data,
-              tools.getMonths(year),
-              "Nineveh",
-              filteredCluster
-            ),
-          },
-          gender: {
-            male: tools.getGen(
-              data,
-              tools.getMonths(year),
-              "male",
-              filteredCluster
-            ),
-            female: tools.getGen(
-              data,
-              tools.getMonths(year),
-              "female",
-              filteredCluster
-            ),
-          },
-          districts: {
-            category: tools
-              .getDist(data, filteredCluster)
-              .map((item) => item.category),
-            series: tools
-              .getDist(data, filteredCluster)
-              .map((item) => item.series),
-          },
-        });
-    });
+    results[month] = generateMonthData(monthData(month));
   });
+
   res.status(200).json(results);
 });
 
