@@ -240,8 +240,8 @@ module.exports = {
     );
     const districts = uniqueDistricts.map((districtsList) => {
       return {
-        series: districtsList.total,
-        category: districtsList.name,
+        name: districtsList.name,
+        total: districtsList.total,
       };
     });
     return districts;

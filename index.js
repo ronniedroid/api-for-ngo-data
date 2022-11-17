@@ -101,10 +101,7 @@ app.get("/v2/dashboard/:year", (req, res) => {
         male: tools.getGen(data, months, "male", cluster),
         female: tools.getGen(data, months, "female", cluster),
       },
-      districts: {
-        category: tools.getDist(data, cluster).map((item) => item.category),
-        series: tools.getDist(data, cluster).map((item) => item.series),
-      },
+      districts: tools.getDist(data, cluster),
     };
   }
 
