@@ -61,6 +61,28 @@ function groupElements(list, prop) {
   });
 }
 
+function groupActivities(list, prop) {
+  const groupings = list.groupBy(prop);
+  const arrayFromGroupings = Object.values(groupings);
+
+  return arrayFromGroupings.map((item) => {
+    return {
+      name: item[0][prop],
+      cluster: item.map((ad) => ad.cluster)[0],
+      typeOfBen: item.map((ad) => ad.typeOfBeneficiaries)[0],
+      male: item
+        .filter((ad) => ad.male)
+        .map((ad) => ad.male)
+        .sum(),
+      female: item
+        .filter((ad) => ad.female)
+        .map((ad) => ad.female)
+        .sum(),
+      total: item.map((ad) => ad.total).sum(),
+    };
+  });
+}
+
 function sortByMonthName(monthNames, isReverse = false) {
   const referenceMonthNames = [
     "jan",
@@ -285,8 +307,13 @@ module.exports = {
     return clusters;
   },
   getActivities: (data, cluster) => {
-    const filteredActivities = filterByCluster(data, "cluster", cluster);
-    const nameGroupedActivities = groupElements(filteredActivities, "activity");
+    const filteredActivities = cluster
+      ? filterByCluster(data, "cluster", cluster)
+      : data;
+    const nameGroupedActivities = groupActivities(
+      filteredActivities,
+      "activity"
+    );
     return nameGroupedActivities;
   },
 };

@@ -130,8 +130,8 @@ app.get("/v2/dashboard/:year", (req, res) => {
       },
       districts: tools.getDist(data.beneficiaries, cluster),
       activities: cluster
-        ? data.activities.filter((item) => item.cluster === cluster)
-        : data.activities,
+        ? tools.getActivities(data.activities, cluster)
+        : tools.getActivities(data.activities),
     };
   }
 
