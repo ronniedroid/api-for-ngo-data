@@ -70,12 +70,18 @@ app.get("/v2/dashboard/:year", (req, res) => {
   }
 
   const monthData = (month) => {
-    return tools.getMonthData(year, month).filter((item) => !item.activity);
+    return {
+      beneficiaries: tools
+        .getMonthData(year, month)
+        .filter((item) => !item.activity),
+      activities: tools
+        .getMonthData(year, month)
+        .filter((item) => item.activity),
+    };
   };
-
   const months = [...tools.getMonths(year)];
 
-  function generateClusterData(data, cluster) {
+  function generateYearClusterData(data, cluster) {
     return {
       bens: {
         total: tools.getBens(data, "total", cluster),
@@ -105,22 +111,61 @@ app.get("/v2/dashboard/:year", (req, res) => {
     };
   }
 
+  function generateMonthClusterData(data, cluster) {
+    return {
+      bens: {
+        total: tools.getBens(data.beneficiaries, "total", cluster),
+        male: tools.getBens(data.beneficiaries, "male", cluster),
+        female: tools.getBens(data.beneficiaries, "female", cluster),
+      },
+      locations: {
+        camp: tools.getLocs(data.beneficiaries, "Camp", cluster),
+        nonCamp: tools.getLocs(data.beneficiaries, "NonCamp", cluster),
+      },
+      types: {
+        idps: tools.getTypes(data.beneficiaries, "IDPs", cluster),
+        refugees: tools.getTypes(data.beneficiaries, "Refugee", cluster),
+        returnees: tools.getTypes(data.beneficiaries, "Returnees", cluster),
+        host: tools.getTypes(data.beneficiaries, "Host Community", cluster),
+      },
+      districts: tools.getDist(data.beneficiaries, cluster),
+      activities: cluster
+        ? data.activities.filter((item) => item.cluster === cluster)
+        : data.activities,
+    };
+  }
+
+  console.log(generateMonthData(monthData("september")));
+
+  function generateYearData(data) {
+    return {
+      general: generateYearClusterData(data, ""),
+      Protection: generateYearClusterData(data, "Protection"),
+      GBV: generateYearClusterData(data, "GBV"),
+      CP: generateYearClusterData(data, "CP"),
+      Health: generateYearClusterData(data, "Health"),
+      Livelihood: generateYearClusterData(data, "Livelihood"),
+      WASH: generateYearClusterData(data, "WASH"),
+      clusters: tools.getClusters(data),
+    };
+  }
+
   function generateMonthData(data) {
     return {
-      general: generateClusterData(data, ""),
-      Protection: generateClusterData(data, "Protection"),
-      GBV: generateClusterData(data, "GBV"),
-      CP: generateClusterData(data, "CP"),
-      Health: generateClusterData(data, "Health"),
-      Livelihood: generateClusterData(data, "Livelihood"),
-      WASH: generateClusterData(data, "WASH"),
-      clusters: tools.getClusters(data),
+      general: generateMonthClusterData(data, ""),
+      Protection: generateMonthClusterData(data, "Protection"),
+      GBV: generateMonthClusterData(data, "GBV"),
+      CP: generateMonthClusterData(data, "CP"),
+      Health: generateMonthClusterData(data, "Health"),
+      Livelihood: generateMonthClusterData(data, "Livelihood"),
+      WASH: generateMonthClusterData(data, "WASH"),
+      clusters: tools.getClusters(data.beneficiaries),
     };
   }
 
   const results = {
     months,
-    "year": generateMonthData(yearData),
+    "year": generateYearData(yearData),
   };
 
   months.map((month) => {
