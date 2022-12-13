@@ -183,6 +183,26 @@ app.get("/v2/projects/", (req, res) => {
   res.status(200).json(data);
 });
 
+app.get("/v2/projects-data/:year", (req, res) => {
+  const { year } = req.params;
+
+  const f = Intl.NumberFormat("en", { notation: "compact" });
+
+  const yearData = tools.getYearData(year).filter((item) => !item.activity);
+  const projectsData = tools.getProjectsData(yearData);
+
+  const results = projectsData.map((project) => {
+    return {
+      name: project.name,
+      male: f.format(project.male),
+      female: f.format(project.female),
+      total: f.format(project.total),
+    };
+  });
+
+  res.status(200).json(results);
+});
+
 app.get("/v2/projectsmini/", (req, res) => {
   const fileBuffer = fs.readFileSync(
     `${__dirname}/public/projects/projects.json`

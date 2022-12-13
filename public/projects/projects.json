@@ -1047,8 +1047,7 @@
         "target": 2050
       },
       "objectives": [
-        "Improved capacity of Government, human rights institutions, local civil society organizations and communities to prevent and respond to gender-based violence, including in humanitarian settings.",
-        ""
+        "Improved capacity of Government, human rights institutions, local civil society organizations and communities to prevent and respond to gender-based violence, including in humanitarian settings."
       ],
       "activities": [
         "GBV case management",
@@ -1058,8 +1057,7 @@
         "Capacity building including coaching and mentoring",
         "Referrals",
         "DK distributions",
-        "AGTK actvities",
-        ""
+        "AGTK actvities"
       ],
       "state": "done",
       "employees": {
@@ -1075,8 +1073,8 @@
         "email": "ahmed.s@harikar.org"
       },
       "name": "Providing specialized protection services to vulnerable returnees and IDPs in Ninawa governorate, Iraq",
-      "start": "1st Feb 2022",
-      "end": "31st August 2022",
+      "start": "2022-01-31T21:00:00.000Z",
+      "end": "2022-08-30T21:00:00.000Z",
       "budget": 168343,
       "summary": "Harikar NGO in a consortium with DAI funded by IHF launched a Protection project in Nineveh governorate to improve the situation of returnees living outside of camps, as host communities, and returnees in Ninewa governorate affected directly by military operations remain the focus of humanitarian assistance in Iraq.",
       "partners": [
@@ -1104,8 +1102,7 @@
         "target": 830
       },
       "objectives": [
-        "To strengthen access to specialized protection services for returnees and IDPs in Ninawa governorate",
-        ""
+        "To strengthen access to specialized protection services for returnees and IDPs in Ninawa governorate"
       ],
       "activities": [
         "Cash for Protection",
@@ -1126,8 +1123,8 @@
         "email": "dunia.s@harikar.org"
       },
       "name": "IRQ SIDA Major Hum 2022",
-      "start": "2021-04-30T21:00:00.000Z",
-      "end": "2022-03-30T21:00:00.000Z",
+      "start": "2022-03-31T21:00:00.000Z",
+      "end": "2023-03-30T21:00:00.000Z",
       "budget": 276178,
       "summary": "Harikar NGO in partnership with Save the Children is implementing a project funded by SIDA. This project strives to support and protect most vulnerable conflict affected displaced boys, girls and their caregivers in Duhok through integrated protection MHPSS and livelihoods. .",
       "partners": [
@@ -1182,8 +1179,8 @@
         "email": "ahmed.s@harikar.org"
       },
       "name": "Providing specialized protection services to vulnerable returnees and IDPs in Duhok and Ninawa governorates, Iraq",
-      "start": "1st Sep 2022",
-      "end": "31st March2022",
+      "start": "2022-08-31T21:00:00.000Z",
+      "end": "2023-03-30T21:00:00.000Z",
       "budget": 175021,
       "summary": "Harikar NGO in a consortium with DAI funded by IHF launched a Protection project in Duhok and Nineveh governorates to improve the situation of IDPs and returnees living outside of camps, as IDPs and returnees in Duhok and Ninewa governorate affected directly by military operations remain the focus of humanitarian assistance in Iraq.",
       "partners": [
@@ -1212,8 +1209,7 @@
         "target": 875
       },
       "objectives": [
-        "To strengthen access to specialized protection services for returnees and IDPs in Ninawa and Duhok \ngovernorate",
-        ""
+        "To strengthen access to specialized protection services for returnees and IDPs in Ninawa and Duhok \ngovernorate"
       ],
       "activities": [
         "Cash for Protection",

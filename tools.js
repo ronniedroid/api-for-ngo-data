@@ -268,6 +268,10 @@ module.exports = {
     });
     return districts;
   },
+  getProjectsData: (data) => {
+    const uniqueProjects = groupElements(data, "nameOfProject");
+    return uniqueProjects;
+  },
   getClusters: (data) => {
     const uniqueClusters = groupElements(data, "cluster")
       .filter((cluster) => cluster.total > 0)
