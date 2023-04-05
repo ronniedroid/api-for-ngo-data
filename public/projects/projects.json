@@ -921,7 +921,7 @@
         "Applying youth resilience programme",
         "Reintegration to society through livelihood projects"
       ],
-      "state": "onGoing",
+      "state": "done",
       "employees": {
         "male": 2,
         "female": 5,
@@ -1003,7 +1003,7 @@
         "Protection monitoring (PMT, ASSIST, PMS,other tools as per required)",
         "Implementation of Mol exercise"
       ],
-      "state": "onGoing",
+      "state": "done",
       "employees": {
         "male": 100,
         "female": 79,
@@ -1165,7 +1165,7 @@
         "Aprenticiship service for youth",
         "Cash for protection\nHome based MHPSS awarness sessions"
       ],
-      "state": "onGoing",
+      "state": "done",
       "employees": {
         "male": 9,
         "female": 8,
@@ -1216,7 +1216,7 @@
         "PSS",
         "Case Management"
       ],
-      "state": "onGoing",
+      "state": "done",
       "employees": {
         "male": 8,
         "female": 4,
@@ -1276,11 +1276,93 @@
         "Vocational training (including sewing, hair dressing, pastry making, ..etc) for girls and women",
         "Communities Care initiative sessions for girls, boys, women, and men."
       ],
-      "state": "onGoing",
+      "state": "done",
       "employees": {
         "male": 10,
         "female": 15,
         "total": 25
+      }
+    },
+    {
+      "id": 23,
+      "contact": {
+        "name": "Nareen Abbas",
+        "email": "parc@harikar.org"
+      },
+      "name": "Protection and Assistance program for refugees and IDPs in Duhok-Iraq",
+      "start": "2022-12-31T21:00:00.000Z",
+      "end": "2023-12-30T21:00:00.000Z",
+      "budget": 4331056080,
+      "summary": "Harikar NGO in partnership with UNHCR is implementing a project in cooperation with Directorate of Residency, DCVOW, DMCR and other concerned local authorities. This project concentrates on the sectors of protection and GBV to ensure that POCs (Syrian, non-Syrian refugees and IDPs) in and out of camps have access to free legal aid, protection, basic services and GBV response services.",
+      "partners": [
+        "UNHCR"
+      ],
+      "clusters": [
+        "Protection",
+        "GBV"
+      ],
+      "locations": {
+        "type": [
+          "camp",
+          "urban"
+        ],
+        "urban": [
+          "Amedi",
+          "Duhok",
+          "Sumel",
+          "Zakho",
+          "Akre",
+          "Shekhan",
+          "Bardarash"
+        ],
+        "camp": [
+          "Bajid Kandala",
+          "Berseve 1",
+          "Berseve 2",
+          "Chamishko",
+          "Darkar",
+          "Dawodiya",
+          "Essiyan",
+          "Kabarto 1",
+          "Kabarto 2",
+          "Khanke",
+          "Mamilian",
+          "Mamrashan",
+          "Rwanga Community",
+          "Shariya",
+          "Shekhan",
+          "Domiz 1",
+          "Domiz 2",
+          "Bardarash",
+          "Gewilan",
+          "Akre Settlement"
+        ]
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs",
+          "Refugees",
+          "Returnees"
+        ],
+        "target": 95455
+      },
+      "objectives": [
+        "Access to legal assistance and legal remedies supported",
+        "Quality service provision and community mechanisms for GBV prevention, mitigation and response are strengthened",
+        "Profiling of Refugees and IDPs planned and undertaken",
+        "Access to civil registration and documentation supported"
+      ],
+      "activities": [
+        "PSS counselling, Case management, GBV awareness raising, GBV capacity building",
+        "Legal representation, Legal counselling, Legal awareness raising, Detention monitoring",
+        "Protection monitoring (PMT, ASSIST, PMS,other tools as per required)",
+        "Implementation of Mol exercise"
+      ],
+      "state": "onGoing",
+      "employees": {
+        "male": 100,
+        "female": 79,
+        "total": 179
       }
     }
   ]
