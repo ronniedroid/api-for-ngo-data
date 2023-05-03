@@ -135,8 +135,6 @@ app.get("/v2/dashboard/:year", (req, res) => {
     };
   }
 
-  console.log(generateMonthData(monthData("september")));
-
   function generateYearData(data) {
     return {
       general: generateYearClusterData(data, ""),
@@ -165,7 +163,7 @@ app.get("/v2/dashboard/:year", (req, res) => {
 
   const results = {
     months,
-    "year": generateYearData(yearData),
+    "year": generateYearData(filteredYearData),
   };
 
   months.map((month) => {
