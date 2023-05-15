@@ -46,6 +46,36 @@ app.get("/v2/data/:year", (req, res) => {
   res.status(200).json(yearData);
 });
 
+app.get("/v2/data/camps/:year", (req, res) => {
+  const { year } = req.params;
+
+  const data = tools.getYearData(year);
+  let yearData = [];
+  if (year === "2020" || year === "2021") {
+    const cleanedYearData = tools.cleanWashDoubleCounting(data);
+    yearData = cleanedYearData.filter((item) => !item.activity);
+  } else {
+    yearData = data.filter((item) => !item.activity);
+  }
+
+  const allCampsWithMonth = yearData
+    .map((item) => {
+      return {
+        name: item.nameOfCamp,
+        month: item.month,
+        cluster: item.cluster,
+      };
+    })
+    .filter((item) => item.name != null);
+
+  const allCamps = yearData
+    .map((item) => item.nameOfCamp)
+    .filter((item) => item != null);
+
+  const camps = [...new Set(allCamps)];
+  res.status(200).json(camps.sort());
+});
+
 app.get("/v2/data/:year/:month", (req, res) => {
   const { year, month } = req.params;
 
