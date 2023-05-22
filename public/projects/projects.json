@@ -11,27 +11,15 @@
       "end": "2020-07-04T21:00:00.000Z",
       "budget": 305453,
       "summary": "Fulfill gaps in addressing GBV against women through setting up safe space for women and girls , awareness, case management, providing PSSl support a and capacity building of services providers.",
-      "partners": [
-        "UNICEF"
-      ],
-      "clusters": [
-        "GBV"
-      ],
+      "partners": ["UNICEF"],
+      "clusters": ["GBV"],
       "locations": {
-        "type": [
-          "urban"
-        ],
-        "urban": [
-          "Bardarash",
-          "Tel Afer",
-          "Bashiqa"
-        ],
+        "type": ["urban"],
+        "urban": ["Bardarash", "Tel Afer", "Bashiqa"],
         "camp": []
       },
       "beneficiaries": {
-        "type": [
-          "IDPs"
-        ],
+        "type": ["IDPs"],
         "target": 5710
       },
       "objectives": [
@@ -65,18 +53,10 @@
       "end": "2021-12-30T21:00:00.000Z",
       "budget": 3017620,
       "summary": "Harikar NGO in partnership with UNHCR is implementing a project in cooperation with Directorate of Residency, DEVOW, DMCR and other concerned local authorities. This project concentrates on the sectors of protection and GBV to ensure that POCs (Syrian, non-Syrian refugees and IDPs) in and out of camps have access to free legal aid, protection, basic services and GBV response services.",
-      "partners": [
-        "UNHCR"
-      ],
-      "clusters": [
-        "Protection",
-        "GBV"
-      ],
+      "partners": ["UNHCR"],
+      "clusters": ["Protection", "GBV"],
       "locations": {
-        "type": [
-          "camp",
-          "urban"
-        ],
+        "type": ["camp", "urban"],
         "urban": [
           "Amedi",
           "Duhok",
@@ -110,11 +90,7 @@
         ]
       },
       "beneficiaries": {
-        "type": [
-          "IDPs",
-          "Refugees",
-          "Returnees"
-        ],
+        "type": ["IDPs", "Refugees", "Returnees"],
         "target": 60690
       },
       "objectives": [
@@ -147,30 +123,15 @@
       "end": "2021-07-30T21:00:00.000Z",
       "budget": 327342,
       "summary": "Harikar NGO is collaborating with Dorcas Aid International in a UNOCHA-funded consortium to improve the protection situation of the IDPS’s out of camp and returnees in Duhok, Ninewa governorates with the overall objective of Strengthening Protection, HLP response and Prevention services during COVID-19 Pandemic to ensure safeguarding the physical, mental well-being and addressing critical problems related to living standards of millions conflict-affected people.",
-      "partners": [
-        "UNOCHA IHF3",
-        "Dorcas"
-      ],
-      "clusters": [
-        "Protection"
-      ],
+      "partners": ["UNOCHA IHF3", "Dorcas"],
+      "clusters": ["Protection"],
       "locations": {
-        "type": [
-          "urban"
-        ],
-        "urban": [
-          "Sumel",
-          "Zakho",
-          "Tel Kaif",
-          "Snuni"
-        ],
+        "type": ["urban"],
+        "urban": ["Sumel", "Zakho", "Tel Kaif", "Snuni"],
         "camp": []
       },
       "beneficiaries": {
-        "type": [
-          "IDPs",
-          "Returnees"
-        ],
+        "type": ["IDPs", "Returnees"],
         "target": 2593
       },
       "objectives": [
@@ -200,18 +161,10 @@
       "end": "2021-12-30T21:00:00.000Z",
       "budget": 1552029,
       "summary": "Harikar NGO in partnership with UNFPA is implementing a project in cooperation with Directorate of Health and DCVAW, this current cycle is entailing development phase activities. The main sectors for response are GBV for a full year, youth and adolescent for two quarters and reproductive health for only one quarter.",
-      "partners": [
-        "UNFPA"
-      ],
-      "clusters": [
-        "GBV",
-        "Health"
-      ],
+      "partners": ["UNFPA"],
+      "clusters": ["GBV", "Health"],
       "locations": {
-        "type": [
-          "camp",
-          "urban"
-        ],
+        "type": ["camp", "urban"],
         "urban": [
           "Amedi",
           "Duhok",
@@ -241,11 +194,7 @@
         ]
       },
       "beneficiaries": {
-        "type": [
-          "IDPs",
-          "Refugees",
-          "Returnees"
-        ],
+        "type": ["IDPs", "Refugees", "Returnees"],
         "target": 12120
       },
       "objectives": [
@@ -276,29 +225,15 @@
       "end": "2021-10-14T21:00:00.000Z",
       "budget": 726945,
       "summary": "Harikar NGO in partnership with UNICEF is implementing a project in cooperation with DMCR, DCVAW, local hospitals and health centers. This project concentrates on the sector of GBV and strives to prevent gender-based violence and provide response and prevention services for women and adolescent girls .",
-      "partners": [
-        "UNICEF"
-      ],
-      "clusters": [
-        "GBV"
-      ],
+      "partners": ["UNICEF"],
+      "clusters": ["GBV"],
       "locations": {
-        "type": [
-          "urban"
-        ],
-        "urban": [
-          "Bardarash",
-          "Tel Afer",
-          "Bashiqa",
-          "Al-Mosul"
-        ],
+        "type": ["urban"],
+        "urban": ["Bardarash", "Tel Afer", "Bashiqa", "Al-Mosul"],
         "camp": []
       },
       "beneficiaries": {
-        "type": [
-          "IDPs",
-          "Host Community"
-        ],
+        "type": ["IDPs", "Host Community"],
         "target": 21309
       },
       "objectives": [
@@ -330,35 +265,15 @@
       "end": "2021-12-30T21:00:00.000Z",
       "budget": 1741104,
       "summary": "Harikar NGO in partnership with CARE/GAC is implementing a project in cooperation with Directorate of water and local Governorate. This project is aligned with 2020 HRP to improve the access to life-saving gender-sensitive WASH, protection and SRHR activities to 64,434 conflict affected individuals. The activities are designed to complement Harikar and CARE existing GAC funded program while expanding our reach to support returnees in Sinjar.",
-      "partners": [
-        "CARE",
-        "GAC"
-      ],
-      "clusters": [
-        "GBV",
-        "WASH"
-      ],
+      "partners": ["CARE", "GAC"],
+      "clusters": ["GBV", "WASH"],
       "locations": {
-        "type": [
-          "camp",
-          "urban"
-        ],
-        "urban": [
-          "Zakho",
-          "Shekhan",
-          "Sinjar",
-          "Snuni"
-        ],
-        "camp": [
-          "Chamishko",
-          "Essiyan"
-        ]
+        "type": ["camp", "urban"],
+        "urban": ["Zakho", "Shekhan", "Sinjar", "Snuni"],
+        "camp": ["Chamishko", "Essiyan"]
       },
       "beneficiaries": {
-        "type": [
-          "IDPs",
-          "Returnees"
-        ],
+        "type": ["IDPs", "Returnees"],
         "target": 64434
       },
       "objectives": [
@@ -395,30 +310,15 @@
       "end": "2021-06-29T21:00:00.000Z",
       "budget": 327553,
       "summary": "World Vision together with Dorcas and Harikar, three active leading NGO’s in the FS sector propose to support 5,747 severely vulnerable IDPs , returnees, and Host Community in Al Mosul (Bashiqa ), Sinjar (Sinuni ) and Tilkaif (Wana ) in Ninewa Governorate with access to productive assets through the distribution of agricultural assets and inputs to (re)start their livelihoods, training to promote increased production and productivity with a focus on homestead and small-scale food production.",
-      "partners": [
-        "Dorcas",
-        "WVI"
-      ],
-      "clusters": [
-        "Livelihood"
-      ],
+      "partners": ["Dorcas", "WVI"],
+      "clusters": ["Livelihood"],
       "locations": {
-        "type": [
-          "urban"
-        ],
-        "urban": [
-          "Bashiqa",
-          "Wana",
-          "Snuni"
-        ],
+        "type": ["urban"],
+        "urban": ["Bashiqa", "Wana", "Snuni"],
         "camp": []
       },
       "beneficiaries": {
-        "type": [
-          "IDPs",
-          "Returnees",
-          "Host Community"
-        ],
+        "type": ["IDPs", "Returnees", "Host Community"],
         "target": 236
       },
       "objectives": [
@@ -446,27 +346,15 @@
       "end": "2022-03-30T21:00:00.000Z",
       "budget": 141199,
       "summary": "Harikar NGO in consortium with WVI is implementing a project in cooperation with Directorate of Agriculture and local mayor offices. This project seeks to support severely vulnerable IDPs, Returnees and Host community. Furthermore,it improves their access to productive assets through the distribution of agricultural assets and inputs to (re)start their livelihoods and conduct a training to promote increased production and productivity with a focus on homestead and small-scale food production.",
-      "partners": [
-        "WVI"
-      ],
-      "clusters": [
-        "Livelihood"
-      ],
+      "partners": ["WVI"],
+      "clusters": ["Livelihood"],
       "locations": {
-        "type": [
-          "urban"
-        ],
-        "urban": [
-          "Wana"
-        ],
+        "type": ["urban"],
+        "urban": ["Wana"],
         "camp": []
       },
       "beneficiaries": {
-        "type": [
-          "IDPs",
-          "Returnees",
-          "Host Community"
-        ],
+        "type": ["IDPs", "Returnees", "Host Community"],
         "target": 149
       },
       "objectives": [
@@ -494,26 +382,15 @@
       "end": "2021-06-29T21:00:00.000Z",
       "budget": 96000,
       "summary": "Harikar as part of NC Project with Dary in collaboration with Duhok DOH implemented a 6-months project (RH Units) in 2IDPs camp Bersive1,Kabarto1.Aims to reach an estimated 6660 IDPs in both camps engaging one RH doctor, nurse,10 community health volunteers for each RH unit in each camp Services provided in Reproductive Health clinics include management of Gynecological and obstetric cases ,ANC,PNC,FP, CMR, management of women and girls with disability in addition to COVID-19 awareness sessions",
-      "partners": [
-        "Dary"
-      ],
-      "clusters": [
-        "Health"
-      ],
+      "partners": ["Dary"],
+      "clusters": ["Health"],
       "locations": {
-        "type": [
-          "Camp"
-        ],
+        "type": ["Camp"],
         "urban": [],
-        "camp": [
-          "Berseve 1",
-          "Kabarto 1"
-        ]
+        "camp": ["Berseve 1", "Kabarto 1"]
       },
       "beneficiaries": {
-        "type": [
-          "IDPs"
-        ],
+        "type": ["IDPs"],
         "target": 6660
       },
       "objectives": [
@@ -544,31 +421,15 @@
       "end": "2021-07-30T21:00:00.000Z",
       "budget": 1574783,
       "summary": "This project is leaded by CARE international and implemented by Harikar NGO to enhance the resilience of vulnerable host communities and sustainable reintegration of conflict affected returnees in the selected locations in Sinjar district and Zummar sub-district.",
-      "partners": [
-        "CARE",
-        "BMZ"
-      ],
-      "clusters": [
-        "Protection",
-        "Livelihood",
-        "WASH"
-      ],
+      "partners": ["CARE", "BMZ"],
+      "clusters": ["Protection", "Livelihood", "WASH"],
       "locations": {
-        "type": [
-          "urban"
-        ],
-        "urban": [
-          "Sinjar",
-          "Tel Afer",
-          "Snuni"
-        ],
+        "type": ["urban"],
+        "urban": ["Sinjar", "Tel Afer", "Snuni"],
         "camp": []
       },
       "beneficiaries": {
-        "type": [
-          "IDPs",
-          "Host Community"
-        ],
+        "type": ["IDPs", "Host Community"],
         "target": 24500
       },
       "objectives": [
@@ -603,26 +464,15 @@
       "end": "2022-03-30T21:00:00.000Z",
       "budget": 279698,
       "summary": "Harikar NGO in partnership with Save the Children is implementing a project funded by SIDA. This project strives to support and protect most vulnerable conflict affected displaced boys, girls and their caregivers in Duhok through integrated protection MHPSS, livelihood and health services.",
-      "partners": [
-        "SIDA",
-        "SCI"
-      ],
-      "clusters": [
-        "CP"
-      ],
+      "partners": ["SIDA", "SCI"],
+      "clusters": ["CP"],
       "locations": {
-        "type": [
-          "camp"
-        ],
+        "type": ["camp"],
         "urban": [],
-        "camp": [
-          "Chamishko"
-        ]
+        "camp": ["Chamishko"]
       },
       "beneficiaries": {
-        "type": [
-          "IDPs"
-        ],
+        "type": ["IDPs"],
         "target": 5000
       },
       "objectives": [
@@ -659,33 +509,15 @@
       "end": "2025-05-03T21:00:00.000Z",
       "budget": 1352129,
       "summary": "Harikar NGO in partnership with DTV and SCI is implementing a project to improve the employability of target population and create new livelihood opportunities by building the capacity of entrepreneurs to grow their businesses and facilitate the access to necessary inputs to improve sustainability and support scale-up to take on additional employees.",
-      "partners": [
-        "DTV",
-        "SCI"
-      ],
-      "clusters": [
-        "Livelihood"
-      ],
+      "partners": ["DTV", "SCI"],
+      "clusters": ["Livelihood"],
       "locations": {
-        "type": [
-          "urban",
-          "camp"
-        ],
-        "urban": [
-          "Sumel"
-        ],
-        "camp": [
-          "Bajid Kandala",
-          "Domiz 1",
-          "Domiz 2"
-        ]
+        "type": ["urban", "camp"],
+        "urban": ["Sumel"],
+        "camp": ["Bajid Kandala", "Domiz 1", "Domiz 2"]
       },
       "beneficiaries": {
-        "type": [
-          "IDPs",
-          "Refugees",
-          "Host Community"
-        ],
+        "type": ["IDPs", "Refugees", "Host Community"],
         "target": 1065
       },
       "objectives": [
@@ -718,36 +550,15 @@
       "end": "2022-06-14T21:00:00.000Z",
       "budget": 675976,
       "summary": "Harikar NGO in partnership with GIZ and AFD is implementing a project in cooperation with Directorate of water and DOWD. This project seeks to raise awareness on the issues of water wastage and abuse practices among IDPs, refugees and host communities addressed through multi-sectoral water conservation concept paper developed based on local evidences by local stakeholders.",
-      "partners": [
-        "AFD",
-        "GIZ"
-      ],
-      "clusters": [
-        "WASH"
-      ],
+      "partners": ["AFD", "GIZ"],
+      "clusters": ["WASH"],
       "locations": {
-        "type": [
-          "urban",
-          "camp"
-        ],
-        "urban": [
-          "Duhok",
-          "Sumel",
-          "Bardarash",
-          "Al-Mosul"
-        ],
-        "camp": [
-          "Domiz 1",
-          "Domiz 2"
-        ]
+        "type": ["urban", "camp"],
+        "urban": ["Duhok", "Sumel", "Bardarash", "Al-Mosul"],
+        "camp": ["Domiz 1", "Domiz 2"]
       },
       "beneficiaries": {
-        "type": [
-          "IDPs",
-          "Refugees",
-          "Returnee",
-          "Host Community"
-        ],
+        "type": ["IDPs", "Refugees", "Returnee", "Host Community"],
         "target": 110627
       },
       "objectives": [
@@ -780,27 +591,15 @@
       "end": "2022-01-30T21:00:00.000Z",
       "budget": 165011,
       "summary": "Harikar NGO in partnership with IHF and Solidarity International is implementing a project in cooperation with Directorate of Electricity, Directorate of Water, local municipalities and DMCR. This project seeks to rehabilitate and extend water networks to provide 300 storage tanks with standard 250L per family and rehabilitate dysfunctional sanitation facilities. As well as provide 50 garbage containers with 660L for an average of 8 household per container and promote hygiene using PHAST approach in addition to distributing hygiene kits to reach 16,245 people in Zakho and Summel districts.",
-      "partners": [
-        "UNOCHA IHF",
-        "Solidarity International"
-      ],
-      "clusters": [
-        "WASH"
-      ],
+      "partners": ["UNOCHA IHF", "Solidarity International"],
+      "clusters": ["WASH"],
       "locations": {
-        "type": [
-          "urban"
-        ],
-        "urban": [
-          "Sumel",
-          "Zakho"
-        ],
+        "type": ["urban"],
+        "urban": ["Sumel", "Zakho"],
         "camp": []
       },
       "beneficiaries": {
-        "type": [
-          "IDPs"
-        ],
+        "type": ["IDPs"],
         "target": 16245
       },
       "objectives": [
@@ -833,30 +632,15 @@
       "end": "2022-07-14T21:00:00.000Z",
       "budget": 519640,
       "summary": "Harikar NGO in partnership with UNICEF is implementing a project in cooperation with DMCR, DCVAW, local hospitals and health centers. This project concentrates on the sector of GBV and strives to prevent gender-based violence and provide response and prevention services for children and community members.",
-      "partners": [
-        "UNICEF"
-      ],
-      "clusters": [
-        "GBV"
-      ],
+      "partners": ["UNICEF"],
+      "clusters": ["GBV"],
       "locations": {
-        "type": [
-          "urban",
-          "camp"
-        ],
-        "urban": [
-          "Bardarash",
-          "Tel Afer",
-          "Al-Mosul"
-        ],
-        "camp": [
-          "Shekhan"
-        ]
+        "type": ["urban", "camp"],
+        "urban": ["Bardarash", "Tel Afer", "Al-Mosul"],
+        "camp": ["Shekhan"]
       },
       "beneficiaries": {
-        "type": [
-          "IDPs"
-        ],
+        "type": ["IDPs"],
         "target": 15424
       },
       "objectives": [
@@ -890,25 +674,15 @@
       "end": "2022-12-30T21:00:00.000Z",
       "budget": 511152,
       "summary": "Harikar NGO in partnership with UNICEF is implementing a projects, in cooperation with DMCR, MOI, MOJ and MOLSA, to enhance the justice services and system for children through capacity building of service providers, with a main focus on reformatory centers. To support and develop an SOP in referral of juveniles and finding alternatives to detention as well as standardizing the procedure of reintegration and family engagement after detention.",
-      "partners": [
-        "UNICEF"
-      ],
-      "clusters": [
-        "CP"
-      ],
+      "partners": ["UNICEF"],
+      "clusters": ["CP"],
       "locations": {
-        "type": [
-          "urban"
-        ],
-        "urban": [
-          "Erbil, Duhok"
-        ],
+        "type": ["urban"],
+        "urban": ["Erbil, Duhok"],
         "camp": []
       },
       "beneficiaries": {
-        "type": [
-          "Host Community"
-        ],
+        "type": ["Host Community"],
         "target": 2760
       },
       "objectives": [
@@ -939,18 +713,10 @@
       "end": "2022-12-30T21:00:00.000Z",
       "budget": 4331056080,
       "summary": "Harikar NGO in partnership with UNHCR is implementing a project in cooperation with Directorate of Residency, DCVOW, DMCR and other concerned local authorities. This project concentrates on the sectors of protection and GBV to ensure that POCs (Syrian, non-Syrian refugees and IDPs) in and out of camps have access to free legal aid, protection, basic services and GBV response services.",
-      "partners": [
-        "UNHCR"
-      ],
-      "clusters": [
-        "Protection",
-        "GBV"
-      ],
+      "partners": ["UNHCR"],
+      "clusters": ["Protection", "GBV"],
       "locations": {
-        "type": [
-          "camp",
-          "urban"
-        ],
+        "type": ["camp", "urban"],
         "urban": [
           "Amedi",
           "Duhok",
@@ -984,11 +750,7 @@
         ]
       },
       "beneficiaries": {
-        "type": [
-          "IDPs",
-          "Refugees",
-          "Returnees"
-        ],
+        "type": ["IDPs", "Refugees", "Returnees"],
         "target": 95455
       },
       "objectives": [
@@ -1021,29 +783,17 @@
       "end": "2022-02-27T21:00:00.000Z",
       "budget": 276701,
       "summary": "Harikar NGO in partnership and support of UNFPA is implementing a programme on preventing Gender Based Violence and empowering vulnerable women and girls. The programme also targeting Men and boys through engaging them in various activities. This programme also focuses on the development phase and find durable solution for sustaining services to vulnerable populations. It is worth to mentioning that DoH and Hope Makers Organization for Women are working with Harikar under this programme providing Medical, mental, and legal services.",
-      "partners": [
-        "UNFPA"
-      ],
-      "clusters": [
-        "GBV"
-      ],
+      "partners": ["UNFPA"],
+      "clusters": ["GBV"],
       "locations": {
-        "type": [
-          "Dohuk and Neinawa governorates"
-        ],
-        "urban": [
-          "Dohuk district\nSinjar district\nSinuni subdistrict"
-        ],
+        "type": ["Dohuk and Neinawa governorates"],
+        "urban": ["Dohuk district\nSinjar district\nSinuni subdistrict"],
         "camp": [
           "Bersive2 Camp\nChamishko Camp\nBajid Kandala Camp\nKhanke Camp\nKabartoo2 Camp\nDomiz non-camp\nDomiz-1 Camp\nDomiz-2 Camp \nSharya Camp\nMamrashan Camp\nBardarash Camp\nGawilan Camp\nSinjar district\nSinuni Sub-district \nSafe Future Women Center in Sinjar under HOW sub IP\nDohuk Women and Girls Support Center (Survivor Center) under DoH in Dohuk City"
         ]
       },
       "beneficiaries": {
-        "type": [
-          "IDPs",
-          "Refugees",
-          "Returnees\nHC"
-        ],
+        "type": ["IDPs", "Refugees", "Returnees\nHC"],
         "target": 2050
       },
       "objectives": [
@@ -1077,38 +827,21 @@
       "end": "2022-08-30T21:00:00.000Z",
       "budget": 168343,
       "summary": "Harikar NGO in a consortium with DAI funded by IHF launched a Protection project in Nineveh governorate to improve the situation of returnees living outside of camps, as host communities, and returnees in Ninewa governorate affected directly by military operations remain the focus of humanitarian assistance in Iraq.",
-      "partners": [
-        "DORCAS",
-        "IHF"
-      ],
-      "clusters": [
-        "Protection"
-      ],
+      "partners": ["DORCAS", "IHF"],
+      "clusters": ["Protection"],
       "locations": {
-        "type": [
-          "Urban"
-        ],
-        "urban": [
-          "Hatra",
-          "Sinjar"
-        ],
+        "type": ["Urban"],
+        "urban": ["Hatra", "Sinjar"],
         "camp": []
       },
       "beneficiaries": {
-        "type": [
-          "IDPs",
-          "Returnees"
-        ],
+        "type": ["IDPs", "Returnees"],
         "target": 830
       },
       "objectives": [
         "To strengthen access to specialized protection services for returnees and IDPs in Ninawa governorate"
       ],
-      "activities": [
-        "Cash for Protection",
-        "PSS",
-        "Case Management"
-      ],
+      "activities": ["Cash for Protection", "PSS", "Case Management"],
       "state": "done",
       "employees": {
         "male": 4,
@@ -1127,26 +860,15 @@
       "end": "2023-03-30T21:00:00.000Z",
       "budget": 276178,
       "summary": "Harikar NGO in partnership with Save the Children is implementing a project funded by SIDA. This project strives to support and protect most vulnerable conflict affected displaced boys, girls and their caregivers in Duhok through integrated protection MHPSS and livelihoods. .",
-      "partners": [
-        "SIDA",
-        "SCI"
-      ],
-      "clusters": [
-        "CP"
-      ],
+      "partners": ["SIDA", "SCI"],
+      "clusters": ["CP"],
       "locations": {
-        "type": [
-          "camp"
-        ],
+        "type": ["camp"],
         "urban": [],
-        "camp": [
-          "Chamishko"
-        ]
+        "camp": ["Chamishko"]
       },
       "beneficiaries": {
-        "type": [
-          "IDPs"
-        ],
+        "type": ["IDPs"],
         "target": 4844
       },
       "objectives": [
@@ -1183,39 +905,21 @@
       "end": "2023-03-30T21:00:00.000Z",
       "budget": 175021,
       "summary": "Harikar NGO in a consortium with DAI funded by IHF launched a Protection project in Duhok and Nineveh governorates to improve the situation of IDPs and returnees living outside of camps, as IDPs and returnees in Duhok and Ninewa governorate affected directly by military operations remain the focus of humanitarian assistance in Iraq.",
-      "partners": [
-        "DORCAS",
-        "IHF"
-      ],
-      "clusters": [
-        "Protection"
-      ],
+      "partners": ["DORCAS", "IHF"],
+      "clusters": ["Protection"],
       "locations": {
-        "type": [
-          "Urban"
-        ],
-        "urban": [
-          "Hatra",
-          "Baaj",
-          "Sumel"
-        ],
+        "type": ["Urban"],
+        "urban": ["Hatra", "Baaj", "Sumel"],
         "camp": []
       },
       "beneficiaries": {
-        "type": [
-          "IDPs",
-          "Returnees"
-        ],
+        "type": ["IDPs", "Returnees"],
         "target": 875
       },
       "objectives": [
         "To strengthen access to specialized protection services for returnees and IDPs in Ninawa and Duhok \ngovernorate"
       ],
-      "activities": [
-        "Cash for Protection",
-        "PSS",
-        "Case Management"
-      ],
+      "activities": ["Cash for Protection", "PSS", "Case Management"],
       "state": "done",
       "employees": {
         "male": 8,
@@ -1234,30 +938,15 @@
       "end": "2023-02-27T21:00:00.000Z",
       "budget": 226934,
       "summary": "Harikar in partnership with UNICEF aims to ensure that women and girls affected by violence, abuse, neglect, and exploitation have access to appropriate GBV assistance through comprehensive case management, awareness-raising sessions, psychosocial support interventions, and vocational training. Moreover, Harikar will try to increase the role of the community in the prevention of GBV by targeting Schools-Based Management (SBM), community leaders, and government staff to build their GBV capacity and to identify girls and women who require specialized services. The project services will also include COVID-19 key messages to mitigate the protracted psychological challenges GBV survivors and other vulnerable groups continue to face.",
-      "partners": [
-        "UNICEF"
-      ],
-      "clusters": [
-        "GBV"
-      ],
+      "partners": ["UNICEF"],
+      "clusters": ["GBV"],
       "locations": {
-        "type": [
-          "urban",
-          "camp"
-        ],
-        "urban": [
-          "Duhok",
-          "Tel Afer",
-          "Al-Mosul"
-        ],
-        "camp": [
-          "Shekhan"
-        ]
+        "type": ["urban", "camp"],
+        "urban": ["Duhok", "Tel Afer", "Al-Mosul"],
+        "camp": ["Shekhan"]
       },
       "beneficiaries": {
-        "type": [
-          "IDPs"
-        ],
+        "type": ["IDPs"],
         "target": 7474
       },
       "objectives": [
@@ -1294,18 +983,10 @@
       "end": "2023-12-30T21:00:00.000Z",
       "budget": 4331056080,
       "summary": "Harikar NGO in partnership with UNHCR is implementing a project in cooperation with Directorate of Residency, DCVOW, DMCR and other concerned local authorities. This project concentrates on the sectors of protection and GBV to ensure that POCs (Syrian, non-Syrian refugees and IDPs) in and out of camps have access to free legal aid, protection, basic services and GBV response services.",
-      "partners": [
-        "UNHCR"
-      ],
-      "clusters": [
-        "Protection",
-        "GBV"
-      ],
+      "partners": ["UNHCR"],
+      "clusters": ["Protection", "GBV"],
       "locations": {
-        "type": [
-          "camp",
-          "urban"
-        ],
+        "type": ["camp", "urban"],
         "urban": [
           "Amedi",
           "Duhok",
@@ -1339,11 +1020,7 @@
         ]
       },
       "beneficiaries": {
-        "type": [
-          "IDPs",
-          "Refugees",
-          "Returnees"
-        ],
+        "type": ["IDPs", "Refugees", "Returnees"],
         "target": 95455
       },
       "objectives": [
@@ -1366,7 +1043,7 @@
       }
     },
     {
-      "id": 23,
+      "id": 24,
       "contact": {
         "name": "Dunia Sami",
         "email": "dunia.s@harikar.org"
@@ -1376,29 +1053,16 @@
       "end": "2024-02-28T21:00:00.000Z",
       "budget": 140234,
       "summary": "Harikar NGO in partnership with Save the Children is implementing a project funded by SIDA. This project strives to ensure that protection risks for girls, boys and young people are reduced through improved access to quality integrated child protection and climate-sensitive livelihood services with MHPSS mainstreamed.",
-      "partners": [
-        "SIDA",
-        "SCI"
-      ],
-      "clusters": [
-        "CP"
-      ],
+      "partners": ["SIDA", "SCI"],
+      "clusters": ["CP"],
       "locations": {
-        "type": [
-          "camp"
-        ],
-        "urban": [
-          "Zakho"
-        ],
-        "camp": [
-          "Chamishko"
-        ]
+        "type": ["camp"],
+        "urban": ["Zakho"],
+        "camp": ["Chamishko"]
       },
       "beneficiaries": {
-        "type": [
-          "IDPs"
-        ],
-        "target": null
+        "type": ["IDPs"],
+        "target": 0
       },
       "objectives": [
         "The most vulnerable girls and boys, particularly survivors of SGBV, and children who continue to suffer from the legacies of conflict such as those living with conflict-related disability, CAAFAG, children  with presumed affiliations and their caregivers have access to inclusive and gender-sensitive life-saving, child protection and psychosocial support assistance at the individual and community level",
@@ -1422,10 +1086,5 @@
         "total": 9
       }
     }
-  ],
-  "2017-2022": {
-    "Year": "Total",
-    "Number of Projects": 52,
-    "Beneficiaries": 2194784.08
-  }
+  ]
 }
