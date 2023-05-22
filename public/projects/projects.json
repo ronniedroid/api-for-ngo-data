@@ -391,7 +391,7 @@
         "email": "shamal.sharif@harikar.org"
       },
       "name": "Provision of immediate life-saving assistance, agricultural assets/inputs and improved livelihoods for income generation for vulnerable IDPs, Returnees and Host communities in Ninewa Governorate",
-      "start": "2021-07-31T21:00:00.000Z",
+      "start": "2020-07-31T21:00:00.000Z",
       "end": "2021-06-29T21:00:00.000Z",
       "budget": 327553,
       "summary": "World Vision together with Dorcas and Harikar, three active leading NGO’s in the FS sector propose to support 5,747 severely vulnerable IDPs , returnees, and Host Community in Al Mosul (Bashiqa ), Sinjar (Sinuni ) and Tilkaif (Wana ) in Ninewa Governorate with access to productive assets through the distribution of agricultural assets and inputs to (re)start their livelihoods, training to promote increased production and productivity with a focus on homestead and small-scale food production.",
@@ -1364,6 +1364,68 @@
         "female": 79,
         "total": 179
       }
+    },
+    {
+      "id": 23,
+      "contact": {
+        "name": "Dunia Sami",
+        "email": "dunia.s@harikar.org"
+      },
+      "name": "Multisectoral humenitarian assistance including CP and FSL",
+      "start": "2023-03-31T21:00:00.000Z",
+      "end": "2024-02-28T21:00:00.000Z",
+      "budget": 140234,
+      "summary": "Harikar NGO in partnership with Save the Children is implementing a project funded by SIDA. This project strives to ensure that protection risks for girls, boys and young people are reduced through improved access to quality integrated child protection and climate-sensitive livelihood services with MHPSS mainstreamed.",
+      "partners": [
+        "SIDA",
+        "SCI"
+      ],
+      "clusters": [
+        "CP"
+      ],
+      "locations": {
+        "type": [
+          "camp"
+        ],
+        "urban": [
+          "Zakho"
+        ],
+        "camp": [
+          "Chamishko"
+        ]
+      },
+      "beneficiaries": {
+        "type": [
+          "IDPs"
+        ],
+        "target": null
+      },
+      "objectives": [
+        "The most vulnerable girls and boys, particularly survivors of SGBV, and children who continue to suffer from the legacies of conflict such as those living with conflict-related disability, CAAFAG, children  with presumed affiliations and their caregivers have access to inclusive and gender-sensitive life-saving, child protection and psychosocial support assistance at the individual and community level",
+        "Young people and caregivers affected by conflict are able to meet their basic needs and reintegrate back into their communities."
+      ],
+      "activities": [
+        "Case Management service",
+        "SPSS activities",
+        "PwV training",
+        "I support my friend Life skills training",
+        "Peer to peer awareness sessions",
+        "PSS recreational activity",
+        "SEED approach",
+        "Cash for protection",
+        "Home based MHPSS awarness sessions"
+      ],
+      "state": "onGoing",
+      "employees": {
+        "male": 3,
+        "female": 6,
+        "total": 9
+      }
     }
-  ]
+  ],
+  "2017-2022": {
+    "Year": "Total",
+    "Number of Projects": 52,
+    "Beneficiaries": 2194784.08
+  }
 }

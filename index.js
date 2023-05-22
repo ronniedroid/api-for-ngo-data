@@ -61,7 +61,7 @@ app.get("/v2/data/camps/:year", (req, res) => {
   const allCampsWithMonth = yearData
     .map((item) => {
       return {
-        name: item.nameOfCamp,
+        name: item.objective,
         month: item.month,
         cluster: item.cluster,
       };
@@ -69,7 +69,7 @@ app.get("/v2/data/camps/:year", (req, res) => {
     .filter((item) => item.name != null);
 
   const allCamps = yearData
-    .map((item) => item.nameOfCamp)
+    .map((item) => item.objective)
     .filter((item) => item != null);
 
   const camps = [...new Set(allCamps)];
