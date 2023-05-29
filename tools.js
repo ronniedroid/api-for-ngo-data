@@ -67,6 +67,7 @@ function groupActivities(list, prop) {
 
   return arrayFromGroupings.map((item) => {
     return {
+      nameOfProject: item.map((ad) => ad.nameOfProject)[0],
       name: item[0][prop],
       cluster: item.map((ad) => ad.cluster)[0],
       typeOfBen: item.map((ad) => ad.typeOfBeneficiaries)[0],
@@ -319,5 +320,94 @@ module.exports = {
       "activity"
     );
     return nameGroupedActivities;
+  },
+  generateYearClusterData: (data, months, cluster) => {
+    return {
+      bens: {
+        total: module.exports.getBens(data, "total", cluster),
+        male: module.exports.getBens(data, "male", cluster),
+        female: module.exports.getBens(data, "female", cluster),
+      },
+      locations: {
+        camp: module.exports.getLocs(data, "Camp", cluster),
+        nonCamp: module.exports.getLocs(data, "NonCamp", cluster),
+      },
+      types: {
+        idps: module.exports.getTypes(data, "IDPs", cluster),
+        refugees: module.exports.getTypes(data, "Refugee", cluster),
+        returnees: module.exports.getTypes(data, "Returnees", cluster),
+        host: module.exports.getTypes(data, "Host Community", cluster),
+      },
+      govs: {
+        duhok: module.exports.getGov(data, months, "Duhok", cluster),
+        erbil: module.exports.getGov(data, months, "Erbil", cluster),
+        nineveh: module.exports.getGov(data, months, "Nineveh", cluster),
+      },
+      gender: {
+        male: module.exports.getGen(data, months, "male", cluster),
+        female: module.exports.getGen(data, months, "female", cluster),
+      },
+      districts: module.exports.getDist(data, cluster),
+    };
+  },
+  generateMonthClusterData: (data, cluster) => {
+    const bens = data.beneficiaries ? data.beneficiaries : data;
+    const acts = data.activities ? data.activities : data;
+    return {
+      bens: {
+        total: module.exports.getBens(bens, "total", cluster),
+        male: module.exports.getBens(bens, "male", cluster),
+        female: module.exports.getBens(bens, "female", cluster),
+      },
+      locations: {
+        camp: module.exports.getLocs(bens, "Camp", cluster),
+        nonCamp: module.exports.getLocs(bens, "NonCamp", cluster),
+      },
+      types: {
+        idps: module.exports.getTypes(bens, "IDPs", cluster),
+        refugees: module.exports.getTypes(bens, "Refugee", cluster),
+        returnees: module.exports.getTypes(bens, "Returnees", cluster),
+        host: module.exports.getTypes(bens, "Host Community", cluster),
+      },
+      districts: module.exports.getDist(bens, cluster),
+      activities: cluster
+        ? module.exports.getActivities(acts, cluster)
+        : module.exports.getActivities(acts),
+    };
+  },
+
+  generateYearData: (data, months) => {
+    return {
+      general: module.exports.generateYearClusterData(data, months, ""),
+      Protection: module.exports.generateYearClusterData(
+        data,
+        months,
+        "Protection"
+      ),
+      GBV: module.exports.generateYearClusterData(data, months, "GBV"),
+      CP: module.exports.generateYearClusterData(data, months, "CP"),
+      Health: module.exports.generateYearClusterData(data, months, "Health"),
+      Livelihood: module.exports.generateYearClusterData(
+        data,
+        months,
+        "Livelihood"
+      ),
+      WASH: module.exports.generateYearClusterData(data, months, "WASH"),
+      clusters: module.exports.getClusters(data),
+    };
+  },
+
+  generateMonthData: (data) => {
+    const bens = data.beneficiaries ? data.beneficiaries : data;
+    return {
+      general: module.exports.generateMonthClusterData(data, ""),
+      Protection: module.exports.generateMonthClusterData(data, "Protection"),
+      GBV: module.exports.generateMonthClusterData(data, "GBV"),
+      CP: module.exports.generateMonthClusterData(data, "CP"),
+      Health: module.exports.generateMonthClusterData(data, "Health"),
+      Livelihood: module.exports.generateMonthClusterData(data, "Livelihood"),
+      WASH: module.exports.generateMonthClusterData(data, "WASH"),
+      clusters: module.exports.getClusters(bens),
+    };
   },
 };
