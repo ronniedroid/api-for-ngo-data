@@ -5,8 +5,8 @@
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "run": "nodemon index.js",
-    "start": "node index.js"
+    "run": "nodemon src/index.js",
+    "start": "node src/index.js"
   },
   "author": "Ronnie Nissan",
   "license": "ISC",
