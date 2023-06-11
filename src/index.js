@@ -98,6 +98,17 @@ app.get("/v2/dashboard/:year", (req, res) => {
 /// v3
 
 // data for the whole year
+app.get("/v3/data/years", (reg, res) => {
+  const data = [
+    ...getYearData("2020"),
+    ...getYearData("2021"),
+    ...getYearData("2022"),
+    ...getYearData("2023"),
+  ];
+
+  res.status(200).json(data);
+});
+
 app.get("/v3/data/:year", (req, res) => {
   const { year } = req.params;
 
