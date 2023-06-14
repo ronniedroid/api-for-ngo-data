@@ -100,9 +100,9 @@ app.get("/v2/dashboard/:year", (req, res) => {
 // data for the whole year
 app.get("/v3/data/years", (reg, res) => {
   const data = [
-    ...getYearData("2020"),
-    ...getYearData("2021"),
-    ...getYearData("2022"),
+    ...getYearData("2020").filter((item) => !item.activity),
+    ...getYearData("2021").filter((item) => !item.activity),
+    ...getYearData("2022").filter((item) => !item.activity),
     ...getYearData("2023"),
   ];
 
@@ -214,6 +214,12 @@ app.get("/v3/policies/", (req, res) => {
   const fileBuffer = fs.readFileSync(`${__dirname}/public/policies.json`);
   const data = JSON.parse(fileBuffer);
   res.status(200).json(data);
+});
+
+// views
+
+app.get("/views/data", (req, res) => {
+  res.sendFile(`${__dirname}/public/views/data.html`);
 });
 
 // Start the server
