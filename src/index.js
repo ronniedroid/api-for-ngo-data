@@ -5,6 +5,7 @@ import fs from "fs";
 import compression from "compression";
 import { fileURLToPath } from "url";
 import path from "path";
+
 import {
   getYearData,
   getMonthData,
@@ -214,12 +215,6 @@ app.get("/v3/policies/", (req, res) => {
   const fileBuffer = fs.readFileSync(`${__dirname}/public/policies.json`);
   const data = JSON.parse(fileBuffer);
   res.status(200).json(data);
-});
-
-// views
-
-app.get("/views/data", (req, res) => {
-  res.sendFile(`${__dirname}/public/views/data.html`);
 });
 
 // Start the server
