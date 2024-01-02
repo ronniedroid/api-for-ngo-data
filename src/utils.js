@@ -14,8 +14,10 @@ export function sortDistricts(a, b) {
   export function groupElements(list, prop) {
     const groupings = list.groupBy(prop);
     const arrayFromGroupings = Object.values(groupings);
-  
+
+
     return arrayFromGroupings.map((item) => {
+
       return {
         nameOfProject: item.map((ad) => ad.nameOfProject)[0],
         name: item[0][prop],

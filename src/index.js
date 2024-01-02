@@ -198,16 +198,7 @@ app.get("/v3/projects-data/:year", (req, res) => {
   }
   const projectsData = getProjectsData(yearData);
 
-  const results = projectsData.map((project) => {
-    return {
-      name: project.name,
-      male: f.format(project.male),
-      female: f.format(project.female),
-      total: f.format(project.total),
-    };
-  });
-
-  res.status(200).json(results);
+  res.status(200).json(projectsData);
 });
 
 // Get a list of Harikar policies

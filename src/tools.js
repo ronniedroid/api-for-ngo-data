@@ -16,9 +16,9 @@ function cleanWashDoubleCounting(yearData) {
           item.cluster === "WASH" &&
           item.typeOfBeneficiaries === "IDPs" &&
           item.nameOfProject ===
-            "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021" &&
+          "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021" &&
           item.objective !==
-            "Water infrastructure repaired, maintained, or rehabilitated in IDP camps and Sinjar"
+          "Water infrastructure repaired, maintained, or rehabilitated in IDP camps and Sinjar"
         )
       )
         return item;
@@ -28,7 +28,7 @@ function cleanWashDoubleCounting(yearData) {
         !(
           item.cluster === "WASH" &&
           item.nameOfProject ===
-            "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021" &&
+          "WASH, Protection and SRHR support to IDPs and Returnees in Iraq 2020-2021" &&
           item.typeOfBeneficiaries === "IDPs" &&
           item.month !== "february"
         )
@@ -64,42 +64,42 @@ function getMonthData(year, month) {
 function getBens(data, ben, cluster) {
   const beneficiaries = cluster
     ? data
-        .filterBy("cluster", cluster)
-        .filter((item) => item[ben])
-        .map((item) => item[ben])
-        .sum()
+      .filterBy("cluster", cluster)
+      .filter((item) => item[ben])
+      .map((item) => item[ben])
+      .sum()
     : data
-        .filter((item) => item[ben])
-        .map((item) => item[ben])
-        .sum();
+      .filter((item) => item[ben])
+      .map((item) => item[ben])
+      .sum();
   return beneficiaries;
 }
 
 function getLocs(data, loc, cluster) {
   const location = cluster
     ? data
-        .filterBy("cluster", cluster)
-        .filterBy("location", loc)
-        .map((item) => item.total)
-        .sum()
+      .filterBy("cluster", cluster)
+      .filterBy("location", loc)
+      .map((item) => item.total)
+      .sum()
     : data
-        .filterBy("location", loc)
-        .map((item) => item.total)
-        .sum();
+      .filterBy("location", loc)
+      .map((item) => item.total)
+      .sum();
   return location;
 }
 
 function getTypes(data, type, cluster) {
   const types = cluster
     ? data
-        .filterBy("cluster", cluster)
-        .filterBy("typeOfBeneficiaries", type)
-        .map((item) => item.total)
-        .sum()
+      .filterBy("cluster", cluster)
+      .filterBy("typeOfBeneficiaries", type)
+      .map((item) => item.total)
+      .sum()
     : data
-        .filterBy("typeOfBeneficiaries", type)
-        .map((item) => item.total)
-        .sum();
+      .filterBy("typeOfBeneficiaries", type)
+      .map((item) => item.total)
+      .sum();
   return types;
 }
 
@@ -129,21 +129,72 @@ function getGen(data, months, gender, cluster) {
 
 function getDist(data, cluster) {
   const filteredData = cluster ? data.filterBy("cluster", cluster) : data;
-  const uniqueDistricts = groupElements(filteredData, "district").sort(
+
+  function groupElem(list, prop) {
+    const groupings = list.groupBy(prop);
+    const arrayFromGroupings = Object.values(groupings);
+
+    return arrayFromGroupings.map((item) => {
+
+      const locations = item.map((ad) => { return { loc: ad.location, total: ad.total } })
+      const uniqueLocations = groupElements(locations, "loc").map((item) => { return { name: item.name, total: item.total } })
+
+      return {
+        name: item[0][prop],
+        camp: uniqueLocations.filter((item) => item.name === "Camp").map(item => item.total).sum(),
+        urban: uniqueLocations.filter((item) => item.name === "NonCamp").map(item => item.total).sum(),
+        total: item.map((ad) => ad.total).sum(),
+      };
+    });
+  }
+
+  const uniqueDistricts = groupElem(filteredData, "district").sort(
     sortDistricts
   );
-  const districts = uniqueDistricts.map((districtsList) => {
-    return {
-      name: districtsList.name,
-      total: districtsList.total,
-    };
-  });
-  return districts;
+  return uniqueDistricts;
 }
 
 function getProjectsData(data) {
-  const uniqueProjects = groupElements(data, "nameOfProject");
-  return uniqueProjects;
+
+  function groupElem(list, prop) {
+    const groupings = list.groupBy(prop);
+    const arrayFromGroupings = Object.values(groupings);
+
+    return arrayFromGroupings.map((item) => {
+
+      const activities = item.map((ad) => { return { act: ad.activity, male: ad.male, female: ad.female, total: ad.total } })
+      const uniqueActivities = groupElements(activities, "act").map((item) => { return { name: item.name, male: item.male, female: item.female, total: item.total } })
+
+      const districts = item.map((ad) => { return { dist: ad.district, male: ad.male, female: ad.female, total: ad.total } })
+      const uniqueDistricts = groupElements(districts, "dist").map((item) => { return { name: item.name, male: item.male, female: item.female, total: item.total } })
+
+      const beneficiaries = item.map((ad) => { return { bens: ad.typeOfBeneficiaries, male: ad.male, female: ad.female, total: ad.total } })
+      const uniqueBeneficiaries = groupElements(beneficiaries, "bens").map((item) => { return { name: item.name, male: item.male, female: item.female, total: item.total } })
+
+      return {
+        nameOfProject: item.map((ad) => ad.nameOfProject)[0],
+        name: item[0][prop],
+        clusters: [...new Set(item.map((ad) => ad.cluster))],
+        objectives: [...new Set(item.map((ad) => ad.objective))],
+        beneficiaries: uniqueBeneficiaries,
+        activities: uniqueActivities,
+        districts: getDist(item),
+        male: item
+          .filter((ad) => ad.male)
+          .map((ad) => ad.male)
+          .sum(),
+        female: item
+          .filter((ad) => ad.female)
+          .map((ad) => ad.female)
+          .sum(),
+        total: item.map((ad) => ad.total).sum(),
+      };
+    });
+  }
+
+  const uniqueObjectives = groupElem(data, "Component").groupBy("nameOfProject")
+  const uniqueProjects = groupElem(data, "nameOfProject")
+  return { projects: uniqueProjects, objective: uniqueObjectives };
 }
 
 function getMonths(year) {
@@ -291,4 +342,4 @@ function generateMonthData(data) {
   };
 }
 
-export {getYearData,getMonthData, getMonths, getProjectsData, cleanWashDoubleCounting, generateYearData, generateMonthData}
+export { getYearData, getMonthData, getMonths, getProjectsData, cleanWashDoubleCounting, generateYearData, generateMonthData }
