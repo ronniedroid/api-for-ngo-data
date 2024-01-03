@@ -10,19 +10,18 @@ export function sortDistricts(a, b) {
     }
     return 0;
   }
-  
-  export function groupElements(list, prop) {
+
+  export function groupElementsByFunc(list, prop, rest) {
     const groupings = list.groupBy(prop);
     const arrayFromGroupings = Object.values(groupings);
 
+    return arrayFromGroupings.map((item) => rest(prop, item));
+  }
 
-    return arrayFromGroupings.map((item) => {
+  export function defaultGrouping(prop, item) {
 
       return {
-        nameOfProject: item.map((ad) => ad.nameOfProject)[0],
         name: item[0][prop],
-        cluster: item.map((ad) => ad.cluster)[0],
-        typeOfBen: item.map((ad) => ad.typeOfBeneficiaries)[0],
         male: item
           .filter((ad) => ad.male)
           .map((ad) => ad.male)
@@ -33,7 +32,6 @@ export function sortDistricts(a, b) {
           .sum(),
         total: item.map((ad) => ad.total).sum(),
       };
-    });
   }
   
   export function sortByMonthName(monthNames, isReverse = false) {
@@ -75,7 +73,7 @@ export function sortDistricts(a, b) {
     });
     const availableMonths = series;
     const combined = [...monthsWithTotal, ...availableMonths];
-    return groupElements(combined, "month").map((item) => {
+    return groupElementsByFunc(combined, "month", defaultGrouping).map((item) => {
       return { month: item.name, total: item.total };
     });
   }

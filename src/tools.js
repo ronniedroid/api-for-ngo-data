@@ -1,7 +1,7 @@
 import fs from "fs";
 import { fileURLToPath } from "url";
 import path from "path";
-import { sortByMonthName, groupElements, addEmpty, sortDistricts } from "./utils.js";
+import { sortByMonthName, groupElementsByFunc, addEmpty, sortDistricts, defaultGrouping } from "./utils.js";
 
 const __filename = fileURLToPath(import.meta.url);
 // First find out the __dirname, then resolve to one higher level in the dir tree
@@ -107,7 +107,7 @@ function getGov(data, months, province, cluster) {
   const filteredData = cluster
     ? data.filterBy("cluster", cluster).filterBy("province", province)
     : data.filterBy("province", province);
-  const governmentData = groupElements(filteredData, "month").map(
+  const governmentData = groupElementsByFunc(filteredData, "month", defaultGrouping).map(
     (provinceLists) => {
       return { month: provinceLists.name, total: provinceLists.total };
     }
@@ -118,7 +118,7 @@ function getGov(data, months, province, cluster) {
 
 function getGen(data, months, gender, cluster) {
   const filteredMonths = cluster ? data.filterBy("cluster", cluster) : data;
-  const genderData = groupElements(filteredMonths, "month").map(
+  const genderData = groupElementsByFunc(filteredMonths, "month", defaultGrouping).map(
     (gendersLists) => {
       return { month: gendersLists.name, total: gendersLists[gender] };
     }
@@ -130,71 +130,25 @@ function getGen(data, months, gender, cluster) {
 function getDist(data, cluster) {
   const filteredData = cluster ? data.filterBy("cluster", cluster) : data;
 
-  function groupElem(list, prop) {
-    const groupings = list.groupBy(prop);
-    const arrayFromGroupings = Object.values(groupings);
+  const rest = (prop, item) => {
 
-    return arrayFromGroupings.map((item) => {
+    const locations = item.map((ad) => { return { loc: ad.location, male: ad.male, female: ad.female, total: ad.total } })
+    const uniqueLocations = groupElementsByFunc(locations, "loc", defaultGrouping)
 
-      const locations = item.map((ad) => { return { loc: ad.location, total: ad.total } })
-      const uniqueLocations = groupElements(locations, "loc").map((item) => { return { name: item.name, total: item.total } })
+    return {
+      name: item[0][prop],
+      camp: uniqueLocations.filter((item) => item.name === "Camp").map(item => item.total).sum(),
+      urban: uniqueLocations.filter((item) => item.name === "NonCamp").map(item => item.total).sum(),
+      male: uniqueLocations.map(item => item.male).sum(),
+      female: uniqueLocations.map(item => item.female).sum(),
+      total: item.map((ad) => ad.total).sum(),
+    }
+  };
 
-      return {
-        name: item[0][prop],
-        camp: uniqueLocations.filter((item) => item.name === "Camp").map(item => item.total).sum(),
-        urban: uniqueLocations.filter((item) => item.name === "NonCamp").map(item => item.total).sum(),
-        total: item.map((ad) => ad.total).sum(),
-      };
-    });
-  }
-
-  const uniqueDistricts = groupElem(filteredData, "district").sort(
+  const uniqueDistricts = groupElementsByFunc(filteredData, "district", rest).sort(
     sortDistricts
   );
   return uniqueDistricts;
-}
-
-function getProjectsData(data) {
-
-  function groupElem(list, prop) {
-    const groupings = list.groupBy(prop);
-    const arrayFromGroupings = Object.values(groupings);
-
-    return arrayFromGroupings.map((item) => {
-
-      const activities = item.map((ad) => { return { act: ad.activity, male: ad.male, female: ad.female, total: ad.total } })
-      const uniqueActivities = groupElements(activities, "act").map((item) => { return { name: item.name, male: item.male, female: item.female, total: item.total } })
-
-      const districts = item.map((ad) => { return { dist: ad.district, male: ad.male, female: ad.female, total: ad.total } })
-      const uniqueDistricts = groupElements(districts, "dist").map((item) => { return { name: item.name, male: item.male, female: item.female, total: item.total } })
-
-      const beneficiaries = item.map((ad) => { return { bens: ad.typeOfBeneficiaries, male: ad.male, female: ad.female, total: ad.total } })
-      const uniqueBeneficiaries = groupElements(beneficiaries, "bens").map((item) => { return { name: item.name, male: item.male, female: item.female, total: item.total } })
-
-      return {
-        nameOfProject: item.map((ad) => ad.nameOfProject)[0],
-        name: item[0][prop],
-        clusters: [...new Set(item.map((ad) => ad.cluster))],
-        objectives: [...new Set(item.map((ad) => ad.objective))],
-        beneficiaries: uniqueBeneficiaries,
-        activities: uniqueActivities,
-        districts: getDist(item),
-        male: item
-          .filter((ad) => ad.male)
-          .map((ad) => ad.male)
-          .sum(),
-        female: item
-          .filter((ad) => ad.female)
-          .map((ad) => ad.female)
-          .sum(),
-        total: item.map((ad) => ad.total).sum(),
-      };
-    });
-  }
-
-  const uniqueObjectives = groupElem(data, "Component").groupBy("nameOfProject")
-  const uniqueProjects = groupElem(data, "nameOfProject")
-  return { projects: uniqueProjects, objective: uniqueObjectives };
 }
 
 function getMonths(year) {
@@ -207,7 +161,7 @@ function getMonths(year) {
 }
 
 function getClusters(data) {
-  const uniqueClusters = groupElements(data, "cluster")
+  const uniqueClusters = groupElementsByFunc(data, "cluster", defaultGrouping)
     .filter((cluster) => cluster.total > 0)
     .map((item) => item.name);
 
@@ -247,7 +201,7 @@ function getClusters(data) {
 
 function getActivities(data, cluster) {
   const filteredActivities = cluster ? data.filterBy("cluster", cluster) : data;
-  const nameGroupedActivities = groupElements(filteredActivities, "activity");
+  const nameGroupedActivities = groupElementsByFunc(filteredActivities, "activity", defaultGrouping);
   return nameGroupedActivities;
 }
 
@@ -342,4 +296,131 @@ function generateMonthData(data) {
   };
 }
 
-export { getYearData, getMonthData, getMonths, getProjectsData, cleanWashDoubleCounting, generateYearData, generateMonthData }
+function getGeneralData(data, year, month) {
+
+  const filteredData = month ? data.filter((item) => item.month === month) : data
+
+  const beneficiaries = filteredData.map((ad) => { return { bens: ad.typeOfBeneficiaries, male: ad.male, female: ad.female, total: ad.total } })
+  const uniqueBeneficiaries = groupElementsByFunc(beneficiaries, "bens", defaultGrouping)
+
+  return {
+    year: year,
+    month: month ? month : null,
+    beneficiaries: uniqueBeneficiaries,
+    districts: getDist(filteredData),
+    gender: month ? null : { male: getGen(filteredData, getMonths(year), "male", ""), female: getGen(filteredData, getMonths(year), "female", "") },
+    male: filteredData
+      .filter((ad) => ad.male)
+      .map((ad) => ad.male)
+      .sum(),
+    female: filteredData
+      .filter((ad) => ad.female)
+      .map((ad) => ad.female)
+      .sum(),
+    urban: filteredData
+      .filter((ad) => ad.location === "NonCamp")
+      .map((ad) => ad.total)
+      .sum(),
+    camp: filteredData
+      .filter((ad) => ad.location === "Camp")
+      .map((ad) => ad.total)
+      .sum(),
+    total: filteredData.map((ad) => ad.total).sum(),
+  };
+};
+
+function getProjectsData(data, year, month) {
+
+  const rest = (prop, item) => {
+
+    const activities = item.map((ad) => { return { act: ad.activity, male: ad.male, female: ad.female, total: ad.total } })
+    const uniqueActivities = groupElementsByFunc(activities, "act", defaultGrouping)
+
+    const beneficiaries = item.map((ad) => { return { bens: ad.typeOfBeneficiaries, male: ad.male, female: ad.female, total: ad.total } })
+    const uniqueBeneficiaries = groupElementsByFunc(beneficiaries, "bens", defaultGrouping)
+
+    return {
+      nameOfProject: item.map((ad) => ad.nameOfProject)[0],
+      name: item[0][prop],
+      year: year,
+      month: month ? month : null,
+      clusters: [...new Set(item.map((ad) => ad.cluster))],
+      objectives: [...new Set(item.map((ad) => ad.objective))],
+      beneficiaries: uniqueBeneficiaries,
+      activities: year < 2023 ? null : uniqueActivities,
+      districts: getDist(item),
+      gender: month ? null : { male: getGen(item, getMonths(year), "male", ""), female: getGen(item, getMonths(year), "female", "") },
+      male: item
+        .filter((ad) => ad.male)
+        .map((ad) => ad.male)
+        .sum(),
+      female: item
+        .filter((ad) => ad.female)
+        .map((ad) => ad.female)
+        .sum(),
+      urban: item
+        .filter((ad) => ad.location === "NonCamp")
+        .map((ad) => ad.total)
+        .sum(),
+      camp: item
+        .filter((ad) => ad.location === "Camp")
+        .map((ad) => ad.total)
+        .sum(),
+      total: item.map((ad) => ad.total).sum(),
+    };
+  };
+
+  const filteredData = month ? data.filter((item) => item.month === month) : data
+
+  const uniqueProjects = groupElementsByFunc(filteredData, "nameOfProject", rest)
+  return uniqueProjects;
+}
+
+function getProjectComponentsData(data, year, month) {
+
+  const rest = (prop, item) => {
+
+    const activities = item.map((ad) => { return { act: ad.activity, male: ad.male, female: ad.female, total: ad.total } })
+    const uniqueActivities = groupElementsByFunc(activities, "act", defaultGrouping)
+
+    const beneficiaries = item.map((ad) => { return { bens: ad.typeOfBeneficiaries, male: ad.male, female: ad.female, total: ad.total } })
+    const uniqueBeneficiaries = groupElementsByFunc(beneficiaries, "bens", defaultGrouping)
+
+    return {
+      nameOfProject: item.map((ad) => ad.nameOfProject)[0],
+      name: item[0][prop],
+      year: year,
+      month: month ? month : null,
+      clusters: [...new Set(item.map((ad) => ad.cluster))],
+      objectives: [...new Set(item.map((ad) => ad.objective))],
+      beneficiaries: uniqueBeneficiaries,
+      activities: year < 2023 ? null : uniqueActivities,
+      districts: getDist(item),
+      gender: month ? null : { male: getGen(item, getMonths(year), "male", ""), female: getGen(item, getMonths(year), "female", "") },
+      male: item
+        .filter((ad) => ad.male)
+        .map((ad) => ad.male)
+        .sum(),
+      female: item
+        .filter((ad) => ad.female)
+        .map((ad) => ad.female)
+        .sum(),
+      urban: item
+        .filter((ad) => ad.location === "NonCamp")
+        .map((ad) => ad.total)
+        .sum(),
+      camp: item
+        .filter((ad) => ad.location === "Camp")
+        .map((ad) => ad.total)
+        .sum(),
+      total: item.map((ad) => ad.total).sum(),
+    };
+  };
+
+  const filteredData = month ? data.filter((item) => item.month === month) : data
+
+  const uniqueComponents = groupElementsByFunc(filteredData, "Component", rest).filter((item) => !!item.name).groupBy("nameOfProject")
+  return uniqueComponents;
+}
+
+export { getYearData, getMonthData, getMonths, getProjectsData, cleanWashDoubleCounting, generateYearData, generateMonthData, getGeneralData, getProjectComponentsData }

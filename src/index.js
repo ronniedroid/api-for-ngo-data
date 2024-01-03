@@ -14,6 +14,8 @@ import {
   cleanWashDoubleCounting,
   generateYearData,
   generateMonthData,
+  getGeneralData,
+  getProjectComponentsData
 } from "./tools.js";
 // custom js array methods
 import "./methods.js";
@@ -98,7 +100,7 @@ app.get("/v2/dashboard/:year", (req, res) => {
 
 /// v3
 
-// data for the whole year
+// all the data
 app.get("/v3/data/years", (reg, res) => {
   const data = [
     ...getYearData("2020").filter((item) => !item.activity),
@@ -184,28 +186,133 @@ app.get("/v3/projects/:id", (req, res) => {
   res.status(200).json(currentProject);
 });
 
-// get a list of projects for the year plus their data
-app.get("/v3/projects-data/:year", (req, res) => {
-  const { year } = req.params;
-
-  const f = Intl.NumberFormat("en", { notation: "compact" });
-
-  let yearData = [];
-  if (year < 2023) {
-    yearData = getYearData(year).filter((item) => !item.activity);
-  } else {
-    yearData = getYearData(year);
-  }
-  const projectsData = getProjectsData(yearData);
-
-  res.status(200).json(projectsData);
-});
-
 // Get a list of Harikar policies
 app.get("/v3/policies/", (req, res) => {
   const fileBuffer = fs.readFileSync(`${__dirname}/public/policies.json`);
   const data = JSON.parse(fileBuffer);
   res.status(200).json(data);
+});
+
+
+//v4
+
+
+// get data for a year
+app.get("/v4/dashboard/:year", (req, res) => {
+  const { year } = req.params;
+
+  let yearData = []
+  if (year === "2020" || year === "2021") {
+    const cleanedYearData = cleanWashDoubleCounting(getYearData(year));
+    yearData = cleanedYearData.filter((item) => !item.activity);
+  } else if (year < 2023) {
+    yearData = getYearData(year).filter((item) => !item.activity);
+  } else {
+    yearData = getYearData(year);
+  }
+
+  const results = getGeneralData(yearData, year)
+
+  res.status(200).json(results);
+});
+
+// get data for a year/month
+app.get("/v4/dashboard/:year/:month", (req, res) => {
+  const { year, month } = req.params;
+
+  let yearData = []
+  if (year === "2020" || year === "2021") {
+    const cleanedYearData = cleanWashDoubleCounting(getYearData(year));
+    yearData = cleanedYearData.filter((item) => !item.activity);
+  } else if (year < 2023) {
+    yearData = getYearData(year).filter((item) => !item.activity);
+  } else {
+    yearData = getYearData(year);
+  }
+
+  const results = getGeneralData(yearData, year, month)
+
+  res.status(200).json(results);
+});
+
+// get project data for a year
+app.get("/v4/projects-data/:year", (req, res) => {
+  const { year } = req.params;
+
+  let yearData = []
+  if (year === "2020" || year === "2021") {
+    const cleanedYearData = cleanWashDoubleCounting(getYearData(year));
+    yearData = cleanedYearData.filter((item) => !item.activity);
+  } else if (year < 2023) {
+    yearData = getYearData(year).filter((item) => !item.activity);
+  } else {
+    yearData = getYearData(year);
+  }
+
+  const projectsData = getProjectsData(yearData, year);
+
+  res.status(200).json(projectsData);
+});
+
+// get project data for a year/month
+app.get("/v4/projects-data/:year/:month", (req, res) => {
+  const { year } = req.params;
+  const { month } = req.params;
+
+  let yearData = []
+  if (year === "2020" || year === "2021") {
+    const cleanedYearData = cleanWashDoubleCounting(getYearData(year));
+    yearData = cleanedYearData.filter((item) => !item.activity);
+  } else if (year < 2023) {
+    yearData = getYearData(year).filter((item) => !item.activity);
+  } else {
+    yearData = getYearData(year);
+  }
+
+
+  const projectsData = getProjectsData(yearData, year, month);
+
+  res.status(200).json(projectsData);
+});
+
+// get project component data for a year
+app.get("/v4/projects-components/:year", (req, res) => {
+  const { year } = req.params;
+
+  let yearData = []
+  if (year === "2020" || year === "2021") {
+    const cleanedYearData = cleanWashDoubleCounting(getYearData(year));
+    yearData = cleanedYearData.filter((item) => !item.activity);
+  } else if (year < 2023) {
+    yearData = getYearData(year).filter((item) => !item.activity);
+  } else {
+    yearData = getYearData(year);
+  }
+
+  const componentsData = getProjectComponentsData(yearData, year);
+
+  res.status(200).json(componentsData);
+});
+
+// get project component data for a year/month
+app.get("/v4/projects-components/:year/:month", (req, res) => {
+  const { year } = req.params;
+  const { month } = req.params;
+
+  let yearData = []
+  if (year === "2020" || year === "2021") {
+    const cleanedYearData = cleanWashDoubleCounting(getYearData(year));
+    yearData = cleanedYearData.filter((item) => !item.activity);
+  } else if (year < 2023) {
+    yearData = getYearData(year).filter((item) => !item.activity);
+  } else {
+    yearData = getYearData(year);
+  }
+
+
+  const componentsData = getProjectComponentsData(yearData, year, month);
+
+  res.status(200).json(componentsData);
 });
 
 // Start the server
