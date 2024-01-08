@@ -132,11 +132,15 @@ function getDist(data, cluster) {
 
   const rest = (prop, item) => {
 
-    const locations = item.map((ad) => { return { loc: ad.location, male: ad.male, female: ad.female, total: ad.total } })
-    const uniqueLocations = groupElementsByFunc(locations, "loc", defaultGrouping)
+    const uniqueLocations = groupElementsByFunc(item, "location", defaultGrouping)
+    const uniqueTypes = groupElementsByFunc(item, "typeOfBeneficiaries", defaultGrouping)
 
     return {
       name: item[0][prop],
+      idps: uniqueTypes.filter((item) => item.name === "IDPs").map(item => item.total).sum(),
+      refugees: uniqueTypes.filter((item) => item.name === "Refugee").map(item => item.total).sum(),
+      returnees: uniqueTypes.filter((item) => item.name === "Returnees").map(item => item.total).sum(),
+      host: uniqueTypes.filter((item) => item.name === "Host community").map(item => item.total).sum(),
       camp: uniqueLocations.filter((item) => item.name === "Camp").map(item => item.total).sum(),
       urban: uniqueLocations.filter((item) => item.name === "NonCamp").map(item => item.total).sum(),
       male: uniqueLocations.map(item => item.male).sum(),

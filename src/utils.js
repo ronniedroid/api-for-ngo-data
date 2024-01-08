@@ -18,8 +18,8 @@ export function sortDistricts(a, b) {
     return arrayFromGroupings.map((item) => rest(prop, item));
   }
 
-  export function defaultGrouping(prop, item) {
 
+  export function defaultGrouping(prop, item) {
       return {
         name: item[0][prop],
         male: item
