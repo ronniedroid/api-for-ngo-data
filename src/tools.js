@@ -307,12 +307,19 @@ function getGeneralData(data, year, month) {
   const beneficiaries = filteredData.map((ad) => { return { bens: ad.typeOfBeneficiaries, male: ad.male, female: ad.female, total: ad.total } })
   const uniqueBeneficiaries = groupElementsByFunc(beneficiaries, "bens", defaultGrouping)
 
+  const maleData = getGen(filteredData, getMonths(year), "male", "")
+  const femaleData = getGen(filteredData, getMonths(year), "female", "")
+
+  const maleQuarters = maleData.map(item => item.total).partition(3).map(item => item.sum())
+  const femaleQuarters = femaleData.map(item => item.total).partition(3).map(item => item.sum())
+
   return {
     year: year,
     month: month ? month : null,
     beneficiaries: uniqueBeneficiaries,
     districts: getDist(filteredData),
-    gender: month ? null : { male: getGen(filteredData, getMonths(year), "male", ""), female: getGen(filteredData, getMonths(year), "female", "") },
+    gender: month ? null : { male: maleData, female: femaleData },
+    genderQuarters: month ? null : {male: maleQuarters, female: femaleQuarters},
     male: filteredData
       .filter((ad) => ad.male)
       .map((ad) => ad.male)
