@@ -221,3 +221,5 @@ app.get("/v3/policies/", (req, res) => {
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`);
 });
+
+export default app;
