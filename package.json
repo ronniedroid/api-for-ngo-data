@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "nodemon src/index.js",
     "start": "node src/index.js",
-    "vercel-build": ""
+    "vercel-build": "echo app is running"
   },
   "author": "Ronnie Nissan",
   "license": "ISC",
