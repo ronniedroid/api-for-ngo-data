@@ -24,3 +24,19 @@ Array.prototype.sum = function () {
   Array.prototype.filterBy = function (control, compair) {
     return this.filter((item) => item[control] === compair);
   };
+
+  function toPartitions ( size ) {
+    var partition = [];
+    return function ( acc, v ) {
+        partition.push( v );
+        if ( partition.length === size ) {
+            acc.push( partition );
+            partition = [];
+        }
+        return acc;
+    };
+}
+
+Array.prototype.partition = function ( size ) {
+    return this.reduce( toPartitions( size ), [] );
+}
